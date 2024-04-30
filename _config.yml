@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "HE"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a Computational-Functional biologist working on genomics."
   location         : "USA"
   employer         : "UNMC"
   uri              : "https://www.unmc.edu/"
