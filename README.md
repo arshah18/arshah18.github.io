@@ -1,10 +1,3 @@
----
-title: About
-menu: "main"
-weight: 6
-hiddenFromSearch: true
-comments: false
----
 
 # About Me  
 
