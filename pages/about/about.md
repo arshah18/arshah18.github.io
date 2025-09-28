@@ -18,7 +18,7 @@ has_toc: false
 
   <div class="about-highlights">
     <div class="highlight-card">
-      <h3>🎓 Academic Credentials</h3>
+      <h3> Academic Credentials</h3>
       <ul>
         <li><strong>MS Bioinformatics</strong> - Advanced computational biology</li>
         <li><strong>PhD</strong> - Computational biology research</li>
@@ -27,7 +27,7 @@ has_toc: false
     </div>
 
     <div class="highlight-card">
-      <h3>💼 Professional Focus</h3>
+      <h3> Professional Focus</h3>
       <ul>
         <li><strong>Lead Health Data Coordinator II</strong> - UNMC Oncology</li>
         <li><strong>Clinical Genomics</strong> - Cancer surveillance & analytics</li>
@@ -36,7 +36,7 @@ has_toc: false
     </div>
 
     <div class="highlight-card">
-      <h3>🛠️ Technical Expertise</h3>
+      <h3> Technical Expertise</h3>
       <ul>
         <li><strong>Programming:</strong> Python, R, SQL, JavaScript</li>
         <li><strong>Bioinformatics:</strong> NGS, variant analysis, multi-omics</li>
