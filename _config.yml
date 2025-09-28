@@ -13,5 +13,4 @@ nav_external_links:
   - title: Email
     url: mailto:abrshah@unmc.edu
 
-# Optional favicon (drop a PNG at /assets/favicon.png and uncomment)
-# favicon_ico: "/assets/favicon.png"
+favicon_ico: "/assets/favicon.png"
