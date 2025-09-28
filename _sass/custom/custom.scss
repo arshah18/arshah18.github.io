@@ -1,0 +1,87 @@
+/* === Custom polish for Rauf Shah’s portfolio (just-the-docs) === */
+
+/* Hero: subtle academic gradient; keeps rest of site white */
+.hero {
+  margin: 0 0 1.5rem 0;
+  padding: 2.25rem 1.5rem;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f7faff 0%, #eef4ff 55%, #f8fbff 100%);
+  border: 1px solid #e7ecf7;
+  box-shadow: 0 6px 24px rgba(20, 40, 90, 0.08);
+}
+.hero h1 {
+  margin: 0 0 .25rem 0;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+.hero .subtitle {
+  margin: 0 0 .6rem 0;
+  font-size: 0.98rem;
+  color: #51618a;
+}
+.hero .lede {
+  margin: 0.25rem 0 1rem 0;
+  font-size: 1.02rem;
+  color: #2a3552;
+  max-width: 72ch;
+}
+
+/* Buttons (inline anchors styled as buttons) */
+.button {
+  display: inline-block;
+  padding: .55rem .9rem;
+  margin-right: .5rem;
+  border: 1px solid #d7def0;
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none !important;
+  color: #243258 !important;
+  background: #ffffff;
+  transition: box-shadow .15s ease, transform .05s ease, background .15s ease;
+}
+.button:hover { box-shadow: 0 4px 14px rgba(33, 71, 160, 0.12); background: #f9fbff; }
+.button:active { transform: translateY(1px); }
+.button.primary {
+  background: #2457ff;
+  border-color: #2457ff;
+  color: #fff !important;
+}
+.button.primary:hover { box-shadow: 0 6px 16px rgba(36, 87, 255, 0.25); }
+
+/* Section caption */
+.section-caption {
+  color: #51618a;
+  font-size: 0.95rem;
+  margin-top: .25rem;
+}
+
+/* Feature cards grid */
+.feature-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  margin: .75rem 0 1.5rem 0;
+}
+@media (min-width: 820px) {
+  .feature-grid { grid-template-columns: repeat(3, 1fr); }
+}
+.feature-card {
+  border: 1px solid #e7ecf7;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(12, 24, 60, 0.05);
+}
+.feature-card h3 {
+  margin-top: 0;
+  font-weight: 750;
+}
+.feature-card ul {
+  margin: .25rem 0 0 1.1rem;
+}
+.feature-card li {
+  margin: .2rem 0;
+}
+
+/* Minor tweaks for consistency */
+.site-title { font-weight: 800; }
