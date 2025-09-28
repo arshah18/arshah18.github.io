@@ -7,7 +7,7 @@ nav_order: 2
 
 # Experience
 
-- [**Download full C.V. (PDF)** — ](/assets/rauf-shah-cv.pdf)
+- [**Download full C.V. (PDF)**](/assets/rauf-shah-cv.pdf)
 
 ## Professional Summary
 - **Lead Health Data Coordinator II** — UNMC, Hematology & Oncology (2024–present)  
