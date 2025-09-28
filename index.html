@@ -5,28 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Rauf Shah, MS, PhD — Digital Portfolio</title>
   <meta name="description" content="Digital portfolio of Rauf Shah, MS, PhD — Lead Health Data Coordinator II; Bioinformatics; MPH‑EPI student." />
-  <!--
-    HOW TO USE THIS FILE (5‑minute setup):
-    1) Create a GitHub account (if you don't have one) and a new public repo named: <your-username>.github.io
-    2) Upload this file as index.html at the root of that repo.
-    3) Visit https://<your-username>.github.io — that URL is your free, shareable site.
-
-    Customize the placeholders below (name, bio, links, publications, projects, etc.).
-    Keep everything in this single file, or split into more files later.
-  -->
   <style>
-    /* Minimal, accessible styling (no external dependencies) */
     :root{
-      --bg:#0b1020;          /* deep navy */
-      --panel:#121830;       /* card background */
-      --ink:#e6ecff;         /* main text */
-      --muted:#9fb1ff;       /* secondary text */
-      --accent:#6da3ff;      /* links & accents */
-      --accent-2:#9ef0ff;    /* subtle highlight */
-      --border:#243054;
-      --radius:18px;
-      --shadow:0 10px 30px rgba(0,0,0,.35);
-      --maxw:1100px;
+      --bg:#0b1020; --panel:#121830; --ink:#e6ecff; --muted:#9fb1ff; --accent:#6da3ff; --accent-2:#9ef0ff; --border:#243054; --radius:18px; --shadow:0 10px 30px rgba(0,0,0,.35); --maxw:1200px
     }
     *{box-sizing:border-box}
     html,body{margin:0;padding:0;background:linear-gradient(180deg,#0a0f1e 0%, #0b1020 100%);color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"}
@@ -36,9 +17,10 @@
     header{display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:24px}
     .brand{display:flex;gap:14px;align-items:center}
     .avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid var(--border)}
-    .title{font-weight:700;font-size:1.1rem}
-    nav{display:flex;gap:14px;flex-wrap:wrap}
+    .title{font-weight:800;font-size:1.15rem}
+    nav{display:flex;gap:10px;flex-wrap:wrap}
     nav a{padding:8px 12px;border:1px solid var(--border);border-radius:999px;background:rgba(255,255,255,.03)}
+    .theme{padding:6px 10px;border:1px solid var(--border);border-radius:10px;background:rgba(255,255,255,.04);cursor:pointer}
     main{display:grid;gap:22px}
     section{background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,.01));border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow)}
     .section-body{padding:22px}
@@ -47,39 +29,52 @@
     h2{font-size:1.35rem}
     .muted{color:var(--muted)}
     .grid{display:grid;gap:16px}
-    @media(min-width:900px){.grid-2{grid-template-columns:1.2fr .8fr}}
+    @media(min-width:980px){.grid-2{grid-template-columns:1.2fr .8fr}}
     .tag{display:inline-block;padding:4px 8px;border:1px solid var(--border);border-radius:999px;margin-right:8px;font-size:.85rem;color:var(--muted)}
     .list{display:grid;gap:14px;margin:0;padding:0;list-style:none}
     .card{padding:16px;border:1px solid var(--border);border-radius:14px;background:rgba(0,0,0,.15)}
     .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
     .btn{display:inline-block;padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:rgba(255,255,255,.04)}
     .btn:hover{background:rgba(255,255,255,.07)}
-    footer{opacity:.9}
     .kpi{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
     .kpi div{padding:14px;border:1px solid var(--border);border-radius:14px;text-align:center;background:rgba(0,0,0,.12)}
     .kpi .num{font-weight:800;font-size:1.25rem}
     .pill{background:rgba(157,230,255,.12);border:1px solid #2b3a66;padding:6px 10px;border-radius:999px}
     .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}
+    .two-col{display:grid;gap:18px}
+    @media(min-width:980px){.two-col{grid-template-columns:300px 1fr}}
+    .timeline{position:relative;border-left:2px solid var(--border);padding-left:16px}
+    .timeline .item{margin:0 0 18px}
+    .timeline .when{font-weight:700}
+    .pub-tools{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+    input[type="search"],select{padding:8px 10px;border-radius:10px;border:1px solid var(--border);background:rgba(255,255,255,.04);color:var(--ink)}
+    .chip{display:inline-block;padding:4px 8px;border-radius:999px;border:1px solid var(--border);margin-right:6px}
+    footer{opacity:.9}
+    /* Light mode */
+    .light{--bg:#f6f8ff; --panel:#ffffff; --ink:#0c1029; --muted:#4a5b8a; --accent:#1454ff; --accent-2:#008cdd; --border:#e6e9f6; background:#f6f8ff}
+    .light body{background:#f6f8ff;color:#0c1029}
+    .light section{background:#ffffff;border-color:#e6e9f6}
   </style>
 </head>
 <body>
   <div class="wrap">
     <header>
       <div class="brand">
-        <!-- Replace src with your headshot link or remove the <img> -->
         <img class="avatar" src="assets/headshot.jpg" alt="Headshot of Rauf Shah" />
         <div>
           <div class="title">Rauf Shah, MS, PhD</div>
           <div class="muted">Lead Health Data Coordinator II • Bioinformatics • Oncology • MPH‑EPI Student</div>
+          <div class="muted mono">Omaha, Nebraska · <a href="mailto:abrshah@unmc.edu">abrshah@unmc.edu</a> · <a href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en">Scholar</a> · <a href="https://github.com/arshah18">GitHub</a></div>
         </div>
       </div>
       <nav>
         <a href="#about">About</a>
-        <a href="#cv">CV</a>
-        <a href="#publications">Publications</a>
+        <a href="#experience">Experience</a>
         <a href="#projects">Projects</a>
+        <a href="#publications">Publications</a>
         <a href="#teaching">Teaching</a>
         <a href="#contact">Contact</a>
+        <button id="themeBtn" class="theme" aria-label="Toggle theme">Toggle theme</button>
       </nav>
     </header>
 
@@ -88,7 +83,7 @@
       <section id="home">
         <div class="section-body">
           <h1>Oncology Data, Bioinformatics, and Outcomes</h1>
-          <p class="muted">I build secure, reproducible pipelines and dashboards that connect clinical oncology workflows with multi‑omics data. My current work focuses on lymphoma registries, FHIR‑based data exchange, and population‑level analyses that inform practice and policy.</p>
+          <p class="muted">I build secure, reproducible pipelines and dashboards that connect clinical oncology workflows with multi‑omics data. Focus areas: lymphoma registries, FHIR‑based data exchange, liquid biopsy (ctDNA), and population‑level analytics.</p>
           <div class="row" style="margin-top:12px">
             <a class="btn" href="#projects">See Projects</a>
             <a class="btn" href="#publications">Recent Publications</a>
@@ -101,12 +96,7 @@
       <section>
         <div class="section-body">
           <h2>At a glance</h2>
-          <div class="kpi" style="margin-top:10px">
-            <div><div class="num">10+ yrs</div><div class="muted">Bioinformatics</div></div>
-            <div><div class="num">3+ yrs</div><div class="muted">Oncology data ops</div></div>
-            <div><div class="num">50–60</div><div class="muted">PTCL cohort</div></div>
-            <div><div class="num">HAPI FHIR</div><div class="muted">$import pipelines</div></div>
-          </div>
+          <div class="kpi" style="margin-top:10px" id="kpi"></div>
         </div>
       </section>
 
@@ -114,37 +104,25 @@
       <section id="about">
         <div class="section-body">
           <h2>About</h2>
-          <p>I'm a health data professional working at the intersection of <strong>oncology</strong>, <strong>bioinformatics</strong>, and <strong>public health</strong>. I currently lead data coordination for lymphoma research, integrate FHIR‑based pipelines, and develop dashboards that translate complex datasets into clear insights for clinicians and researchers.</p>
-          <p class="muted">Interests: ctDNA assays • copy‑number analysis • federated learning • data governance • reproducible research</p>
-          <div>
-            <span class="tag">Python</span><span class="tag">R</span><span class="tag">Docker</span><span class="tag">Keycloak</span><span class="tag">HAPI FHIR</span><span class="tag">SQL</span>
+          <div class="two-col">
+            <div>
+              <img src="assets/headshot.jpg" alt="Rauf Shah portrait" style="width:100%;border-radius:14px;border:1px solid var(--border);object-fit:cover;aspect-ratio:1/1;" />
+              <div style="margin-top:10px"><a class="btn" href="assets/rauf-shah-cv.pdf">Download CV</a></div>
+            </div>
+            <div>
+              <p>Health data professional working at the intersection of <strong>oncology</strong>, <strong>bioinformatics</strong>, and <strong>public health</strong>. I lead data coordination for lymphoma research, integrate FHIR‑based pipelines, and develop dashboards translating complex datasets into clinical insights.</p>
+              <div style="margin:10px 0"><span class="tag">Python</span><span class="tag">R</span><span class="tag">Docker</span><span class="tag">Keycloak</span><span class="tag">HAPI FHIR</span><span class="tag">SQL</span></div>
+              <div id="highlights" class="list"></div>
+            </div>
           </div>
         </div>
       </section>
 
-      <!-- CV -->
-      <section id="cv">
+      <!-- EXPERIENCE -->
+      <section id="experience">
         <div class="section-body">
-          <h2>CV</h2>
-          <p>Download a recent CV: <a href="assets/rauf-shah-cv.pdf">CV.pdf</a></p>
-          <ul class="list">
-            <li class="card"><strong>Lead Health Data Coordinator II</strong> — UNMC, Hematology & Oncology (2024–present)<br><span class="muted">Clinical data architecture, registry builds, FHIR ingestion, analytics.</span></li>
-            <li class="card"><strong>Computational Biologist</strong> — Cancer Genomics & Immunology (pre‑2024)<br><span class="muted">ChIP‑Seq, WES, LP‑WGS, ctDNA pipelines, multi‑omics integration.</span></li>
-            <li class="card"><strong>Education</strong> — PhD (Bioinformatics), MPH (Epidemiology, in progress)</li>
-          </ul>
-        </div>
-      </section>
-
-      <!-- PUBLICATIONS -->
-      <section id="publications">
-        <div class="section-body">
-          <h2>Selected Publications</h2>
-          <ul class="list">
-            <li class="card"><strong>Title of Paper</strong> — <em>Journal</em>, 2025. <a href="#">DOI</a> · <a href="#">PDF</a></li>
-            <li class="card"><strong>Another Work</strong> — <em>Conference</em>, 2024. <a href="#">Link</a></li>
-          </ul>
-          <p class="muted">Tip: you can export Google Scholar BibTeX and list highlights here.
-          </p>
+          <h2>Experience</h2>
+          <div class="timeline" id="timeline"></div>
         </div>
       </section>
 
@@ -152,25 +130,19 @@
       <section id="projects">
         <div class="section-body">
           <h2>Projects</h2>
-          <ul class="list">
-            <li class="card">
-              <strong>CanLymphHub / NLSG‑root</strong><br>
-              <span class="muted">A secure, modular platform for lymphoma registries and analytics.</span>
-              <div class="row" style="margin-top:8px">
-                <a class="btn" href="#">Overview</a>
-                <a class="btn" href="#">Demo</a>
-                <span class="pill mono">Docker • FastAPI • Next.js • FHIR</span>
-              </div>
-            </li>
-            <li class="card">
-              <strong>HAPI FHIR $import Pipeline</strong><br>
-              <span class="muted">Bulk seed and day‑to‑day CRUD ingestion with deduplicated Practitioners (NPI‑keyed).</span>
-              <div class="row" style="margin-top:8px">
-                <a class="btn" href="#">Runbook</a>
-                <span class="pill mono">NDJSON • STORAGE_ONLY • poll script</span>
-              </div>
-            </li>
-          </ul>
+          <ul class="list" id="projectsList"></ul>
+        </div>
+      </section>
+
+      <!-- PUBLICATIONS -->
+      <section id="publications">
+        <div class="section-body">
+          <h2>Selected Publications</h2>
+          <div class="pub-tools">
+            <input id="pubSearch" type="search" placeholder="Search title/venue/year…" aria-label="Search publications" />
+            <select id="pubYear"><option value="">Year (all)</option></select>
+          </div>
+          <ul class="list" id="pubList"></ul>
         </div>
       </section>
 
@@ -178,11 +150,7 @@
       <section id="teaching">
         <div class="section-body">
           <h2>Teaching & Mentorship</h2>
-          <p>Focus areas: adult learning, case‑based epidemiology, and hands‑on analytics for oncology teams.</p>
-          <ul class="list">
-            <li class="card"><strong>Workshop:</strong> Reproducible pipelines for clinical genomics (Docker + Snakemake).</li>
-            <li class="card"><strong>Seminar:</strong> FHIR for researchers — from schemas to dashboards.</li>
-          </ul>
+          <ul class="list" id="teachList"></ul>
         </div>
       </section>
 
@@ -190,17 +158,151 @@
       <section id="contact">
         <div class="section-body">
           <h2>Contact</h2>
-          <p>Email: <a href="mailto:your.email@unmc.edu">your.email@unmc.edu</a> · LinkedIn: <a href="#">link</a> · Google Scholar: <a href="#">profile</a></p>
-          <p class="muted">Optionally add a contact form via third‑party services (e.g., Formspree).</p>
+          <p>Email: <a href="mailto:abrshah@unmc.edu">abrshah@unmc.edu</a> · LinkedIn: <a href="#" id="lnkLinkedIn">LinkedIn</a> · Google Scholar: <a href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en">profile</a></p>
+          <p class="muted">Tip: you can add a contact form later with Formspree.</p>
         </div>
       </section>
 
-      <!-- FOOTER -->
       <footer class="muted" style="margin: 8px 2px 32px">
-        © <span id="year"></span> Rauf Shah · Built with plain HTML/CSS · Hosted on GitHub Pages
+        © <span id="year"></span> Rauf Shah · Built with plain HTML/CSS/JS · Hosted on GitHub Pages
       </footer>
     </main>
   </div>
-  <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+
+  <script>
+    // ====== DATA (edit these values only) ======
+    const SITE_DATA = {
+      person: {
+        name: "Rauf Shah, MS, PhD",
+        email: "abrshah@unmc.edu",
+        github: "https://github.com/arshah18",
+        scholar: "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en",
+        linkedin: "",
+        titleLine: "Lead Health Data Coordinator II • Bioinformatics • Oncology • MPH‑EPI Student",
+        location: "Omaha, Nebraska, USA",
+        headshot: "assets/headshot.jpg",
+        cv: "assets/rauf-shah-cv.pdf"
+      },
+      kpis: [
+        {num:"10+ yrs", label:"Bioinformatics"},
+        {num:"3+ yrs", label:"Oncology data ops"},
+        {num:"50–60", label:"PTCL cohort"},
+        {num:"HAPI FHIR", label:"$import pipelines"}
+      ],
+      highlights: [
+        {text: "Built a cloud platform integrating >20,000 patient records, biopsy images, and sequencing files enabling real‑time analytics.", note:"Cloud registry & analytics"},
+        {text: "Reduced data‑access delays by ~70% through unified clinico‑genomic pipelines and dashboards.", note:"Ops impact"},
+        {text: "Live dashboards tracking outcomes & molecular profiles for >5,000 lymphoma patients.", note:"Clinical impact"},
+        {text: "Liquid biopsy assay design for PTCL; ctDNA copy‑number‑anchored targeted panel.", note:"Assay development"}
+      ],
+      experience: [
+        {when:"Dec 2024 – Present", role:"Lead Health Data Coordinator II", org:"UNMC, Internal Medicine — Lymphoma Study Group", bullets:["Multicenter lymphoma studies (>20k patients).","AWS architecture reducing data latency ~40%.","ML‑powered dashboards integrating EHR, pathology, registries."]},
+        {when:"Nov 2022 – Dec 2024", role:"Computational Biologist", org:"UNMC, Pathology & Microbiology", bullets:["Digitalization of clinical, molecular, digital pathology & cancer genomic data (AWS).","Developer/admin of clinico‑genomic & pathology portals (hemepath.unmc.edu, pathology.unmc.edu/apps/table.html).","ctDNA pre‑analytics SOP; targeted NGS panel (PTCL) & ddPCR validation."]},
+        {when:"Nov 2017 – Nov 2021", role:"Postdoctoral Research Associate", org:"University of Nebraska–Lincoln", bullets:["Agent‑based & metabolic models (CD4+ T cells, tissues, microbiomes).","Consortium grant contributions (US DOE)."]}
+      ],
+      projects: [
+        {title:"CanLymphHub / NLSG‑root", desc:"Secure, modular platform for lymphoma registries & analytics.", tags:["Docker","FastAPI","Next.js","FHIR"], links:[{label:"Overview", href:"#"}]},
+        {title:"HAPI FHIR $import Pipeline", desc:"Bulk seed & day‑to‑day ingestion with deduplicated Practitioners (NPI).", tags:["NDJSON","STORAGE_ONLY","poll script"], links:[{label:"Runbook", href:"#"}]},
+        {title:"Clinico‑genomic & Digital Pathology Portals", desc:"Deployed on AWS with auth; interactive variant & image exploration.", tags:["AWS","cBioPortal","Imaging"], links:[{label:"hemepath.unmc.edu", href:"https://hemepath.unmc.edu"},{label:"pathology.unmc.edu", href:"https://pathology.unmc.edu/apps/table.html"}]}
+      ],
+      publications: [
+        {title:"Integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic T‑cell lymphoma", venue:"American Journal of Hematology", year:2025, url:"", pdf:""},
+        {title:"Comprehensive Characterization of Nodal Peripheral T‑Cell Lymphoma, Not Otherwise Specified", venue:"American Journal of Clinical Pathology", year:2025, url:"", pdf:""},
+        {title:"High‑grade B‑cell lymphoma not otherwise specified, with DLBCL gene expression signatures", venue:"American Journal of Hematology", year:2025, url:"", pdf:""},
+        {title:"Systems biology identifies drug targets in CD4⁺ T‑cell immune disorders", venue:"npj Systems Biology and Applications", year:2021, url:"", pdf:""},
+        {title:"Genome‑scale metabolic reconstruction of marine microalga N. gaditana", venue:"Algal Research", year:2017, url:"", pdf:""}
+      ],
+      teaching:[
+        {what:"Instructor", detail:"BIOC 435: Dynamics of Biochemical and Biological Networks (2019–2020)"},
+        {what:"Workshops", detail:"Reproducible pipelines for clinical genomics (Docker + Snakemake)"},
+        {what:"Seminars", detail:"FHIR for researchers — from schemas to dashboards"}
+      ]
+    };
+
+    // ====== RENDERERS ======
+    function el(html){const t=document.createElement('template'); t.innerHTML=html.trim(); return t.content.firstChild}
+
+    function renderKPIs(){
+      const box=document.getElementById('kpi');
+      SITE_DATA.kpis.forEach(k=>{
+        box.appendChild(el(`<div><div class="num">${k.num}</div><div class="muted">${k.label}</div></div>`))
+      })
+    }
+
+    function renderHighlights(){
+      const list=document.getElementById('highlights');
+      SITE_DATA.highlights.forEach(h=>{
+        list.appendChild(el(`<div class="card"><strong>${h.note}:</strong> ${h.text}</div>`))
+      })
+    }
+
+    function renderTimeline(){
+      const t=document.getElementById('timeline');
+      SITE_DATA.experience.forEach(x=>{
+        const b = el(`<div class="item"><div class="when">${x.when}</div><div><strong>${x.role}</strong> — ${x.org}</div><ul style="margin:8px 0 0 18px"></ul></div>`)
+        const ul=b.querySelector('ul');
+        x.bullets.forEach(s=>ul.appendChild(el(`<li>${s}</li>`)))
+        t.appendChild(b)
+      })
+    }
+
+    function renderProjects(){
+      const ul=document.getElementById('projectsList');
+      SITE_DATA.projects.forEach(p=>{
+        const links = p.links.map(l=>`<a class="btn" href="${l.href}" target="_blank" rel="noopener">${l.label}</a>`).join(' ')
+        const tags = p.tags.map(t=>`<span class="pill mono">${t}</span>`).join(' ')
+        ul.appendChild(el(`<li class="card"><strong>${p.title}</strong><br><span class="muted">${p.desc}</span><div class="row" style="margin-top:8px">${links} ${tags}</div></li>`))
+      })
+    }
+
+    function renderPublications(){
+      const ul=document.getElementById('pubList');
+      const yearSel=document.getElementById('pubYear');
+      const years=[...new Set(SITE_DATA.publications.map(p=>p.year))].sort((a,b)=>b-a);
+      years.forEach(y=>yearSel.appendChild(el(`<option value="${y}">${y}</option>`)))
+
+      function draw(){
+        ul.innerHTML='';
+        const q=document.getElementById('pubSearch').value.toLowerCase();
+        const y=yearSel.value;
+        SITE_DATA.publications
+          .filter(p=>!y || String(p.year)===y)
+          .filter(p=>!q || (p.title+" "+p.venue+" "+p.year).toLowerCase().includes(q))
+          .forEach(p=>{
+            const links=[p.url?`<a href="${p.url}" target="_blank" rel="noopener">Link</a>`:'' , p.pdf?`<a href="${p.pdf}" target="_blank" rel="noopener">PDF</a>`:''].filter(Boolean).join(' · ')
+            ul.appendChild(el(`<li class="card"><strong>${p.title}</strong> — <em>${p.venue}</em>, ${p.year}. ${links}</li>`))
+          })
+      }
+      document.getElementById('pubSearch').addEventListener('input',draw)
+      yearSel.addEventListener('change',draw)
+      draw()
+    }
+
+    function renderTeaching(){
+      const ul=document.getElementById('teachList');
+      SITE_DATA.teaching.forEach(t=>ul.appendChild(el(`<li class="card"><strong>${t.what}:</strong> ${t.detail}</li>`)))
+    }
+
+    // Theme toggle
+    const themeBtn=document.getElementById('themeBtn');
+    function loadTheme(){
+      const m=localStorage.getItem('theme')||'dark';
+      document.documentElement.classList.toggle('light', m==='light')
+    }
+    themeBtn.addEventListener('click',()=>{
+      const isLight=document.documentElement.classList.toggle('light');
+      localStorage.setItem('theme', isLight?'light':'dark');
+    })
+
+    // Run all renders
+    document.getElementById('year').textContent = new Date().getFullYear();
+    loadTheme();
+    renderKPIs();
+    renderHighlights();
+    renderTimeline();
+    renderProjects();
+    renderPublications();
+    renderTeaching();
+  </script>
 </body>
 </html>
