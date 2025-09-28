@@ -1,18 +1,5 @@
-/* ===== Public Health Focus Styles ===== */
-.section-intro {
-  margin-bottom: 3rem;
-  text-align: center;
-}
-
-.section-intro .lead {
-  font-size: 1.2rem;
-  line-height: 1.7;
-  color: #2d3748;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.focus-areas-overview {
+/* ===== Academic Portfolio Styles ===== */
+.portfolio-areas {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
@@ -20,18 +7,18 @@
 }
 
 @media (min-width: 768px) {
-  .focus-areas-overview {
+  .portfolio-areas {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 1024px) {
-  .focus-areas-overview {
+  .portfolio-areas {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 
-.focus-card {
+.portfolio-card {
   background: white;
   border: 1px solid #e2e8f0;
   border-radius: 12px;
@@ -43,7 +30,7 @@
   overflow: hidden;
 }
 
-.focus-card::before {
+.portfolio-card::before {
   content: '';
   position: absolute;
   top: 0;
@@ -53,31 +40,31 @@
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
-.focus-card:hover {
+.portfolio-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
-.focus-card h3 {
+.portfolio-card h3 {
   font-size: 1.2rem;
   font-weight: 600;
   color: #1a365d;
   margin: 0 0 1rem 0;
 }
 
-.focus-card p {
+.portfolio-card p {
   color: #4a5568;
   line-height: 1.5;
   margin: 0 0 1.5rem 0;
   font-size: 0.9rem;
 }
 
-/* ===== Integrated Approach ===== */
-.integrated-approach {
+/* ===== Impact Metrics ===== */
+.impact-metrics {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
-  margin: 4rem 0;
+  margin: 3rem 0;
   padding: 2.5rem;
   background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
   border: 1px solid #e2e8f0;
@@ -85,96 +72,31 @@
 }
 
 @media (min-width: 768px) {
-  .integrated-approach {
-    grid-template-columns: repeat(3, 1fr);
+  .impact-metrics {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
-.approach-item {
+.metric {
   text-align: center;
 }
 
-.approach-item h4 {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #1a365d;
-  margin: 0 0 1rem 0;
+.metric h4 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #667eea;
+  margin: 0 0 0.5rem 0;
 }
 
-.approach-item p {
+.metric p {
   color: #4a5568;
-  line-height: 1.6;
   margin: 0;
   font-size: 0.9rem;
+  font-weight: 500;
 }
 
-/* ===== Child Page Enhancements ===== */
-.public-health-content h2 {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: #1a365d;
-  margin: 2rem 0 1rem 0;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #e2e8f0;
-}
-
-.public-health-content h3 {
-  font-size: 1.3rem;
-  font-weight: 600;
-  color: #2d3748;
-  margin: 1.5rem 0 0.75rem 0;
-}
-
-.public-health-content ul {
-  margin: 1rem 0;
-  padding-left: 1.5rem;
-}
-
-.public-health-content li {
-  margin: 0.75rem 0;
-  line-height: 1.6;
-  color: #4a5568;
-}
-
-.public-health-content strong {
-  color: #1a365d;
-}
-
-/* ===== Competency Styles ===== */
-.competency-section {
-  margin: 2rem 0;
-}
-
-.competency-section h3 {
-  font-size: 1.3rem;
-  font-weight: 600;
-  color: #1a365d;
-  margin: 0 0 1rem 0;
-  padding-left: 1rem;
-  border-left: 4px solid #667eea;
-}
-
-.competency-list {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin: 1rem 0;
-}
-
-.competency-list ul {
-  margin: 0;
-  padding-left: 1.25rem;
-}
-
-.competency-list li {
-  margin: 0.5rem 0;
-  color: #4a5568;
-  line-height: 1.5;
-}
-
-/* ===== Translation Framework Styles ===== */
-.framework-section {
+/* ===== Teaching & Leadership Styles ===== */
+.teaching-approach, .leadership-approach {
   background: white;
   border: 1px solid #e2e8f0;
   border-radius: 12px;
@@ -183,16 +105,97 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
-.framework-section h3 {
+.teaching-approach h2, .leadership-approach h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1a365d;
+  margin: 0 0 1rem 0;
+}
+
+.teaching-approach p, .leadership-approach p {
+  color: #4a5568;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.prospective-courses {
+  margin: 2rem 0;
+}
+
+.prospective-courses h3 {
   font-size: 1.3rem;
   font-weight: 600;
   color: #1a365d;
   margin: 0 0 1rem 0;
-  border-bottom: 2px solid #e2e8f0;
-  padding-bottom: 0.5rem;
 }
 
-.impact-pathway {
+.prospective-courses ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.prospective-courses li {
+  margin: 0.75rem 0;
+  color: #4a5568;
+  line-height: 1.5;
+}
+
+/* ===== Publications Styles ===== */
+.publications-list {
+  margin: 2rem 0;
+}
+
+.publication-year {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #1a365d;
+  margin: 2rem 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.publication-item {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #667eea;
+}
+
+.publication-title {
+  font-weight: 600;
+  color: #2d3748;
+  margin: 0 0 0.5rem 0;
+}
+
+.publication-journal {
+  font-style: italic;
+  color: #4a5568;
+}
+
+/* ===== Service Styles ===== */
+.service-category {
+  margin: 2rem 0;
+}
+
+.service-category h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #1a365d;
+  margin: 0 0 1rem 0;
+}
+
+.service-category ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.service-category li {
+  margin: 0.75rem 0;
+  color: #4a5568;
+  line-height: 1.5;
+}
+
+/* ===== Coursework Styles ===== */
+.course-categories {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1.5rem;
@@ -200,12 +203,12 @@
 }
 
 @media (min-width: 768px) {
-  .impact-pathway {
-    grid-template-columns: repeat(3, 1fr);
+  .course-categories {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-.pathway-card {
+.category-card {
   background: #f8fafc;
   border: 1px solid #e2e8f0;
   border-radius: 10px;
@@ -213,21 +216,102 @@
   border-left: 4px solid #667eea;
 }
 
-.pathway-card h4 {
+.category-card h3 {
   font-size: 1.1rem;
   font-weight: 600;
   color: #1a365d;
-  margin: 0 0 1rem 0;
+  margin: 0 0 0.75rem 0;
 }
 
-.pathway-card ul {
+.category-card p {
+  color: #4a5568;
   margin: 0;
-  padding-left: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
-.pathway-card li {
+.featured-course {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.featured-course h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: white;
+}
+
+.featured-course p {
+  margin: 0 0 1.5rem 0;
+  opacity: 0.9;
+}
+
+/* ===== CPH 705 Specific Styles ===== */
+.course-project {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.course-project h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #1a365d;
+  margin: 0 0 1.5rem 0;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.5rem;
+}
+
+.project-section {
+  margin: 1.5rem 0;
+}
+
+.project-section h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2d3748;
+  margin: 0 0 0.75rem 0;
+}
+
+.project-section ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.project-section li {
   margin: 0.5rem 0;
   color: #4a5568;
-  font-size: 0.9rem;
-  line-height: 1.4;
+  line-height: 1.5;
+}
+
+.learning-outcomes {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 768px) {
+  .learning-outcomes {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.outcome-item {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.outcome-item strong {
+  color: #1a365d;
 }
