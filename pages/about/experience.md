@@ -7,7 +7,7 @@ nav_order: 2
 
 # Experience
 
-- **Download full C.V. (PDF)** — [rauf-shah-cv.pdf](/assets/rauf-shah-cv.pdf)
+- [**Download full C.V. (PDF)** — ](/assets/rauf-shah-cv.pdf)
 
 ## Professional Summary
 - **Lead Health Data Coordinator II** — UNMC, Hematology & Oncology (2024–present)  
@@ -28,7 +28,7 @@ nav_order: 2
 
 ### Bioinformatics & Genomics
 - **NGS Analysis**: ChIP-Seq, WES, LP-WGS, ctDNA analysis
-- **Variant Analysis**: SNV/indel calling, CNAs (ichorCNA), structural variants
+- **Variant Analysis**: SNV/indel calling, CNAs, structural variants
 - **Multi-omics Integration**: Clinical-genomic data integration
 - **Bioconductor**: Genomic ranges, variant annotation
 
