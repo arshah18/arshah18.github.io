@@ -26,7 +26,7 @@
   max-width: 72ch;
 }
 
-/* Buttons (inline anchors styled as buttons) */
+/* Buttons (anchors styled as buttons) */
 .button {
   display: inline-block;
   padding: .55rem .9rem;
@@ -85,3 +85,17 @@
 
 /* Minor tweaks for consistency */
 .site-title { font-weight: 800; }
+
+/* ================================
+   OPTIONAL: site-wide subtle background
+   (uncomment to enable a faint pattern)
+   ================================ */
+/*
+body {
+  background:
+    radial-gradient(1200px 600px at 15% -10%, rgba(36, 87, 255, 0.06), transparent 70%),
+    radial-gradient(1200px 600px at 100% 0%, rgba(0, 102, 255, 0.04), transparent 70%),
+    linear-gradient(180deg, #ffffff 0%, #fbfcff 100%);
+  background-attachment: fixed;
+}
+*/
