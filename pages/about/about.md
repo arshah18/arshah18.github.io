@@ -12,7 +12,7 @@ has_toc: false
   <div class="about-overview">
     <p class="lead">
       Welcome to my professional background section. Here you'll find comprehensive information about my academic journey, 
-      professional experience, and the expertise I bring to the intersection of clinical genomics, bioinformatics, and public health.
+      professional experience, and the expertise I bring to the intersection of clinical genomics, bioinformatics, epidemiology and public health practices.
     </p>
   </div>
 
