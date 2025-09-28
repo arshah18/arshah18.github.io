@@ -5,19 +5,23 @@ nav_order: 7
 ---
 
 # Leadership, Teaching, and DEI
+
 ## Leadership
-- Lead cross-functional efforts to integrate registries, EHR, and genomic data with secure access.
+- Coordinate multi-stakeholder builds integrating registries, EHR, and genomics.  
+- Establish standards for data quality, versioning, and reproducibility.  
+- Translate findings into priorities for programs and clinical partners.
 
-## Teaching Philosophy (Hook & Conclusion)
-Early in my career, I guided oncology fellows through intimidating spreadsheets of survival/incidence data. When I reframed the lesson with a **patient story**, engagement transformed—questions flowed, and data gained human meaning.  
-**Commitment**: Make public health concepts come alive with real datasets, and foster an inclusive classroom where all students can succeed.
+## Teaching Philosophy
+Early in my career, I guided oncology fellows through a dense survival/incidence dataset. When I reframed the lesson around a **patient story**, engagement shifted immediately—questions surfaced, and the data gained clinical meaning.  
+**Commitment**: use real public-health datasets and clear visuals to make complex material accessible; create inclusive spaces where students feel safe to iterate and ask questions.
 
-## Prospective Courses (interests based on profile)
-- **Cancer Surveillance & Informatics** (graduate): registries, coding, analytics, dashboards.  
-- **Clinical Data Engineering with FHIR/HAPI**: schemas, $import, ETL, validation.  
-- **Reproducible Genomics & ctDNA Analytics**: pipelines (R/Python), CNAs, QC.  
-- **Disaster Epidemiology & Health Informatics**: surveillance signals, triage analytics, communication.
+## Prospective Courses
+- **Cancer Surveillance & Informatics (Graduate)** — registries, coding, analytic workflows, dashboards  
+- **Clinical Data Engineering with FHIR/HAPI** — schemas, `$import`, validation, ETL patterns  
+- **Reproducible Genomics & ctDNA Analytics** — copy number, QC, reporting pipelines  
+- **Disaster Epidemiology & Health Informatics** — syndromic signals, situational awareness, communication
 
 ## DEI Statement
-- Design inclusive materials with diverse cases and contexts.  
-- Use UDL principles; provide multiple ways to engage, practice, and demonstrate competency.
+- Design inclusive cases and examples reflecting diverse populations.  
+- Apply UDL principles; provide multiple ways to engage and demonstrate skills.  
+- Encourage constructive feedback, peer learning, and respectful discourse.
