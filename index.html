@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rauf Shah, MS, PhD — Digital Portfolio</title>
+  <meta name="description" content="Digital portfolio of Rauf Shah, MS, PhD — Lead Health Data Coordinator II; Bioinformatics; MPH‑EPI student." />
+  <!--
+    HOW TO USE THIS FILE (5‑minute setup):
+    1) Create a GitHub account (if you don't have one) and a new public repo named: <your-username>.github.io
+    2) Upload this file as index.html at the root of that repo.
+    3) Visit https://<your-username>.github.io — that URL is your free, shareable site.
+
+    Customize the placeholders below (name, bio, links, publications, projects, etc.).
+    Keep everything in this single file, or split into more files later.
+  -->
+  <style>
+    /* Minimal, accessible styling (no external dependencies) */
+    :root{
+      --bg:#0b1020;          /* deep navy */
+      --panel:#121830;       /* card background */
+      --ink:#e6ecff;         /* main text */
+      --muted:#9fb1ff;       /* secondary text */
+      --accent:#6da3ff;      /* links & accents */
+      --accent-2:#9ef0ff;    /* subtle highlight */
+      --border:#243054;
+      --radius:18px;
+      --shadow:0 10px 30px rgba(0,0,0,.35);
+      --maxw:1100px;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;background:linear-gradient(180deg,#0a0f1e 0%, #0b1020 100%);color:var(--ink);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:var(--maxw);margin:0 auto;padding:28px}
+    header{display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:24px}
+    .brand{display:flex;gap:14px;align-items:center}
+    .avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid var(--border)}
+    .title{font-weight:700;font-size:1.1rem}
+    nav{display:flex;gap:14px;flex-wrap:wrap}
+    nav a{padding:8px 12px;border:1px solid var(--border);border-radius:999px;background:rgba(255,255,255,.03)}
+    main{display:grid;gap:22px}
+    section{background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,.01));border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow)}
+    .section-body{padding:22px}
+    h1,h2{line-height:1.2;margin:0 0 8px}
+    h1{font-size:2rem}
+    h2{font-size:1.35rem}
+    .muted{color:var(--muted)}
+    .grid{display:grid;gap:16px}
+    @media(min-width:900px){.grid-2{grid-template-columns:1.2fr .8fr}}
+    .tag{display:inline-block;padding:4px 8px;border:1px solid var(--border);border-radius:999px;margin-right:8px;font-size:.85rem;color:var(--muted)}
+    .list{display:grid;gap:14px;margin:0;padding:0;list-style:none}
+    .card{padding:16px;border:1px solid var(--border);border-radius:14px;background:rgba(0,0,0,.15)}
+    .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .btn{display:inline-block;padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:rgba(255,255,255,.04)}
+    .btn:hover{background:rgba(255,255,255,.07)}
+    footer{opacity:.9}
+    .kpi{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+    .kpi div{padding:14px;border:1px solid var(--border);border-radius:14px;text-align:center;background:rgba(0,0,0,.12)}
+    .kpi .num{font-weight:800;font-size:1.25rem}
+    .pill{background:rgba(157,230,255,.12);border:1px solid #2b3a66;padding:6px 10px;border-radius:999px}
+    .mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <!-- Replace src with your headshot link or remove the <img> -->
+        <img class="avatar" src="assets/headshot.jpg" alt="Headshot of Rauf Shah" />
+        <div>
+          <div class="title">Rauf Shah, MS, PhD</div>
+          <div class="muted">Lead Health Data Coordinator II • Bioinformatics • Oncology • MPH‑EPI Student</div>
+        </div>
+      </div>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#cv">CV</a>
+        <a href="#publications">Publications</a>
+        <a href="#projects">Projects</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main class="grid grid-2 grid-gap">
+      <!-- HERO / INTRO -->
+      <section id="home">
+        <div class="section-body">
+          <h1>Oncology Data, Bioinformatics, and Outcomes</h1>
+          <p class="muted">I build secure, reproducible pipelines and dashboards that connect clinical oncology workflows with multi‑omics data. My current work focuses on lymphoma registries, FHIR‑based data exchange, and population‑level analyses that inform practice and policy.</p>
+          <div class="row" style="margin-top:12px">
+            <a class="btn" href="#projects">See Projects</a>
+            <a class="btn" href="#publications">Recent Publications</a>
+            <span class="pill">Open to collaborations</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- QUICK FACTS -->
+      <section>
+        <div class="section-body">
+          <h2>At a glance</h2>
+          <div class="kpi" style="margin-top:10px">
+            <div><div class="num">10+ yrs</div><div class="muted">Bioinformatics</div></div>
+            <div><div class="num">3+ yrs</div><div class="muted">Oncology data ops</div></div>
+            <div><div class="num">50–60</div><div class="muted">PTCL cohort</div></div>
+            <div><div class="num">HAPI FHIR</div><div class="muted">$import pipelines</div></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ABOUT -->
+      <section id="about">
+        <div class="section-body">
+          <h2>About</h2>
+          <p>I'm a health data professional working at the intersection of <strong>oncology</strong>, <strong>bioinformatics</strong>, and <strong>public health</strong>. I currently lead data coordination for lymphoma research, integrate FHIR‑based pipelines, and develop dashboards that translate complex datasets into clear insights for clinicians and researchers.</p>
+          <p class="muted">Interests: ctDNA assays • copy‑number analysis • federated learning • data governance • reproducible research</p>
+          <div>
+            <span class="tag">Python</span><span class="tag">R</span><span class="tag">Docker</span><span class="tag">Keycloak</span><span class="tag">HAPI FHIR</span><span class="tag">SQL</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- CV -->
+      <section id="cv">
+        <div class="section-body">
+          <h2>CV</h2>
+          <p>Download a recent CV: <a href="assets/rauf-shah-cv.pdf">CV.pdf</a></p>
+          <ul class="list">
+            <li class="card"><strong>Lead Health Data Coordinator II</strong> — UNMC, Hematology & Oncology (2024–present)<br><span class="muted">Clinical data architecture, registry builds, FHIR ingestion, analytics.</span></li>
+            <li class="card"><strong>Computational Biologist</strong> — Cancer Genomics & Immunology (pre‑2024)<br><span class="muted">ChIP‑Seq, WES, LP‑WGS, ctDNA pipelines, multi‑omics integration.</span></li>
+            <li class="card"><strong>Education</strong> — PhD (Bioinformatics), MPH (Epidemiology, in progress)</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- PUBLICATIONS -->
+      <section id="publications">
+        <div class="section-body">
+          <h2>Selected Publications</h2>
+          <ul class="list">
+            <li class="card"><strong>Title of Paper</strong> — <em>Journal</em>, 2025. <a href="#">DOI</a> · <a href="#">PDF</a></li>
+            <li class="card"><strong>Another Work</strong> — <em>Conference</em>, 2024. <a href="#">Link</a></li>
+          </ul>
+          <p class="muted">Tip: you can export Google Scholar BibTeX and list highlights here.
+          </p>
+        </div>
+      </section>
+
+      <!-- PROJECTS -->
+      <section id="projects">
+        <div class="section-body">
+          <h2>Projects</h2>
+          <ul class="list">
+            <li class="card">
+              <strong>CanLymphHub / NLSG‑root</strong><br>
+              <span class="muted">A secure, modular platform for lymphoma registries and analytics.</span>
+              <div class="row" style="margin-top:8px">
+                <a class="btn" href="#">Overview</a>
+                <a class="btn" href="#">Demo</a>
+                <span class="pill mono">Docker • FastAPI • Next.js • FHIR</span>
+              </div>
+            </li>
+            <li class="card">
+              <strong>HAPI FHIR $import Pipeline</strong><br>
+              <span class="muted">Bulk seed and day‑to‑day CRUD ingestion with deduplicated Practitioners (NPI‑keyed).</span>
+              <div class="row" style="margin-top:8px">
+                <a class="btn" href="#">Runbook</a>
+                <span class="pill mono">NDJSON • STORAGE_ONLY • poll script</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- TEACHING -->
+      <section id="teaching">
+        <div class="section-body">
+          <h2>Teaching & Mentorship</h2>
+          <p>Focus areas: adult learning, case‑based epidemiology, and hands‑on analytics for oncology teams.</p>
+          <ul class="list">
+            <li class="card"><strong>Workshop:</strong> Reproducible pipelines for clinical genomics (Docker + Snakemake).</li>
+            <li class="card"><strong>Seminar:</strong> FHIR for researchers — from schemas to dashboards.</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- CONTACT -->
+      <section id="contact">
+        <div class="section-body">
+          <h2>Contact</h2>
+          <p>Email: <a href="mailto:your.email@unmc.edu">your.email@unmc.edu</a> · LinkedIn: <a href="#">link</a> · Google Scholar: <a href="#">profile</a></p>
+          <p class="muted">Optionally add a contact form via third‑party services (e.g., Formspree).</p>
+        </div>
+      </section>
+
+      <!-- FOOTER -->
+      <footer class="muted" style="margin: 8px 2px 32px">
+        © <span id="year"></span> Rauf Shah · Built with plain HTML/CSS · Hosted on GitHub Pages
+      </footer>
+    </main>
+  </div>
+  <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+</body>
+</html>
