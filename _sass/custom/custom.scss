@@ -1,6 +1,24 @@
-/* === Custom polish for Rauf Shah’s portfolio (just-the-docs) === */
+/* === Custom polish for Rauf Shah’s portfolio (just-the-docs) ===
+   - Works with/without hero photo
+   - Subtle gradient hero
+   - Roomier feature cards (relaxed option)
+   - Minimal collaboration callout
+   - Optional site-wide background (commented)
+================================================================= */
 
-/* Hero: subtle academic gradient; keeps rest of site white */
+/* ------- Hero layout ------- */
+/* Use .hero-grid + .hero-photo-wrap if you want a photo in the hero;
+   if not, just use .hero alone and ignore the grid/photo classes. */
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+  align-items: stretch;
+  margin-bottom: 1.25rem;
+}
+@media (min-width: 900px) {
+  .hero-grid { grid-template-columns: 1.3fr .8fr; }
+}
 .hero {
   margin: 0 0 1.5rem 0;
   padding: 2.25rem 1.5rem;
@@ -24,9 +42,22 @@
   font-size: 1.02rem;
   color: #2a3552;
   max-width: 72ch;
+  line-height: 1.65;
 }
 
-/* Buttons (anchors styled as buttons) */
+/* Optional hero photo */
+.hero-photo-wrap { display: flex; justify-content: center; align-items: center; }
+.hero-photo {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 1px solid #e7ecf7;
+  box-shadow: 0 6px 24px rgba(20, 40, 90, 0.08);
+}
+
+/* ------- Buttons (anchors styled as buttons) ------- */
 .button {
   display: inline-block;
   padding: .55rem .9rem;
@@ -48,14 +79,14 @@
 }
 .button.primary:hover { box-shadow: 0 6px 16px rgba(36, 87, 255, 0.25); }
 
-/* Section caption */
+/* ------- Section caption ------- */
 .section-caption {
   color: #51618a;
   font-size: 0.95rem;
   margin-top: .25rem;
 }
 
-/* Feature cards grid */
+/* ------- Feature cards (with 'relaxed' gap variant) ------- */
 .feature-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -65,42 +96,20 @@
 @media (min-width: 820px) {
   .feature-grid { grid-template-columns: repeat(3, 1fr); }
 }
+.feature-grid.relaxed { gap: 22px; }
+
 .feature-card {
   border: 1px solid #e7ecf7;
   border-radius: 12px;
-  padding: 1rem;
+  padding: 1.25rem 1.25rem 1.1rem;
   background: #fff;
   box-shadow: 0 4px 16px rgba(12, 24, 60, 0.05);
 }
-.feature-card h3 {
-  margin-top: 0;
-  font-weight: 750;
-}
-.feature-card ul {
-  margin: .25rem 0 0 1.1rem;
-}
-.feature-card li {
-  margin: .2rem 0;
-}
+.feature-card h3 { margin-top: 0; font-weight: 750; }
+.feature-card ul { margin: .5rem 0 0 1.15rem; }
+.feature-card li { margin: .35rem 0; line-height: 1.7; }
 
-/* Minor tweaks for consistency */
-.site-title { font-weight: 800; }
-
-/* ================================
-   OPTIONAL: site-wide subtle background
-   (uncomment to enable a faint pattern)
-   ================================ */
-/*
-body {
-  background:
-    radial-gradient(1200px 600px at 15% -10%, rgba(36, 87, 255, 0.06), transparent 70%),
-    radial-gradient(1200px 600px at 100% 0%, rgba(0, 102, 255, 0.04), transparent 70%),
-    linear-gradient(180deg, #ffffff 0%, #fbfcff 100%);
-  background-attachment: fixed;
-}
-*/
-
-/* Collaboration callout */
+/* ------- Collaboration callout ------- */
 .cta-bar {
   display: grid;
   grid-template-columns: 1fr;
@@ -113,9 +122,22 @@ body {
   background: #ffffff;
   box-shadow: 0 3px 12px rgba(12, 24, 60, 0.05);
 }
-@media (min-width: 800px) {
-  .cta-bar {
-    grid-template-columns: 1fr auto;
-  }
+@media (min-width: 800px) { .cta-bar { grid-template-columns: 1fr auto; } }
+/* If you want *no* extra spacing on its button, also include: */
+.cta-bar.minimal .button { margin: 0; }
+
+/* ------- Minor typography tweak ------- */
+.site-title { font-weight: 800; }
+
+/* ================================
+   OPTIONAL: site-wide subtle background
+   (uncomment to enable a faint pattern)
+   ================================ */
+
+body {
+  background:
+    radial-gradient(1200px 600px at 15% -10%, rgba(36, 87, 255, 0.06), transparent 70%),
+    radial-gradient(1200px 600px at 100% 0%, rgba(0, 102, 255, 0.04), transparent 70%),
+    linear-gradient(180deg, #ffffff 0%, #fbfcff 100%);
+  background-attachment: fixed;
 }
-.cta-bar .button { margin-bottom: .2rem; }
