@@ -1,67 +1,58 @@
-/* === Custom polish for Rauf Shah’s portfolio (just-the-docs) ===
-   - Works with/without hero photo
-   - Subtle gradient hero
-   - Roomier feature cards (relaxed option)
+/* === Rauf Shah — custom styles for just-the-docs ===========================
+   Goals:
+   - Wider content column (less empty space)
+   - Two-column hero with circular portrait
+   - Subtle gradient card for hero text
+   - Roomier cards (2 per row on desktop)
    - Minimal collaboration callout
-   - Optional site-wide background (commented)
-================================================================= */
+=========================================================================== */
 
-/* ------- Hero layout ------- */
-/* Use .hero-grid + .hero-photo-wrap if you want a photo in the hero;
-   if not, just use .hero alone and ignore the grid/photo classes. */
+/* Widen content area a bit for desktop */
+@media (min-width: 1100px) {
+  .main-content { max-width: 1100px !important; }
+}
+
+/* ---------- Hero with photo ---------- */
 .hero-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 18px;
-  align-items: stretch;
+  gap: 22px;
+  align-items: center;
   margin-bottom: 1.25rem;
 }
-@media (min-width: 900px) {
-  .hero-grid { grid-template-columns: 1.3fr .8fr; }
+@media (min-width: 980px) {
+  .hero-grid { grid-template-columns: 1.6fr 0.9fr; }
 }
-.hero {
-  margin: 0 0 1.5rem 0;
-  padding: 2.25rem 1.5rem;
+
+.hero--card {
+  padding: 2.1rem 1.4rem;
   border-radius: 14px;
   background: linear-gradient(135deg, #f7faff 0%, #eef4ff 55%, #f8fbff 100%);
   border: 1px solid #e7ecf7;
   box-shadow: 0 6px 24px rgba(20, 40, 90, 0.08);
 }
-.hero h1 {
-  margin: 0 0 .25rem 0;
-  font-weight: 800;
-  letter-spacing: -0.3px;
-}
-.hero .subtitle {
-  margin: 0 0 .6rem 0;
-  font-size: 0.98rem;
-  color: #51618a;
-}
-.hero .lede {
-  margin: 0.25rem 0 1rem 0;
-  font-size: 1.02rem;
-  color: #2a3552;
-  max-width: 72ch;
-  line-height: 1.65;
-}
+.hero--card h1 { margin: 0 0 .25rem 0; font-weight: 800; letter-spacing: -0.3px; }
+.hero--card .subtitle { margin: 0 0 .6rem 0; font-size: .98rem; color: #51618a; }
+.hero--card .lede { margin: .35rem 0 0 0; font-size: 1.02rem; color: #2a3552; line-height: 1.65; }
 
-/* Optional hero photo */
 .hero-photo-wrap { display: flex; justify-content: center; align-items: center; }
 .hero-photo {
   width: 100%;
-  max-width: 520px;
+  max-width: 360px;
   height: auto;
   object-fit: cover;
-  border-radius: 14px;
   border: 1px solid #e7ecf7;
   box-shadow: 0 6px 24px rgba(20, 40, 90, 0.08);
 }
+.hero-photo--circle {
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+}
 
-/* ------- Buttons (anchors styled as buttons) ------- */
+/* ---------- Buttons (minimal usage) ---------- */
 .button {
   display: inline-block;
   padding: .55rem .9rem;
-  margin-right: .5rem;
   border: 1px solid #d7def0;
   border-radius: 10px;
   font-weight: 600;
@@ -72,44 +63,37 @@
 }
 .button:hover { box-shadow: 0 4px 14px rgba(33, 71, 160, 0.12); background: #f9fbff; }
 .button:active { transform: translateY(1px); }
-.button.primary {
-  background: #2457ff;
-  border-color: #2457ff;
-  color: #fff !important;
-}
+.button.primary { background: #2457ff; border-color: #2457ff; color: #fff !important; }
 .button.primary:hover { box-shadow: 0 6px 16px rgba(36, 87, 255, 0.25); }
 
-/* ------- Section caption ------- */
-.section-caption {
-  color: #51618a;
-  font-size: 0.95rem;
-  margin-top: .25rem;
-}
+/* ---------- Section caption ---------- */
+.section-caption { color: #51618a; font-size: 0.95rem; margin-top: .25rem; }
 
-/* ------- Feature cards (with 'relaxed' gap variant) ------- */
+/* ---------- Feature cards (relaxed spacing) ---------- */
 .feature-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 14px;
-  margin: .75rem 0 1.5rem 0;
+  gap: 18px;
+  margin: .9rem 0 1.6rem 0;
 }
-@media (min-width: 820px) {
-  .feature-grid { grid-template-columns: repeat(3, 1fr); }
+@media (min-width: 980px) {
+  /* 2 cards per row on desktop to avoid crowding */
+  .feature-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
-.feature-grid.relaxed { gap: 22px; }
+.feature-grid.relaxed { gap: 26px; }
 
 .feature-card {
   border: 1px solid #e7ecf7;
   border-radius: 12px;
-  padding: 1.25rem 1.25rem 1.1rem;
+  padding: 1.35rem 1.45rem 1.25rem;
   background: #fff;
   box-shadow: 0 4px 16px rgba(12, 24, 60, 0.05);
 }
-.feature-card h3 { margin-top: 0; font-weight: 750; }
-.feature-card ul { margin: .5rem 0 0 1.15rem; }
-.feature-card li { margin: .35rem 0; line-height: 1.7; }
+.feature-card h3 { margin: 0 0 .4rem 0; font-weight: 750; }
+.feature-card ul { margin: .55rem 0 0 1.15rem; }
+.feature-card li { margin: .42rem 0; line-height: 1.75; }
 
-/* ------- Collaboration callout ------- */
+/* ---------- Collaboration callout ---------- */
 .cta-bar {
   display: grid;
   grid-template-columns: 1fr;
@@ -123,17 +107,14 @@
   box-shadow: 0 3px 12px rgba(12, 24, 60, 0.05);
 }
 @media (min-width: 800px) { .cta-bar { grid-template-columns: 1fr auto; } }
-/* If you want *no* extra spacing on its button, also include: */
 .cta-bar.minimal .button { margin: 0; }
 
-/* ------- Minor typography tweak ------- */
+/* ---------- Minor tweak to site title ---------- */
 .site-title { font-weight: 800; }
 
-/* ================================
-   OPTIONAL: site-wide subtle background
-   (uncomment to enable a faint pattern)
-   ================================ */
-
+/* ---------- OPTIONAL: faint site-wide background ----------
+   Uncomment to add a very subtle pattern across all pages.
+---------------------------------------------------------------- */
 body {
   background:
     radial-gradient(1200px 600px at 15% -10%, rgba(36, 87, 255, 0.06), transparent 70%),
@@ -141,3 +122,4 @@ body {
     linear-gradient(180deg, #ffffff 0%, #fbfcff 100%);
   background-attachment: fixed;
 }
+
