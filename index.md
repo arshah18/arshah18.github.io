@@ -5,17 +5,20 @@ nav_order: 1
 ---
 
 <div class="hero-grid">
-  <div class="hero">
+  <div class="hero hero--card">
     <h1>Rauf Shah’s Digital Portfolio</h1>
     <p class="subtitle">MS Bioinformatics | PhD | MPH–Epidemiology Student | UNMC</p>
     <p class="lede">
-      Lead Health Data Coordinator II working at the intersection of clinical genomics, oncology bioinformatics, and public health.
+      Lead Health Data Coordinator II at the intersection of clinical genomics, oncology bioinformatics, and public health.
       I build secure FHIR/HAPI data pipelines, cancer-surveillance analytics, and decision-ready dashboards for clinicians and policy partners.
     </p>
   </div>
+
   <div class="hero-photo-wrap">
-    <!-- If you upload a separate portrait, use /assets/portrait.jpg. Otherwise keep headshot.jpg -->
-    <img class="hero-photo" src="/assets/portrait.jpg" alt="Portrait of Rauf Shah"
+    <!-- If portrait.jpg isn’t present, this falls back to headshot.jpg -->
+    <img class="hero-photo hero-photo--circle"
+         src="/assets/portrait.jpg"
+         alt="Portrait of Rauf Shah"
          onerror="this.onerror=null;this.src='/assets/headshot.jpg';">
   </div>
 </div>
@@ -40,14 +43,6 @@ nav_order: 1
       <li>Rapid translation of signals into action</li>
     </ul>
   </div>
-  <div class="feature-card">
-    <h3>Translation to Practice</h3>
-    <ul>
-      <li>Reproducible R/Python pipelines (FHIR/HAPI)</li>
-      <li>Briefs & visual summaries for programs and policy</li>
-      <li>Teaching & training: surveillance, FHIR, reproducible analytics</li>
-    </ul>
-  </div>
 </div>
 
 ## Clinical Collaboration Interests
@@ -58,35 +53,25 @@ nav_order: 1
     <h3>Clinical Genomics</h3>
     <ul>
       <li>Variant curation (SNV/indel, CNAs incl. ichorCNA)</li>
-      <li>Clinician-ready reports; EMR/registry linkage</li>
+      <li>Clinician-ready summaries; EMR/registry linkage</li>
       <li>Tumor board support & decision frameworks</li>
     </ul>
   </div>
   <div class="feature-card">
     <h3>Survival & Outcomes</h3>
     <ul>
-      <li>Kaplan–Meier, Cox, competing-risk techniques</li>
+      <li>Kaplan–Meier, Cox, competing-risk approaches</li>
       <li>Subgroup/propensity methods; manuscript-ready figures</li>
       <li>Dashboards for response trajectories & disparities</li>
-    </ul>
-  </div>
-  <div class="feature-card">
-    <h3>Metagenomics</h3>
-    <ul>
-      <li>16S & shotgun pipelines with rigorous QC</li>
-      <li>Microbiome–clinical covariate integration</li>
-      <li>Reproducible reports for grants & papers</li>
     </ul>
   </div>
 </div>
 
 <div class="cta-bar minimal">
   <div>
-    <strong>Interested in collaborating?</strong> Clinical genomics and metagenomics data analysis, molecular data reviews, survival/outcomes analyses, and registry-linked cohorts—focused on clear questions, fast feasibility checks, and decision-ready deliverables.
+    <strong>Interested in collaborating?</strong> I partner and collaborate with clinicians on genomics and metagenomics data analysis, survival and outcomes studies, and registry-linked cohort research—emphasizing precise research questions, IRB-compliant summaries, rapid feasibility assessments, and clear, decision-ready visualizations and deliverables.
   </div>
   <div>
     <a class="button primary" href="./pages/contact">Contact</a>
   </div>
 </div>
-
-<!-- Keep the rest of the page simple; navigation is in the left sidebar. -->
