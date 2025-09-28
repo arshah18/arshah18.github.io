@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Biography
-nav_order: 2
+parent: About
+nav_order: 1
 ---
 
 # Biography
