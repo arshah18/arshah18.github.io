@@ -99,3 +99,23 @@ body {
   background-attachment: fixed;
 }
 */
+
+/* Collaboration callout */
+.cta-bar {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .6rem;
+  align-items: center;
+  margin: 1rem 0 1.25rem 0;
+  padding: .9rem 1rem;
+  border: 1px solid #e7ecf7;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 3px 12px rgba(12, 24, 60, 0.05);
+}
+@media (min-width: 800px) {
+  .cta-bar {
+    grid-template-columns: 1fr auto;
+  }
+}
+.cta-bar .button { margin-bottom: .2rem; }
