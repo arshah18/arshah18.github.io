@@ -4,16 +4,11 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 logo: /assets/headshot.jpg
 search_enabled: true
+
 aux_links:
   LinkedIn: https://www.linkedin.com/in/rauf-s-a4634528/
   Google Scholar: https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en
+
 nav_external_links:
   - title: Email
     url: mailto:abrshah@unmc.edu
-
-# Navigation order (lower = earlier)
-just_the_docs:
-  collections:
-    pages:
-      name: Pages
-      nav_exclude: false
