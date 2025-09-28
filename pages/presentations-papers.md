@@ -13,7 +13,7 @@ nav_order: 9
 - **2025** — Comprehensive characterization of nodal peripheral T-cell lymphoma, not otherwise specified. *American Journal of Clinical Pathology*.  
 - **2025** — Refining diagnostic subtypes of peripheral T-cell lymphoma using a multiparameter approach (LLMPP study). *Modern Pathology*.  
 - **2025** — High-grade B-cell lymphoma, not otherwise specified, with DLBCL gene-expression signatures: genomic analysis and potential therapeutics. *American Journal of Hematology*.  
-- **2024** — POLE P286R mutation activates cancer-cell–intrinsic immunity and suppresses endometrial tumorigenesis via cGAS–STING. *Cell Death & Disease*.  
+- **2024** — The P286R mutation activates cancer-cell–intrinsic immunity and suppresses endometrial tumorigenesis via cGAS–STING. *Cell Death & Disease*.  
 - **2021** — A multi-approach and multi-scale platform to model CD4+ T cells responding to infections. *PLOS Computational Biology* 17:e1009209.  
 - **2021** — Systems biology identifies drug targets in CD4+ T-cell immune disorders. *npj Systems Biology and Applications* 7:1–18.  
 - **2017** — Genome-scale metabolic reconstruction of *Nannochloropsis gaditana*. *Algal Research*.  
