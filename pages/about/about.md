@@ -25,7 +25,7 @@ has_toc: false
         <li><strong>MPH–Epidemiology</strong> - Current student at UNMC</li>
       </ul>
       <div class="highlight-link">
-        <a href="./about/biography">Learn more about my academic journey →</a>
+        <a href="./biography">Learn more about my academic journey →</a>
       </div>
     </div>
 
