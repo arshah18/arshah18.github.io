@@ -1,11 +1,11 @@
 ---
 layout: default
-title: DrPH Competencies
+title: MPH Competencies
 nav_order: 6
 ---
 
-# DrPH Competencies (CEPH-aligned Mapping)
-> *Note: This portfolio maps my work against DrPH-style competencies as a professional benchmark.*
+# MPH Competencies (COPH-aligned Mapping)
+> *Note: This portfolio maps my work against MPH-style competencies as a professional benchmark.*
 
 **Evidence mapping (samples)**  
 - **Data & Analytics**: FHIR ingestion, registry/EHR/pathology integration; ctDNA pipelines and dashboards.  
