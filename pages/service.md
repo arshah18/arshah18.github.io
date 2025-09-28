@@ -5,6 +5,6 @@ nav_order: 8
 ---
 
 # Service
-- Mentorship for oncology fellows and data interns.  
-- Collaborations with cancer registry liaisons to improve data quality.  
-- Workshops on reproducible pipelines and applied epidemiology.
+- Mentorship for oncology fellows, research staff, and student interns.  
+- Partnership with registry liaisons to improve coding and data quality.  
+- Workshops on reproducible analytics, FHIR/HAPI workflows, and applied epi.
