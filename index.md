@@ -18,15 +18,11 @@ nav_order: 1
           <h1>Rauf Shah</h1>
           <p class="credentials">MS Bioinformatics | PhD | MPH–Epidemiology Student</p>
           <p class="affiliation">UNMC</p>
-          <div class="profile-highlights">
-            <div class="highlight-item">
-              <strong>Lead Health Data Coordinator II</strong>
-              <span>Clinical Genomics & Public Health</span>
-            </div>
-            <div class="highlight-item">
-              <strong>Expertise</strong>
-              <span>FHIR/HAPI Pipelines, Cancer Surveillance, Disaster Epidemiology</span>
-            </div>
+          <div class="quick-links">
+            <a href="./pages/about" class="quick-link">About Me</a>
+            <a href="./pages/public-health-focus" class="quick-link">Public Health Focus</a>
+            <a href="./pages/academic-portfolio" class="quick-link">Academic Portfolio</a>
+            <a href="./pages/contact" class="quick-link">Contact</a>
           </div>
         </div>
       </div>
@@ -35,102 +31,131 @@ nav_order: 1
     <div class="main-content-area">
       <!-- Welcome Section -->
       <div class="welcome-section">
-        <h2>Welcome to My Digital Portfolio</h2>
+        <h2>Transforming Data into Public Health Impact</h2>
         <p class="welcome-text">
-          I specialize in building secure FHIR/HAPI data pipelines, cancer-surveillance analytics, 
-          and decision-ready dashboards for clinicians and policy partners at the intersection of 
-          clinical genomics, oncology bioinformatics, and public health.
+          Lead Health Data Coordinator II bridging clinical genomics, oncology bioinformatics, and public health 
+          through secure FHIR/HAPI data pipelines, cancer surveillance analytics, and decision-ready dashboards 
+          for clinicians and policy partners.
         </p>
+        <div class="welcome-highlights">
+          <div class="welcome-highlight">
+            <span class="highlight-icon">🔬</span>
+            <span>Clinical Genomics & Bioinformatics</span>
+          </div>
+          <div class="welcome-highlight">
+            <span class="highlight-icon">📊</span>
+            <span>Cancer Surveillance & Epidemiology</span>
+          </div>
+          <div class="welcome-highlight">
+            <span class="highlight-icon">🌐</span>
+            <span>Public Health Informatics</span>
+          </div>
+        </div>
       </div>
 
-      <!-- Focus Areas -->
-      <div class="expertise-section">
-        <h2 class="section-title">Focus Areas</h2>
+      <!-- Quick Navigation -->
+      <div class="quick-nav-section">
+        <h2 class="section-title">Explore My Work</h2>
+        <div class="quick-nav-grid">
+          <a href="./pages/about" class="nav-card">
+            <div class="nav-card-icon">👤</div>
+            <h3>About</h3>
+            <p>Professional background, experience, and credentials</p>
+            <span class="nav-card-cta">View Profile →</span>
+          </a>
+
+          <a href="./pages/public-health-focus" class="nav-card">
+            <div class="nav-card-icon">🏥</div>
+            <h3>Public Health Focus</h3>
+            <p>Practice interests, research, and translation to practice</p>
+            <span class="nav-card-cta">Explore Focus →</span>
+          </a>
+
+          <a href="./pages/academic-portfolio" class="nav-card">
+            <div class="nav-card-icon">🎓</div>
+            <h3>Academic Portfolio</h3>
+            <p>Leadership, teaching, publications, and coursework</p>
+            <span class="nav-card-cta">View Portfolio →</span>
+          </a>
+
+          <a href="./pages/contact" class="nav-card">
+            <div class="nav-card-icon">💬</div>
+            <h3>Contact & Collaboration</h3>
+            <p>Get in touch for research partnerships and projects</p>
+            <span class="nav-card-cta">Connect →</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Expertise Highlights -->
+      <div class="expertise-highlights">
+        <h2 class="section-title">Areas of Expertise</h2>
         
         <div class="expertise-grid">
           <div class="expertise-card">
-            <h3>Cancer Surveillance</h3>
+            <div class="expertise-header">
+              <h3>Cancer Surveillance</h3>
+              <span class="expertise-icon">📈</span>
+            </div>
             <ul>
               <li>Registries ↔ EHR ↔ pathology ↔ genomics integration</li>
               <li>ICD / ICD-O / NAACCR fidelity; validated, transparent analytics</li>
               <li>Equity-aware outcomes, incidence & survival monitoring</li>
             </ul>
           </div>
-          <div class="expertise-card">
-            <h3>Disaster Epidemiology</h3>
-            <ul>
-              <li>Syndromic feeds & situational awareness dashboards</li>
-              <li>Clear thresholds/alerts and incident communication</li>
-              <li>Rapid translation of signals into action</li>
-            </ul>
-          </div>
-        </div>
-      </div>
 
-      <!-- Public Health Teaching & Training -->
-      <div class="expertise-section">
-        <h2 class="section-title">Public Health Teaching & Training</h2>
-        
-        <div class="expertise-grid">
           <div class="expertise-card">
-            <h3>Education & Mentorship</h3>
-            <ul>
-              <li>Curriculum development for bioinformatics and epidemiology</li>
-              <li>Mentoring students in public health data analysis</li>
-              <li>Workshops on FHIR, HAPI, and health data standards</li>
-              <li>Training in cancer surveillance methodologies</li>
-            </ul>
-          </div>
-          <div class="expertise-card">
-            <h3>Capacity Building</h3>
-            <ul>
-              <li>Developing training materials for health data coordination</li>
-              <li>Building analytical capacity in public health organizations</li>
-              <li>Creating reusable learning modules for disaster epidemiology</li>
-              <li>Promoting open science and reproducible research practices</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- Clinical Collaboration Interests -->
-      <div class="expertise-section">
-        <h2 class="section-title">Clinical Collaboration Interests</h2>
-        
-        <div class="expertise-grid">
-          <div class="expertise-card">
-            <h3>Clinical Genomics</h3>
+            <div class="expertise-header">
+              <h3>Clinical Genomics</h3>
+              <span class="expertise-icon">🧬</span>
+            </div>
             <ul>
               <li>Variant curation (SNV/indel, CNAs incl. ichorCNA)</li>
               <li>Clinician-ready summaries; EMR/registry linkage</li>
               <li>Tumor board support & decision frameworks</li>
             </ul>
           </div>
+
           <div class="expertise-card">
-            <h3>Survival & Outcomes</h3>
+            <div class="expertise-header">
+              <h3>Disaster Epidemiology</h3>
+              <span class="expertise-icon">🚨</span>
+            </div>
             <ul>
-              <li>Kaplan–Meier, Cox, competing-risk approaches</li>
-              <li>Subgroup/propensity methods; manuscript-ready figures</li>
-              <li>Dashboards for response trajectories & disparities</li>
+              <li>Syndromic feeds & situational awareness dashboards</li>
+              <li>Clear thresholds/alerts and incident communication</li>
+              <li>Rapid translation of signals into action</li>
+            </ul>
+          </div>
+
+          <div class="expertise-card">
+            <div class="expertise-header">
+              <h3>Health Data Engineering</h3>
+              <span class="expertise-icon">⚙️</span>
+            </div>
+            <ul>
+              <li>Secure FHIR/HAPI data pipelines</li>
+              <li>Reproducible analytics and dashboards</li>
+              <li>Data governance and quality assurance</li>
             </ul>
           </div>
         </div>
       </div>
 
-      <!-- Collaboration Section -->
-      <div class="collaboration-section">
-        <div class="collaboration-content">
-          <div class="collaboration-text">
-            <h3>Interested in Collaborating?</h3>
+      <!-- Collaboration CTA -->
+      <div class="collaboration-cta">
+        <div class="cta-content">
+          <div class="cta-text">
+            <h3>Ready to Collaborate on Public Health Innovation?</h3>
             <p>
-              I partner and collaborate with clinicians on genomics and metagenomics data analysis, 
-              survival and outcomes studies, and registry-linked cohort research—emphasizing precise 
-              research questions, IRB-compliant summaries, rapid feasibility assessments, and clear, 
-              decision-ready visualizations and deliverables.
+              I partner with clinicians, researchers, and public health professionals on genomics data analysis, 
+              survival studies, and registry-linked cohort research. Let's transform complex data into actionable 
+              insights for better health outcomes.
             </p>
           </div>
-          <div class="collaboration-action">
-            <a class="button primary" href="./pages/contact">Contact Me</a>
+          <div class="cta-actions">
+            <a class="button primary" href="./pages/contact">Start a Conversation</a>
+            <a class="button secondary" href="./pages/about/experience">View My CV</a>
           </div>
         </div>
       </div>
