@@ -8,6 +8,7 @@ nav_order: 9
 
 ## Peer-reviewed articles (selected)
 
+- **2025** - Cooperative role of distinctive TP53 and PTEN combined loss in the peripheral T-cell lymphoma-GATA3 molecular subgroup.  *Science Advances*.
 - **2025** — Integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic T-cell lymphoma. *American Journal of Hematology*.  
 - **2025** — Comprehensive characterization of nodal peripheral T-cell lymphoma, not otherwise specified. *American Journal of Clinical Pathology*.  
 - **2025** — Refining diagnostic subtypes of peripheral T-cell lymphoma using a multiparameter approach (LLMPP study). *Modern Pathology* (accepted).  
