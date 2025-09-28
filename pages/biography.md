@@ -14,5 +14,5 @@ I lead data coordination for lymphoma research, integrate **FHIR-based** pipelin
 - MPH–Epidemiology student (public health methods, policy translation)
 
 **Links**  
-- LinkedIn — [rauf-s-a4634528](https://www.linkedin.com/in/rauf-s-a4634528/)  
-- Google Scholar — [profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)
+- [LinkedIn - Connect](https://www.linkedin.com/in/rauf-s-a4634528/)  
+- [Google Scholar - Profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)
