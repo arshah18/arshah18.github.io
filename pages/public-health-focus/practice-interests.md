@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Public Health Practice Interests
-nav_order: 4
+title: Practice Interests
+parent: Public Health Focus
+nav_order: 1
 ---
 
 # Public Health Practice Interests
