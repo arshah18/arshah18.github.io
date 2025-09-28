@@ -5,7 +5,17 @@ nav_order: 4
 ---
 
 # Public Health Practice Interests
-- **Cancer Surveillance**: Registries (state/national), coding (ICD, ICD-O, NAACCR), survival analytics, and reporting pipelines.  
-- **Disaster Epidemiology**: Early warning, syndromic feeds, dashboards for incident management, and communication with decision-makers.  
-- **Data Systems & Governance**: FHIR-based exchange, data quality, auditability, transparent pipelines.  
-- **Equity & Outcomes**: Use registry and EHR data to track disparities and support targeted interventions.
+
+## Cancer Surveillance
+- End-to-end pipelines linking **registries ↔ EHR ↔ pathology ↔ genomics**  
+- Coding fidelity (ICD, ICD-O, NAACCR) and transparent, validated analytics  
+- Equity monitoring: incidence, survival, and access metrics across subgroups
+
+## Disaster Epidemiology
+- Situational awareness via **syndromic feeds** and rapid analytic dashboards  
+- Thresholds/alerts, field reporting, and decision support for incident management  
+- Communication strategies that translate complex signals into clear actions
+
+## Data Systems & Governance
+- FHIR/HAPI ingestion; auditability; role-based access (Keycloak)  
+- Reproducible research and documentation for multidisciplinary teams
