@@ -82,7 +82,7 @@ nav_order: 1
 
 <div class="cta-bar minimal">
   <div>
-    <strong>Collaborate with me:</strong> molecular data reviews, survival/outcomes analyses, and registry-linked cohorts—focused on clear questions, fast feasibility checks, and decision-ready deliverables.
+    <strong>Interested in collaborating?:</strong> molecular data reviews, survival/outcomes analyses, and registry-linked cohorts—focused on clear questions, fast feasibility checks, and decision-ready deliverables.
   </div>
   <div>
     <a class="button primary" href="./pages/contact">Contact</a>
