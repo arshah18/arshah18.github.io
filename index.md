@@ -41,8 +41,8 @@ nav_order: 1
   <div class="feature-card">
     <h3>Translation to Practice</h3>
     <ul>
-      <li>Reproducible pipelines in R/Python (FHIR/HAPI)</li>
-      <li>Briefs & visual summaries for programs & policy</li>
+      <li>Reproducible analytics in R/Python (FHIR/HAPI)</li>
+      <li>Briefs & visual summaries for programs and policy</li>
       <li>Teaching & training: surveillance, FHIR, reproducible analytics</li>
     </ul>
   </div>
@@ -62,4 +62,3 @@ nav_order: 1
 - [Coursework](./pages/coursework)
 - [CPH 705](./pages/cph-705)
 - [Contact](./pages/contact)
-
