@@ -1,9 +1,8 @@
-title: "Rauf Shah, MS, PhD"
-description: "Lead Health Data Coordinator II · Oncology Bioinformatics · MPH-EPI Student"
+title: "Rauf Shah’s Digital Portfolio"
+description: "MS Bioinformatics | PhD | MPH–Epidemiology Student | UNMC — Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
-logo: /assets/favicon.png
-favicon_ico: "/assets/favicon.png"
+logo: /assets/headshot.jpg
 search_enabled: true
 
 aux_links:
@@ -13,3 +12,6 @@ aux_links:
 nav_external_links:
   - title: Email
     url: mailto:abrshah@unmc.edu
+
+# Optional favicon (drop a PNG at /assets/favicon.png and uncomment)
+# favicon_ico: "/assets/favicon.png"
