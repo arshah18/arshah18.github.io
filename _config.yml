@@ -1,6 +1,6 @@
 # _config.yml
 title: "Rauf Shah's Digital Portfolio"
-description: "MS Bioinformatics | PhD | MPH–Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
+description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 logo: /assets/headshot.jpg
