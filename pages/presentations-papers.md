@@ -26,7 +26,7 @@ nav_order: 9
 
 ## Talks / Invited presentations (selection)
 
-- **Introduction to the Workshop Platform** — SH-EAHP Workshop (Society for Hematopathology/EAHP), Houston, TX, Nov 10, 2023 (Plenary).  
+- **Introduction to the Workshop Platform** — SH-EAHP Workshop (Society for Hematopathology/EAHP), Houston, TX, Nov 10, 2023.  
 - **Unifying clinico-genomics, digital pathology, and computational biology using cBioPortal (enhanced features)** — SH-EAHP Workshop, Houston, TX, Nov 2023.  
 - **Integrative computational approach to understand metabolic reprogramming in CD4+ T cells** — Lymphoma/Leukemia Molecular Profiling Project, Aug 25, 2022 (virtual).  
 - Earlier invited/selected: ISMB 2018 (Chicago) oral; Nebraska Plant Science Retreat 2019 keynote; additional university seminars.
