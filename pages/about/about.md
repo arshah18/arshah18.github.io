@@ -18,30 +18,39 @@ has_toc: false
 
   <div class="about-highlights">
     <div class="highlight-card">
-      <h3> Academic Credentials</h3>
+      <h3>Academic Credentials</h3>
       <ul>
         <li><strong>MS Bioinformatics</strong> - Advanced computational biology</li>
         <li><strong>PhD</strong> - Computational biology research</li>
         <li><strong>MPH–Epidemiology</strong> - Current student at UNMC</li>
       </ul>
+      <div class="highlight-link">
+        <a href="./about/biography">Learn more about my academic journey →</a>
+      </div>
     </div>
 
     <div class="highlight-card">
-      <h3> Professional Focus</h3>
+      <h3>Professional Focus</h3>
       <ul>
         <li><strong>Lead Health Data Coordinator II</strong> - UNMC Oncology</li>
         <li><strong>Clinical Genomics</strong> - Cancer surveillance & analytics</li>
         <li><strong>Public Health Informatics</strong> - FHIR/HAPI pipelines</li>
       </ul>
+      <div class="highlight-link">
+        <a href="./about/experience">View my professional experience →</a>
+      </div>
     </div>
 
     <div class="highlight-card">
-      <h3> Technical Expertise</h3>
+      <h3>Technical Expertise</h3>
       <ul>
         <li><strong>Programming:</strong> Python, R, SQL, JavaScript</li>
         <li><strong>Bioinformatics:</strong> NGS, variant analysis, multi-omics</li>
         <li><strong>Health Data:</strong> FHIR/HAPI, Docker, registry systems</li>
       </ul>
+      <div class="highlight-link">
+        <a href="./about/experience">Explore my technical skills →</a>
+      </div>
     </div>
   </div>
 </div>
