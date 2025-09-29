@@ -39,7 +39,7 @@ List of relevant graduate courses, key assignments, and brief reflections (where
 ## Featured Course
 
 <div class="featured-course">
-  <h3>CPH 705 — Public Health Informatics</h3>
+  <h3>CPH 705 - Public Health Teaching and Training</h3>
   <p>Advanced study of public health surveillance systems, data standards, and informatics applications</p>
   <a href="./coursework/cph-705" class="button primary">View Course Details</a>
 </div>
