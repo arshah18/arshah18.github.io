@@ -17,25 +17,25 @@ has_toc: false
 
 <div class="focus-areas-overview">
   <div class="focus-card">
-    <h3>🔬 Practice Interests</h3>
+    <h3>Practice Interests</h3>
     <p>Applied public health work in cancer surveillance, disaster epidemiology, and health data systems</p>
     <a href="./public-health-focus/practice-interests" class="button primary">Explore Practice</a>
   </div>
 
   <div class="focus-card">
-    <h3>📊 Research Interests</h3>
+    <h3>Research Interests</h3>
     <p>Academic research focus areas including lymphoma genomics, cancer surveillance, and population analytics</p>
     <a href="./public-health-focus/research-interests" class="button primary">View Research</a>
   </div>
 
   <div class="focus-card">
-    <h3>🚀 Translation to Practice</h3>
+    <h3>Translation to Practice</h3>
     <p>Bridging research findings to real-world impact through data pipelines and stakeholder engagement</p>
     <a href="./public-health-focus/translation-to-practice" class="button primary">See Translation</a>
   </div>
 
   <div class="focus-card">
-    <h3>🎓 MPH Competencies</h3>
+    <h3>MPH Competencies</h3>
     <p>Mapping my work against public health competencies and professional benchmarks</p>
     <a href="./public-health-focus/mph-competencies" class="button primary">Review Competencies</a>
   </div>
