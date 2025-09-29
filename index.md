@@ -39,15 +39,12 @@ nav_order: 1
         </p>
         <div class="welcome-highlights">
           <div class="welcome-highlight">
-            <span class="highlight-icon">🔬</span>
             <span>Clinical Genomics & Bioinformatics</span>
           </div>
           <div class="welcome-highlight">
-            <span class="highlight-icon">📊</span>
             <span>Cancer Surveillance & Epidemiology</span>
           </div>
           <div class="welcome-highlight">
-            <span class="highlight-icon">🌐</span>
             <span>Public Health Informatics</span>
           </div>
         </div>
@@ -58,31 +55,27 @@ nav_order: 1
         <h2 class="section-title">Explore My Work</h2>
         <div class="quick-nav-grid">
           <a href="./pages/about" class="nav-card">
-            <div class="nav-card-icon">👤</div>
             <h3>About</h3>
             <p>Professional background, experience, and credentials</p>
-            <span class="nav-card-cta">View Profile →</span>
+            <span class="nav-card-cta">View Profile</span>
           </a>
 
           <a href="./pages/public-health-focus" class="nav-card">
-            <div class="nav-card-icon">🏥</div>
             <h3>Public Health Focus</h3>
             <p>Practice interests, research, and translation to practice</p>
-            <span class="nav-card-cta">Explore Focus →</span>
+            <span class="nav-card-cta">Explore Focus</span>
           </a>
 
           <a href="./pages/academic-portfolio" class="nav-card">
-            <div class="nav-card-icon">🎓</div>
             <h3>Academic Portfolio</h3>
             <p>Leadership, teaching, publications, and coursework</p>
-            <span class="nav-card-cta">View Portfolio →</span>
+            <span class="nav-card-cta">View Portfolio</span>
           </a>
 
           <a href="./pages/contact" class="nav-card">
-            <div class="nav-card-icon">💬</div>
             <h3>Contact & Collaboration</h3>
             <p>Get in touch for research partnerships and projects</p>
-            <span class="nav-card-cta">Connect →</span>
+            <span class="nav-card-cta">Connect</span>
           </a>
         </div>
       </div>
@@ -95,7 +88,6 @@ nav_order: 1
           <div class="expertise-card">
             <div class="expertise-header">
               <h3>Cancer Surveillance</h3>
-              <span class="expertise-icon">📈</span>
             </div>
             <ul>
               <li>Registries ↔ EHR ↔ pathology ↔ genomics integration</li>
@@ -107,7 +99,6 @@ nav_order: 1
           <div class="expertise-card">
             <div class="expertise-header">
               <h3>Clinical Genomics</h3>
-              <span class="expertise-icon">🧬</span>
             </div>
             <ul>
               <li>Variant curation (SNV/indel, CNAs incl. ichorCNA)</li>
@@ -119,7 +110,6 @@ nav_order: 1
           <div class="expertise-card">
             <div class="expertise-header">
               <h3>Disaster Epidemiology</h3>
-              <span class="expertise-icon">🚨</span>
             </div>
             <ul>
               <li>Syndromic feeds & situational awareness dashboards</li>
@@ -131,7 +121,6 @@ nav_order: 1
           <div class="expertise-card">
             <div class="expertise-header">
               <h3>Health Data Engineering</h3>
-              <span class="expertise-icon">⚙️</span>
             </div>
             <ul>
               <li>Secure FHIR/HAPI data pipelines</li>
