@@ -2,9 +2,10 @@
 layout: default
 title: Coursework
 parent: Academic Portfolio
-nav_order: 4
+nav_order: 6
 has_children: true
 has_toc: false
+permalink: /pages/academic-portfolio/coursework/
 ---
 
 # Coursework
@@ -41,7 +42,7 @@ List of relevant graduate courses, key assignments, and brief reflections (where
 <div class="featured-course">
   <h3>CPH 705 - Public Health Teaching and Training</h3>
   <p>Graduate course focused on developing teaching skills and strategies for public health education, including adult learning theory, instructional design, needs analysis, and multi-modal teaching development.</p>
-  <a href="./coursework/cph-705" class="button primary">View Course Details</a>
+  <a href="{{ site.baseurl }}/pages/academic-portfolio/coursework/cph-705" class="button primary">View Course Details</a>
 </div>
 
 ## Course List
