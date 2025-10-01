@@ -3,6 +3,7 @@ layout: default
 title: Diversity, Equity & Inclusion
 parent: Academic Portfolio
 nav_order: 3
+permalink: /pages/academic-portfolio/dei/
 ---
 
 # Diversity, Equity & Inclusion
