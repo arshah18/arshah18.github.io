@@ -2,7 +2,8 @@
 layout: default
 title: Service
 parent: Academic Portfolio
-nav_order: 3
+nav_order: 5
+permalink: /pages/academic-portfolio/service/
 ---
 
 # Professional Service
