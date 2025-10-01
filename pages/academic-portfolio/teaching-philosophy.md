@@ -3,6 +3,7 @@ layout: default
 title: Teaching Philosophy
 parent: Academic Portfolio
 nav_order: 1
+permalink: /pages/academic-portfolio/teaching-philosophy/
 ---
 
 # Teaching Philosophy
@@ -97,4 +98,4 @@ Facilitate team-based projects that simulate real-world public health collaborat
 ### Disaster Epidemiology & Health Informatics
 - **Focus**: Syndromic surveillance, situational awareness, emergency communication
 - **Skills**: Outbreak detection, dashboard development, incident management
-- **Projects**: Develop response protocols for public health emergencies
+- **Projects**: Develop response protocols for
