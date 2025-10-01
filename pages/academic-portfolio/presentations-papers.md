@@ -2,7 +2,8 @@
 layout: default
 title: Presentations & Papers
 parent: Academic Portfolio
-nav_order: 2
+nav_order: 4
+permalink: /pages/academic-portfolio/presentations-papers/
 ---
 
 # Presentations & Papers
@@ -29,7 +30,7 @@ nav_order: 2
 - **The P286R mutation activates cancer-cell–intrinsic immunity and suppresses endometrial tumorigenesis via cGAS–STING**  
   *Cell Death & Disease*
 
-### 2021-2022
+### 2021–2022
 - **A multi-approach and multi-scale platform to model CD4+ T cells responding to infections**  
   *PLOS Computational Biology* 17:e1009209
 
