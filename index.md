@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: home
 title: Home
 nav_order: 1
+permalink: /
 ---
 
 <div class="professional-layout">
@@ -10,19 +11,19 @@ nav_order: 1
     <div class="sidebar">
       <div class="profile-card">
         <div class="profile-image">
-          <img src="/assets/portrait.jpg" 
+          <img src="{{ site.baseurl }}/assets/portrait.jpg" 
                alt="Portrait of Rauf Shah"
-               onerror="this.onerror=null;this.src='/assets/headshot.jpg';">
+               onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';">
         </div>
         <div class="profile-info">
           <h1>Rauf Shah</h1>
           <p class="credentials">MS Bioinformatics | PhD | MPH–Epidemiology Student</p>
           <p class="affiliation">UNMC</p>
           <div class="quick-links">
-            <a href="./pages/about" class="quick-link">About Me</a>
-            <a href="./pages/public-health-focus" class="quick-link">Public Health Focus</a>
-            <a href="./pages/academic-portfolio" class="quick-link">Academic Portfolio</a>
-            <a href="./pages/contact" class="quick-link">Contact</a>
+            <a href="{{ site.baseurl }}/pages/about" class="quick-link">About Me</a>
+            <a href="{{ site.baseurl }}/pages/public-health-focus" class="quick-link">Public Health Focus</a>
+            <a href="{{ site.baseurl }}/pages/academic-portfolio" class="quick-link">Academic Portfolio</a>
+            <a href="{{ site.baseurl }}/pages/contact" class="quick-link">Contact</a>
           </div>
         </div>
       </div>
@@ -54,25 +55,25 @@ nav_order: 1
       <div class="quick-nav-section">
         <h2 class="section-title">Explore My Work</h2>
         <div class="quick-nav-grid">
-          <a href="./pages/about" class="nav-card">
+          <a href="{{ site.baseurl }}/pages/about" class="nav-card">
             <h3>About</h3>
             <p>Professional background, experience, and credentials</p>
             <span class="nav-card-cta">View Profile</span>
           </a>
 
-          <a href="./pages/public-health-focus" class="nav-card">
+          <a href="{{ site.baseurl }}/pages/public-health-focus" class="nav-card">
             <h3>Public Health Focus</h3>
             <p>Practice interests, research, and translation to practice</p>
             <span class="nav-card-cta">Explore Focus</span>
           </a>
 
-          <a href="./pages/academic-portfolio" class="nav-card">
+          <a href="{{ site.baseurl }}/pages/academic-portfolio" class="nav-card">
             <h3>Academic Portfolio</h3>
             <p>Leadership, teaching, publications, and coursework</p>
             <span class="nav-card-cta">View Portfolio</span>
           </a>
 
-          <a href="./pages/contact" class="nav-card">
+          <a href="{{ site.baseurl }}/pages/contact" class="nav-card">
             <h3>Contact & Collaboration</h3>
             <p>Get in touch for research partnerships and projects</p>
             <span class="nav-card-cta">Connect</span>
@@ -143,8 +144,8 @@ nav_order: 1
             </p>
           </div>
           <div class="cta-actions">
-            <a class="button primary" href="./pages/contact">Start a Conversation</a>
-            <a class="button secondary" href="./pages/about/experience">View My CV</a>
+            <a class="button primary" href="{{ site.baseurl }}/pages/contact">Start a Conversation</a>
+            <a class="button secondary" href="{{ site.baseurl }}/pages/about/experience">View My CV</a>
           </div>
         </div>
       </div>

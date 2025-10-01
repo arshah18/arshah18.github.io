@@ -15,7 +15,7 @@ aux_links:
   "Google Scholar": "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
   "Email": "mailto:abrshah@unmc.edu"
 
-# Favicon
+# Favicon (PNG is fine to keep; some themes prefer .ico)
 favicon_ico: "/assets/favicon.png"
 
 # Heading anchors
@@ -24,3 +24,6 @@ heading_anchors: true
 # Just-the-Docs specific
 just_the_docs:
   collections_default: true
+
+# Force a rebuild (safe no-op change)
+# last_updated: 2025-09-30
