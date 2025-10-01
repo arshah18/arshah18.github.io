@@ -4,6 +4,7 @@ title: About
 nav_order: 2
 has_children: true
 has_toc: false
+permalink: /pages/about/
 ---
 
 # About
@@ -25,7 +26,7 @@ has_toc: false
         <li><strong>MPH–Epidemiology</strong> - Current student at UNMC</li>
       </ul>
       <div class="highlight-link">
-        <a href="./biography">Learn more about my academic journey →</a>
+        <a href="{{ site.baseurl }}/pages/about/biography">Learn more about my academic journey →</a>
       </div>
     </div>
 
@@ -37,7 +38,7 @@ has_toc: false
         <li><strong>Public Health Informatics</strong> - FHIR/HAPI pipelines</li>
       </ul>
       <div class="highlight-link">
-        <a href="./experience">View my professional experience →</a>
+        <a href="{{ site.baseurl }}/pages/about/experience">View my professional experience →</a>
       </div>
     </div>
 
@@ -49,7 +50,7 @@ has_toc: false
         <li><strong>Health Data:</strong> FHIR/HAPI, Docker, registry systems</li>
       </ul>
       <div class="highlight-link">
-        <a href="./experience">Explore my technical skills →</a>
+        <a href="{{ site.baseurl }}/pages/about/experience">Explore my technical skills →</a>
       </div>
     </div>
   </div>
@@ -59,7 +60,7 @@ has_toc: false
 
 <div class="child-pages-grid">
   <div class="child-page-card">
-    <h3><a href="./biography">Biography</a></h3>
+    <h3><a href="{{ site.baseurl }}/pages/about/biography">Biography</a></h3>
     <p>My professional journey, current roles, research interests, and teaching philosophy in public health and bioinformatics.</p>
     <ul class="card-highlights">
       <li>Professional background & focus areas</li>
@@ -69,7 +70,7 @@ has_toc: false
   </div>
 
   <div class="child-page-card">
-    <h3><a href="./experience">Experience</a></h3>
+    <h3><a href="{{ site.baseurl }}/pages/about/experience">Experience</a></h3>
     <p>Detailed professional experience, technical skills, and comprehensive career history in computational biology and health informatics.</p>
     <ul class="card-highlights">
       <li>Professional roles & responsibilities</li>
@@ -85,5 +86,5 @@ has_toc: false
     Interested in collaborating on cancer surveillance, clinical genomics, or public health informatics projects? 
     I welcome opportunities to work with clinicians, researchers, and public health professionals.
   </p>
-  <a class="button primary" href="../contact">Get In Touch</a>
+  <a class="button primary" href="{{ site.baseurl }}/pages/contact">Get In Touch</a>
 </div>
