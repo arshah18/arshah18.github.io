@@ -3,6 +3,7 @@ layout: default
 title: Biography
 parent: About
 nav_order: 1
+permalink: /pages/about/biography/
 ---
 
 # Biography
@@ -49,6 +50,6 @@ nav_order: 1
 ---
 
 ## Links
-- **Download CV (PDF)** — [CV.pdf](/assets/rauf-shah-cv.pdf)  
+- **Download CV (PDF)** — [CV.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)  
 - **LinkedIn** — [Connect](https://www.linkedin.com/in/rauf-s-a4634528/)  
 - **Google Scholar** — [Profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)
