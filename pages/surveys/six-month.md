@@ -33,7 +33,7 @@ Paste your live form URL below (or pass it via `?url=`). The QR updates instantl
   const openBtn = document.getElementById('open');
   const qrImg = document.getElementById('qr');
 
-  const defaultURL = 'https://forms.gle/REPLACE_SIX_MONTH';
+  const defaultURL = '';
   const initial = params.get('url') || defaultURL;
 
   function update() {
