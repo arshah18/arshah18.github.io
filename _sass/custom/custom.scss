@@ -1,5 +1,7 @@
 /* === Rauf Shah — Custom Site Styles (Just-the-Docs) === */
-/* NOTE: Loaded via assets/css/just-the-docs.scss */
+/* NOTE: Loaded via assets/css/just-the-docs.scss
+   Optional fonts loaded via _includes/head_custom.html:
+   Inter (body) + Merriweather (headings) */
 
 /* ===== Base Layout & Global Styles ===== */
 
@@ -12,9 +14,7 @@
 }
 
 /* Keep custom sections safely scoped */
-.professional-layout {
-  max-width: 100%;
-}
+.professional-layout { max-width: 100%; }
 
 /* Subtle background */
 body {
@@ -23,12 +23,31 @@ body {
     radial-gradient(600px 600px at 90% 80%, rgba(118, 75, 162, 0.05), transparent 70%),
     linear-gradient(180deg, #ffffff 0%, #fafbfd 100%);
   background-attachment: fixed;
+
+  /* Academic typography polish (falls back to system if Google Fonts unavailable) */
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+               Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: #1f2937; /* slate-800 */
 }
 
-/* Improve typography (respect JTD sizing) */
+/* Headings */
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 {
   letter-spacing: -0.01em;
+  color: #0f172a; /* slate-900 */
 }
+.main-content h1, .main-content h2 {
+  font-family: "Merriweather", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+
+/* Lead paragraph */
+.lead, .lede { font-size: 1.1rem; color: #374151; } /* slate-700 */
+
+/* Links: understated underline-on-hover */
+a { text-decoration: none; border-bottom: 1px solid transparent; }
+a:hover { text-decoration: underline; }
 
 /* Section Title Consistency */
 .section-title {
@@ -49,6 +68,14 @@ body {
   height: 4px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border-radius: 2px;
+}
+
+/* Divider */
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(203,213,225,0) 0%, rgba(203,213,225,1) 20%, rgba(203,213,225,1) 80%, rgba(203,213,225,0) 100%);
+  margin: 2rem 0;
 }
 
 /* ===== Buttons ===== */
@@ -86,6 +113,27 @@ body {
   box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
 }
 
+/* ===== Cards / Callouts / Pills (generic utilities) ===== */
+.card {
+  background:#fff; border:1px solid #e5e7eb; border-radius:14px; padding:1rem 1.1rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,.04);
+  transition: transform .08s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.card:hover { transform: translateY(-2px); border-color:#d1d5db; box-shadow: 0 12px 28px rgba(0,0,0,.06); }
+.card h3 { margin-top:.25rem; margin-bottom:.5rem; }
+
+.callout {
+  border:1px solid #d1d5db; border-left:4px solid #6366f1; border-radius:10px;
+  padding: .9rem 1rem; background:#ffffff; margin:1rem 0;
+}
+.callout p { margin: .4rem 0; }
+
+.pills { display:flex; flex-wrap:wrap; gap:.5rem; }
+.pill {
+  padding:.25rem .55rem; border-radius:999px; font-size:.85rem;
+  border:1px solid #e5e7eb; background:#fff; color:#1f2937;
+}
+
 /* ===== Homepage / Generic Grids & Cards ===== */
 
 /* Two-column layout shell used on index */
@@ -117,16 +165,9 @@ body {
   object-fit: cover;
   margin-bottom: 0.75rem;
 }
-.profile-info h1 {
-  font-size: 1.5rem;
-  margin: 0.25rem 0 0.25rem;
-}
+.profile-info h1 { font-size: 1.5rem; margin: 0.25rem 0 0.25rem; }
 .profile-info .credentials,
-.profile-info .affiliation {
-  margin: 0;
-  color: #4a5568;
-  font-size: 0.95rem;
-}
+.profile-info .affiliation { margin: 0; color: #4a5568; font-size: 0.95rem; }
 
 .quick-links {
   display: grid;
@@ -151,28 +192,16 @@ body {
 }
 
 /* Main content column shell */
-.main-content-area {
-  display: grid;
-  gap: 2rem;
-}
+.main-content-area { display: grid; gap: 2rem; }
 
-/* Welcome cards/chips */
-.welcome-highlights {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.75rem;
-}
+/* Welcome chips */
+.welcome-highlights { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
 .welcome-highlight {
-  padding: 0.35rem 0.75rem;
-  border-radius: 999px;
-  border: 1px solid #e2e8f0;
-  background: #fff;
-  font-size: 0.9rem;
-  color: #1a365d;
+  padding: 0.35rem 0.75rem; border-radius: 999px; border: 1px solid #e2e8f0;
+  background: #fff; font-size: 0.9rem; color: #1a365d;
 }
 
-/* Quick Navigation grid used on home */
+/* Generic grid helpers */
 .quick-nav-grid,
 .child-pages-grid,
 .expertise-grid,
@@ -184,9 +213,7 @@ body {
 .tip-cards,
 .alternative-options,
 .nav-cards-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
+  display: grid; grid-template-columns: 1fr; gap: 1rem;
 }
 @media (min-width: 700px) {
   .quick-nav-grid,
@@ -208,7 +235,7 @@ body {
   }
 }
 
-/* Generic card */
+/* Generic card targets used across pages */
 .nav-card,
 .expertise-card,
 .highlight-card,
@@ -240,14 +267,10 @@ body {
   box-shadow: 0 10px 22px rgba(0,0,0,0.06);
 }
 
-/* Nav cards */
+/* Nav cards specifics */
 .nav-card h3 { margin: 0 0 0.25rem 0; }
 .nav-card p { margin: 0 0 0.5rem 0; color: #4a5568; }
-.nav-card-cta {
-  display: inline-block;
-  font-weight: 600;
-  color: #667eea;
-}
+.nav-card-cta { display: inline-block; font-weight: 600; color: #667eea; }
 
 /* Expertise cards */
 .expertise-card h3 { margin: 0 0 0.5rem 0; }
@@ -255,23 +278,10 @@ body {
 
 /* CTA band */
 .collaboration-cta .cta-content {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  align-items: center;
-  border-left: 4px solid #667eea;
+  display: grid; grid-template-columns: 1fr; gap: 1rem; align-items: center; border-left: 4px solid #667eea;
 }
-@media (min-width: 900px) {
-  .collaboration-cta .cta-content {
-    grid-template-columns: 2fr 1fr;
-  }
-}
-.cta-actions {
-  display: flex;
-  gap: 0.75rem;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-}
+@media (min-width: 900px) { .collaboration-cta .cta-content { grid-template-columns: 2fr 1fr; } }
+.cta-actions { display: flex; gap: 0.75rem; justify-content: flex-start; flex-wrap: wrap; }
 
 /* ===== Section-specific helpers ===== */
 
@@ -281,57 +291,31 @@ body {
 
 /* Contact section */
 .contact-methods .contact-card h3 { margin-top: 0; }
-.alternative-options {
-  gap: 0.5rem;
-}
+.alternative-options { gap: 0.5rem; }
 .alt-option {
-  display: inline-flex;
-  gap: 0.5rem;
-  align-items: center;
-  text-decoration: none;
-  color: #1a365d;
-  padding: 0.75rem 1rem;
+  display: inline-flex; gap: 0.5rem; align-items: center; text-decoration: none; color: #1a365d; padding: 0.75rem 1rem;
 }
 
 /* Email page */
 .email-contact .email-primary {
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-  padding: 1rem;
-  background: #fff;
+  border: 1px solid #e2e8f0; border-radius: 12px; padding: 1rem; background: #fff;
 }
-.email-address {
-  display: flex;
-  gap: 0.5rem;
-  align-items: baseline;
-  flex-wrap: wrap;
-}
-.email-label {
-  font-weight: 600;
-  color: #1a365d;
-}
+.email-address { display: flex; gap: 0.5rem; align-items: baseline; flex-wrap: wrap; }
+.email-label { font-weight: 600; color: #1a365d; }
 .email-link { font-weight: 600; }
 
 /* Public Health Focus grids */
 .focus-areas-overview .focus-card h3,
 .integrated-approach .approach-item h4 { margin-top: 0; }
-.integrated-approach {
-  display: grid; gap: 1rem; grid-template-columns: 1fr;
-}
-@media (min-width: 800px) {
-  .integrated-approach { grid-template-columns: repeat(3, 1fr); }
-}
+.integrated-approach { display: grid; gap: 1rem; grid-template-columns: 1fr; }
+@media (min-width: 800px) { .integrated-approach { grid-template-columns: repeat(3, 1fr); } }
 
 /* Academic Portfolio */
 .portfolio-areas .portfolio-card h3 { margin-top: 0; }
 
 /* About page layout */
-.about-highlights {
-  display: grid; gap: 1rem; grid-template-columns: 1fr;
-}
-@media (min-width: 900px) {
-  .about-highlights { grid-template-columns: repeat(3, 1fr); }
-}
+.about-highlights { display: grid; gap: 1rem; grid-template-columns: 1fr; }
+@media (min-width: 900px) { .about-highlights { grid-template-columns: repeat(3, 1fr); } }
 
 /* ===== Optional hero/quick-stats blocks (if used later) ===== */
 
@@ -378,16 +362,20 @@ body {
 
 /* Expertise Overview (if used) */
 .expertise-overview { max-width: 1200px; margin: 0 auto 6rem auto; padding: 0 2rem; }
-.expertise-item { background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 2.5rem 2rem; text-align: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); transition: all 0.3s ease; position: relative; overflow: hidden; }
-.expertise-item::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 4px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+.expertise-item {
+  background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 2.5rem 2rem; text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); transition: all 0.3s ease; position: relative; overflow: hidden;
+}
+.expertise-item::before {
+  content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 4px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
 .expertise-item:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1); }
 .expertise-icon { font-size: 3rem; margin-bottom: 1.5rem; }
 .expertise-item h3 { font-size: 1.3rem; font-weight: 600; color: #1a365d; margin: 0 0 1rem 0; }
 .expertise-item p { color: #4a5568; line-height: 1.6; margin: 0; font-size: 0.95rem; }
 
-/* Navigation cards (finishing block that was truncated) */
+/* Navigation cards (finishing block) */
 .navigation-section { max-width: 1200px; margin: 0 auto 6rem auto; padding: 0 2rem; }
 .nav-cards-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
 @media (min-width: 768px) { .nav-cards-grid { grid-template-columns: repeat(2, 1fr); } }
