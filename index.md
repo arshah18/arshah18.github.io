@@ -10,40 +10,44 @@ permalink: /
 <img src="{{ site.baseurl }}/assets/portrait.jpg"
      alt="Portrait of Rauf Shah"
      onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';"
-     style="width:220px; border-radius:12px; float:right; margin:0 0 1rem 1rem;">
+     style="width:200px; border-radius:12px; float:right; margin:0 0 1rem 1rem;">
 
 # Rauf Shah
 
-*MS Bioinformatics • PhD • MPH–Epidemiology Student  
-Lead Health Data Coordinator II, UNMC*
+*MS Bioinformatics • PhD • MPH–Epidemiology Student*  
+*Lead Health Data Coordinator II, UNMC*
 
-I work at the intersection of **clinical genomics**, **oncology bioinformatics**, and **public health**. My focus is building **reproducible FHIR/HAPI data pipelines**, linking **registries ↔ EHR ↔ pathology ↔ genomics**, and translating complex data into **decision-ready analytics** for clinicians and policy partners.
+{: .lede }
+I work at the intersection of **clinical genomics**, **oncology bioinformatics**, and **public health**—building reproducible **FHIR/HAPI** pipelines that connect **registries ↔ EHR ↔ pathology ↔ genomics**, and translating data into **decision-ready analytics** for clinicians and policy partners.
+
+<div class="pills">
+  <span class="pill">Cancer Surveillance</span>
+  <span class="pill">Clinical Genomics</span>
+  <span class="pill">Public Health Informatics</span>
+  <span class="pill">Disaster Epidemiology</span>
+</div>
 
 ---
 
 ## Start here
-- **About** — background and roles → [About]({{ site.baseurl }}/pages/about/)
-- **Academic Portfolio** — teaching, leadership, DEI, publications → [Portfolio]({{ site.baseurl }}/pages/academic-portfolio/)
-- **Contact** — collaboration & email → [Contact]({{ site.baseurl }}/pages/contact/)
+
+<a class="button primary" href="{{ site.baseurl }}/pages/about/">About</a>
+<a class="button" href="{{ site.baseurl }}/pages/academic-portfolio/">Academic Portfolio</a>
+<a class="button" href="{{ site.baseurl }}/pages/contact/">Contact</a>
 
 ---
 
-## Focus areas
-- **Cancer Surveillance:** NAACCR/ICD/ICD-O fidelity; validated, transparent analytics  
-- **Clinical Genomics:** variant curation; clinician-ready summaries; EMR/registry linkage  
-- **Public Health Informatics:** secure **FHIR/HAPI** pipelines; governance & quality assurance  
-- **Disaster Epidemiology:** syndromic feeds, clear thresholds/alerts, incident dashboards
+## Recent highlights
 
----
-
-## Selected recent work
-- Population-level lymphoma dashboards integrating clinical and molecular features  
-- Reproducible data flows that reduce time from raw data to insight and support equity monitoring  
-- Standardized data quality frameworks and role-based access across systems
+<div class="callout">
+  <p><strong>Integrated lymphoma dashboards</strong> combining clinical and molecular features for population-level monitoring.</p>
+  <p><strong>Reproducible data flows</strong> that shorten time-to-insight and support equity monitoring.</p>
+  <p><strong>Governance + QA patterns</strong> with role-based access (Keycloak) across systems.</p>
+</div>
 
 ---
 
 ## CV
-- **Download CV (PDF):** [{{ site.baseurl }}/assets/rauf-shah-cv.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
+**Download CV (PDF):** [{{ site.baseurl }}/assets/rauf-shah-cv.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
 
 <br style="clear:both">
