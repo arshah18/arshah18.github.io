@@ -16,6 +16,14 @@ plugins:
   - jekyll-remote-theme
 permalink: pretty
 
+# Navigation structure - FIXED
+nav_sort: case_sensitive
+
+# Define main navigation to avoid duplicates
+nav_exclude: []
+includes:
+  - pages
+
 # Auxiliary links
 aux_links:
   "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
@@ -30,7 +38,28 @@ heading_anchors: true
 
 # Just-the-Docs specific
 just_the_docs:
-  collections_default: true
+  collections:
+    - default  # Only use default collection to avoid duplicates
+
+# Collections definition to avoid duplicate navigation
+collections:
+  pages:
+    permalink: "/:path/"
+    output: true
+
+# Defaults to ensure proper navigation
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "default"
+      nav_exclude: false
+  - scope:
+      path: ""
+      type: "pages" 
+    values:
+      layout: "default"
 
 # Force rebuild (safe no-op)
 # cache-bust: v2
