@@ -1,28 +1,47 @@
-title: "Rauf Shah's Digital Portfolio"
-description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
+title: "Rauf Shah, PhD"
+description: "Health Data Scientist | Public Health Informatics | Cancer Surveillance | Building FHIR/HAPI pipelines for clinical-genomic integration"
 
-# Theme
+# Theme with customizations
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 search_enabled: true
+search.placeholder: "Search research, publications..."
 
-# Site URL settings
+# Site settings
 url: "https://arshah18.github.io"
 baseurl: ""
 
-# Enable remote theme plugin
+# Plugins
 plugins:
   - jekyll-remote-theme
 permalink: pretty
 
-# Auxiliary links
+# Tighter navigation
+nav_external_new_tab: true
+
+# Auxiliary links - professional focus
 aux_links:
-  "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
-  "Google Scholar": "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
-  "Email": "mailto:abrshah@unmc.edu"
+  "📄 CV": "/assets/rauf-shah-cv.pdf"
+  "📊 GitHub": "https://github.com/arshah18"
+  "🎓 Scholar": "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
+  "💼 LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
+
+# Callouts for modern look
+callouts:
+  highlight:
+    color: blue
+  important:
+    color: green
+  note:
+    color: purple
 
 # Favicon
 favicon_ico: "/assets/favicon.png"
-
-# Heading anchors
 heading_anchors: true
+
+# Mermaid diagrams for technical content
+mermaid:
+  version: "9.1.3"
+
+# Maturity indicator
+maturity: "active"
