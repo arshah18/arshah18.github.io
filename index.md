@@ -5,165 +5,202 @@ nav_order: 1
 permalink: /
 ---
 
-<!-- Modern Academic Homepage -->
-
-<div class="hero-section">
-  <div class="profile-header">
+<div class="home-hero">
+  <div class="profile-container">
     <img src="{{ site.baseurl }}/assets/portrait.jpg" 
          alt="Rauf Shah" 
          class="profile-image"
          onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';">
-    <div class="profile-text">
-      <h1>Rauf Shah</h1>
-      <p class="tagline">Health Data Scientist • Public Health Researcher</p>
-      <p class="brief-intro">I build data systems that connect clinical care with public health to improve cancer outcomes.</p>
-    </div>
-  </div>
-
-  <!-- Quick Access Cards -->
-  <div class="quick-access">
-    <a href="{{ site.baseurl }}/pages/about/" class="card">
-      <h3>👋 About Me</h3>
-      <p>My background & journey</p>
-    </a>
-    
-    <a href="{{ site.baseurl }}/pages/academic-portfolio/" class="card">
-      <h3>🎓 Research</h3>
-      <p>Projects & publications</p>
-    </a>
-    
-    <a href="{{ site.baseurl }}/pages/public-health-focus/" class="card">
-      <h3>🏥 Health Focus</h3>
-      <p>Cancer & epidemiology work</p>
-    </a>
-    
-    <a href="{{ site.baseurl }}/assets/rauf-shah-cv.pdf" class="card">
-      <h3>📄 CV</h3>
-      <p>Download my resume</p>
-    </a>
-  </div>
-</div>
-
-<!-- What I Do - Simplified -->
-<div class="focus-areas">
-  <h2>What I Work On</h2>
-  <div class="focus-grid">
-    <div class="focus-item">
-      <h3>🔬 Cancer Data</h3>
-      <p>Building dashboards that track lymphoma and other cancers across populations</p>
-    </div>
-    <div class="focus-item">
-      <h3>💻 Data Systems</h3>
-      <p>Creating pipelines that connect hospital records with public health data</p>
-    </div>
-    <div class="focus-item">
-      <h3>🏛️ Health Policy</h3>
-      <p>Translating data into insights for healthcare decisions</p>
+    <div class="profile-content">
+      <h1 class="home-title">Rauf Shah</h1>
+      <p class="home-subtitle">Health Data Scientist • Public Health Researcher</p>
+      <p class="home-description">I build data systems that connect clinical care with public health to improve cancer outcomes.</p>
     </div>
   </div>
 </div>
 
-<!-- AI Research Assistant Preview -->
-<div class="ai-preview">
-  <h2>Ask About My Research 🤖</h2>
+## Quick Links
+
+<div class="home-links">
+  <a href="{{ site.baseurl }}/pages/about/" class="home-link-card">
+    <strong>👋 About Me</strong>
+    <span>My background & journey</span>
+  </a>
+  
+  <a href="{{ site.baseurl }}/pages/academic-portfolio/" class="home-link-card">
+    <strong>🎓 Research</strong>
+    <span>Projects & publications</span>
+  </a>
+  
+  <a href="{{ site.baseurl }}/pages/public-health-focus/" class="home-link-card">
+    <strong>🏥 Health Focus</strong>
+    <span>Cancer & epidemiology work</span>
+  </a>
+  
+  <a href="{{ site.baseurl }}/assets/rauf-shah-cv.pdf" class="home-link-card">
+    <strong>📄 CV</strong>
+    <span>Download my resume</span>
+  </a>
+</div>
+
+## What I Work On
+
+<div class="work-grid">
+  <div class="work-item">
+    <h3>🔬 Cancer Data</h3>
+    <p>Building dashboards that track lymphoma and other cancers across populations</p>
+  </div>
+  <div class="work-item">
+    <h3>💻 Data Systems</h3>
+    <p>Creating pipelines that connect hospital records with public health data</p>
+  </div>
+  <div class="work-item">
+    <h3>🏛️ Health Policy</h3>
+    <p>Translating data into insights for healthcare decisions</p>
+  </div>
+</div>
+
+<div class="ai-notice">
+  <h3>Ask About My Research 🤖</h3>
   <p>Soon: Chat with an AI assistant to learn about my work in public health informatics</p>
   <small>Coming feature - Interactive research explorer</small>
 </div>
 
 <style>
-.hero-section {
-  text-align: center;
-  padding: 2rem 0;
+.home-hero {
+  margin: 2rem 0;
 }
 
-.profile-header {
+.profile-container {
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-bottom: 3rem;
-  flex-wrap: wrap;
-  justify-content: center;
+  margin-bottom: 2rem;
 }
 
 .profile-image {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #f0f0f0;
+  border: 3px solid var(--sidebar-bg);
 }
 
-.profile-text h1 {
+.home-title {
   margin: 0;
-  color: #2c3e50;
+  color: var(--body-text);
 }
 
-.tagline {
-  font-size: 1.2rem;
-  color: #7f8c8d;
-  margin: 0.5rem 0;
-}
-
-.brief-intro {
+.home-subtitle {
   font-size: 1.1rem;
-  line-height: 1.6;
-  max-width: 500px;
+  color: var(--body-text);
+  margin: 0.5rem 0;
+  font-weight: 500;
 }
 
-.quick-access {
+.home-description {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+  color: var(--body-text);
+}
+
+.home-links {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1rem;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
 }
 
-.card {
-  background: white;
+.home-link-card {
+  background: var(--sidebar-bg);
   padding: 1.5rem;
-  border-radius: 12px;
+  border-radius: 8px;
   text-decoration: none;
   color: inherit;
-  border: 2px solid #e9ecef;
-  transition: all 0.3s ease;
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+  display: block;
 }
 
-.card:hover {
-  border-color: #3498db;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+.home-link-card:hover {
+  background: var(--hover-bg);
+  border-color: var(--link-color);
+  text-decoration: none;
 }
 
-.focus-grid {
+.home-link-card strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--link-color);
+}
+
+.home-link-card span {
+  font-size: 0.9rem;
+  color: var(--body-text);
+}
+
+.work-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
-  margin-top: 1.5rem;
+  margin: 1.5rem 0;
 }
 
-.focus-item {
-  background: #f8f9fa;
+.work-item {
+  background: var(--code-bg);
   padding: 1.5rem;
   border-radius: 8px;
-  border-left: 4px solid #3498db;
+  border-left: 4px solid var(--link-color);
 }
 
-.ai-preview {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+.work-item h3 {
+  margin: 0 0 0.5rem 0;
+  color: var(--body-text);
+}
+
+.work-item p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.ai-notice {
+  background: linear-gradient(135deg, var(--link-color) 0%, #764ba2 100%);
   color: white;
-  padding: 2rem;
-  border-radius: 12px;
+  padding: 1.5rem;
+  border-radius: 8px;
   margin: 2rem 0;
   text-align: center;
 }
 
+.ai-notice h3 {
+  margin: 0 0 0.5rem 0;
+  color: white;
+}
+
+.ai-notice p {
+  margin: 0 0 0.5rem 0;
+  opacity: 0.9;
+}
+
+.ai-notice small {
+  opacity: 0.8;
+}
+
 @media (max-width: 768px) {
-  .profile-header {
+  .profile-container {
     flex-direction: column;
     text-align: center;
+    gap: 1rem;
   }
   
-  .quick-access {
-    grid-template-columns: 1fr 1fr;
+  .home-links {
+    grid-template-columns: 1fr;
+  }
+  
+  .work-grid {
+    grid-template-columns: 1fr;
   }
 }
 </style>
