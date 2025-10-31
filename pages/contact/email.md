@@ -2,7 +2,7 @@
 layout: default
 title: Email
 parent: Contact
-nav_order: 1
+
 permalink: /pages/contact/email/
 ---
 

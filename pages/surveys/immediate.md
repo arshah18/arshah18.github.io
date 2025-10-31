@@ -2,7 +2,7 @@
 layout: default
 title: Immediate Post-Session Survey
 parent: Surveys
-nav_order: 1
+
 permalink: /surveys/immediate/
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Teaching Philosophy
 parent: Academic Portfolio
-nav_order: 1
+
 permalink: /pages/academic-portfolio/teaching-philosophy/
 ---
 
