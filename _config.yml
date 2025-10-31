@@ -10,34 +10,14 @@ search_enabled: true
 url: "https://arshah18.github.io"
 baseurl: ""
 
-# Enable remote theme plugin (required on GitHub Pages) + pretty permalinks
+# Enable remote theme plugin
 plugins:
   - jekyll-remote-theme
 permalink: pretty
 
-# Navigation - exclude pages from auto-nav to prevent duplicates
+# Exclude the surveys index from navigation since it conflicts
 nav_exclude:
-  - pages/
-  - pages/about/
-  - pages/academic-portfolio/
-  - pages/public-health-focus/
-  - pages/contact/
-  - pages/surveys/
-
-# Only include these main sections
-nav_pages:
-  - title: "About"
-    url: "/pages/about/"
-    nav_order: 2
-  - title: "Academic Portfolio"
-    url: "/pages/academic-portfolio/"
-    nav_order: 3
-  - title: "Public Health Focus"
-    url: "/pages/public-health-focus/"
-    nav_order: 4
-  - title: "Contact"
-    url: "/pages/contact/"
-    nav_order: 5
+  - pages/surveys/index.md
 
 # Auxiliary links
 aux_links:
@@ -56,12 +36,4 @@ just_the_docs:
   collections:
     pages:
       permalink: "/:path/"
-      nav_exclude: true
       output: true
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
