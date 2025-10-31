@@ -6,9 +6,6 @@ permalink: /
 ---
 
 # Rauf Shah
-{: .no_toc }
-
-<hr>
 
 <div class="profile-header">
   <img src="{{ site.baseurl }}/assets/portrait.jpg" 
@@ -22,17 +19,15 @@ permalink: /
 </div>
 
 ## Quick Access
-{: .no_toc }
 
 <div class="quick-links">
-  <a href="{{ site.baseurl }}/pages/about/" class="btn btn-primary">About Me</a>
-  <a href="{{ site.baseurl }}/pages/academic-portfolio/" class="btn btn-outline">Research</a>
-  <a href="{{ site.baseurl }}/pages/public-health-focus/" class="btn btn-outline">Health Focus</a>
-  <a href="{{ site.baseurl }}/assets/rauf-shah-cv.pdf" class="btn btn-outline">Download CV</a>
+  <a href="{{ site.baseurl }}/pages/about/" class="home-btn primary">About Me</a>
+  <a href="{{ site.baseurl }}/pages/academic-portfolio/" class="home-btn">Research</a>
+  <a href="{{ site.baseurl }}/pages/public-health-focus/" class="home-btn">Health Focus</a>
+  <a href="{{ site.baseurl }}/assets/rauf-shah-cv.pdf" class="home-btn">Download CV</a>
 </div>
 
 ## What I Work On
-{: .no_toc }
 
 <div class="work-areas">
   <div class="work-item">
@@ -60,6 +55,8 @@ permalink: /
   align-items: center;
   gap: 2rem;
   margin: 2rem 0;
+  padding: 1rem 0;
+  border-bottom: 1px solid #eaeaea;
 }
 
 .profile-image {
@@ -73,7 +70,14 @@ permalink: /
 .profile-info .lead {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
-  color: var(--body-text);
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.profile-info p {
+  color: #555;
+  line-height: 1.5;
+  margin: 0;
 }
 
 .quick-links {
@@ -81,6 +85,37 @@ permalink: /
   gap: 1rem;
   flex-wrap: wrap;
   margin: 2rem 0;
+}
+
+.home-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #f8f9fa;
+  border: 2px solid #dee2e6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #495057;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.home-btn:hover {
+  background: #e9ecef;
+  border-color: #6c757d;
+  text-decoration: none;
+  color: #495057;
+}
+
+.home-btn.primary {
+  background: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+.home-btn.primary:hover {
+  background: #0056b3;
+  border-color: #0056b3;
+  color: white;
 }
 
 .work-areas {
@@ -92,17 +127,26 @@ permalink: /
 
 .work-item {
   padding: 1.5rem;
-  background: var(--sidebar-bg);
+  background: #f8f9fa;
   border-radius: 8px;
-  border-left: 4px solid var(--link-color);
+  border-left: 4px solid #007bff;
+  color: #333;
 }
 
 .work-item h4 {
   margin: 0 0 0.5rem 0;
+  color: #2c3e50;
+}
+
+.work-item p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #555;
 }
 
 .feature-preview {
-  background: var(--link-color);
+  background: linear-gradient(135deg, #007bff 0%, #6610f2 100%);
   color: white;
   padding: 1.5rem;
   border-radius: 8px;
@@ -115,10 +159,16 @@ permalink: /
   margin: 0 0 0.5rem 0;
 }
 
+.feature-preview p {
+  margin: 0;
+  opacity: 0.9;
+}
+
 @media (max-width: 768px) {
   .profile-header {
     flex-direction: column;
     text-align: center;
+    gap: 1rem;
   }
   
   .quick-links {
@@ -127,6 +177,12 @@ permalink: /
   
   .work-areas {
     grid-template-columns: 1fr;
+  }
+  
+  .home-btn {
+    flex: 1;
+    text-align: center;
+    min-width: 140px;
   }
 }
 </style>
