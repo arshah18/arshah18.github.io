@@ -15,10 +15,6 @@ plugins:
   - jekyll-remote-theme
 permalink: pretty
 
-# Exclude the surveys index from navigation since it conflicts
-nav_exclude:
-  - pages/surveys/index.md
-
 # Auxiliary links
 aux_links:
   "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
@@ -30,10 +26,3 @@ favicon_ico: "/assets/favicon.png"
 
 # Heading anchors
 heading_anchors: true
-
-# Just-the-Docs specific
-just_the_docs:
-  collections:
-    pages:
-      permalink: "/:path/"
-      output: true
