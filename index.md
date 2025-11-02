@@ -7,10 +7,10 @@ permalink: /
 
 <div class="hero-minimal">
   <div class="profile-hero">
-    <img src="{{ site.baseurl }}/assets/portrait.jpg" 
+    <img src="/assets/portrait.jpg" 
          alt="Rauf Shah" 
          class="profile-avatar"
-         onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';">
+         onerror="this.onerror=null;this.src='/assets/headshot.jpg';">
     <div class="hero-content">
       <h1>Rauf Shah, PhD</h1>
       <p class="expertise-tag">Health Data Scientist • Public Health Informatics</p>
@@ -18,8 +18,6 @@ permalink: /
     </div>
   </div>
 </div>
-
-## Core Expertise
 
 <div class="expertise-grid">
   <div class="expertise-card">
@@ -36,32 +34,28 @@ permalink: /
   </div>
 </div>
 
-## Quick Access
-
 <div class="nav-cards">
-  <a href="{{ site.baseurl }}/pages/about/" class="nav-card">
+  <a href="/pages/about/" class="nav-card">
     <span class="nav-icon">👤</span>
     <strong>Background</strong>
     <span>Education & experience</span>
   </a>
-  <a href="{{ site.baseurl }}/pages/academic-portfolio/" class="nav-card">
+  <a href="/pages/academic-portfolio/" class="nav-card">
     <span class="nav-icon">📚</span>
     <strong>Research</strong>
     <span>Publications & projects</span>
   </a>
-  <a href="{{ site.baseurl }}/pages/public-health-focus/" class="nav-card">
+  <a href="/pages/public-health-focus/" class="nav-card">
     <span class="nav-icon">🏥</span>
     <strong>Health Focus</strong>
     <span>Cancer & epidemiology</span>
   </a>
-  <a href="{{ site.baseurl }}/assets/rauf-shah-cv.pdf" class="nav-card">
+  <a href="/assets/rauf-shah-cv.pdf" class="nav-card">
     <span class="nav-icon">📄</span>
     <strong>Curriculum Vitae</strong>
     <span>Download PDF</span>
   </a>
 </div>
-
-## AI Research Assistant Preview
 
 <div class="ai-teaser">
   <h3>Interactive Research Explorer</h3>
