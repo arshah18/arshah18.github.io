@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: rauf-home
 title: Home
-nav_order: 1
 permalink: /
 ---
 
