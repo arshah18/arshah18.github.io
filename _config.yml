@@ -1,25 +1,16 @@
-title: "Rauf Shah, PhD"
-description: "Health Data Science • Clinical Genomics • Public Health Informatics"
+# _config.yml
+title: "arshah18"
 url: "https://arshah18.github.io"
 baseurl: ""
-permalink: pretty
-timezone: "America/Chicago"
-color_scheme: nil
-theme: just-the-docs
+
+theme: null
+remote_theme: just-the-docs/just-the-docs@v0.6.2
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
-just_the_docs:
-  color_scheme: light
-  custom_css:
-    - assets/css/custom.css
-exclude:
-  - assets.bak
-
-sass:
-  load_paths:
-    - _sass
-    - /usr/local/lib/ruby/gems/3.3.0/gems/just-the-docs-0.6.2/_sass
-
+# (Optional) just-the-docs options
+color_scheme: light
+search_enabled: true
