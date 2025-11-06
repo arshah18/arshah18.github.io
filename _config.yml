@@ -5,7 +5,7 @@ baseurl: ""
 permalink: pretty
 timezone: "America/Chicago"
 
-# Use local layouts/CSS (no remote theme)
+# Disable any theme; do NOT set `remote_theme`
 theme: null
 
 markdown: kramdown
@@ -13,5 +13,4 @@ kramdown:
   input: GFM
 
 plugins:
-  - jekyll-seo-tag   # required by {% seo %}
-
+  - jekyll-seo-tag
