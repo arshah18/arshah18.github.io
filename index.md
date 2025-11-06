@@ -1,5 +1,5 @@
 ---
-layout: rauf-home
+layout: home
 title: Home
 permalink: /
 ---
