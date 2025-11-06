@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="icon" href="{{ "/assets/favicon.png" | relative_url }}">
+  <!-- Use YOUR CSS, not Just-the-Docs -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <style>
+    /* minimal safety to keep content readable even if main.css is cached */
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin:0; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 1.5rem; }
+  </style>
+</head>
+<body>
+  <main id="main-content" class="container">
+    {{ content }}
+  </main>
+
+  <!-- optional site script (yours) -->
+  <script defer src="{{ "/assets/js/site.js" | relative_url }}"></script>
+</body>
+</html>
