@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {%- seo -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- If /assets/css/main.css doesn't exist yet, page will still render without styles -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+</head>
+<body>
+  <header class="site-header" style="padding:1rem 0;border-bottom:1px solid #eee;">
+    <div class="wrapper" style="max-width:1100px;margin:0 auto;padding:0 1rem;">
+      <a class="site-title" href="{{ "/" | relative_url }}" style="font-weight:700;text-decoration:none;">
+        {{ site.title }}
+      </a>
+      <nav style="float:right;display:inline-flex;gap:1rem;">
+        <a href="{{ "/about/" | relative_url }}">About</a>
+        <a href="{{ "/public-health-focus/" | relative_url }}">Public Health Focus</a>
+        <a href="{{ "/academic-portfolio/" | relative_url }}">Academic Portfolio</a>
+        <a href="{{ "/contact/" | relative_url }}">Contact</a>
+      </nav>
+      <div style="clear:both;"></div>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper" style="max-width:1100px;margin:0 auto;padding:2rem 1rem;">
+      {% if page.title %}<h1 style="margin-top:0">{{ page.title }}</h1>{% endif %}
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer" style="border-top:1px solid #eee;">
+    <div class="wrapper" style="max-width:1100px;margin:0 auto;padding:1rem;">
+      <p>© {{ site.time | date: "%Y" }} {{ site.author.name | default: site.title }}</p>
+    </div>
+  </footer>
+
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+</body>
+</html>
