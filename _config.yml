@@ -1,24 +1,45 @@
-title: "Rauf Shah"
-description: "Oncology bioinformatics • cancer surveillance • FHIR/HAPI pipelines"
+title: "Rauf Shah, PhD"
+description: "Health Data Science • Clinical Genomics • Public Health Informatics"
 url: "https://arshah18.github.io"
-baseurl: ""   # keep empty for username.github.io
+baseurl: ""
+permalink: pretty
+timezone: "America/Chicago"
+
+# IMPORTANT: no remote_theme here — use local layouts.
+theme: null
 
 markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title/
-timezone: America/Chicago
+kramdown:
+  input: GFM
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-redirect-from
-  # Enable later if you add a .bib:
-  # - jekyll-scholar
+  - kramdown-parser-gfm
 
-# Navbar links
+author:
+  name: "Rauf Shah, PhD"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Health Data Scientist · Public Health Informatics"
+  email: "abrshah@unmc.edu"
+  links:
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/assets/rauf-shah-cv.pdf"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/arshah18"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/rauf-s-a4634528/"
+
 navbar:
   links:
     - title: "About"
@@ -27,28 +48,5 @@ navbar:
       url: /public-health-focus/
     - title: "Academic Portfolio"
       url: /academic-portfolio/
-    - title: "Publications"
-      url: /publications/
-    - title: "CV"
-      url: /cv/
     - title: "Contact"
       url: /contact/
-
-author:
-  name: "Rauf Shah"
-  avatar: /assets/img/profile.jpg
-  role: "Lead Health Data Coordinator II, UNMC"
-  email: "abrshah@unmc.edu"
-  github: "arshah18"
-  linkedin: "rauf-s-a4634528"
-  scholar: "Aje0C8AAAAAJ"
-
-footer:
-  links:
-    - label: Google Scholar
-      url: "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
-    - label: LinkedIn
-      url: "https://www.linkedin.com/in/rauf-s-a4634528/"
-
-search: true
-theme_color: auto
