@@ -4,13 +4,22 @@ url: "https://arshah18.github.io"
 baseurl: ""
 permalink: pretty
 timezone: "America/Chicago"
-
-# Disable any theme; do NOT set `remote_theme`
-theme: null
-
-markdown: kramdown
-kramdown:
-  input: GFM
+color_scheme: nil
+theme: just-the-docs
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+just_the_docs:
+  color_scheme: light
+  custom_css:
+    - assets/css/custom.css
+exclude:
+  - assets.bak
+
+sass:
+  load_paths:
+    - _sass
+    - /usr/local/lib/ruby/gems/3.3.0/gems/just-the-docs-0.6.2/_sass
+
