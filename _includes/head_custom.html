@@ -1,6 +1,13 @@
-<link rel="stylesheet" href="{{ '/assets/css/jtd.css' | relative_url }}">
 <!-- _includes/head_custom.html -->
-<link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16.png' | relative_url }}">
-<link rel="apple-touch-icon" href="{{ '/assets/images/favicon-apple-touch.png' | relative_url }}">
+<!-- Load your light/dark CSS that Jekyll compiled into /assets/css -->
+<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-light.css' | relative_url }}" media="(prefers-color-scheme: light)">
+<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-dark.css'  | relative_url }}" media="(prefers-color-scheme: dark)">
+
+<!-- Favicon(s) -->
+<link rel="icon" type="image/jpeg" href="{{ '/assets/images/favicon.jpeg' | relative_url }}">
+<!-- Optional PNG/ICO if you added them -->
+<!-- <link rel="icon" href="{{ '/favicon.ico' | relative_url }}"> -->
+<!-- <link rel="apple-touch-icon" href="{{ '/assets/images/favicon-apple-touch.png' | relative_url }}"> -->
+
+<!-- Build stamp to verify deploy -->
+<meta name="build" content="{{ site.github.build_revision | default: site.time }}">
