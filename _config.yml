@@ -5,7 +5,7 @@ baseurl: ""
 permalink: pretty
 timezone: "America/Chicago"
 
-# IMPORTANT: no remote_theme here — use local layouts.
+# Use local layouts/CSS (no remote theme)
 theme: null
 
 markdown: kramdown
@@ -13,40 +13,5 @@ kramdown:
   input: GFM
 
 plugins:
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
-  - kramdown-parser-gfm
+  - jekyll-seo-tag   # required by {% seo %}
 
-author:
-  name: "Rauf Shah, PhD"
-  avatar: "/assets/img/profile.jpg"
-  bio: "Health Data Scientist · Public Health Informatics"
-  email: "abrshah@unmc.edu"
-  links:
-    - label: "CV"
-      icon: "fas fa-file-pdf"
-      url: "/assets/rauf-shah-cv.pdf"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/arshah18"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/rauf-s-a4634528/"
-
-navbar:
-  links:
-    - title: "About"
-      url: /about/
-    - title: "Public Health Focus"
-      url: /public-health-focus/
-    - title: "Academic Portfolio"
-      url: /academic-portfolio/
-    - title: "Contact"
-      url: /contact/
