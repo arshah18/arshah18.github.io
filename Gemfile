@@ -1,17 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4"
 gem "webrick", "~> 1.8"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "jemoji"
-gem "jekyll-redirect-from"
-gem "jekyll-include-cache"
-gem "just-the-docs", "~> 0.6.0"
-# Optional later:
-# gem "jekyll-scholar"
+gem "just-the-docs", "~> 0.8"
 
-group :development do
-  gem "bundler"
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
