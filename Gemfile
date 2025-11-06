@@ -8,6 +8,7 @@ gem "jekyll-sitemap"
 gem "jemoji"
 gem "jekyll-redirect-from"
 gem "jekyll-include-cache"
+gem "just-the-docs", "~> 0.6.0"
 # Optional later:
 # gem "jekyll-scholar"
 

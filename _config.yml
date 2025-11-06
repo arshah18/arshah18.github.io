@@ -6,11 +6,16 @@ permalink: pretty
 timezone: "America/Chicago"
 
 # Disable any theme; do NOT set `remote_theme`
-theme: null
+theme: just-the-docs
 
 markdown: kramdown
 kramdown:
   input: GFM
 
+theme: just-the-docs
+
 plugins:
+  - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
