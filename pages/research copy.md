@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # Research
-Programmatic.ctDNA pipelines, lymphoma cohorts, and translational dashboards.
+Programmatic ctDNA pipelines, lymphoma cohorts, and translational dashboards.

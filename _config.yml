@@ -1,12 +1,18 @@
-title: "Rauf Shah"
-description: "Biomedical Informatics • Public Health • Lymphoma Research"
-logo: /assets/images/logo.png   # optional if you have one
-color_scheme: light             # or "dark" / "dark-light"
-
-# Just the Docs options
+# --- NAV/SEARCH OPTIONS ---
 search_enabled: true
-nav_external_links:
-  - title: "GitHub"
-    url: "https://github.com/arshah18"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/arshah18/"
+aux_links:
+  "GitHub":
+    - "https://github.com/arshah18"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/arshah18/"
+
+# Collections for "Updates" (news posts)
+collections:
+  updates:
+    output: true
+    permalink: /updates/:path/
+
+# Markdown options (nice tables/footnotes)
+kramdown:
+  input: GFM
+  hard_wrap: false

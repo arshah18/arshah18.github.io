@@ -1,22 +1,154 @@
 ---
-layout: default
+layout: home
 title: Home
-nav_exclude: true
+nav_order: 1
+permalink: /
 ---
 
-# Rauf Shah, PhD
-Lead Health Data Coordinator II — UNMC  
-**Bioinformatics • Public Health • Lymphoma Research**
+<div class="professional-layout">
+  <!-- Hero Section with Sidebar Layout -->
+  <div class="layout-container">
+    <div class="sidebar">
+      <div class="profile-card">
+        <div class="profile-image">
+          <img src="{{ site.baseurl }}/assets/portrait.jpg" 
+               alt="Portrait of Rauf Shah"
+               onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';">
+        </div>
+        <div class="profile-info">
+          <h1>Rauf Shah</h1>
+          <p class="credentials">MS Bioinformatics | PhD | MPH–Epidemiology Student</p>
+          <p class="affiliation">UNMC</p>
+          <div class="quick-links">
+            <a href="{{ site.baseurl }}/pages/about" class="quick-link">About Me</a>
+            <a href="{{ site.baseurl }}/pages/public-health-focus" class="quick-link">Public Health Focus</a>
+            <a href="{{ site.baseurl }}/pages/academic-portfolio" class="quick-link">Academic Portfolio</a>
+            <a href="{{ site.baseurl }}/pages/contact" class="quick-link">Contact</a>
+          </div>
+        </div>
+      </div>
+    </div>
 
-Welcome — this site hosts my research notes, teaching portfolio, and project dashboards.
+    <div class="main-content-area">
+      <!-- Welcome Section -->
+      <div class="welcome-section">
+        <h2>Transforming Data into Public Health Impact</h2>
+        <p class="welcome-text">
+          Lead Health Data Coordinator II bridging clinical genomics, oncology bioinformatics, and public health 
+          through secure FHIR/HAPI data pipelines, cancer surveillance analytics, and decision-ready dashboards 
+          for clinicians and policy partners.
+        </p>
+        <div class="welcome-highlights">
+          <div class="welcome-highlight">
+            <span>Clinical Genomics & Bioinformatics</span>
+          </div>
+          <div class="welcome-highlight">
+            <span>Cancer Surveillance & Epidemiology</span>
+          </div>
+          <div class="welcome-highlight">
+            <span>Public Health Informatics</span>
+          </div>
+        </div>
+      </div>
 
-<div class="text-small">
-Latest updates are posted in <a href="/updates/">Updates</a>.
+      <!-- Quick Navigation -->
+      <div class="quick-nav-section">
+        <h2 class="section-title">Explore My Work</h2>
+        <div class="quick-nav-grid">
+          <a href="{{ site.baseurl }}/pages/about" class="nav-card">
+            <h3>About</h3>
+            <p>Professional background, experience, and credentials</p>
+            <span class="nav-card-cta">View Profile</span>
+          </a>
+
+          <a href="{{ site.baseurl }}/pages/public-health-focus" class="nav-card">
+            <h3>Public Health Focus</h3>
+            <p>Practice interests, research, and translation to practice</p>
+            <span class="nav-card-cta">Explore Focus</span>
+          </a>
+
+          <a href="{{ site.baseurl }}/pages/academic-portfolio" class="nav-card">
+            <h3>Academic Portfolio</h3>
+            <p>Leadership, teaching, publications, and coursework</p>
+            <span class="nav-card-cta">View Portfolio</span>
+          </a>
+
+          <a href="{{ site.baseurl }}/pages/contact" class="nav-card">
+            <h3>Contact & Collaboration</h3>
+            <p>Get in touch for research partnerships and projects</p>
+            <span class="nav-card-cta">Connect</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Expertise Highlights -->
+      <div class="expertise-highlights">
+        <h2 class="section-title">Areas of Expertise</h2>
+        
+        <div class="expertise-grid">
+          <div class="expertise-card">
+            <div class="expertise-header">
+              <h3>Cancer Surveillance</h3>
+            </div>
+            <ul>
+              <li>Registries ↔ EHR ↔ pathology ↔ genomics integration</li>
+              <li>ICD / ICD-O / NAACCR fidelity; validated, transparent analytics</li>
+              <li>Equity-aware outcomes, incidence & survival monitoring</li>
+            </ul>
+          </div>
+
+          <div class="expertise-card">
+            <div class="expertise-header">
+              <h3>Clinical Genomics</h3>
+            </div>
+            <ul>
+              <li>Variant curation (SNV/indel, CNAs incl. ichorCNA)</li>
+              <li>Clinician-ready summaries; EMR/registry linkage</li>
+              <li>Tumor board support & decision frameworks</li>
+            </ul>
+          </div>
+
+          <div class="expertise-card">
+            <div class="expertise-header">
+              <h3>Disaster Epidemiology</h3>
+            </div>
+            <ul>
+              <li>Syndromic feeds & situational awareness dashboards</li>
+              <li>Clear thresholds/alerts and incident communication</li>
+              <li>Rapid translation of signals into action</li>
+            </ul>
+          </div>
+
+          <div class="expertise-card">
+            <div class="expertise-header">
+              <h3>Health Data Engineering</h3>
+            </div>
+            <ul>
+              <li>Secure FHIR/HAPI data pipelines</li>
+              <li>Reproducible analytics and dashboards</li>
+              <li>Data governance and quality assurance</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Collaboration CTA -->
+      <div class="collaboration-cta">
+        <div class="cta-content">
+          <div class="cta-text">
+            <h3>Ready to Collaborate on Public Health Innovation?</h3>
+            <p>
+              I partner with clinicians, researchers, and public health professionals on genomics data analysis, 
+              survival studies, and registry-linked cohort research. Let's transform complex data into actionable 
+              insights for better health outcomes.
+            </p>
+          </div>
+          <div class="cta-actions">
+            <a class="button primary" href="{{ site.baseurl }}/pages/contact">Start a Conversation</a>
+            <a class="button secondary" href="{{ site.baseurl }}/pages/about/experience">View My CV</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-
-## Highlights
-- CanLymphHub: microservices platform for lymphoma research (Next.js + FastAPI + Keycloak + Postgres)
-- FHIR/HAPI bulk import pipelines for multi-omics clinical data
-- Teaching & training in public health surveillance, disaster epi, and data dashboards
-
-👉 Jump to: [Research](/research/) • [Teaching](/teaching/) • [Projects](/projects/) • [Contact](/contact/)
