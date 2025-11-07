@@ -1,16 +1,12 @@
-# _config.yml
-title: "arshah18"
-url: "https://arshah18.github.io"
-baseurl: ""
+title: "Rauf Shah"
+description: "Biomedical Informatics • Public Health • Lymphoma Research"
+logo: /assets/images/logo.png   # optional if you have one
+color_scheme: light             # or "dark" / "dark-light"
 
-theme: null
-remote_theme: just-the-docs/just-the-docs@v0.6.2
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# (Optional) just-the-docs options
-color_scheme: light
+# Just the Docs options
 search_enabled: true
+nav_external_links:
+  - title: "GitHub"
+    url: "https://github.com/arshah18"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/arshah18/"
