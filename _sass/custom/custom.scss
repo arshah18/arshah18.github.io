@@ -1,9 +1,11 @@
 /* === Rauf Shah — Custom Site Styles (Just-the-Docs) === */
-/* NOTE: Loaded via assets/css/just-the-docs.scss */
+/* Loaded by: assets/css/just-the-docs.scss */
 
-/* ===== Base Layout & Global Styles ===== */
+/* =============================
+   Base Layout & Global Styles
+   ============================= */
 
-/* Widen content area for desktop (keep within JTD layout) */
+/* Widen content area for desktop (within JTD layout) */
 @media (min-width: 1100px) {
   .main-content {
     max-width: 1200px !important;
@@ -26,7 +28,10 @@ body {
 }
 
 /* Improve typography (respect JTD sizing) */
-.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
   letter-spacing: -0.01em;
 }
 
@@ -51,7 +56,9 @@ body {
   border-radius: 2px;
 }
 
-/* ===== Buttons ===== */
+/* =============================
+   Buttons
+   ============================= */
 .button {
   display: inline-flex;
   align-items: center;
@@ -86,7 +93,9 @@ body {
   box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
 }
 
-/* ===== Homepage / Generic Grids & Cards ===== */
+/* =============================
+   Homepage / Generic Grids & Cards
+   ============================= */
 
 /* Two-column layout shell used on index */
 .layout-container {
@@ -101,7 +110,8 @@ body {
   }
 }
 
-.sidebar .profile-card {
+/* ---- Sidebar profile card (footer include) ---- */
+.side-bar .profile-card {
   background: #ffffff;
   border: 1px solid #e2e8f0;
   border-radius: 16px;
@@ -110,31 +120,30 @@ body {
   top: 1rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.04);
 }
-.profile-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 14px;
+
+/* The actual avatar image injected by _includes/nav_footer_custom.html */
+.side-bar .profile-avatar {
+  display: block;
+  width: 140px;            /* Adjust 120–160px to taste */
+  height: 140px;
+  border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 0.75rem;
-}
-.profile-info h1 {
-  font-size: 1.5rem;
-  margin: 0.25rem 0 0.25rem;
-}
-.profile-info .credentials,
-.profile-info .affiliation {
-  margin: 0;
-  color: #4a5568;
-  font-size: 0.95rem;
+  object-position: 50% 18%; /* Nudge down so hair isn’t cropped */
+  margin: 0.25rem auto 0.5rem;
+  box-shadow: 0 0 0 2px rgba(0,0,0,.05);
 }
 
-.quick-links {
+.side-bar .profile-name  { font-weight: 600; font-size: .95rem; line-height: 1.2; text-align: center; }
+.side-bar .profile-role  { font-size: .8rem;  color: #5a5a5a; text-align: center; }
+
+/* Optional quick links beneath avatar (if present) */
+.side-bar .quick-links {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.5rem;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
-.quick-link {
+.side-bar .quick-link {
   display: inline-block;
   padding: 0.5rem 0.75rem;
   border-radius: 8px;
@@ -144,7 +153,7 @@ body {
   color: #1a365d;
   transition: box-shadow 0.2s ease, transform 0.1s ease, border-color 0.2s ease;
 }
-.quick-link:hover {
+.side-bar .quick-link:hover {
   transform: translateY(-1px);
   box-shadow: 0 8px 18px rgba(0,0,0,0.06);
   border-color: #cbd5e0;
@@ -156,7 +165,7 @@ body {
   gap: 2rem;
 }
 
-/* Welcome cards/chips */
+/* Welcome chips */
 .welcome-highlights {
   display: flex;
   flex-wrap: wrap;
@@ -172,7 +181,7 @@ body {
   color: #1a365d;
 }
 
-/* Quick Navigation grid used on home */
+/* Quick Navigation and other grids */
 .quick-nav-grid,
 .child-pages-grid,
 .expertise-grid,
@@ -242,12 +251,8 @@ body {
 
 /* Nav cards */
 .nav-card h3 { margin: 0 0 0.25rem 0; }
-.nav-card p { margin: 0 0 0.5rem 0; color: #4a5568; }
-.nav-card-cta {
-  display: inline-block;
-  font-weight: 600;
-  color: #667eea;
-}
+.nav-card p  { margin: 0 0 0.5rem 0; color: #4a5568; }
+.nav-card-cta { display: inline-block; font-weight: 600; color: #667eea; }
 
 /* Expertise cards */
 .expertise-card h3 { margin: 0 0 0.5rem 0; }
@@ -273,7 +278,9 @@ body {
   flex-wrap: wrap;
 }
 
-/* ===== Section-specific helpers ===== */
+/* =============================
+   Section-specific helpers
+   ============================= */
 
 /* About child cards */
 .child-page-card h3 { margin: 0 0 0.25rem 0; }
@@ -281,9 +288,7 @@ body {
 
 /* Contact section */
 .contact-methods .contact-card h3 { margin-top: 0; }
-.alternative-options {
-  gap: 0.5rem;
-}
+.alternative-options { gap: 0.5rem; }
 .alt-option {
   display: inline-flex;
   gap: 0.5rem;
@@ -306,18 +311,13 @@ body {
   align-items: baseline;
   flex-wrap: wrap;
 }
-.email-label {
-  font-weight: 600;
-  color: #1a365d;
-}
-.email-link { font-weight: 600; }
+.email-label { font-weight: 600; color: #1a365d; }
+.email-link  { font-weight: 600; }
 
 /* Public Health Focus grids */
 .focus-areas-overview .focus-card h3,
 .integrated-approach .approach-item h4 { margin-top: 0; }
-.integrated-approach {
-  display: grid; gap: 1rem; grid-template-columns: 1fr;
-}
+.integrated-approach { display: grid; gap: 1rem; grid-template-columns: 1fr; }
 @media (min-width: 800px) {
   .integrated-approach { grid-template-columns: repeat(3, 1fr); }
 }
@@ -325,15 +325,15 @@ body {
 /* Academic Portfolio */
 .portfolio-areas .portfolio-card h3 { margin-top: 0; }
 
-/* About page layout */
-.about-highlights {
-  display: grid; gap: 1rem; grid-template-columns: 1fr;
-}
+/* About page highlights grid */
+.about-highlights { display: grid; gap: 1rem; grid-template-columns: 1fr; }
 @media (min-width: 900px) {
   .about-highlights { grid-template-columns: repeat(3, 1fr); }
 }
 
-/* ===== Optional hero/quick-stats blocks (if used later) ===== */
+/* =============================
+   Optional hero/quick-stats blocks
+   ============================= */
 
 .hero-fullwidth {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -353,7 +353,7 @@ body {
   background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
 }
 .hero-container { max-width: 1200px; margin: 0 auto; padding: 0 2rem; position: relative; z-index: 2; }
-.hero-content { display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center; }
+.hero-content  { display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center; }
 @media (min-width: 1024px) { .hero-content { grid-template-columns: 1.5fr 1fr; gap: 4rem; } }
 .hero-text h1 { font-size: 3rem; font-weight: 800; color: #fff; margin: 0 0 1rem 0; line-height: 1.1; letter-spacing: -0.02em; }
 .hero-subtitle { font-size: 1.4rem; color: rgba(255,255,255,0.9); margin: 0 0 2rem 0; font-weight: 500; line-height: 1.4; }
@@ -361,7 +361,12 @@ body {
 .hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
 .hero-image { display: flex; justify-content: center; align-items: center; }
 .hero-image img {
-  width: 100%; max-width: 350px; height: auto; border-radius: 20px; aspect-ratio: 1/1; object-fit: cover;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 20px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
   border: 6px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15), 0 10px 20px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
@@ -374,31 +379,17 @@ body {
 @media (min-width: 768px) { .stats-container { grid-template-columns: repeat(4, 1fr); } }
 .stat-item { text-align: center; padding: 1rem; }
 .stat-number { font-size: 2.5rem; font-weight: 800; color: #667eea; margin-bottom: 0.5rem; line-height: 1; }
-.stat-label { font-size: 0.9rem; color: #4a5568; font-weight: 500; }
+.stat-label  { font-size: 0.9rem; color: #4a5568; font-weight: 500; }
 
-/* Expertise Overview (if used) */
-.expertise-overview { max-width: 1200px; margin: 0 auto 6rem auto; padding: 0 2rem; }
-.expertise-item { background: #fff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 2.5rem 2rem; text-align: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); transition: all 0.3s ease; position: relative; overflow: hidden; }
-.expertise-item::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 4px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
-.expertise-item:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1); }
-.expertise-icon { font-size: 3rem; margin-bottom: 1.5rem; }
-.expertise-item h3 { font-size: 1.3rem; font-weight: 600; color: #1a365d; margin: 0 0 1rem 0; }
-.expertise-item p { color: #4a5568; line-height: 1.6; margin: 0; font-size: 0.95rem; }
-
-/* Navigation cards (finishing block that was truncated) */
+/* Navigation cards (finishing block) */
 .navigation-section { max-width: 1200px; margin: 0 auto 6rem auto; padding: 0 2rem; }
 .nav-cards-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
-@media (min-width: 768px) { .nav-cards-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 768px)  { .nav-cards-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1100px) { .nav-cards-grid { grid-template-columns: repeat(3, 1fr); } }
-/* Enlarge sidebar avatar (Just the Docs 0.6.x) */
-.side-bar .site-logo,
-.side-bar img.site-logo {
-  width: 96px !important;   /* tweak 72–112px to taste */
-  height: 96px !important;
-  max-height: none !important;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: 0 0 0 2px rgba(0,0,0,.04);
-}
+
+/* =============================
+   Notes
+   - Removed old/conflicting selectors:
+     .sidebar .profile-card, .profile-image img,
+     .side-bar .site-logo / img.site-logo (not used).
+   ============================= */
