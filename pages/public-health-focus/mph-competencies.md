@@ -3,7 +3,7 @@ layout: default
 title: MPH Competencies
 parent: Public Health Focus
 nav_order: 4
-permalink: /pages/public-health-focus/mph-competencies/
+permalink: /public-health-focus/mph-competencies/
 ---
 
 # MPH Competencies

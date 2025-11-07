@@ -3,7 +3,7 @@ layout: default
 title: Biography
 parent: About
 nav_order: 1
-permalink: /pages/about/biography/
+permalink: /about/biography/
 ---
 
 # Biography

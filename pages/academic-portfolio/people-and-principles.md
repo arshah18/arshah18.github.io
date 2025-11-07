@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Diversity, Equity & Inclusion
+title: "People & Principles"
 parent: Academic Portfolio
 nav_order: 3
-permalink: /pages/academic-portfolio/dei/
+permalink: /academic-portfolio/people-and-principles/
 ---
 
 # Diversity, Equity & Inclusion

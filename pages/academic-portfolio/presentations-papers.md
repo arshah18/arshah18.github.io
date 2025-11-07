@@ -3,7 +3,7 @@ layout: default
 title: Presentations & Papers
 parent: Academic Portfolio
 nav_order: 4
-permalink: /pages/academic-portfolio/presentations-papers/
+permalink: /academic-portfolio/presentations-papers/
 ---
 
 # Presentations & Papers

@@ -3,7 +3,7 @@ layout: default
 title: Experience
 parent: About
 nav_order: 2
-permalink: /pages/about/experience/
+permalink: /about/experience/
 ---
 
 # Experience

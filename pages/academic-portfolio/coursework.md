@@ -5,7 +5,7 @@ parent: Academic Portfolio
 nav_order: 6
 has_children: true
 has_toc: false
-permalink: /pages/academic-portfolio/coursework/
+permalink: /academic-portfolio/coursework/
 ---
 
 # Coursework
