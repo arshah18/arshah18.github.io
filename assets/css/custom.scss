@@ -39,3 +39,36 @@
   font-size:0.95rem;
   line-height:1.25;
 }
+
+/* --- Sidebar profile header card (top) --- */
+.profile-card-top {
+  text-align: center;
+  padding: 0.75rem 0.5rem 1rem 0.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  margin-bottom: 0.75rem;
+}
+
+.profile-card-top .profile-avatar-top {
+  display: block;
+  margin: 0 auto 0.5rem auto;
+  width: 120px;          /* tweak size here */
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 20%; /* scoot framing a bit down so top of head isn't cut */
+  box-shadow: 0 0 0 2px rgba(0,0,0,0.05);
+}
+
+.profile-card-top .profile-name-top {
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.25;
+  color: #1f1f1f;
+}
+
+.profile-card-top .profile-role-top {
+  font-size: 0.8rem;
+  line-height: 1.2;
+  color: #5a5a5a;
+  margin-top: 0.25rem;
+}
