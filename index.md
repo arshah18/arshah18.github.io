@@ -17,7 +17,7 @@ permalink: /
 *MS Bioinformatics • PhD • MPH–Epidemiology Student  
 Lead Health Data Coordinator II, UNMC*
 
-I work at the intersection of **clinical genomics**, **oncology bioinformatics**, and **public health**. My focus is building **reproducible FHIR/HAPI data pipelines**, linking **registries ↔ EHR ↔ pathology ↔ genomics**, and translating complex data into **decision-ready analytics** for clinicians and policy partners.
+I work at the intersection of **public health**, **clinical genomics**, and **oncology bioinformatics*. My focus is building **reproducible FHIR/HAPI data pipelines**, linking **registries ↔ EHR ↔ pathology ↔ genomics**, and translating complex data into **decision-ready analytics** for clinicians and policy partners.
 
 ---
 
