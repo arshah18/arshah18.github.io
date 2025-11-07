@@ -432,3 +432,19 @@ body {
   font-size: .9rem;
   color: #4a5568;
 }
+
+/* Sidebar logo (native JTD hook) */
+.side-bar .site-header .site-logo {
+  width: 96px;         /* change to 112px if you want bigger */
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: .25rem auto; /* center in header */
+  box-shadow: 0 0 0 2px rgba(0,0,0,.04);
+}
+
+/* Tuck the title nicely under the logo */
+.side-bar .site-header .site-title {
+  margin-top: .25rem;
+}
