@@ -1,26 +1,36 @@
-# --- NAV/SEARCH OPTIONS ---
+title: "Rauf Shah's Digital Portfolio"
+description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+logo: "/assets/headshot.jpg"
 search_enabled: true
-aux_links:
-  "GitHub":
-    - "https://github.com/arshah18"
-  "LinkedIn":
-    - "https://www.linkedin.com/in/arshah18/"
 
-# Collections for "Updates" (news posts)
-collections:
-  updates:
-    output: true
-    permalink: /updates/:path/
+# Site URL settings
+url: "https://arshah18.github.io"
+baseurl: ""  # Change to "/repository-name" if this is a project site
 
-# Markdown options (nice tables/footnotes)
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-
-remote_theme: just-the-docs/just-the-docs@v0.6.2
-
+# Enable remote theme plugin (required on GitHub Pages) + pretty permalinks
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
+permalink: pretty
+
+# Auxiliary links
+aux_links:
+  "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
+  "Google Scholar": "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
+  "Email": "mailto:abrshah@unmc.edu"
+
+# Favicon
+favicon_ico: "/assets/favicon.png"
+
+# Heading anchors
+heading_anchors: true
+
+# Just-the-Docs specific
+just_the_docs:
+  collections_default: true
+
+# Force rebuild (safe no-op)
+# cache-bust: v2

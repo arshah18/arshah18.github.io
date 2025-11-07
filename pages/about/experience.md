@@ -3,11 +3,12 @@ layout: default
 title: Experience
 parent: About
 nav_order: 2
+permalink: /pages/about/experience/
 ---
 
 # Experience
 
-- [**Download full C.V. (PDF)**](/assets/rauf-shah-cv.pdf)
+- [**Download full C.V. (PDF)**]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
 
 ## Professional Summary
 - **Lead Health Data Coordinator II** — UNMC, Hematology & Oncology (2024–present)  

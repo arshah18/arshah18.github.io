@@ -3,6 +3,7 @@ layout: default
 title: Leadership
 parent: Academic Portfolio
 nav_order: 2
+permalink: /pages/academic-portfolio/leadership/
 ---
 
 # Leadership Approach

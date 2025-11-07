@@ -1,0 +1,688 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "Welcome to my professional background section. Here you'll find comprehensive information about my academic journey, professional experience, and the expertise I bring to the intersection of clinical genomics, bioinformatics, epidemiology and public health practices. Academic Credentials . | MS Bioinformatics - Advanced computational biology | PhD - Computational biology research | MPH–Epidemiology - Current student at UNMC | . Learn more about my academic journey → Professional Focus . | Lead Health Data Coordinator II - UNMC Oncology | Clinical Genomics - Cancer surveillance &amp; analytics | Public Health Informatics - FHIR/HAPI pipelines | . View my professional experience → Technical Expertise . | Programming: Python, R, SQL, JavaScript | Bioinformatics: NGS, variant analysis, multi-omics | Health Data: FHIR/HAPI, Docker, registry systems | . Explore my technical skills → ",
+    "url": "/pages/about/",
+    
+    "relUrl": "/pages/about/"
+  },"1": {
+    "doc": "About",
+    "title": "Explore This Section",
+    "content": "Biography . My professional journey, current roles, research interests, and teaching philosophy in public health and bioinformatics. | Professional background &amp; focus areas | Research interests &amp; contributions | Teaching &amp; training approach | . Experience . Detailed professional experience, technical skills, and comprehensive career history in computational biology and health informatics. | Professional roles &amp; responsibilities | Technical skills &amp; competencies | Downloadable CV | . Let's Connect . Interested in collaborating on cancer surveillance, clinical genomics, or public health informatics projects? I welcome opportunities to work with clinicians, researchers, and public health professionals. Get In Touch ",
+    "url": "/pages/about/#explore-this-section",
+    
+    "relUrl": "/pages/about/#explore-this-section"
+  },"2": {
+    "doc": "Academic Portfolio",
+    "title": "Academic Portfolio",
+    "content": "A comprehensive collection of my academic work, leadership philosophy, teaching approach, and scholarly contributions to bioinformatics, genomics, and public health. Teaching Philosophy . My approach to education, course development, and creating effective learning experiences . View Philosophy Leadership . Leadership approach, team development, and collaborative project management . View Leadership Diversity &amp; Inclusion . Commitment to DEI in teaching, research, and professional practice . View DEI Publications . Peer-reviewed articles, conference presentations, and invited talks . View Publications Service . Professional service, mentorship, and collaborative contributions . View Service Coursework . Graduate courses, key assignments, and academic projects . View Coursework ",
+    "url": "/pages/academic-portfolio/",
+    
+    "relUrl": "/pages/academic-portfolio/"
+  },"3": {
+    "doc": "Academic Portfolio",
+    "title": "Scholarly Impact",
+    "content": "10+ . Peer-Reviewed Publications . Multiple . Invited Presentations . Diverse . Teaching &amp; Mentoring Experiences . Active . Professional Service . ",
+    "url": "/pages/academic-portfolio/#scholarly-impact",
+    
+    "relUrl": "/pages/academic-portfolio/#scholarly-impact"
+  },"4": {
+    "doc": "Biography",
+    "title": "Biography",
+    "content": "Rauf Shah, MS, PhD is a Lead Health Data Coordinator II working at the intersection of clinical genomics, oncology bioinformatics, and public health. He designs secure, reproducible pipelines that link registries, EHR, digital pathology, and genomics via FHIR/HAPI to support cancer surveillance, ctDNA/lymphoma analytics, and equity-focused outcomes. As an MPH–Epidemiology student, his interests include timeliness and quality in cancer surveillance, situational awareness for disaster epidemiology, and the translation of data into decision-ready dashboards for clinicians and policy partners. He is also committed to public-health teaching and training, including the design of practice-oriented courses and modules in surveillance systems, FHIR data engineering, and reproducible analytics. ",
+    "url": "/pages/about/biography/",
+    
+    "relUrl": "/pages/about/biography/"
+  },"5": {
+    "doc": "Biography",
+    "title": "Current roles &amp; interests",
+    "content": ". | Lead Health Data Coordinator II (Oncology) — registry/EHR/genomics integration, outcomes dashboards, governance &amp; QA | MPH–Epidemiology — methods, surveillance systems, policy translation, and evaluation | ctDNA &amp; lymphoma analytics — copy-number–anchored panels, cohort curation, reproducible reporting | Public-health teaching &amp; training — course/module design (surveillance, FHIR/HAPI, reproducible analytics) | . ",
+    "url": "/pages/about/biography/#current-roles--interests",
+    
+    "relUrl": "/pages/about/biography/#current-roles--interests"
+  },"6": {
+    "doc": "Biography",
+    "title": "Areas of focus",
+    "content": ". | Cancer Surveillance — NAACCR/ICD/ICD-O fidelity; pipelines that link registries ↔ EHR ↔ pathology ↔ genomics; validated, transparent analytics | Disaster Epidemiology — syndromic feeds, incident dashboards, thresholds/alerts, clear communication to decision-makers | Translation to Practice — briefs and visual summaries aligned to program needs; equity-aware reporting and outcomes tracking | Teaching &amp; Course Design — needs-assessment–driven modules; backward design; case-based labs using real public-health and oncology datasets | . ",
+    "url": "/pages/about/biography/#areas-of-focus",
+    
+    "relUrl": "/pages/about/biography/#areas-of-focus"
+  },"7": {
+    "doc": "Biography",
+    "title": "Selected contributions",
+    "content": ". | Built and maintained reproducible data flows that reduce time from raw data to insight and support equity monitoring | Deployed population-level dashboards for lymphoma cohorts integrating clinical and molecular features | Led cross-functional efforts to standardize data quality, documentation, and role-based access across systems | Advanced FHIR/HAPI $import and validation patterns for clinico-genomic integration | . ",
+    "url": "/pages/about/biography/#selected-contributions",
+    
+    "relUrl": "/pages/about/biography/#selected-contributions"
+  },"8": {
+    "doc": "Biography",
+    "title": "Methods &amp; tools",
+    "content": "Python · R · SQL · JavaScript/Node.js · Docker · HAPI FHIR · Keycloak · Registry/ICD coding · Reproducible research . ",
+    "url": "/pages/about/biography/#methods--tools",
+    
+    "relUrl": "/pages/about/biography/#methods--tools"
+  },"9": {
+    "doc": "Biography",
+    "title": "Teaching &amp; training",
+    "content": ". | Case-based sessions using real surveillance and oncology datasets | Workshops on reproducible pipelines, FHIR/HAPI data engineering, and applied epidemiology | Emphasis on inclusive, practice-oriented learning that connects data to clinical and policy decisions | . ",
+    "url": "/pages/about/biography/#teaching--training",
+    
+    "relUrl": "/pages/about/biography/#teaching--training"
+  },"10": {
+    "doc": "Biography",
+    "title": "Links",
+    "content": ". | Download CV (PDF) — CV.pdf | LinkedIn — Connect | Google Scholar — Profile | . ",
+    "url": "/pages/about/biography/#links",
+    
+    "relUrl": "/pages/about/biography/#links"
+  },"11": {
+    "doc": "Contact",
+    "title": "Contact &amp; Collaboration",
+    "content": "I welcome opportunities to collaborate with clinicians, researchers, and public health professionals on projects involving clinical genomics, cancer surveillance, epidemiology, and health data informatics. Email . For direct professional inquiries and collaboration discussions . Send Email LinkedIn . Connect professionally and follow my latest updates . View Profile Google Scholar . Explore my research publications and academic work . View Publications ",
+    "url": "/pages/contact/#contact--collaboration",
+    
+    "relUrl": "/pages/contact/#contact--collaboration"
+  },"12": {
+    "doc": "Contact",
+    "title": "Preferred Collaboration Areas",
+    "content": "Clinical Genomics . | Variant analysis and interpretation | EMR-genomics integration | Tumor board support | . Cancer Surveillance . | Registry-EHR data pipelines | Equity-focused outcomes monitoring | Survival analysis and dashboards | . Public Health Informatics . | FHIR/HAPI implementation | Disaster epidemiology systems | Data quality and governance | . Teaching &amp; Training . | Curriculum development | Workshop facilitation | Mentorship programs | . Getting Started . For new collaborations, I recommend starting with an email to discuss: . | Project objectives and research questions | Data availability and feasibility assessment | Timeline and deliverable expectations | IRB and compliance considerations | . I'm committed to providing rapid feasibility assessments and clear, actionable project plans. ",
+    "url": "/pages/contact/#preferred-collaboration-areas",
+    
+    "relUrl": "/pages/contact/#preferred-collaboration-areas"
+  },"13": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": " ",
+    "url": "/pages/contact/",
+    
+    "relUrl": "/pages/contact/"
+  },"14": {
+    "doc": "Coursework",
+    "title": "Coursework",
+    "content": "List of relevant graduate courses, key assignments, and brief reflections (where appropriate). Artifacts and project links will be added as they are approved for sharing. ",
+    "url": "/pages/academic-portfolio/coursework/",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/"
+  },"15": {
+    "doc": "Coursework",
+    "title": "Course Categories",
+    "content": "Public Health &amp; Epidemiology . Courses focusing on population health, epidemiological methods, and public health practice . Bioinformatics &amp; Genomics . Advanced computational biology, genomic analysis, and bioinformatics methodologies . Data Science &amp; Programming . Technical courses in programming, statistics, and data analysis techniques . Teaching &amp; Education . Courses in instructional design, teaching methodologies, and educational program development . ",
+    "url": "/pages/academic-portfolio/coursework/#course-categories",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/#course-categories"
+  },"16": {
+    "doc": "Coursework",
+    "title": "Featured Course",
+    "content": "CPH 705 - Public Health Teaching and Training . Graduate course focused on developing teaching skills and strategies for public health education, including adult learning theory, instructional design, needs analysis, and multi-modal teaching development. View Course Details ",
+    "url": "/pages/academic-portfolio/coursework/#featured-course",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/#featured-course"
+  },"17": {
+    "doc": "Coursework",
+    "title": "Course List",
+    "content": "Public Health &amp; Epidemiology . Course listings and reflections in development . Bioinformatics &amp; Genomics . Course listings and reflections in development . Data Science &amp; Programming . Course listings and reflections in development . Teaching &amp; Education . | CPH 705 - Public Health Teaching and Training . | Focus: Evidence-based teaching methodologies, instructional design, and multi-modal delivery for public health education | Key Projects: Needs assessment for cancer surveillance training, backward design teaching portfolio, multi-platform teaching modules | Reflection: This course provided systematic training in developing effective public health education programs, from needs assessment through evaluation, with practical application to cancer surveillance and health informatics training. | . | . ",
+    "url": "/pages/academic-portfolio/coursework/#course-list",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/#course-list"
+  },"18": {
+    "doc": "Coursework",
+    "title": "Academic Development",
+    "content": "My coursework has provided a strong foundation in both technical public health methods and educational approaches, enabling me to bridge complex analytical concepts with accessible teaching and training strategies. The integration of computational skills with public health practice and education prepares me to develop effective training programs and translate technical expertise into practical public health impact. Additional course details and project artifacts will be added as they are approved for public sharing. ",
+    "url": "/pages/academic-portfolio/coursework/#academic-development",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/#academic-development"
+  },"19": {
+    "doc": "CPH 705",
+    "title": "CPH 705 — Public Health Teaching and Training",
+    "content": " ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#cph-705--public-health-teaching-and-training",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#cph-705--public-health-teaching-and-training"
+  },"20": {
+    "doc": "CPH 705",
+    "title": "Course Overview",
+    "content": "CPH 705 PUBLIC HEALTH TEACHING AND TRAINING . This course is designed to develop graduate students’ teaching skills and strategies necessary to meet the professional demands of conducting public health teaching and training. Major topics covered include adult learning theory, instructional design, needs analysis, training program evaluation, and creating teaching modules for in-person, synchronous, and asynchronous environments. ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#course-overview",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#course-overview"
+  },"21": {
+    "doc": "CPH 705",
+    "title": "Core Competencies Developed",
+    "content": "Instructional Design &amp; Adult Learning Theory . | Application of adult learning principles to public health education | Development of evidence-based teaching strategies | Design of inclusive and accessible learning experiences | Adaptation of teaching methods for diverse learner backgrounds | . Needs Assessment &amp; Program Evaluation . | Systematic approaches to identifying training needs | Data collection methods for educational program planning | Evaluation frameworks for measuring training effectiveness | Continuous improvement cycles for educational programs | . Multi-Modal Teaching Development . | Creation of in-person teaching modules and materials | Design of synchronous online learning experiences | Development of asynchronous educational content | Integration of technology in public health education | . ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#core-competencies-developed",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#core-competencies-developed"
+  },"22": {
+    "doc": "CPH 705",
+    "title": "Key Projects &amp; Assignments",
+    "content": "Comprehensive Needs Assessment — Cancer Surveillance Training Program . Instructional Design Challenge: Develop a training program for public health professionals working with cancer surveillance data, applying adult learning principles and systematic needs assessment approaches. Target Audience Analysis: . | Graduate public health students with mixed methodological backgrounds | Oncology fellows transitioning to population health perspectives | Research professionals expanding into cancer surveillance analytics | Public health practitioners requiring updated surveillance skills | . Needs Assessment Methodology: . Existing Data Sources: . | Analysis of public health curriculum gaps and competencies | Review of existing course evaluations and student feedback | Assessment of professional development needs in cancer surveillance | Evaluation of related training program syllabi and outcomes | . Primary Data Collection: . | Pre- and post-training competency assessments | Structured interviews with public health educators and practitioners | Focus groups with potential learners from diverse professional backgrounds | Direct observation of current training delivery challenges | Skill gap analysis across different learner subgroups | . Instructional Design Framework: . | Application of adult learning theories (Andragogy, Transformative Learning) | Development of case-based learning scenarios using real surveillance data | Creation of progressive skill-building exercises | Design of multiple assessment modalities | Integration of Universal Design for Learning (UDL) principles | . Evaluation Strategy: . | Kirkpatrick’s Four-Level Training Evaluation Model implementation | Mixed-methods analysis of learning outcomes | Longitudinal tracking of skill application in professional practice | Stakeholder satisfaction and program impact assessment | . Backward Design Project — Public Health Teaching Portfolio . Learning Experience Design: Create a comprehensive teaching portfolio for a public health topic, applying backward design principles from learning outcomes through assessment to instructional activities. Backward Design Implementation: . Stage 1: Learning Outcomes Development . | Define measurable learning objectives aligned with public health competencies | Establish clear criteria for successful knowledge and skill demonstration | Identify authentic assessment tasks relevant to public health practice | Map learning outcomes to professional standards and competencies | . Stage 2: Assessment Evidence Design . | Development of multiple assessment types (formative and summative) | Creation of authentic evaluation tools mirroring public health practice | Design of competency-based skill demonstrations | Implementation of peer and self-assessment mechanisms | . Stage 3: Learning Activities Planning . | Sequencing of instructional activities to build toward learning outcomes | Integration of active learning strategies and collaborative exercises | Application of technology-enhanced learning tools and platforms | Development of inclusive participation and engagement methods | . Teaching Module Development — Multi-Platform Delivery . Multi-Modal Teaching Portfolio: Create adaptable teaching modules for delivery across in-person, synchronous online, and asynchronous formats. Module Components: . | In-Person Session Designs: Interactive workshops, case discussions, hands-on exercises | Synchronous Online Formats: Virtual classroom activities, real-time collaboration, live demonstrations | Asynchronous Materials: Self-paced learning modules, discussion forums, recorded content | Assessment Adaptations: Flexible evaluation methods for different delivery modes | . ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#key-projects--assignments",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#key-projects--assignments"
+  },"23": {
+    "doc": "CPH 705",
+    "title": "Applied Teaching Philosophy Integration",
+    "content": "Evidence-Based Teaching Practices . | Application of educational research to public health training contexts | Integration of best practices in health professions education | Development of culturally responsive teaching approaches | Implementation of trauma-informed educational practices | . Technology Integration Strategies . | Effective use of learning management systems and educational technology | Development of digital literacy components for public health learners | Creation of accessible online learning experiences | Evaluation of educational technology tools and platforms | . Professional Development Planning . | Creation of personal teaching philosophy statements | Development of teaching portfolio for academic and professional advancement | Design of continuous professional development plans for educators | Implementation of reflective teaching practices | . ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#applied-teaching-philosophy-integration",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#applied-teaching-philosophy-integration"
+  },"24": {
+    "doc": "CPH 705",
+    "title": "Course Reflections",
+    "content": "CPH 705 provided foundational training in evidence-based teaching methodologies specifically tailored for public health education. The course emphasized the systematic design of learning experiences, from initial needs assessment through program evaluation, with particular focus on adapting teaching strategies for diverse public health audiences and delivery formats. The skills developed in this course directly support my commitment to public health teaching and training, including curriculum development for cancer surveillance, FHIR/HAPI training workshops, and reproducible analytics education. The backward design approach ensured alignment between public health competencies, learning objectives, and instructional activities, while the focus on multi-modal delivery prepared me to create accessible and effective learning experiences across different educational contexts. This training enhances my ability to develop practice-oriented public health education that bridges research and practice. ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/#course-reflections",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/#course-reflections"
+  },"25": {
+    "doc": "CPH 705",
+    "title": "CPH 705",
+    "content": " ",
+    "url": "/pages/academic-portfolio/coursework/cph-705/",
+    
+    "relUrl": "/pages/academic-portfolio/coursework/cph-705/"
+  },"26": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Diversity, Equity &amp; Inclusion",
+    "content": " ",
+    "url": "/pages/academic-portfolio/dei/#diversity-equity--inclusion",
+    
+    "relUrl": "/pages/academic-portfolio/dei/#diversity-equity--inclusion"
+  },"27": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Commitment to Inclusive Excellence",
+    "content": "I am committed to creating learning and working environments that not only welcome diversity but actively leverage different perspectives to enhance innovation, problem-solving, and community impact in public health and biomedical research. ",
+    "url": "/pages/academic-portfolio/dei/#commitment-to-inclusive-excellence",
+    
+    "relUrl": "/pages/academic-portfolio/dei/#commitment-to-inclusive-excellence"
+  },"28": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Inclusive Teaching Practices",
+    "content": "Representative Content . | Design cases and examples that reflect diverse populations and health experiences | Include perspectives from underrepresented groups in public health case studies | Ensure teaching materials represent global as well as local health contexts | . Universal Design for Learning . | Apply UDL principles to create multiple pathways for engagement and demonstration of skills | Provide flexible assessment methods that accommodate different learning preferences | Ensure all digital materials meet accessibility standards | . Equitable Classroom Culture . | Establish norms that encourage constructive feedback and respectful discourse | Create spaces where all students feel valued and empowered to contribute | Address implicit biases in teaching practices and curriculum design | . ",
+    "url": "/pages/academic-portfolio/dei/#inclusive-teaching-practices",
+    
+    "relUrl": "/pages/academic-portfolio/dei/#inclusive-teaching-practices"
+  },"29": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Inclusive Research &amp; Practice",
+    "content": "Equity-Focused Analytics . | Incorporate health equity considerations into all surveillance and analytical frameworks | Develop methods that explicitly examine disparities and social determinants of health | Ensure data collection and analysis practices do not perpetuate existing biases | . Diverse Team Building . | Recruit and mentor team members from underrepresented backgrounds in STEM | Create inclusive team environments that value diverse perspectives and approaches | Address barriers to participation in research and professional development | . Community-Engaged Approaches . | Collaborate with community partners to ensure research addresses local priorities | Translate findings in ways that are accessible and actionable for diverse audiences | Acknowledge and address power dynamics in researcher-community relationships | . ",
+    "url": "/pages/academic-portfolio/dei/#inclusive-research--practice",
+    
+    "relUrl": "/pages/academic-portfolio/dei/#inclusive-research--practice"
+  },"30": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Continuous Learning &amp; Improvement",
+    "content": "Personal Growth . | Regularly engage with DEI training and professional development opportunities | Seek feedback on inclusive practices from students, colleagues, and community members | Reflect on and address personal biases and blind spots | . Systemic Advocacy . | Advocate for policies and practices that advance equity within institutions | Support initiatives that increase diversity in public health and bioinformatics | Contribute to creating more inclusive academic and professional cultures | . Measurement &amp; Accountability . | Track and report on diversity and inclusion metrics in programs and initiatives | Use data to identify areas for improvement and measure progress over time | Hold myself and teams accountable for DEI commitments and outcomes | . ",
+    "url": "/pages/academic-portfolio/dei/#continuous-learning--improvement",
+    
+    "relUrl": "/pages/academic-portfolio/dei/#continuous-learning--improvement"
+  },"31": {
+    "doc": "Diversity, Equity & Inclusion",
+    "title": "Diversity, Equity & Inclusion",
+    "content": " ",
+    "url": "/pages/academic-portfolio/dei/",
+    
+    "relUrl": "/pages/academic-portfolio/dei/"
+  },"32": {
+    "doc": "Email",
+    "title": "Email Contact",
+    "content": "Primary Email: abrshah@unmc.edu I typically respond within 24–48 hours during weekdays. Best Use Cases for Email . Appropriate for Email . | Research collaboration inquiries | Project feasibility discussions | Data analysis consultation requests | Professional networking | Speaking or teaching opportunities | . Better Alternatives . | Urgent clinical matters (contact relevant clinical team) | Patient-specific data queries (use proper clinical channels) | Immediate technical support (use institutional IT) | . Tips for Effective Communication . Clear Subject Line . Include project focus and purpose (e.g., \"Collaboration: Lymphoma Survival Analysis\") . Brief Project Overview . 2–3 sentences describing your research question or project goals . Data Availability . Mention data types, sizes, and any existing approvals . Timeline &amp; Deliverables . Include any specific deadlines or expected outcomes . Other Contact Methods . If email isn't the right fit for your inquiry, consider: . LinkedIn (professional networking) Google Scholar (research publications) ",
+    "url": "/pages/contact/email/#email-contact",
+    
+    "relUrl": "/pages/contact/email/#email-contact"
+  },"33": {
+    "doc": "Email",
+    "title": "Email",
+    "content": " ",
+    "url": "/pages/contact/email/",
+    
+    "relUrl": "/pages/contact/email/"
+  },"34": {
+    "doc": "Experience",
+    "title": "Experience",
+    "content": ". | Download full C.V. (PDF) | . ",
+    "url": "/pages/about/experience/",
+    
+    "relUrl": "/pages/about/experience/"
+  },"35": {
+    "doc": "Experience",
+    "title": "Professional Summary",
+    "content": ". | Lead Health Data Coordinator II — UNMC, Hematology &amp; Oncology (2024–present) Clinical data architecture, registry builds, FHIR ingestion, analytics. | Computational Biologist — Cancer Genomics &amp; Immunology (pre-2024) ChIP-Seq, WES, LP-WGS, ctDNA, multi-omics integration, dashboards. | . ",
+    "url": "/pages/about/experience/#professional-summary",
+    
+    "relUrl": "/pages/about/experience/#professional-summary"
+  },"36": {
+    "doc": "Experience",
+    "title": "Core Competencies",
+    "content": "Python · R · SQL · Docker · Keycloak · HAPI FHIR · Registry/ICD coding · Reproducible research . ",
+    "url": "/pages/about/experience/#core-competencies",
+    
+    "relUrl": "/pages/about/experience/#core-competencies"
+  },"37": {
+    "doc": "Experience",
+    "title": "Technical Skills",
+    "content": "Programming &amp; Data Science . | Python: pandas, scikit-learn, Biopython, plotly | R: tidyverse, ggplot2, survival, shiny | SQL: PostgreSQL, MySQL, complex queries and optimization | JavaScript/Node.js: Data visualization, API development | . Bioinformatics &amp; Genomics . | NGS Analysis: ChIP-Seq, WES, LP-WGS, ctDNA analysis | Variant Analysis: SNV/indel calling, CNAs, structural variants | Multi-omics Integration: Clinical-genomic data integration | Bioconductor: Genomic ranges, variant annotation | . Health Data &amp; Systems . | FHIR/HAPI: Data pipelines, $import operations, validation | Docker: Containerization of analytical pipelines | Keycloak: Authentication and role-based access control | Registry Systems: NAACCR, ICD, ICD-O standards | . Visualization &amp; Reporting . | Dashboards: Interactive clinical and population health dashboards | Reproducible Research: RMarkdown, Jupyter notebooks, version control | Manuscript-ready Figures: Publication-quality visualizations | . ",
+    "url": "/pages/about/experience/#technical-skills",
+    
+    "relUrl": "/pages/about/experience/#technical-skills"
+  },"38": {
+    "doc": "Experience",
+    "title": "Professional Experience",
+    "content": "Lead Health Data Coordinator II . UNMC, Hematology &amp; Oncology | 2024–Present . | Design and implement clinical data architecture for oncology registries | Develop FHIR-based data ingestion pipelines for clinico-genomic integration | Build analytics platforms for cancer surveillance and outcomes monitoring | Establish data governance and quality assurance frameworks | . Computational Biologist . Cancer Genomics &amp; Immunology | Previous Roles . | Conducted comprehensive genomic analyses including ChIP-Seq, WES, and LP-WGS | Developed ctDNA analysis pipelines for minimal residual disease detection | Created multi-omics integration approaches for clinical translation | Built interactive dashboards for clinical and research use | . ",
+    "url": "/pages/about/experience/#professional-experience",
+    
+    "relUrl": "/pages/about/experience/#professional-experience"
+  },"39": {
+    "doc": "Immediate Survey (HTML)",
+    "title": "Immediate Post-Session Evaluation — Cancer Registry & Public Health Analytics",
+    "content": "This evaluates the training (not grades). Scale: 1=Strongly Disagree … 5=Strongly Agree. Aligned Objectives (Likert 1–5) Objective 1 — Lymphoma Outcomes Objective 2 — Standardized Data Rubric Objective 3 — Incidence & Risk Ratios (registry data) Objective 4 — Registry Dashboard Interpretation Objective 5 — Data Privacy & DUA Overall, Presenter, ROI Overall Session met stated objectives Presenter explanations were clear and well-paced ROI (Value): The time invested was worth the value received ROI (Minutes): Total minutes you spent on this session Open-Ended One change that would most improve this training: Submit . ",
+    "url": "/surveys/forms/immediate/",
+    
+    "relUrl": "/surveys/forms/immediate/"
+  },"40": {
+    "doc": "Immediate Survey (HTML)",
+    "title": "Immediate Survey (HTML)",
+    "content": " ",
+    "url": "/surveys/forms/immediate/",
+    
+    "relUrl": "/surveys/forms/immediate/"
+  },"41": {
+    "doc": "Immediate Post-Session Survey",
+    "title": "Immediate Post-Session Survey",
+    "content": "Paste your live form URL below (or pass it via ?url=). The QR updates instantly. Destination (Form URL) Open Form . Copy Link Download QR (PNG) Tip: reuse this page by adding ?url=&lt;encoded-form-url&gt; to the address. ",
+    "url": "/surveys/immediate/",
+    
+    "relUrl": "/surveys/immediate/"
+  },"42": {
+    "doc": "Home",
+    "title": "Rauf Shah",
+    "content": "MS Bioinformatics • PhD • MPH–Epidemiology Student Lead Health Data Coordinator II, UNMC . I work at the intersection of clinical genomics, oncology bioinformatics, and public health. My focus is building reproducible FHIR/HAPI data pipelines, linking registries ↔ EHR ↔ pathology ↔ genomics, and translating complex data into decision-ready analytics for clinicians and policy partners. ",
+    "url": "/#rauf-shah",
+    
+    "relUrl": "/#rauf-shah"
+  },"43": {
+    "doc": "Home",
+    "title": "Start here",
+    "content": ". | About — background and roles → About | Academic Portfolio — teaching, leadership, DEI, publications → Portfolio | Contact — collaboration &amp; email → Contact | . ",
+    "url": "/#start-here",
+    
+    "relUrl": "/#start-here"
+  },"44": {
+    "doc": "Home",
+    "title": "Focus areas",
+    "content": ". | Cancer Surveillance: NAACCR/ICD/ICD-O fidelity; validated, transparent analytics | Clinical Genomics: variant curation; clinician-ready summaries; EMR/registry linkage | Public Health Informatics: secure FHIR/HAPI pipelines; governance &amp; quality assurance | Disaster Epidemiology: syndromic feeds, clear thresholds/alerts, incident dashboards | . ",
+    "url": "/#focus-areas",
+    
+    "relUrl": "/#focus-areas"
+  },"45": {
+    "doc": "Home",
+    "title": "Selected recent work",
+    "content": ". | Population-level lymphoma dashboards integrating clinical and molecular features | Reproducible data flows that reduce time from raw data to insight and support equity monitoring | Standardized data quality frameworks and role-based access across systems | . ",
+    "url": "/#selected-recent-work",
+    
+    "relUrl": "/#selected-recent-work"
+  },"46": {
+    "doc": "Home",
+    "title": "CV",
+    "content": ". | Download CV (PDF): /assets/rauf-shah-cv.pdf | . ",
+    "url": "/#cv",
+    
+    "relUrl": "/#cv"
+  },"47": {
+    "doc": "Home",
+    "title": "Home",
+    "content": ". ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"48": {
+    "doc": "Surveys",
+    "title": "Public Health Training — Survey Hub",
+    "content": "Use this hub to route participants to the correct survey and display QR codes on slides or handouts. | 👉 Immediate Post-Session Survey Focus: participant experience, aligned objectives, presenter, ROI. | 👉 Six-Month Follow-Up Survey Focus: retention, application, long-term usefulness. | . ",
+    "url": "/surveys/#public-health-training--survey-hub",
+    
+    "relUrl": "/surveys/#public-health-training--survey-hub"
+  },"49": {
+    "doc": "Surveys",
+    "title": "Pro tip: quick link override (no file edits)",
+    "content": "Append a ?url= query parameter to prefill the destination form link. Examples . | Immediate: https://arshah18.github.io/surveys/immediate/?url=https%3A%2F%2Fforms.gle%2FREPLACE_IMMEDIATE | Six-month: https://arshah18.github.io/surveys/six-month/?url=https%3A%2F%2Fforms.gle%2FREPLACE_SIX_MONTH | . ",
+    "url": "/surveys/#pro-tip-quick-link-override-no-file-edits",
+    
+    "relUrl": "/surveys/#pro-tip-quick-link-override-no-file-edits"
+  },"50": {
+    "doc": "Surveys",
+    "title": "Surveys",
+    "content": " ",
+    "url": "/surveys/",
+    
+    "relUrl": "/surveys/"
+  },"51": {
+    "doc": "Leadership",
+    "title": "Leadership Approach",
+    "content": " ",
+    "url": "/pages/academic-portfolio/leadership/#leadership-approach",
+    
+    "relUrl": "/pages/academic-portfolio/leadership/#leadership-approach"
+  },"52": {
+    "doc": "Leadership",
+    "title": "Collaborative Leadership Philosophy",
+    "content": "I believe effective leadership in academic medicine and public health requires balancing technical expertise with emotional intelligence, fostering environments where diverse teams can tackle complex challenges through shared purpose and clear communication. ",
+    "url": "/pages/academic-portfolio/leadership/#collaborative-leadership-philosophy",
+    
+    "relUrl": "/pages/academic-portfolio/leadership/#collaborative-leadership-philosophy"
+  },"53": {
+    "doc": "Leadership",
+    "title": "Key Leadership Principles",
+    "content": "Multi-Stakeholder Coordination . | Coordinate builds integrating registries, EHR systems, and genomics platforms | Bridge communication between clinical, technical, and administrative teams | Facilitate consensus on data standards and implementation approaches | . Quality &amp; Standards Development . | Establish and maintain standards for data quality, versioning, and reproducibility | Develop governance frameworks that ensure data integrity while enabling innovation | Create documentation practices that support team continuity and knowledge transfer | . Strategic Translation . | Translate complex findings into actionable priorities for programs and clinical partners | Align technical initiatives with organizational mission and stakeholder needs | Communicate technical capabilities and limitations to diverse audiences | . Team Development . | Guide teams through complex technical and analytical challenges | Mentor emerging leaders in public health informatics and data science | Foster environments that encourage professional growth and skill development | . ",
+    "url": "/pages/academic-portfolio/leadership/#key-leadership-principles",
+    
+    "relUrl": "/pages/academic-portfolio/leadership/#key-leadership-principles"
+  },"54": {
+    "doc": "Leadership",
+    "title": "Leadership in Practice",
+    "content": "Project Leadership . | Direct cross-functional teams in developing cancer surveillance systems | Lead implementation of FHIR-based data integration pipelines | Oversee quality assurance and validation processes for critical health data | . Strategic Initiatives . | Contribute to institutional strategies for health data interoperability | Advise on technology selection and implementation roadmaps | Represent technical perspectives in policy and planning discussions | . Mentorship &amp; Development . | Provide career guidance and technical mentorship to junior team members | Create opportunities for skill development and professional advancement | Foster inclusive team cultures that value diverse backgrounds and perspectives | . ",
+    "url": "/pages/academic-portfolio/leadership/#leadership-in-practice",
+    
+    "relUrl": "/pages/academic-portfolio/leadership/#leadership-in-practice"
+  },"55": {
+    "doc": "Leadership",
+    "title": "Leadership",
+    "content": " ",
+    "url": "/pages/academic-portfolio/leadership/",
+    
+    "relUrl": "/pages/academic-portfolio/leadership/"
+  },"56": {
+    "doc": "MPH Competencies",
+    "title": "MPH Competencies",
+    "content": "This portfolio maps my work against MPH-style competencies as a professional benchmark. ",
+    "url": "/pages/public-health-focus/mph-competencies/",
+    
+    "relUrl": "/pages/public-health-focus/mph-competencies/"
+  },"57": {
+    "doc": "MPH Competencies",
+    "title": "Core Public Health Competencies",
+    "content": "Data &amp; Analytics . | FHIR ingestion pipelines and health data interoperability | Registry/EHR/pathology integration for comprehensive cancer surveillance | ctDNA analytical pipelines and liquid biopsy applications | Interactive dashboards for public health decision support | Statistical modeling for survival analysis and health disparities | . Leadership &amp; Management . | Multi-stakeholder coordination for registry development and implementation | Data standards development and quality assurance frameworks | Team leadership in health data analytics projects | Project management for complex public health informatics initiatives | . Policy &amp; Program Planning . | Surveillance data translation into policy briefs and recommendations | Program evaluation methodologies for public health interventions | Stakeholder engagement strategies for policy implementation | Health equity integration into program planning and assessment | . Communication . | Clear documentation of analytical methods and assumptions | Visual data summaries for diverse audience types | Stakeholder-tailored reporting and communication strategies | Scientific manuscript preparation and presentation skills | . Health Equity &amp; Ethics . | Routine stratification by demographic and clinical factors | Disparities analysis and equity metric development | Ethical data use frameworks for sensitive health information | Community-engaged approaches to public health research | . ",
+    "url": "/pages/public-health-focus/mph-competencies/#core-public-health-competencies",
+    
+    "relUrl": "/pages/public-health-focus/mph-competencies/#core-public-health-competencies"
+  },"58": {
+    "doc": "MPH Competencies",
+    "title": "Competency Artifacts &amp; Evidence",
+    "content": "Artifacts and project links will be added here as they are approved for public sharing. Example Artifacts: . | Cancer surveillance dashboard implementations | FHIR/HAPI pipeline documentation | Equity analysis methodologies | Stakeholder communication templates | Peer-reviewed publications | . ",
+    "url": "/pages/public-health-focus/mph-competencies/#competency-artifacts--evidence",
+    
+    "relUrl": "/pages/public-health-focus/mph-competencies/#competency-artifacts--evidence"
+  },"59": {
+    "doc": "Practice Interests",
+    "title": "Public Health Practice Interests",
+    "content": " ",
+    "url": "/pages/public-health-focus/practice-interests/#public-health-practice-interests",
+    
+    "relUrl": "/pages/public-health-focus/practice-interests/#public-health-practice-interests"
+  },"60": {
+    "doc": "Practice Interests",
+    "title": "Cancer Surveillance",
+    "content": ". | End-to-end pipelines linking registries ↔ EHR ↔ pathology ↔ genomics | Coding fidelity (ICD, ICD-O, NAACCR) and transparent, validated analytics | Equity monitoring: incidence, survival, and access metrics across subgroups | . ",
+    "url": "/pages/public-health-focus/practice-interests/#cancer-surveillance",
+    
+    "relUrl": "/pages/public-health-focus/practice-interests/#cancer-surveillance"
+  },"61": {
+    "doc": "Practice Interests",
+    "title": "Disaster Epidemiology",
+    "content": ". | Situational awareness via syndromic feeds and rapid analytic dashboards | Thresholds/alerts, field reporting, and decision support for incident management | Communication strategies that translate complex signals into clear actions | . ",
+    "url": "/pages/public-health-focus/practice-interests/#disaster-epidemiology",
+    
+    "relUrl": "/pages/public-health-focus/practice-interests/#disaster-epidemiology"
+  },"62": {
+    "doc": "Practice Interests",
+    "title": "Data Systems &amp; Governance",
+    "content": ". | FHIR/HAPI ingestion; auditability; role-based access (Keycloak) | Reproducible research and documentation for multidisciplinary teams | . ",
+    "url": "/pages/public-health-focus/practice-interests/#data-systems--governance",
+    
+    "relUrl": "/pages/public-health-focus/practice-interests/#data-systems--governance"
+  },"63": {
+    "doc": "Practice Interests",
+    "title": "Practice Interests",
+    "content": " ",
+    "url": "/pages/public-health-focus/practice-interests/",
+    
+    "relUrl": "/pages/public-health-focus/practice-interests/"
+  },"64": {
+    "doc": "Presentations & Papers",
+    "title": "Presentations &amp; Papers",
+    "content": " ",
+    "url": "/pages/academic-portfolio/presentations-papers/#presentations--papers",
+    
+    "relUrl": "/pages/academic-portfolio/presentations-papers/#presentations--papers"
+  },"65": {
+    "doc": "Presentations & Papers",
+    "title": "Peer-Reviewed Publications",
+    "content": "2025 . | Cooperative role of distinctive TP53 and PTEN combined loss in the peripheral T-cell lymphoma-GATA3 molecular subgroup Science Advances . | Integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic T-cell lymphoma American Journal of Hematology . | Comprehensive characterization of nodal peripheral T-cell lymphoma, not otherwise specified American Journal of Clinical Pathology . | Refining diagnostic subtypes of peripheral T-cell lymphoma using a multiparameter approach (LLMPP study) Modern Pathology . | High-grade B-cell lymphoma, not otherwise specified, with DLBCL gene-expression signatures: genomic analysis and potential therapeutics American Journal of Hematology . | . 2024 . | The P286R mutation activates cancer-cell–intrinsic immunity and suppresses endometrial tumorigenesis via cGAS–STING Cell Death &amp; Disease | . 2021–2022 . | A multi-approach and multi-scale platform to model CD4+ T cells responding to infections PLOS Computational Biology 17:e1009209 . | Systems biology identifies drug targets in CD4+ T-cell immune disorders npj Systems Biology and Applications 7:1–18 . | In silico identification of potential inhibitors of the SARS-CoV-2 nucleocapsid via docking-based drug repurposing Springer DOI: 10.1007/s44229-022-00004-z . | . Earlier Publications . | Genome-scale metabolic reconstruction of Nannochloropsis gaditana Algal Research (2017) . | pubmed.mineR: an R package with text-mining algorithms to analyze PubMed abstracts Journal of Biosciences 40(4):671–682 (2015) . | . For a full, continuously updated publication list, see my Google Scholar profile. ",
+    "url": "/pages/academic-portfolio/presentations-papers/#peer-reviewed-publications",
+    
+    "relUrl": "/pages/academic-portfolio/presentations-papers/#peer-reviewed-publications"
+  },"66": {
+    "doc": "Presentations & Papers",
+    "title": "Invited Presentations &amp; Talks",
+    "content": "2023 . | Introduction to the Workshop Platform SH-EAHP Workshop (Society for Hematopathology/EAHP), Houston, TX, Nov 10, 2023 . | Unifying clinico-genomics, digital pathology, and computational biology using cBioPortal (enhanced features) SH-EAHP Workshop, Houston, TX, Nov 2023 . | . 2022 . | Integrative computational approach to understand metabolic reprogramming in CD4+ T cells Lymphoma/Leukemia Molecular Profiling Project, Aug 25, 2022 (virtual) | . Selected Earlier Presentations . | ISMB 2018 — Oral presentation, Chicago | Nebraska Plant Science Retreat 2019 — Keynote address | Various university seminars and invited talks | . ",
+    "url": "/pages/academic-portfolio/presentations-papers/#invited-presentations--talks",
+    
+    "relUrl": "/pages/academic-portfolio/presentations-papers/#invited-presentations--talks"
+  },"67": {
+    "doc": "Presentations & Papers",
+    "title": "Abstracts &amp; Posters",
+    "content": "2024 . | ASH 2024 — Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities | . ",
+    "url": "/pages/academic-portfolio/presentations-papers/#abstracts--posters",
+    
+    "relUrl": "/pages/academic-portfolio/presentations-papers/#abstracts--posters"
+  },"68": {
+    "doc": "Presentations & Papers",
+    "title": "Presentations & Papers",
+    "content": " ",
+    "url": "/pages/academic-portfolio/presentations-papers/",
+    
+    "relUrl": "/pages/academic-portfolio/presentations-papers/"
+  },"69": {
+    "doc": "Public Health Focus",
+    "title": "Public Health Focus",
+    "content": "My public health work bridges clinical genomics, epidemiology, and health informatics to improve cancer surveillance, disaster response, and health equity through data-driven approaches. Practice Interests . Applied public health work in cancer surveillance, disaster epidemiology, and health data systems . Explore Practice Research Interests . Academic research focus areas including lymphoma genomics, cancer surveillance, and population analytics . View Research Translation to Practice . Bridging research findings to real-world impact through data pipelines and stakeholder engagement . See Translation MPH Competencies . Mapping my work against public health competencies and professional benchmarks . Review Competencies ",
+    "url": "/pages/public-health-focus/",
+    
+    "relUrl": "/pages/public-health-focus/"
+  },"70": {
+    "doc": "Public Health Focus",
+    "title": "Integrated Approach",
+    "content": "Data-Driven Solutions . Building reproducible pipelines that transform raw data into actionable insights for public health decision-making . Equity Focus . Incorporating health equity considerations into all surveillance and analytical frameworks . Stakeholder Engagement . Collaborating with clinicians, policymakers, and community partners to ensure relevance and impact . ",
+    "url": "/pages/public-health-focus/#integrated-approach",
+    
+    "relUrl": "/pages/public-health-focus/#integrated-approach"
+  },"71": {
+    "doc": "Research Interests",
+    "title": "Research Interests",
+    "content": " ",
+    "url": "/pages/public-health-focus/research-interests/",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/"
+  },"72": {
+    "doc": "Research Interests",
+    "title": "Lymphoma &amp; Liquid Biopsy",
+    "content": ". | Copy-number–anchored panel design for targeted genomic analysis | Liquid biopsy integration with registry outcomes and clinical data | Minimal residual disease detection using ctDNA methodologies | Clinical validation of novel biomarkers for lymphoma subtypes | . ",
+    "url": "/pages/public-health-focus/research-interests/#lymphoma--liquid-biopsy",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/#lymphoma--liquid-biopsy"
+  },"73": {
+    "doc": "Research Interests",
+    "title": "Cancer Surveillance &amp; Epidemiology",
+    "content": ". | Registry pipeline optimization for timeliness and data quality | Coding standards implementation (ICD, ICD-O, NAACCR) across systems | Evaluation frameworks for surveillance system performance | Geospatial analysis of cancer incidence and access patterns | . ",
+    "url": "/pages/public-health-focus/research-interests/#cancer-surveillance--epidemiology",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/#cancer-surveillance--epidemiology"
+  },"74": {
+    "doc": "Research Interests",
+    "title": "Population Health Analytics",
+    "content": ". | Health disparities research across demographic and clinical subgroups | Survival trend analysis with competing risk methodologies | Predictive modeling for cancer outcomes and healthcare utilization | Dashboard development for clinical and policy decision support | . ",
+    "url": "/pages/public-health-focus/research-interests/#population-health-analytics",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/#population-health-analytics"
+  },"75": {
+    "doc": "Research Interests",
+    "title": "Methodological Focus",
+    "content": ". | Multi-omics integration approaches for clinical translation | Reproducible research practices in public health analytics | Data linkage methodologies for EHR, registry, and molecular data | Validation frameworks for novel analytical pipelines | . ",
+    "url": "/pages/public-health-focus/research-interests/#methodological-focus",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/#methodological-focus"
+  },"76": {
+    "doc": "Research Interests",
+    "title": "Current Research Directions",
+    "content": ". | Lymphoma outcomes using integrated clinical-genomic data | Cancer surveillance timeliness and quality metrics | Health equity in cancer diagnosis and treatment access | Liquid biopsy applications in population cancer monitoring | . ",
+    "url": "/pages/public-health-focus/research-interests/#current-research-directions",
+    
+    "relUrl": "/pages/public-health-focus/research-interests/#current-research-directions"
+  },"77": {
+    "doc": "Service",
+    "title": "Professional Service",
+    "content": " ",
+    "url": "/pages/academic-portfolio/service/#professional-service",
+    
+    "relUrl": "/pages/academic-portfolio/service/#professional-service"
+  },"78": {
+    "doc": "Service",
+    "title": "Mentorship &amp; Training",
+    "content": ". | Oncology Fellows: Guided clinical fellows through complex genomic datasets and survival analysis | Research Staff: Mentored research coordinators and data analysts in reproducible research practices | Student Interns: Supervised graduate and undergraduate students in bioinformatics projects | Professional Development: Provided career guidance and technical skill development | . ",
+    "url": "/pages/academic-portfolio/service/#mentorship--training",
+    
+    "relUrl": "/pages/academic-portfolio/service/#mentorship--training"
+  },"79": {
+    "doc": "Service",
+    "title": "Collaborative Partnerships",
+    "content": ". | Registry Liaisons: Partnered with cancer registry professionals to improve coding standards and data quality | Clinical Teams: Worked with multidisciplinary clinical teams to bridge computational and clinical perspectives | Research Collaborations: Engaged in multi-institutional research projects and data sharing initiatives | . ",
+    "url": "/pages/academic-portfolio/service/#collaborative-partnerships",
+    
+    "relUrl": "/pages/academic-portfolio/service/#collaborative-partnerships"
+  },"80": {
+    "doc": "Service",
+    "title": "Workshop Development &amp; Delivery",
+    "content": ". | Reproducible Analytics: Hands-on workshops covering version control, containerization, and workflow management | FHIR/HAPI Workflows: Training sessions on healthcare data standards and interoperability | Applied Epidemiology: Practical workshops linking epidemiological methods to public health practice | Open Science Practices: Promoting transparent and reproducible research across disciplines | . ",
+    "url": "/pages/academic-portfolio/service/#workshop-development--delivery",
+    
+    "relUrl": "/pages/academic-portfolio/service/#workshop-development--delivery"
+  },"81": {
+    "doc": "Service",
+    "title": "Community Engagement",
+    "content": ". | Academic Review: Peer review for scientific journals in bioinformatics and genomics | Conference Participation: Active engagement in professional societies and scientific meetings | Knowledge Translation: Sharing research findings with broader audiences through presentations and workshops | . ",
+    "url": "/pages/academic-portfolio/service/#community-engagement",
+    
+    "relUrl": "/pages/academic-portfolio/service/#community-engagement"
+  },"82": {
+    "doc": "Service",
+    "title": "Service",
+    "content": " ",
+    "url": "/pages/academic-portfolio/service/",
+    
+    "relUrl": "/pages/academic-portfolio/service/"
+  },"83": {
+    "doc": "Six-Month Follow-Up (HTML)",
+    "title": "Six-Month Follow-Up — Cancer Registry & Public Health Analytics",
+    "content": "Focus: retention, application, and long-term usefulness. Objective 1 — Lymphoma Outcomes Retention (Likert 1–5) Application (Yes/No) Yes No Optional example (if Yes): Objective 2 — Standardized Data Rubric Retention (Likert 1–5) Application (Yes/No) Yes No Optional example (if Yes): Objective 3 — Incidence & Risk Ratios Retention (Likert 1–5) Application (Yes/No) Yes No Optional example (if Yes): Objective 4 — Dashboard Interpretation Retention (Likert 1–5) Application (Yes/No) Yes No Optional example (if Yes): Objective 5 — Privacy & Data-Use Agreement Retention (Likert 1–5) Application (Yes/No) Yes No Optional example (if Yes): Long-Term Overall This training has been useful in my context over the last 6 months (Likert 1–5) How often did you apply something from the training? Select... Never Once Monthly Weekly >Weekly Submit . ",
+    "url": "/surveys/forms/six-month/",
+    
+    "relUrl": "/surveys/forms/six-month/"
+  },"84": {
+    "doc": "Six-Month Follow-Up (HTML)",
+    "title": "Six-Month Follow-Up (HTML)",
+    "content": " ",
+    "url": "/surveys/forms/six-month/",
+    
+    "relUrl": "/surveys/forms/six-month/"
+  },"85": {
+    "doc": "Six-Month Follow-Up Survey",
+    "title": "Six-Month Follow-Up Survey",
+    "content": "Paste your live form URL below (or pass it via ?url=). The QR updates instantly. Destination (Form URL) Open Form . Copy Link Download QR (PNG) Tip: reuse this page by adding ?url=&lt;encoded-form-url&gt; to the address. ",
+    "url": "/surveys/six-month/",
+    
+    "relUrl": "/surveys/six-month/"
+  },"86": {
+    "doc": "Teaching Philosophy",
+    "title": "Teaching Philosophy",
+    "content": " ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/"
+  },"87": {
+    "doc": "Teaching Philosophy",
+    "title": "My Teaching Journey",
+    "content": "In my work with undergraduate and graduate students, I’ve found that complex concepts become accessible when grounded in real-world context and practical applications. Whether guiding students through genomic data analysis or public health surveillance methods, I focus on making technical content relevant and approachable. ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#my-teaching-journey",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#my-teaching-journey"
+  },"88": {
+    "doc": "Teaching Philosophy",
+    "title": "Formal Teaching Education",
+    "content": "CPH 705 — Public Health Teaching and Training . My graduate training in evidence-based teaching methodologies through CPH 705 provided a systematic framework for developing effective public health education. This course emphasized: . | Adult Learning Theory: Applying andragogy principles to public health education | Instructional Design: Systematic approaches from needs assessment to evaluation | Multi-Modal Delivery: Creating accessible learning experiences across different formats | Program Evaluation: Measuring training effectiveness and impact | . ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#formal-teaching-education",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#formal-teaching-education"
+  },"89": {
+    "doc": "Teaching Philosophy",
+    "title": "Core Teaching Principles",
+    "content": "Evidence-Based Instructional Design . | Apply systematic approaches from needs assessment through program evaluation | Use backward design to align learning outcomes, assessments, and activities | Incorporate Universal Design for Learning (UDL) principles for accessibility | Implement evaluation methods to measure training impact | . Real-World Relevance . | Use authentic public health datasets and clinical scenarios | Connect abstract concepts to tangible health outcomes | Demonstrate immediate applicability of skills and knowledge | Bridge theory and practice through case-based learning | . Visual &amp; Interactive Learning . | Employ clear data visualizations to reveal patterns and insights | Create interactive exercises that build confidence through practice | Use multiple modalities to accommodate different learning styles | Develop progressive skill-building sequences | . Inclusive Learning Environments . | Foster spaces where students feel safe to experiment and ask questions | Encourage iterative learning with constructive feedback | Value diverse perspectives and approaches to problem-solving | Adapt teaching methods for learners with varied backgrounds | . ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#core-teaching-principles",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#core-teaching-principles"
+  },"90": {
+    "doc": "Teaching Philosophy",
+    "title": "Teaching Methodology",
+    "content": "Systematic Instructional Design . | Needs Assessment: Identify learner needs and competency gaps through mixed methods | Backward Design: Start with clear learning outcomes and align assessments and activities | Multi-Modal Delivery: Create adaptable teaching materials for different learning contexts | Continuous Evaluation: Use data-driven approaches to improve teaching effectiveness | . Case-Based &amp; Problem-Based Learning . Develop case studies that mirror real public health challenges, allowing students to apply theoretical knowledge to practical scenarios in data analysis, genomics, and epidemiology. Hands-On Technical Training . Provide guided practice with the actual tools and technologies used in public health informatics and bioinformatics, ensuring immediate workplace applicability. Collaborative &amp; Team-Based Learning . Facilitate team-based projects that simulate real-world public health collaborations and interdisciplinary problem-solving. ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#teaching-methodology",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#teaching-methodology"
+  },"91": {
+    "doc": "Teaching Philosophy",
+    "title": "Applied Teaching Experience",
+    "content": "Student Mentorship &amp; Guidance . | Undergraduate Students: Guided research projects in bioinformatics and data analysis | Graduate Students: Mentored through complex data analysis and methodological challenges | Technical Training: Provided hands-on instruction in programming, data visualization, and analytical methods | Research Collaboration: Supported students in developing research questions and analytical approaches | . Public Health Training Development . | Cancer Surveillance Training: Curriculum design and needs assessment approaches | Technical Workshops: Developing accessible training for data analysis tools and methods | Educational Materials: Creating multi-modal teaching resources for diverse audiences | . ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#applied-teaching-experience",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#applied-teaching-experience"
+  },"92": {
+    "doc": "Teaching Philosophy",
+    "title": "Prospective Course Development",
+    "content": "Cancer Surveillance &amp; Informatics (Graduate Level) . | Focus: Registry systems, coding standards, analytic workflows, and interactive dashboards | Skills: NAACCR standards, SEER data analysis, equity-focused surveillance | Projects: Real-world cancer registry analysis and visualization | . Clinical Data Engineering with FHIR/HAPI . | Focus: Healthcare data schemas, $import operations, validation, ETL patterns | Skills: FHIR resource modeling, API development, data quality assurance | Projects: Build functional FHIR endpoints for clinical data | . Reproducible Genomics &amp; ctDNA Analytics . | Focus: Copy number analysis, quality control, clinical reporting pipelines | Skills: ichorCNA, variant interpretation, reproducible research practices | Projects: Liquid biopsy analysis from raw data to clinical reports | . Disaster Epidemiology &amp; Health Informatics . | Focus: Syndromic surveillance, situational awareness, emergency communication | Skills: Outbreak detection, dashboard development, incident management | Projects: Develop response protocols for | . ",
+    "url": "/pages/academic-portfolio/teaching-philosophy/#prospective-course-development",
+    
+    "relUrl": "/pages/academic-portfolio/teaching-philosophy/#prospective-course-development"
+  },"93": {
+    "doc": "Translation to Practice",
+    "title": "Translation to Practice",
+    "content": " ",
+    "url": "/pages/public-health-focus/translation-to-practice/",
+    
+    "relUrl": "/pages/public-health-focus/translation-to-practice/"
+  },"94": {
+    "doc": "Translation to Practice",
+    "title": "Implementation Framework",
+    "content": "Data Integration &amp; Pipeline Development . | FHIR/HAPI workflows to align EHR, registry, and molecular data | Versioned data transformations ensuring reproducibility and auditability | Standardized data models for cross-institutional collaboration | . Analytical Infrastructure . | Reproducible R/Python pipelines for quality control, modeling, and reporting | Interactive dashboards for real-time surveillance and decision support | Validated analytical outputs with comprehensive documentation | . Stakeholder Engagement &amp; Capacity Building . | Co-production approach with clinicians and registry partners | Transparent documentation of analytical assumptions and limitations | Iterative feedback cycles to refine tools and outputs | Training and mentorship to build analytical capacity across teams | . ",
+    "url": "/pages/public-health-focus/translation-to-practice/#implementation-framework",
+    
+    "relUrl": "/pages/public-health-focus/translation-to-practice/#implementation-framework"
+  },"95": {
+    "doc": "Translation to Practice",
+    "title": "Impact Pathways",
+    "content": "Clinical Impact . | Reduced time from raw data to actionable insights | Enhanced tumor board support through integrated data visualization | Improved clinical trial matching and participant identification | . Public Health Impact . | Timely surveillance data for outbreak detection and response | Equity-focused monitoring to identify and address disparities | Policy-relevant analytics for resource allocation decisions | Workforce development through training and capacity building | . System-level Impact . | Standardized data practices across collaborating institutions | Reproducible research infrastructure for multi-site studies | Scalable solutions that can be adapted to different health systems | Knowledge transfer through documentation and training programs | . ",
+    "url": "/pages/public-health-focus/translation-to-practice/#impact-pathways",
+    
+    "relUrl": "/pages/public-health-focus/translation-to-practice/#impact-pathways"
+  },"96": {
+    "doc": "Translation to Practice",
+    "title": "Capacity Building &amp; Training Translation",
+    "content": "Educational Program Development . | Needs-based curriculum design for public health professionals | Multi-modal training materials adaptable to different learning contexts | Competency-based skill development in data analysis and informatics | Evaluation frameworks to measure training effectiveness and impact | . Technical Skill Transfer . | Workshop development for FHIR/HAPI implementation and data standards | Hands-on training in cancer surveillance methodologies and tools | Mentorship programs for students and early-career professionals | Documentation systems that support ongoing learning and reference | . Sustainable Practice Integration . | Training-of-trainer models to expand capacity beyond direct instruction | Community of practice development for ongoing peer learning | Resource repositories with reusable training materials and tools | Continuous improvement cycles based on learner feedback and outcomes | . ",
+    "url": "/pages/public-health-focus/translation-to-practice/#capacity-building--training-translation",
+    
+    "relUrl": "/pages/public-health-focus/translation-to-practice/#capacity-building--training-translation"
+  },"97": {
+    "doc": "Translation to Practice",
+    "title": "Key Translation Projects",
+    "content": "Cancer Surveillance Dashboards . | Population-level lymphoma cohort monitoring | Real-time equity metrics and disparity tracking | Interactive survival and outcomes visualization | Training modules for dashboard interpretation and use | . Disaster Epidemiology Tools . | Syndromic surveillance alert systems | Situational awareness platforms for emergency response | Communication templates for incident management | Emergency response training programs | . Genomic Integration Frameworks . | ctDNA analysis pipelines for minimal residual disease | Variant interpretation and clinical reporting systems | Molecular-pathology data linkage methodologies | Genomic data analysis training for public health audiences | . Public Health Training Programs . | Cancer surveillance methodology workshops | FHIR/HAPI implementation training | Reproducible research practices education | Data visualization and communication skills development | . ",
+    "url": "/pages/public-health-focus/translation-to-practice/#key-translation-projects",
+    
+    "relUrl": "/pages/public-health-focus/translation-to-practice/#key-translation-projects"
+  }
+}

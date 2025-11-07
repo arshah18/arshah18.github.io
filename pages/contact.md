@@ -4,6 +4,7 @@ title: Contact
 nav_order: 5
 has_children: true
 has_toc: false
+permalink: /pages/contact/
 ---
 
 # Contact & Collaboration
@@ -17,24 +18,21 @@ has_toc: false
 
 <div class="contact-methods">
   <div class="contact-card">
-    <div class="contact-icon">📧</div>
     <h3>Email</h3>
     <p>For direct professional inquiries and collaboration discussions</p>
-    <a href="./contact/email" class="button primary">Send Email</a>
+    <a href="{{ site.baseurl }}/pages/contact/email" class="button primary">Send Email</a>
   </div>
 
   <div class="contact-card">
-    <div class="contact-icon">💼</div>
     <h3>LinkedIn</h3>
     <p>Connect professionally and follow my latest updates</p>
-    <a href="https://www.linkedin.com/in/rauf-s-a4634528/" class="button secondary" target="_blank">View Profile</a>
+    <a href="https://www.linkedin.com/in/rauf-s-a4634528/" class="button secondary" target="_blank" rel="noopener">View Profile</a>
   </div>
 
   <div class="contact-card">
-    <div class="contact-icon">📚</div>
     <h3>Google Scholar</h3>
     <p>Explore my research publications and academic work</p>
-    <a href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" class="button secondary" target="_blank">View Publications</a>
+    <a href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" class="button secondary" target="_blank" rel="noopener">View Publications</a>
   </div>
 </div>
 

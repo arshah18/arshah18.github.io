@@ -3,6 +3,7 @@ layout: default
 title: Research Interests
 parent: Public Health Focus
 nav_order: 2
+permalink: /pages/public-health-focus/research-interests/
 ---
 
 # Research Interests

@@ -3,6 +3,7 @@ layout: default
 title: Translation to Practice
 parent: Public Health Focus
 nav_order: 3
+permalink: /pages/public-health-focus/translation-to-practice/
 ---
 
 # Translation to Practice
