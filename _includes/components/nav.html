@@ -1,0 +1,9 @@
+{%- comment -%}
+Override JTD nav to inject a custom header card at the top of the sidebar.
+Works with Just the Docs 0.6.x (sidebar uses components/nav.html).
+{%- endcomment -%}
+<nav aria-label="Main navigation" class="site-nav">
+  {%- include nav_header_custom.html -%}
+  {%- include components/nav-tree.html pages=site.html_pages -%}
+  {%- include nav_footer_custom.html -%}
+</nav>
