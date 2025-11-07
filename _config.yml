@@ -1,4 +1,4 @@
-logo: /assets/images/portrait.jpg
+# logo: (disabled; we render a sidebar avatar)
 logo_alt: "Rauf Shah portrait"
 title: "Rauf Shah's Digital Portfolio"
 description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."

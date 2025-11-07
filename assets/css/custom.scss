@@ -18,3 +18,24 @@
 @media (max-width: 800px) {
   .side-bar .site-logo { width: 64px; height: 64px; }
 }
+
+/* --- Sidebar profile card --- */
+.profile-card{
+  text-align:center;
+  padding:0.75rem 0.5rem;
+}
+.profile-card .profile-avatar{
+  display:block;
+  margin:0.25rem auto 0.5rem;
+  width:148px;           /* make it bigger here */
+  height:148px;
+  border-radius:50%;
+  object-fit:cover;      /* fill the circle */
+  object-position:50% 20%; /* nudge down so top of head isn't clipped */
+  box-shadow:0 0 0 2px rgba(0,0,0,.05);
+}
+.profile-card .profile-name{
+  font-weight:600;
+  font-size:0.95rem;
+  line-height:1.25;
+}
