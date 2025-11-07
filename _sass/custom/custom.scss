@@ -173,16 +173,19 @@ body {
 .stat-number { font-size: 2.5rem; font-weight: 800; color: #667eea; margin-bottom: .5rem; line-height: 1; }
 .stat-label  { font-size: .9rem; color: #4a5568; font-weight: 500; }
 
-/* Sidebar avatar (same size; lowered framing a bit) */
+/* =============================
+   Sidebar avatar (CSS-only, top)
+   ============================= */
+/* Always show a circular headshot at top of sidebar, independent of theme logo markup */
 .side-bar .site-header::before {
   content: '';
   display: block;
-  width: 112px;          /* unchanged */
-  height: 112px;         /* unchanged */
-  margin: .75rem auto .5rem;
+  width: 112px;
+  height: 112px;
+  margin: .5rem auto .25rem;
   border-radius: 50%;
   background-image: url("/assets/images/portrait.jpg");
   background-size: cover;
-  background-position: 50% 26%;  /* was ~18% — lower number = higher crop; raise to lower the image */
+  background-position: 50% 18%;
   box-shadow: 0 0 0 2px rgba(0,0,0,.04);
 }
