@@ -1,20 +1,15 @@
 ---
-title: "About"
-layout: page
+title: About
 permalink: /about/
-nav_order: 1
+nav_order: 2
+has_children: true
+has_toc: false
 ---
 
-> *Currently serving as an **elected member** of the **College of Public Health Curriculum Committee** (since Oct 2025).*
+> Currently serving as an **elected member** of the **College of Public Health Curriculum Committee** (since Oct 2025).
 
+I’m a biomedical informatics and public-health professional focused on cancer surveillance, translational research, and practical teaching. This section links to my background and roles.
 
-# About
-
-{%- assign kids = site.pages | where_exp: "p", "p.path contains '/about/'" | sort: "url" -%}
-<ul>
-{%- for p in kids -%}
-  {%- if p.url != "/about/" and p.url contains "/about/" and p.title -%}
-  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-  {%- endif -%}
-{%- endfor -%}
-</ul>
+**Sections**
+- [Biography]({{ "/about/biography/" | relative_url }})
+- [Experience]({{ "/about/experience/" | relative_url }})
