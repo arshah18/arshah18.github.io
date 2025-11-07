@@ -1,49 +1,76 @@
 ---
 layout: home
-title: Home
+title: Rauf Shah, MS, PhD, MPH(Expected 2026)
 nav_order: 1
-permalink: /
+description: Public Health Leader and Lead Health Data Coordinator Level II focused on accreditation, quality, and evidence-driven improvement.
 ---
 
-<!-- Simple Academic Home -->
+# Welcome
+I help institutions turn evidence into action—building clear processes, usable dashboards, and fair reviews that improve programs, serve learners, and advance patient and community outcomes.
 
-<img src="{{ site.baseurl }}/assets/portrait.jpg"
-     alt="Portrait of Rauf Shah"
-     onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/headshot.jpg';"
-     style="width:220px; border-radius:12px; float:right; margin:0 0 1rem 1rem;">
-
-# Rauf Shah
-
-*MS Bioinformatics • PhD • MPH–Epidemiology Student  
-Lead Health Data Coordinator II, UNMC*
-
-I work at the intersection of **public health**, **clinical genomics**, and **oncology bioinformatics*. My focus is building **reproducible FHIR/HAPI data pipelines**, linking **registries ↔ EHR ↔ pathology ↔ genomics**, and translating complex data into **decision-ready analytics** for clinicians and policy partners.
+I’m currently leading data and coordination work in cancer research **and** serving as an **elected member of the College of Public Health Curriculum Committee (since October 2025)**, while seeking leadership roles that expand my institutional impact—particularly in **Institutional & Program Accreditation** under the **Vice Chancellor’s** office.
 
 ---
 
-## Start here
-- **About** — background and roles → [About]({{ site.baseurl }}/pages/about/)
-- **Academic Portfolio** — teaching, leadership, DEI, publications → [Portfolio]({{ site.baseurl }}/pages/academic-portfolio/)
-- **Contact** — collaboration & email → [Contact]({{ site.baseurl }}/pages/contact/)
+## Now serving
+- **Curriculum Committee, College of Public Health — Elected Member (since Oct 2025)**  
+  Bringing student and program perspectives into curriculum policy, evaluation, and continuous improvement.
 
 ---
 
-## Focus areas
-- **Cancer Surveillance:** NAACCR/ICD/ICD-O fidelity; validated, transparent analytics  
-- **Clinical Genomics:** variant curation; clinician-ready summaries; EMR/registry linkage  
-- **Public Health Informatics:** secure **FHIR/HAPI** pipelines; governance & quality assurance  
-- **Disaster Epidemiology:** syndromic feeds, clear thresholds/alerts, incident dashboards
+## Mission (long-term)
+**Build reliable, humane systems for quality and accreditation** so programs can:
+- Define what “good” looks like in plain language  
+- Collect the right evidence once and reuse it well  
+- Improve continuously without burning people out  
+
+This means simple policies, transparent criteria, light-weight documentation, and supportive tools—not jargon.
 
 ---
 
-## Selected recent work
-- Population-level lymphoma dashboards integrating clinical and molecular features  
-- Reproducible data flows that reduce time from raw data to insight and support equity monitoring  
-- Standardized data quality frameworks and role-based access across systems
+## What I’m looking to lead
+**Executive Lead for Institutional & Program Accreditation**
+- **Plan & run accreditation cycles**: calendars, evidence maps, task ownership, and risk logs
+- **Policy & process**: write and update standards, templates, and checklists that people can actually follow
+- **Evidence & analysis**: clean baselines, clear summaries, and practical recommendations
+- **Writing & reporting**: concise self-studies, responses, and English commentaries aligned to standards
+- **Capacity building**: short trainings, job aids, and coaching for programs and reviewers
+- **Responsible use of AI**: draft → review workflows that save time while keeping human judgment in the loop
 
 ---
 
-## CV
-- **Download CV (PDF):** [{{ site.baseurl }}/assets/rauf-shah-cv.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
+## How I work (principles)
+- **Clarity first**: plain language, shared definitions, and simple visuals  
+- **Fairness**: criteria applied consistently; feedback that is specific and actionable  
+- **Right-sized effort**: focus on evidence that changes decisions, not paperwork for its own sake  
+- **Trust & collaboration**: early listening sessions; co-design with faculty, staff, and learners  
+- **Continuous improvement**: small iterations, visible wins, and measured follow-through  
 
-<br style="clear:both">
+---
+
+## Near-term goals (next 6–12 months)
+1. Stand up a **university-wide accreditation calendar** with roles, deadlines, and templates  
+2. Publish a **self-study writing guide** with model chapters and review rubrics  
+3. Launch a **Quality & Accreditation “starter kit”**: job aids, checklists, and 1-page process maps  
+4. Pilot a **light evidence registry** so programs submit once and reuse across reports  
+5. Run **two improvement sprints** with programs (baseline → action plan → re-check)  
+
+---
+
+## Recent work & artifacts
+- **Teaching Philosophy** → how I design learning, assessment, and feedback  
+  → [Read it]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
+- **Leadership & Service** → committee work, coordination, and process design  
+  → [See leadership highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
+- **Presentations & Papers** → selected talks and manuscripts  
+  → [Browse selections]({{ "/academic-portfolio/presentations-papers/" | relative_url }})
+- **Public Health Focus** → competencies, practice interests, and translation to impact  
+  → [Explore focus areas]({{ "/public-health-focus/" | relative_url }})
+
+---
+
+## Collaborate or connect
+- **For leadership roles**: I’m ready to lead accreditation planning, policy and evidence reviews, and cross-unit improvement efforts.  
+- **For collaborations**: I partner with programs to simplify reviews, clarify standards, and build sustainable quality habits.
+
+**Email:** [Contact me]({{ "/contact/email/" | relative_url }})

@@ -50,3 +50,11 @@ I believe effective leadership in academic medicine and public health requires b
 - Provide career guidance and technical mentorship to junior team members
 - Create opportunities for skill development and professional advancement
 - Foster inclusive team cultures that value diverse backgrounds and perspectives
+
+---
+
+## Now serving
+### Curriculum Committee — College of Public Health (Elected Member, Oct 2025–present)
+- **Purpose:** Bring learner and program perspectives to curriculum policy and evaluation  
+- **Focus areas:** course review cadence, rubric clarity, fair workload for faculty/staff, and transparent feedback loops  
+- **What I contribute:** plain-language rubrics, light evidence templates, and short, reusable job aids
