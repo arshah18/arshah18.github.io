@@ -173,22 +173,16 @@ body {
 .stat-number { font-size: 2.5rem; font-weight: 800; color: #667eea; margin-bottom: .5rem; line-height: 1; }
 .stat-label  { font-size: .9rem; color: #4a5568; font-weight: 500; }
 
-/* Sidebar avatar (CSS-only, top) */
+/* Sidebar avatar (same size; lowered framing a bit) */
 .side-bar .site-header::before {
   content: '';
   display: block;
-  width: 128px;         /* was 112px */
-  height: 128px;        /* was 112px */
-  margin: .75rem auto .5rem;   /* a touch more top/bottom room */
+  width: 112px;          /* unchanged */
+  height: 112px;         /* unchanged */
+  margin: .75rem auto .5rem;
   border-radius: 50%;
   background-image: url("/assets/images/portrait.jpg");
   background-size: cover;
-  background-position: 50% 34%;  /* was 50% 18% → shifts the image down to avoid clipping */
+  background-position: 50% 26%;  /* was ~18% — lower number = higher crop; raise to lower the image */
   box-shadow: 0 0 0 2px rgba(0,0,0,.04);
-}
-
-/* Ensure the header has enough room for the larger avatar */
-.side-bar .site-header {
-  padding-top: .25rem;
-  padding-bottom: .5rem;
 }
