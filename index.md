@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Rauf Shah, MS, PhD, MPH(Expected 2026)
+title: Home
 nav_order: 1
 description: Public Health Leader and Lead Health Data Coordinator Level II focused on accreditation, quality, and evidence-driven improvement.
 ---
