@@ -394,3 +394,41 @@ body {
   margin: .5rem 1rem 1rem; /* left/right breathing room & a bit of top/bottom space */
   z-index: 1;
 }
+/* ---- Move the footer card to the TOP of the sidebar safely ---- */
+.side-bar nav.site-nav {
+  display: flex;
+  flex-direction: column;      /* so we can reorder children */
+}
+
+/* The profile card lives in nav_footer_custom.html (footer). Put it first. */
+.side-bar nav.site-nav .profile-card {
+  order: -1;                   /* float it to the top visually */
+  position: sticky;
+  top: .5rem;                  /* keep it pinned near the top while scrolling */
+  margin: .5rem .5rem 1rem .5rem;
+  border-radius: 14px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+  background: #fff;
+}
+
+/* Avatar sizing/shape */
+.side-bar nav.site-nav .profile-card .profile-avatar {
+  display: block;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 2px rgba(0,0,0,.04);
+  margin-bottom: .5rem;
+}
+
+/* Text */
+.side-bar nav.site-nav .profile-card .profile-name {
+  font-weight: 700;
+  line-height: 1.2;
+}
+.side-bar nav.site-nav .profile-card .profile-role {
+  font-size: .9rem;
+  color: #4a5568;
+}
