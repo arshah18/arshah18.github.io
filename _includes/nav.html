@@ -1,0 +1,8 @@
+{%- comment -%}
+Override Just the Docs nav to inject header/ footer custom blocks.
+{%- endcomment -%}
+<nav aria-label="Main navigation" class="site-nav">
+  {%- include nav_header_custom.html -%}
+  {%- include nav_tree.html pages=site.html_pages -%}
+  {%- include nav_footer_custom.html -%}
+</nav>
