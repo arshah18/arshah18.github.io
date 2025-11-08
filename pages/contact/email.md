@@ -15,7 +15,7 @@ permalink: /contact/email/
       <a href="mailto:abrshah@unmc.edu" class="email-link">abrshah@unmc.edu</a>
     </div>
     <div class="response-info">
-      <p>I typically respond within 24–48 hours during weekdays.</p>
+      <p>I typically respond within 24-48 hours during weekdays.</p>
     </div>
   </div>
 
@@ -54,7 +54,7 @@ permalink: /contact/email/
 
       <div class="tip-card">
         <h5>Brief Project Overview</h5>
-        <p>2–3 sentences describing your research question or project goals</p>
+        <p>2-3 sentences describing your research question or project goals</p>
       </div>
 
       <div class="tip-card">

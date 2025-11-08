@@ -6,7 +6,7 @@ has_children: true
 permalink: /surveys/
 ---
 
-# Public Health Training — Survey Hub
+# Public Health Training - Survey Hub
 
 Use this hub to route participants to the correct survey and display QR codes on slides or handouts.
 

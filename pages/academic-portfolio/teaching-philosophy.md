@@ -14,7 +14,7 @@ In my work with undergraduate and graduate students, I've found that **complex c
 
 ## Formal Teaching Education
 
-### CPH 705 — Public Health Teaching and Training
+### CPH 705 - Public Health Teaching and Training
 My graduate training in evidence-based teaching methodologies through **CPH 705** provided a systematic framework for developing effective public health education. This course emphasized:
 
 - **Adult Learning Theory**: Applying andragogy principles to public health education
