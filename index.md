@@ -5,11 +5,11 @@ nav_order: 1
 description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health leader focused on academic quality, accreditation, and evidence-driven improvement (MPH–Epidemiology, expected 2026).
 ---
 
-# Welcome
-Turning research rigor into clear, humane accreditation so programs—and people—thrive.  
+# Welcome!
+... where research rigor meets clear, compassionate standards, empowering programs and people to excel.  
 {: .lead }
 
-**Tagline:** From lymphoma registry insight to institution-wide quality, I build simple systems that earn trust and deliver improvement.  
+**Drawing from research, teaching, data analysis, lymphoma registry insight, and institution-wide quality work, I create practical systems that inspire trust, align teams, and accelerate improvement.**
 {: .fs-5 }
 
 I currently serve as **Lead Health Data Coordinator II** for the Nebraska Lymphoma Study Group at UNMC, where I bridge research, healthcare, and public health practice. My background as a Computational and Experimental Biologist has shaped the way I approach complex problems, with rigor, creativity, and a systems mindset. Now, as an epidemiologist-in-training (MPH–Epidemiology, expected 2026), I am channeling that experience into building quality and accreditation systems that are not only reliable and fair, but also practical and usable for the communities and institutions they serve.
