@@ -73,28 +73,26 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ## Quality to Impact: At a Glance
 <div class="mermaid">
 flowchart TD
-  A[Vision: high trust, low friction] --> B[Continuous improvement]
+  A["Vision: high trust low friction"] --> B["Continuous improvement"]
 
-  %% Quality loop
-  subgraph Q[Quality loop]
+  subgraph Q["Quality loop"]
     direction TB
     Q0((Loop hub))
-    S[Set clear standards]
-    C[Collect and integrate evidence]
-    V[Analyze and visualize]
-    R[Review and feedback]
-    I[Implement improvements]
+    S["Set clear standards"]
+    C["Collect and integrate evidence"]
+    V["Analyze and visualize"]
+    R["Review and feedback"]
+    I["Implement improvements"]
     Q0 --> S
     S --> C --> V --> R --> I --> S
   end
 
-  %% Knowledge base
-  subgraph K[Integrated knowledge base]
+  subgraph K["Integrated knowledge base"]
     direction TB
     K0((Knowledge hub))
-    K1[Computational and experimental biology]
-    K2[Lymphoma registry and clinical context]
-    K3[Epidemiology (MPH)]
+    K1["Computational and experimental biology"]
+    K2["Lymphoma registry and clinical context"]
+    K3["Epidemiology MPH"]
     K1 --> K0
     K2 --> K0
     K3 --> K0
