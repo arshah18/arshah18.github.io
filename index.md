@@ -72,21 +72,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 ## Quality to Impact: At a Glance
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Mermaid Test</title>
-  <!-- Load Mermaid from CDN -->
-  <script type="module">
-    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-</head>
-<body>
-  <h2>Quality to Impact: At a Glance</h2>
-
-  <div class="mermaid">
+```mermaid
     flowchart TD
       A(["Vision: High-Trust,<br>Low-Friction Improvement"]) --> B("Continuous<br>Improvement Cycle")
       
@@ -115,9 +101,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
       style A fill:#e1e6ff,stroke:#333,stroke-width:2px
       style B fill:#f0f5ff,stroke:#666,stroke-width:1px
       style K fill:#fff0f5,stroke:#666,stroke-width:1px
-  </div>
-</body>
-</html>
+```
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  

@@ -36,12 +36,24 @@
 </style>
 <!-- AVATAR_SIZE_SIMPLE_END -->
 
-<!-- Mermaid fallback (loads if theme didn't) -->
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<!-- Mermaid: robust, self-initializing loader -->
+<script id="mermaid-cdn" src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" defer></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    if (window.mermaid) {
-      mermaid.initialize({ startOnLoad: true, securityLevel: 'loose' });
-    }
+    try {
+      if (!window.mermaid) return;
+      mermaid.initialize({ startOnLoad: false, securityLevel: 'loose' });
+
+      // Convert fenced ```mermaid blocks into renderable <div class="mermaid"> nodes
+      document.querySelectorAll('pre > code.language-mermaid').forEach(code => {
+        const src = code.textContent.trim();
+        const el = document.createElement('div');
+        el.className = 'mermaid';
+        el.textContent = src;
+        code.parentElement.replaceWith(el);
+      });
+
+      mermaid.run({ querySelector: '.mermaid' });
+    } catch (e) { console.error('Mermaid init failed:', e); }
   });
 </script>
