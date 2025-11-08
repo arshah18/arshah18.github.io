@@ -2,12 +2,13 @@
 title: About
 nav_order: 2
 permalink: /about/
+has_children: true
 description: Lead Health Data Coordinator II (NLSG, UNMC) focused on academic quality, accreditation, and evidence-driven improvement; MPH–Epidemiology in progress.
 ---
 
 # About
 
-I’m **Rauf Shah, PhD** - a **Lead Health Data Coordinator II** guiding the Nebraska Lymphoma Study Group (NLSG) at the  
+I’m **Rauf Shah, Ph.D.** - a **Lead Health Data Coordinator II** guiding the Nebraska Lymphoma Study Group (NLSG) at the  
 **University of Nebraska Medical Center (UNMC), Department of Internal Medicine, Division of Hematology/Oncology**.  
 I work at the junction of **healthcare operations, research coordination, and practical quality systems** that help programs show what “good” looks like-and improve without burnout.
 

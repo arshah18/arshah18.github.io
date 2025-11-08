@@ -1,0 +1,39 @@
+title: "Rauf Shah's Digital Portfolio"
+description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+logo: "/assets/headshot.jpg"
+logo_alt: Rauf Shah headshot
+search_enabled: true
+
+# Site URL settings
+url: "https://arshah18.github.io"
+baseurl: ""  # Change to "/repository-name" if this is a project site
+
+# Enable remote theme plugin (required on GitHub Pages) + pretty permalinks
+plugins:
+  - jekyll-remote-theme
+permalink: pretty
+
+# Auxiliary links
+aux_links:
+  "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"
+  "Google Scholar": "https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en"
+  "Email": "mailto:abrshah@unmc.edu"
+
+# Favicon
+favicon_ico: "/assets/favicon.png"
+
+# Heading anchors
+heading_anchors: true
+
+# Just-the-Docs specific
+just_the_docs:
+  collections_default: true
+
+# Force rebuild (safe no-op)
+# cache-bust: v2
+
+# build: 2025-11-07T04:46:20Z
