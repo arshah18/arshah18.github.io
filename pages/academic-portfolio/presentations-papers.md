@@ -27,15 +27,15 @@ permalink: /academic-portfolio/presentations-papers/
   *American Journal of Hematology*
 
 ### 2024
-- **The P286R mutation activates cancer-cell–intrinsic immunity and suppresses endometrial tumorigenesis via cGAS–STING**  
+- **The P286R mutation activates cancer-cell-intrinsic immunity and suppresses endometrial tumorigenesis via cGAS-STING**  
   *Cell Death & Disease*
 
-### 2021–2022
+### 2021-2022
 - **A multi-approach and multi-scale platform to model CD4+ T cells responding to infections**  
   *PLOS Computational Biology* 17:e1009209
 
 - **Systems biology identifies drug targets in CD4+ T-cell immune disorders**  
-  *npj Systems Biology and Applications* 7:1–18
+  *npj Systems Biology and Applications* 7:1-18
 
 - **In silico identification of potential inhibitors of the SARS-CoV-2 nucleocapsid via docking-based drug repurposing**  
   Springer DOI: 10.1007/s44229-022-00004-z
@@ -45,7 +45,7 @@ permalink: /academic-portfolio/presentations-papers/
   *Algal Research* (2017)
 
 - **pubmed.mineR: an R package with text-mining algorithms to analyze PubMed abstracts**  
-  *Journal of Biosciences* 40(4):671–682 (2015)
+  *Journal of Biosciences* 40(4):671-682 (2015)
 
 > *For a full, continuously updated publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en).*
 
@@ -63,11 +63,11 @@ permalink: /academic-portfolio/presentations-papers/
   Lymphoma/Leukemia Molecular Profiling Project, Aug 25, 2022 (virtual)
 
 ### Selected Earlier Presentations
-- **ISMB 2018** — Oral presentation, Chicago
-- **Nebraska Plant Science Retreat 2019** — Keynote address
+- **ISMB 2018** - Oral presentation, Chicago
+- **Nebraska Plant Science Retreat 2019** - Keynote address
 - Various university seminars and invited talks
 
 ## Abstracts & Posters
 
 ### 2024
-- **ASH 2024** — Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities
+- **ASH 2024** - Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities

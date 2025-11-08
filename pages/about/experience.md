@@ -11,9 +11,9 @@ permalink: /about/experience/
 - [**Download full C.V. (PDF)**]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
 
 ## Professional Summary
-- **Lead Health Data Coordinator II** — UNMC, Hematology & Oncology (2024–present)  
+- **Lead Health Data Coordinator II** - UNMC, Hematology & Oncology (2024-present)  
   Clinical data architecture, registry builds, FHIR ingestion, analytics.
-- **Computational Biologist** — Cancer Genomics & Immunology (pre-2024)  
+- **Computational Biologist** - Cancer Genomics & Immunology (pre-2024)  
   ChIP-Seq, WES, LP-WGS, ctDNA, multi-omics integration, dashboards.
 
 ## Core Competencies
@@ -47,7 +47,7 @@ permalink: /about/experience/
 ## Professional Experience
 
 ### Lead Health Data Coordinator II
-*UNMC, Hematology & Oncology | 2024–Present*
+*UNMC, Hematology & Oncology | 2024-Present*
 - Design and implement clinical data architecture for oncology registries
 - Develop FHIR-based data ingestion pipelines for clinico-genomic integration
 - Build analytics platforms for cancer surveillance and outcomes monitoring

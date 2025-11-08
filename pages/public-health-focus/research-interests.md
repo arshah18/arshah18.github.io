@@ -9,7 +9,7 @@ permalink: /public-health-focus/research-interests/
 # Research Interests
 
 ## Lymphoma & Liquid Biopsy
-- **Copy-number–anchored panel design** for targeted genomic analysis
+- **Copy-number-anchored panel design** for targeted genomic analysis
 - **Liquid biopsy integration** with registry outcomes and clinical data
 - **Minimal residual disease detection** using ctDNA methodologies
 - **Clinical validation** of novel biomarkers for lymphoma subtypes
