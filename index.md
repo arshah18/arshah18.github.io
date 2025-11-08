@@ -71,6 +71,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
+<div class="mermaid">graph TD; A[Start]-->B[End]</div>
 
 <div class="mermaid">
 flowchart TD
