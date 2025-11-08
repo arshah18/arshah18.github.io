@@ -35,5 +35,13 @@
 }
 </style>
 <!-- AVATAR_SIZE_SIMPLE_END -->
+
+<!-- Mermaid fallback (loads if theme didn't) -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>document.addEventListener('DOMContentLoaded',()=>mermaid.initialize({startOnLoad:true,securityLevel:'loose'}));</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.mermaid) {
+      mermaid.initialize({ startOnLoad: true, securityLevel: 'loose' });
+    }
+  });
+</script>
