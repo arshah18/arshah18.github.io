@@ -74,19 +74,19 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 <div class="mermaid">
 flowchart TD
-  A["Vision: High-Trust,<br/>Low-Friction Improvement"] --> B["Continuous<br/>Improvement Cycle"]
+  A["Vision: High-Trust,<br>Low-Friction Improvement"] --> B["Continuous<br>Improvement Cycle"]
 
-  subgraph B["Quality Loop"]
+  subgraph B [Quality Loop]
     direction TB
-    S["Set Standards"] --> C["Collect &amp; Integrate Evidence"] --> V["Analyze &amp; Visualize"]
-      --> R["Review &amp; Feedback"] --> I["Implement Improvements"] --> S
+    S["Set Standards"] --> C["Collect & Integrate Evidence"] --> V["Analyze & Visualize"]
+      --> R["Review & Feedback"] --> I["Implement Improvements"] --> S
   end
 
-  subgraph K["Integrated Knowledge Base"]
+  subgraph K [Integrated Knowledge Base]
     direction LR
     K0(("Knowledge Hub"))
-    K1["Computational &amp; Experimental Biology"]:::k
-    K2["Lymphoma Registry &amp; Clinical Context"]:::k
+    K1["Computational & Experimental Biology"]:::k
+    K2["Lymphoma Registry & Clinical Context"]:::k
     K3["Epidemiology (MPH)"]:::k
     K1 -.-> K0
     K2 -.-> K0
@@ -97,10 +97,10 @@ flowchart TD
   V -->|Draws from| K0
   K0 -.->|Informs all stages| B
 
-  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px;
-  style A fill:#e6f0ff,stroke:#333,stroke-width:1px;
-  style B fill:#f6faff,stroke:#666,stroke-width:1px;
-  style K0 fill:#ffffff,stroke:#999,stroke-width:1px;
+  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px
+  style A fill:#e6f0ff,stroke:#333,stroke-width:1px
+  style B fill:#f6faff,stroke:#666,stroke-width:1px
+  style K0 fill:#ffffff,stroke:#999,stroke-width:1px
 </div>
 
 ## Featured links
