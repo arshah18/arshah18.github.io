@@ -78,8 +78,14 @@ flowchart TD
   %% Quality loop
   subgraph Q[Quality loop]
     direction TB
-    S[Set clear standards] --> C[Collect and integrate evidence] --> V[Analyze and visualize]
-      --> R[Review and feedback] --> I[Implement improvements] --> S
+    Q0((Loop hub))
+    S[Set clear standards]
+    C[Collect and integrate evidence]
+    V[Analyze and visualize]
+    R[Review and feedback]
+    I[Implement improvements]
+    Q0 --> S
+    S --> C --> V --> R --> I --> S
   end
 
   %% Knowledge base
@@ -96,7 +102,7 @@ flowchart TD
 
   C -->|Populates| K0
   V -->|Uses| K0
-  K0 -.->|Informs all stages| Q
+  K0 -.->|Informs| Q0
 </div>
 
 ## Featured links
