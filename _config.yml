@@ -1,7 +1,7 @@
 logo: "/assets/images/portrait.jpg"
 logo_alt: "Rauf Shah headshot"
 title: "Rauf Shah's Digital Portfolio"
-description: "MS Bioinformatics | PhD | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
+description: "MS Bioinformatics | Ph.D. | MPH-Epidemiology Student | UNMC - Lead Health Data Coordinator II; oncology bioinformatics, cancer surveillance, disaster epidemiology; FHIR/HAPI pipelines."
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
@@ -32,6 +32,7 @@ heading_anchors: true
 # Just-the-Docs specific
 just_the_docs:
   collections_default: true
+  mermaid: true
 
 # Force rebuild (safe no-op)
 # cache-bust: v2
