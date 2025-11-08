@@ -36,24 +36,39 @@
 </style>
 <!-- AVATAR_SIZE_SIMPLE_END -->
 
-<!-- Mermaid: robust, self-initializing loader -->
-<script id="mermaid-cdn" src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js" defer></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    try {
-      if (!window.mermaid) return;
-      mermaid.initialize({ startOnLoad: false, securityLevel: 'loose' });
+<!-- Mermaid (global UMD) -->
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script defer>
+  (function () {
+    function renderMermaid() {
+      try {
+        if (!window.mermaid) return;
 
-      // Convert fenced ```mermaid blocks into renderable <div class="mermaid"> nodes
-      document.querySelectorAll('pre > code.language-mermaid').forEach(code => {
-        const src = code.textContent.trim();
-        const el = document.createElement('div');
-        el.className = 'mermaid';
-        el.textContent = src;
-        code.parentElement.replaceWith(el);
-      });
+        // Initialize once per page view
+        mermaid.initialize({ startOnLoad: false, securityLevel: 'loose' });
 
-      mermaid.run({ querySelector: '.mermaid' });
-    } catch (e) { console.error('Mermaid init failed:', e); }
-  });
+        // 1) Convert fenced blocks ```mermaid rendered by Rouge.
+        // Rouge puts class on a wrapper: .language-mermaid .highlight pre code
+        document.querySelectorAll('.language-mermaid pre code, pre code.language-mermaid').forEach(code => {
+          const src = code.textContent.trim();
+
+          // Replace the *outer* wrapper when present, otherwise the <pre>
+          const container = code.closest('.language-mermaid') || code.closest('pre') || code.parentElement;
+
+          const el = document.createElement('div');
+          el.className = 'mermaid';
+          el.textContent = src;          // let Mermaid parse the text (not HTML)
+          container.replaceWith(el);
+        });
+
+        // 2) Render any explicit <div class="mermaid">…</div> blocks
+        mermaid.run({ querySelector: '.mermaid' });
+      } catch (e) {
+        console.error('Mermaid init failed:', e);
+      }
+    }
+
+    // Run after DOM is ready (defer ensures Mermaid script is already loaded)
+    document.addEventListener('DOMContentLoaded', renderMermaid);
+  })();
 </script>

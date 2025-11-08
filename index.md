@@ -72,7 +72,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 ## Quality to Impact: At a Glance
 
-```mermaid
+<div class="mermaid">
     flowchart TD
       A(["Vision: High-Trust,<br>Low-Friction Improvement"]) --> B("Continuous<br>Improvement Cycle")
       
@@ -101,7 +101,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
       style A fill:#e1e6ff,stroke:#333,stroke-width:2px
       style B fill:#f0f5ff,stroke:#666,stroke-width:1px
       style K fill:#fff0f5,stroke:#666,stroke-width:1px
-```
+</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
