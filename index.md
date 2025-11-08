@@ -12,10 +12,9 @@ Turning research rigor into clear, humane accreditation so programs—and people
 **Tagline:** From lymphoma registry insight to institution-wide quality, I build simple systems that earn trust and deliver improvement.  
 {: .fs-5 }
 
-I am **Lead Health Data Coordinator II** for the **Nebraska Lymphoma Study Group (NLSG)** at the **University of Nebraska Medical Center (UNMC), Department of Internal Medicine, Division of Hematology/Oncology**.  
-I’m a **computational & experimental biologist** working in healthcare and public health, and an **epidemiologist-in-training (MPH–Epidemiology, expected 2026)**, focused on building **reliable, fair, and usable** quality and accreditation systems.
+I currently serve as **Lead Health Data Coordinator II** for the Nebraska Lymphoma Study Group at UNMC, where I bridge research, healthcare, and public health practice. My background as a Computational and Experimental Biologist has shaped the way I approach complex problems, with rigor, creativity, and a systems mindset. Now, as an epidemiologist-in-training (MPH–Epidemiology, expected 2026), I am channeling that experience into building quality and accreditation systems that are not only reliable and fair, but also practical and usable for the communities and institutions they serve.
 
-I also serve as an **elected member of the College of Public Health Curriculum Committee (since October 2025)**, bringing a learner/program lens to policy and continuous improvement. I’m seeking roles that expand institutional impact—especially in **institutional & program quality/accreditation leadership** within a **Vice Chancellor’s** office.
+I also serve as an **elected member of the College of Public Health Curriculum Committee (since October 2025)**, bringing a learner/program lens to policy and continuous improvement. I’m seeking roles that expand institutional impact—especially in **institutional & program quality/accreditation leadership**.
 
 ---
 
