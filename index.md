@@ -15,9 +15,9 @@ description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health lead
 ---
 
 ## Snapshot
-- **Current:** Lead Health Data Coordinator II, **Nebraska Lymphoma Study Group (NLSG), UNMC**  
+- **Current:** Lead Health Data Coordinator Level II, **Nebraska Lymphoma Study Group (NLSG), UNMC**  
 - **Service:** Elected member, **College of Public Health Curriculum Committee** (since Oct 2025)  
-- **Trajectory:** Computational + experimental biologist → health-data leader → **epidemiology-informed** program-quality leader (MPH-Epi 2026)
+- **Trajectory:** Computational + Experimental Biologist → Health-Data leader → **Epidemiology-Informed** Program-Quality Leader (MPH-Epi 2026)
 
 ---
 
@@ -92,7 +92,7 @@ flowchart LR
   I2 --> C
   I3 --> D
   I4 --> E
-```
+
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
   → [Highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
