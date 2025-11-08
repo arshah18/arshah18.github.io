@@ -2,77 +2,103 @@
 layout: home
 title: Home
 nav_order: 1
-description: Lead Health Data Coordinator II (NLSG, UNMC) and Public-health leader focused on academic quality, accreditation, and evidence-driven improvement (MPH-Epidemiology, Expected 2026).
+description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health leader focused on academic quality, accreditation, and evidence-driven improvement (MPH-Epidemiology, expected 2026).
 ---
 
-# Welcome
-Clear standards, trustworthy evidence, and practical improvement-built with rigor and care.  
+# Welcome!
+...where research rigor meets clear, compassionate standards, empowering programs and people to excel.
 {: .lead }
 
-**Affiliation:** University of Nebraska Medical Center (UNMC), Department of Internal Medicine, Division of Hematology/Oncology  
-**Current role:** Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group (NLSG)  
-**Elected service:** College of Public Health Curriculum Committee (Since Oct 2025)  
+**I build reliable, human-centered systems for academic quality and accreditation-grounded in computational and experimental biology, clinical oncology context, and public-health methods.**
 {: .fs-5 }
 
 ---
 
+## Snapshot
+- **Current:** Lead Health Data Coordinator II, **Nebraska Lymphoma Study Group (NLSG), UNMC**  
+- **Service:** Elected member, **College of Public Health Curriculum Committee** (since Oct 2025)  
+- **Trajectory:** Computational + experimental biologist → health-data leader → **epidemiology-informed** program-quality leader (MPH-Epi 2026)
+
+---
+
 ## Vision
-Programs that know what “good” looks like, can show it simply, and keep improving without burnout.
+**Every program knows what “good” looks like, can show it simply, and gets better without burnout.**
 
 ## Mission
-Build dependable, humane systems for academic quality and accreditation so programs can:
-- State expectations in plain language  
-- Collect evidence once and reuse it well  
-- Improve continuously with right-sized effort and psychological safety
+**Make academic quality and accreditation dependable and humane** by:
+- Writing standards in **plain language**
+- **Collecting evidence once** and reusing it well
+- Running **fair, right-sized reviews** with psychological safety
+
+This means transparent criteria, lean documentation, and shared tools-not jargon.
 
 ---
 
-## Core Strengths
-- **Research foundation:** computational and experimental biology; cancer genomics and biomedical informatics  
-- **Clinical context:** lymphoma registry operations and collaborative study support  
-- **Epidemiology in progress:** MPH (expected 2026) with population-health methods and applied analysis  
-- **Quality systems:** accreditation planning, policy and process design, evidence synthesis, and reporting  
-- **Learning design (teaching-ready):** hybrid-ready materials, job aids, and curriculum design aligned to learner needs  
-- **Responsible AI:** draft to review workflows that save time and protect judgment and integrity
+## Pillars I Bring
+- **Research & computation:** cancer genomics/bioinformatics, reproducible analysis, evidence synthesis  
+- **Clinical & registry insight:** lymphoma cohort coordination and data quality  
+- **Epidemiology mindset:** population patterns, bias awareness, actionable metrics (MPH in progress)  
+- **Learning & curriculum:** hybrid-ready materials, needs-based design, practical job aids
 
 ---
 
-## Leadership and Learning Stance
-- **Clarity first:** plain language, shared definitions, and simple visuals  
-- **Fair and consistent:** criteria that are applied the same way for everyone, with actionable feedback  
-- **Small wins, steady momentum:** short cycles, visible improvements, measured follow-through  
-- **Measure what matters:** scientific rigor for educational effectiveness and process change  
-- **Co-design over compliance:** partner with faculty, staff, and learners to make standards usable
+## How I lead (brief stance)
+- **Clarity → transfer** (worked examples, checklists)  
+- **Trust → candor** (consistent criteria, specific feedback)  
+- **Small wins → momentum** (short cycles, visible improvements)  
+- **Measure what matters** (scientist’s rigor, useful indicators)  
+- **Co-design over compliance** (faculty, staff, learners at the table)
 
 ---
 
 ## What I Lead
-- Accreditation planning and delivery: calendars, evidence maps, ownership, risk logs  
-- Policy and process: standards, templates, and checklists people actually use  
-- Evidence and analysis: clean baselines, clear summaries, practical recommendations  
-- Writing and reporting: concise self-studies, responses, and English commentaries aligned to standards  
-- Capacity building: short trainings, job aids, and reviewer coaching  
-- Responsible AI enablement: human-in-the-loop document and review workflows
+- **Accreditation planning & delivery:** calendars, evidence maps, ownership, risk logs  
+- **Policy & process design:** standards, templates, checklists people actually use  
+- **Evidence & analysis:** clean baselines, clear summaries, practical recommendations  
+- **Writing & reporting:** concise self-studies and responses aligned to standards  
+- **Capacity building:** short trainings, job aids, reviewer coaching  
+- **Responsible AI:** draft→review workflows with human judgment in the loop
 
 ---
 
-## Quality to Impact
+## Near-Term Goals
+1. University-wide **accreditation calendar** with roles, deadlines, reusable templates  
+2. **Self-study writing guide** with model sections and review rubrics  
+3. **Quality & Accreditation starter kit:** one-page maps, job aids, checklists  
+4. Pilot a **light evidence registry** (submit once, reuse across reports)  
+5. Run **two improvement sprints** (baseline → action plan → re-check)
+
+---
+
+## Quality to Impact: At a Glance
+
 ```mermaid
 flowchart LR
-  A[Set clear standards] --> B[Collect the right evidence]
-  B --> C[Analyze and visualize]
-  C --> D[Review and improve]
-  D --> E[Share and scale]
-  E --> A
+  A["Vision: High-Trust, Low-Friction Improvement"] --> B["Set Clear Standards"]
+  B --> C["Collect Evidence once"]
+  C --> D["Analyze & Visualize"]
+  D --> E["Fair Review & Feedback"]
+  E --> F["Improve & Sustain"]
+  F --> B
 
   subgraph Inputs
-    I1[Research: computational & experimental biology]
-    I2[Clinical insights & NLSG registry]
-    I3[Epidemiology & population data]
-    I4[Learning design & coaching]
+    I1["Computational & Experimental Biology"]
+    I2["Lymphoma Registry & Clinical Context"]
+    I3["Epidemiology (MPH)"]
+    I4["Learning Design (hybrid-ready)"]
   end
 
-  I1 --> C
-  I2 --> B
-  I3 --> C
-  I4 --> D
+  I1 --> D
+  I2 --> C
+  I3 --> D
+  I4 --> E
+```
+## Featured links
+- **Leadership & Service** — committee work, coordination, process design  
+  → [Highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
+- **Teaching Philosophy** — clarity, assessment, feedback (for future instruction roles)  
+  → [Read it]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
+- **Presentations & Papers** — selected talks and manuscripts  
+  → [Browse]({{ "/academic-portfolio/presentations-papers/" | relative_url }})
+- **Public Health Focus** — competencies, practice interests, translation to impact  
+  → [Explore]({{ "/public-health-focus/" | relative_url }})
