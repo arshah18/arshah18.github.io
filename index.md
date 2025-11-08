@@ -73,34 +73,34 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ## Quality to Impact: At a Glance
 
 <div class="mermaid">
-    flowchart TD
-      A(["Vision: High-Trust,<br>Low-Friction Improvement"]) --> B("Continuous<br>Improvement Cycle")
-      
-      subgraph B
-        direction TB
-        S["Set Clear<br>Standards"]
-        C["Collect &<br>Integrate Evidence"]
-        V["Analyze &<br>Visualize"]
-        R["Review &<br>Provide Feedback"]
-        I["Implement<br>Improvements"]
-        
-        S --> C --> V --> R --> I --> S
-      end
+flowchart TD
+  A["Vision: High-Trust,<br/>Low-Friction Improvement"] --> B["Continuous<br/>Improvement Cycle"]
 
-      subgraph K["Integrated Knowledge Base"]
-        direction LR
-        K1["Computational &<br>Experimental Biology"]
-        K2["Lymphoma Registry &<br>Clinical Context"]
-        K3["Epidemiology &<br>Population Health"]
-      end
+  subgraph B["Quality Loop"]
+    direction TB
+    S["Set Standards"] --> C["Collect &amp; Integrate Evidence"] --> V["Analyze &amp; Visualize"]
+      --> R["Review &amp; Feedback"] --> I["Implement Improvements"] --> S
+  end
 
-      K -.-> |Informs all stages| B
-      C --> |Populates| K
-      V --> |Draws from| K
+  subgraph K["Integrated Knowledge Base"]
+    direction LR
+    K0(("Knowledge Hub"))
+    K1["Computational &amp; Experimental Biology"]:::k
+    K2["Lymphoma Registry &amp; Clinical Context"]:::k
+    K3["Epidemiology (MPH)"]:::k
+    K1 -.-> K0
+    K2 -.-> K0
+    K3 -.-> K0
+  end
 
-      style A fill:#e1e6ff,stroke:#333,stroke-width:2px
-      style B fill:#f0f5ff,stroke:#666,stroke-width:1px
-      style K fill:#fff0f5,stroke:#666,stroke-width:1px
+  C -->|Populates| K0
+  V -->|Draws from| K0
+  K0 -.->|Informs all stages| B
+
+  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px;
+  style A fill:#e6f0ff,stroke:#333,stroke-width:1px;
+  style B fill:#f6faff,stroke:#666,stroke-width:1px;
+  style K0 fill:#ffffff,stroke:#999,stroke-width:1px;
 </div>
 
 ## Featured links
