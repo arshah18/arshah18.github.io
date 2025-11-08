@@ -2,27 +2,20 @@
 layout: home
 title: Home
 nav_order: 1
-description: Public Health leader (Epidemiology-in-training, MPH 2026) and Lead Health Data Coordinator II focused on accreditation, quality, and evidence-driven improvement.
+description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health leader focused on academic quality, accreditation, and evidence-driven improvement (MPH–Epidemiology, expected 2026).
 ---
 
 # Welcome
 Turning research rigor into clear, humane accreditation so programs—and people—thrive.  
 {: .lead }
 
-**Teaching & leadership, in one line:** I teach for transfer (clarity → practice) and lead for trust (simple processes → measurable improvement).  
+**Tagline:** From lymphoma registry insight to institution-wide quality, I build simple systems that earn trust and deliver improvement.  
 {: .fs-5 }
 
-I’m a **computational & experimental biologist** working in **healthcare and public health**, and an **epidemiologist-in-training (MPH–Epidemiology, expected 2026)**—focused on building **reliable, fair, and usable** accreditation systems. I translate data, policy, and people’s lived experience into decisions programs can act on.
+I am **Lead Health Data Coordinator II** for the **Nebraska Lymphoma Study Group (NLSG)** at the **University of Nebraska Medical Center (UNMC), Department of Internal Medicine, Division of Hematology/Oncology**.  
+I’m a **computational & experimental biologist** working in healthcare and public health, and an **epidemiologist-in-training (MPH–Epidemiology, expected 2026)**, focused on building **reliable, fair, and usable** quality and accreditation systems.
 
-**Current affiliation:** [University of Nebraska Medical Center (UNMC)](https://www.unmc.edu/) — Department of Internal Medicine, Division of Hematology/Oncology.  
-
-I currently coordinate data and process in cancer research **and** serve as an **elected member of the College of Public Health Curriculum Committee (since October 2025)**. I’m seeking roles that expand my institutional impact—especially in **institutional & program quality/accreditation leadership** within a **Vice Chancellor’s** office.
-
----
-
-## Now serving
-- **Curriculum Committee, College of Public Health — Elected Member (since Oct 2025)**  
-  Bringing student and program perspectives into curriculum policy, evaluation, and continuous improvement.
+I also serve as an **elected member of the College of Public Health Curriculum Committee (since October 2025)**, bringing a learner/program lens to policy and continuous improvement. I’m seeking roles that expand institutional impact—especially in **institutional & program quality/accreditation leadership** within a **Vice Chancellor’s** office.
 
 ---
 
@@ -41,18 +34,18 @@ This means transparent criteria, lightweight documentation, shared tools, and su
 
 ---
 
-## Teaching & leadership philosophy
-- **Clarity → transfer.** Teach with simple language, worked examples, and job aids that stick after class.  
-- **Trust → candor.** Create safe rooms for honest evidence, consistent criteria, and actionable feedback.  
+## Leadership & teaching stance (no current classroom teaching)
+- **Clarity → transfer.** When I design trainings or job aids, I use simple language, worked examples, and checklists that stick.  
+- **Trust → candor.** In reviews, I create safe rooms for honest evidence, consistent criteria, and actionable feedback.  
 - **Small wins → momentum.** Short cycles, visible improvements, and follow-through build culture.  
 - **Measure what matters.** Bring a scientist’s rigor to educational effectiveness and process change.  
-- **Co-design over compliance.** Partner with faculty, staff, and learners to make standards usable.
+- **Co-design over compliance.** Partner with faculty, staff, and learners to make standards truly usable.
 
 ---
 
 ## What I lead
-- **Accreditation planning & delivery** — calendars, evidence maps, ownership, and risk logs  
-- **Policy & process design** — standards, templates, and checklists people will actually use  
+- **Accreditation planning & delivery** — calendars, evidence maps, ownership, risk logs  
+- **Policy & process design** — standards, templates, and checklists people actually use  
 - **Evidence & analysis** — clean baselines, clear summaries, practical recommendations  
 - **Writing & reporting** — concise self-studies, responses, and English commentaries aligned to standards  
 - **Capacity building** — short trainings, job aids, and reviewer coaching  
@@ -60,7 +53,7 @@ This means transparent criteria, lightweight documentation, shared tools, and su
 
 ---
 
-## Target role titles (synonyms recruiters use)
+## Target role titles (common synonyms)
 - **Director, Academic Quality & Accreditation**  
 - **Accreditation & Program Quality Lead**  
 - **Head of Institutional Effectiveness & Accreditation**  
@@ -81,7 +74,7 @@ This means transparent criteria, lightweight documentation, shared tools, and su
 ---
 
 ## Recent work & artifacts
-- **Teaching Philosophy** — how I design learning, assessment, and feedback  
+- **Teaching Philosophy** — my approach to clarity, assessment, and feedback (for future teaching roles)  
   → [Read it]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
 - **Leadership & Service** — committee work, coordination, and process design  
   → [See leadership highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
