@@ -14,18 +14,18 @@ permalink: /about/biography/
 ---
 
 ## Current roles & interests
-- **Lead Health Data Coordinator II (Oncology)** — registry/EHR/genomics integration, outcomes dashboards, governance & QA  
-- **MPH–Epidemiology** — methods, surveillance systems, policy translation, and evaluation  
-- **ctDNA & lymphoma analytics** — copy-number–anchored panels, cohort curation, reproducible reporting  
-- **Public-health teaching & training** — course/module design (surveillance, FHIR/HAPI, reproducible analytics)
+- **Lead Health Data Coordinator II (Oncology)** - registry/EHR/genomics integration, outcomes dashboards, governance & QA  
+- **MPH–Epidemiology** - methods, surveillance systems, policy translation, and evaluation  
+- **ctDNA & lymphoma analytics** - copy-number–anchored panels, cohort curation, reproducible reporting  
+- **Public-health teaching & training** - course/module design (surveillance, FHIR/HAPI, reproducible analytics)
 
 ---
 
 ## Areas of focus
-- **Cancer Surveillance** — NAACCR/ICD/ICD-O fidelity; pipelines that link **registries ↔ EHR ↔ pathology ↔ genomics**; validated, transparent analytics  
-- **Disaster Epidemiology** — **syndromic feeds**, incident dashboards, thresholds/alerts, clear communication to decision-makers  
-- **Translation to Practice** — briefs and visual summaries aligned to program needs; equity-aware reporting and outcomes tracking  
-- **Teaching & Course Design** — needs-assessment–driven modules; backward design; **case-based labs** using real public-health and oncology datasets
+- **Cancer Surveillance** - NAACCR/ICD/ICD-O fidelity; pipelines that link **registries ↔ EHR ↔ pathology ↔ genomics**; validated, transparent analytics  
+- **Disaster Epidemiology** - **syndromic feeds**, incident dashboards, thresholds/alerts, clear communication to decision-makers  
+- **Translation to Practice** - briefs and visual summaries aligned to program needs; equity-aware reporting and outcomes tracking  
+- **Teaching & Course Design** - needs-assessment–driven modules; backward design; **case-based labs** using real public-health and oncology datasets
 
 ---
 
@@ -50,6 +50,6 @@ permalink: /about/biography/
 ---
 
 ## Links
-- **Download CV (PDF)** — [CV.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)  
-- **LinkedIn** — [Connect](https://www.linkedin.com/in/rauf-s-a4634528/)  
-- **Google Scholar** — [Profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)
+- **Download CV (PDF)** - [CV.pdf]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)  
+- **LinkedIn** - [Connect](https://www.linkedin.com/in/rauf-s-a4634528/)  
+- **Google Scholar** - [Profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)
