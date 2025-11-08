@@ -63,11 +63,11 @@ permalink: /academic-portfolio/presentations-papers/
   Lymphoma/Leukemia Molecular Profiling Project, Aug 25, 2022 (virtual)
 
 ### Selected Earlier Presentations
-- **ISMB 2018** — Oral presentation, Chicago
-- **Nebraska Plant Science Retreat 2019** — Keynote address
+- **ISMB 2018** - Oral presentation, Chicago
+- **Nebraska Plant Science Retreat 2019** - Keynote address
 - Various university seminars and invited talks
 
 ## Abstracts & Posters
 
 ### 2024
-- **ASH 2024** — Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities
+- **ASH 2024** - Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities
