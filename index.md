@@ -73,26 +73,26 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ## Quality to Impact: At a Glance
 
 ```mermaid
-flowchart LR
-  A["Vision: High-Trust, Low-Friction Improvement"] --> B["Set Clear Standards"]
-  B --> C["Collect Evidence once"]
-  C --> D["Analyze & Visualize"]
-  D --> E["Fair Review & Feedback"]
-  E --> F["Improve & Sustain"]
-  F --> B
+      flowchart LR
+        A["Vision: High-Trust, Low-Friction Improvement"] --> B["Set Clear Standards"]
+        B --> C["Collect Evidence once"]
+        C --> D["Analyze & Visualize"]
+        D --> E["Fair Review & Feedback"]
+        E --> F["Improve & Sustain"]
+        F --> B
 
-  subgraph Inputs
-    I1["Computational & Experimental Biology"]
-    I2["Lymphoma Registry & Clinical Context"]
-    I3["Epidemiology (MPH)"]
-    I4["Learning Design (hybrid-ready)"]
-  end
+        subgraph Inputs
+          I1["Computational & Experimental Biology"]
+          I2["Lymphoma Registry & Clinical Context"]
+          I3["Epidemiology (MPH)"]
+          I4["Learning Design (hybrid-ready)"]
+        end
 
-  I1 --> D
-  I2 --> C
-  I3 --> D
-  I4 --> E
-
+        I1 --> D
+        I2 --> C
+        I3 --> D
+        I4 --> E
+        
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
   → [Highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
