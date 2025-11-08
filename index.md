@@ -72,19 +72,12 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 ## Quality to Impact: At a Glance
 <div class="mermaid">flowchart TD; A[Start] --> B[End]</div>
+
 <div class="mermaid">
 flowchart TD
-  %% Quality loop subgraph with a "hub" node
-  subgraph Q[Quality loop]
+  subgraph Q["Quality loop"]
     direction TB
     Q0((Loop hub))
-    S[Set clear standards]
-    C[Collect & integrate evidence]
-    V[Analyze & visualize]
-    R[Review & feedback]
-    I[Implement improvements]
-    Q0 --> S
-    S --> C --> V --> R --> I --> S
   end
 </div>
 
