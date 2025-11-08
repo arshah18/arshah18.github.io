@@ -73,26 +73,35 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ## Quality to Impact: At a Glance
 
 ```mermaid
-      flowchart LR
-        A["Vision: High-Trust, Low-Friction Improvement"] --> B["Set Clear Standards"]
-        B --> C["Collect Evidence once"]
-        C --> D["Analyze & Visualize"]
-        D --> E["Fair Review & Feedback"]
-        E --> F["Improve & Sustain"]
-        F --> B
+    flowchart TD
+  A(["Vision: High-Trust,<br>Low-Friction Improvement"]) --> B("Continuous<br>Improvement Cycle")
+  
+  subgraph B
+    direction TB
+    S["Set Clear<br>Standards"]
+    C["Collect &<br>Integrate Evidence"]
+    V["Analyze &<br>Visualize"]
+    R["Review &<br>Provide Feedback"]
+    I["Implement<br>Improvements"]
+    
+    S --> C --> V --> R --> I --> S
+  end
 
-        subgraph Inputs
-          I1["Computational & Experimental Biology"]
-          I2["Lymphoma Registry & Clinical Context"]
-          I3["Epidemiology (MPH)"]
-          I4["Learning Design (hybrid-ready)"]
-        end
+  subgraph K["Integrated Knowledge Base"]
+    direction LR
+    K1["Computational &<br>Experimental Biology"]
+    K2["Lymphoma Registry &<br>Clinical Context"]
+    K3["Epidemiology &<br>Population Health"]
+  end
 
-        I1 --> D
-        I2 --> C
-        I3 --> D
-        I4 --> E
-        
+  K -.-> |Informs all stages| B
+  C --> |Populates| K
+  V --> |Draws from| K
+
+  style A fill:#e1e6ff,stroke:#333,stroke-width:2px
+  style B fill:#f0f5ff,stroke:#666,stroke-width:1px
+  style K fill:#fff0f5,stroke:#666,stroke-width:1px
+```
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
   → [Highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
