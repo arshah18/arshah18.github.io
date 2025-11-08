@@ -71,37 +71,32 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">graph TD; A[Start]-->B[End]</div>
-
 <div class="mermaid">
 flowchart TD
-  A["Vision: High-Trust,<br>Low-Friction Improvement"] --> B["Continuous<br>Improvement Cycle"]
+  A[Vision: high trust, low friction] --> B[Continuous improvement]
 
-  subgraph B [Quality Loop]
+  %% Quality loop
+  subgraph Q[Quality loop]
     direction TB
-    S["Set Standards"] --> C["Collect & Integrate Evidence"] --> V["Analyze & Visualize"]
-      --> R["Review & Feedback"] --> I["Implement Improvements"] --> S
+    S[Set clear standards] --> C[Collect and integrate evidence] --> V[Analyze and visualize]
+      --> R[Review and feedback] --> I[Implement improvements] --> S
   end
 
-  subgraph K [Integrated Knowledge Base]
-    direction LR
-    K0(("Knowledge Hub"))
-    K1["Computational & Experimental Biology"]:::k
-    K2["Lymphoma Registry & Clinical Context"]:::k
-    K3["Epidemiology (MPH)"]:::k
-    K1 -.-> K0
-    K2 -.-> K0
-    K3 -.-> K0
+  %% Knowledge base
+  subgraph K[Integrated knowledge base]
+    direction TB
+    K0((Knowledge hub))
+    K1[Computational and experimental biology]
+    K2[Lymphoma registry and clinical context]
+    K3[Epidemiology (MPH)]
+    K1 --> K0
+    K2 --> K0
+    K3 --> K0
   end
 
   C -->|Populates| K0
-  V -->|Draws from| K0
-  K0 -.->|Informs all stages| B
-
-  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px
-  style A fill:#e6f0ff,stroke:#333,stroke-width:1px
-  style B fill:#f6faff,stroke:#666,stroke-width:1px
-  style K0 fill:#ffffff,stroke:#999,stroke-width:1px
+  V -->|Uses| K0
+  K0 -.->|Informs all stages| Q
 </div>
 
 ## Featured links
