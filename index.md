@@ -71,8 +71,38 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-
-<div class="mermaid">flowchart TD; A["Vision: High trust, low friction"] --> S["Set standards"]; S --> C["Collect &amp; integrate evidence"]; C --> V["Analyze &amp; visualize"]; V --> R["Review &amp; feedback"]; R --> I["Implement improvements"]; I --> S; K0(("Knowledge hub")); K1["Computational &amp; experimental biology"]; K2["Lymphoma registry &amp; clinical context"]; K3["Epidemiology (MPH)"]; K1 -.-> K0; K2 -.-> K0; K3 -.-> K0; C -->|Populates| K0; K0 -->|Data for analysis| V; K0 -.->|Informs| S; K0 -.->|Informs| R; K0 -.->|Informs| I;</div>
+<div class="mermaid">
+flowchart TD
+  A["Vision: High-Trust,<br>Low-Friction Improvement"] --> S["Set Standards"]
+  S --> C["Collect & Integrate Evidence"] 
+  C --> V["Analyze & Visualize"]
+  V --> R["Review & Feedback"] 
+  R --> I["Implement Improvements"] 
+  I --> S
+  K0(("Knowledge Hub"))
+  K1["Computational & Experimental Biology"]
+  K2["Lymphoma Registry & Clinical Context"]
+  K3["Epidemiology (MPH)"]
+  K1 -.-> K0
+  K2 -.-> K0
+  K3 -.-> K0
+  C -->|Populates| K0
+  K0 -->|Data for Analysis| V
+  K0 -.->|Informs| S
+  K0 -.->|Informs| R
+  K0 -.->|Informs| I
+  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px
+  style A fill:#e6f0ff,stroke:#333,stroke-width:1px
+  style S fill:#f6faff,stroke:#666,stroke-width:1px
+  style C fill:#f6faff,stroke:#666,stroke-width:1px
+  style V fill:#f6faff,stroke:#666,stroke-width:1px
+  style R fill:#f6faff,stroke:#666,stroke-width:1px
+  style I fill:#f6faff,stroke:#666,stroke-width:1px
+  style K0 fill:#ffffff,stroke:#999,stroke-width:1px
+  style K1 fill:#fff5f8,stroke:#666,stroke-width:1px
+  style K2 fill:#fff5f8,stroke:#666,stroke-width:1px
+  style K3 fill:#fff5f8,stroke:#666,stroke-width:1px
+</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
