@@ -71,7 +71,47 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">flowchart TD; A["Vision: High-Trust, Low-Friction Improvement"] --> S["Set Standards"]; S --> C["Collect and Integrate Evidence"]; C --> V["Analyze and Visualize"]; V --> R["Review and Feedback"]; R --> I["Implement Improvements"]; I --> S; K0(("Knowledge Hub")); K1["Computational and Experimental Biology"]; K2["Lymphoma Registry and Clinical Context"]; K3["Epidemiology (MPH)"]; K1 -.-> K0; K2 -.-> K0; K3 -.-> K0; C -->|Populates| K0; K0 -->|Data for Analysis| V; K0 -.->|Informs| S; K0 -.->|Informs| R; K0 -.->|Informs| I; P["Principles: Clarity, Fairness, Small wins, Measure what matters, Co-design"]; P -.-> S; P -.-> R; P -.-> I;</div>
+<div class="mermaid">
+flowchart TD
+  A["Vision: High-Trust, Low-Friction<br>Improvement"] --> S["Set Standards"]
+  S --> C["Collect and Integrate Evidence"]
+  C --> V["Analyze and Visualize"]
+  V --> R["Review and Feedback"]
+  R --> I["Implement Improvements"]
+  I --> S
+  
+  K0(("Knowledge Hub"))
+  K1["Computational and<br>Experimental Biology"]
+  K2["Lymphoma Registry and<br>Clinical Context"]
+  K3["Epidemiology (MPH)"]
+  
+  K1 -.-> K0
+  K2 -.-> K0
+  K3 -.-> K0
+  
+  C -->|Populates| K0
+  K0 -->|Data for Analysis| V
+  K0 -.->|Informs| S
+  K0 -.->|Informs| R
+  K0 -.->|Informs| I
+  
+  P["Principles:<br>Clarity • Fairness • Small wins<br>Measure what matters • Co-design"]
+  P -.-> S
+  P -.-> R
+  P -.-> I
+
+  style A fill:#e6f0ff,stroke:#333,stroke-width:2px
+  style S fill:#f0f8ff,stroke:#3366cc,stroke-width:2px
+  style C fill:#f0f8ff,stroke:#3366cc,stroke-width:2px
+  style V fill:#f0f8ff,stroke:#3366cc,stroke-width:2px
+  style R fill:#f0f8ff,stroke:#3366cc,stroke-width:2px
+  style I fill:#f0f8ff,stroke:#3366cc,stroke-width:2px
+  style K0 fill:#fff0f5,stroke:#cc3366,stroke-width:2px
+  style K1 fill:#f5f0ff,stroke:#6633cc,stroke-width:1px
+  style K2 fill:#f5f0ff,stroke:#6633cc,stroke-width:1px
+  style K3 fill:#f5f0ff,stroke:#6633cc,stroke-width:1px
+  style P fill:#fffff0,stroke:#cccc33,stroke-width:2px,stroke-dasharray:5 5
+</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
