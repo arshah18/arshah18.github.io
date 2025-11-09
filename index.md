@@ -71,18 +71,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">flowchart TD;
-A["Vision: High-Trust, Low-Friction Improvement"] --> B["Continuous Improvement Cycle"];
-D["Clinical & Biomedical Data"] --> B;
-P["Teaching & Leadership Philosophy"] --> B;
-B --> O["Quality & Impact Outcomes"];
-
-style A fill:#e6f0ff,stroke:#274060,stroke-width:2px;
-style B fill:#f6faff,stroke:#666,stroke-width:2px;
-style D fill:#fff5f8,stroke:#b04a66,stroke-width:1px;
-style P fill:#f0faf5,stroke:#2b7a5b,stroke-width:1px;
-style O fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px;
-</div>
+<div class="mermaid">flowchart TD; A["Vision: High-Trust, Low-Friction Improvement"] --> C["Continuous Improvement Cycle"]; F["Portfolio Foundations:<br>Computational and Experimental Biology,<br>Lymphoma Registry and Clinical Context,<br>Epidemiology (MPH),<br>Data Systems and AI"] --> C; P["Teaching and Leadership Philosophy:<br>Clarity, Fairness, Small wins,<br>Measure what matters, Co-design"] --> C; R["Roles and Service:<br>NLSG Lead Health Data Coordinator II (UNMC),<br>COPH Curriculum Committee"] --> C; C --> O["Outcomes:<br>Program Quality, Student Learning,<br>Patient and Community Impact,<br>Evidence Transparency"]; style A fill:#e6f0ff,stroke:#274060,stroke-width:2px; style C fill:#f6faff,stroke:#666,stroke-width:2px; style F fill:#fff5f8,stroke:#b04a66,stroke-width:1px; style P fill:#f0faf5,stroke:#2b7a5b,stroke-width:1px; style R fill:#fffaf0,stroke:#7a5a2b,stroke-width:1px; style O fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px;</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
