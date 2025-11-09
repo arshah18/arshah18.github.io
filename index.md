@@ -71,7 +71,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">flowchart TD; A[Start] --> B[End]</div>
+
 <div class="mermaid">flowchart TD; A["Vision: High trust, low friction"] --> ST["Set clear standards"]; ST --> CE["Collect and integrate evidence"]; CE --> AN["Analyze and visualize"]; AN --> RV["Review and feedback"]; RV --> IM["Implement improvements"]; IM --> ST;</div>
 
 ## Featured links
