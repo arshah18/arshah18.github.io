@@ -75,7 +75,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 <div class="mermaid">
 flowchart TD
-  subgraph Q["Quality loop"]
+  subgraph "Quality loop"
     direction TB
     Q0((Loop hub))
   end
