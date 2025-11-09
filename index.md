@@ -72,8 +72,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 ## Quality to Impact: At a Glance
 <div class="mermaid">flowchart TD; A[Start] --> B[End]</div>
-
-<div class="mermaid">flowchart TD; A["Vision: High trust, low friction"]-->B["Quality loop"]; subgraph B; direction TB; ST["Set clear standards"]; CE["Collect and integrate evidence"]; AN["Analyze and visualize"]; RV["Review and feedback"]; IM["Implement improvements"]; ST-->CE; CE-->AN; AN-->RV; RV-->IM; IM-->ST; end; subgraph K["Integrated knowledge base"]; direction LR; KB1["Computational and experimental biology"]; KB2["Lymphoma registry and clinical context"]; KB3["Epidemiology and population health"]; end; K-.->B; CE-->KB1; AN-->KB1; AN-->KB2; CE-->KB3;</div>
+<div class="mermaid">flowchart TD; A["Vision: High trust, low friction"] --> ST["Set clear standards"]; ST --> CE["Collect and integrate evidence"]; CE --> AN["Analyze and visualize"]; AN --> RV["Review and feedback"]; RV --> IM["Implement improvements"]; IM --> ST;</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
