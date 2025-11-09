@@ -84,6 +84,7 @@ flowchart TD
     R[Review and feedback]
     I[Implement improvements]
     Q0 --> S
+    S --> C --> V --> R --> I --> S
   end
 </div>
 
