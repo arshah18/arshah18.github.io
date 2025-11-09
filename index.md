@@ -71,34 +71,17 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">flowchart TD; 
-A["Vision: High-Trust, Low-Friction Improvement"] --> S["Set Standards"]; 
-S --> C["Collect and Integrate Evidence"]; 
-C --> V["Analyze and Visualize"]; 
-V --> R["Review and Feedback"]; 
-R --> I["Implement Improvements"]; 
-I --> S; 
-K0(("Knowledge Hub")); 
-K1["Computational & Experimental Biology"]; 
-K2["Lymphoma Registry & Clinical Context"]; 
-K3["Epidemiology (MPH)"]; 
-K1 -.-> K0; K2 -.-> K0; K3 -.-> K0; 
-C -->|Populates| K0; 
-K0 -->|Data for Analysis| V; 
-K0 -.->|Informs| S; K0 -.->|Informs| R; K0 -.->|Informs| I; 
-P["Principles: Clarity, Fairness, Small wins, Measure what matters, Co-design"]; 
-P -.-> S; P -.-> R; P -.-> I; 
-style A fill:#e6f0ff,stroke:#274060,stroke-width:2px; 
-style S fill:#f0faf5,stroke:#2b7a5b,stroke-width:1px; 
-style C fill:#fff7ec,stroke:#b36b00,stroke-width:1px; 
-style V fill:#fff8f9,stroke:#b33a5a,stroke-width:1px; 
-style R fill:#f7f7ff,stroke:#5353a8,stroke-width:1px; 
-style I fill:#f0fff4,stroke:#2b7a5b,stroke-width:1px; 
-style K0 fill:#ffffff,stroke:#999,stroke-width:2px; 
-style K1 fill:#fff5f8,stroke:#b04a66,stroke-width:1px; 
-style K2 fill:#fff5f8,stroke:#b04a66,stroke-width:1px; 
-style K3 fill:#fff5f8,stroke:#b04a66,stroke-width:1px; 
-style P fill:#ffffff,stroke:#777,stroke-width:1px,stroke-dasharray:3 3;
+<div class="mermaid">flowchart TD;
+A["Vision: High-Trust, Low-Friction Improvement"] --> B["Continuous Improvement Cycle"];
+D["Clinical & Biomedical Data"] --> B;
+P["Teaching & Leadership Philosophy"] --> B;
+B --> O["Quality & Impact Outcomes"];
+
+style A fill:#e6f0ff,stroke:#274060,stroke-width:2px;
+style B fill:#f6faff,stroke:#666,stroke-width:2px;
+style D fill:#fff5f8,stroke:#b04a66,stroke-width:1px;
+style P fill:#f0faf5,stroke:#2b7a5b,stroke-width:1px;
+style O fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px;
 </div>
 
 ## Featured links
