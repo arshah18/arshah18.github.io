@@ -9,29 +9,7 @@ description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health lead
 ...where research rigor meets clear, compassionate standards, empowering programs and people to excel.
 {: .lead }
 
-<div class="mermaid">
-flowchart TD
-    V["Vision<br>High-Trust, Low-Friction<br>Academic Quality"]
-    
-    CORE["Continuous Improvement Cycle<br>Evidence-Driven Excellence"]
-    
-    FOUNDATIONS["Core Foundations<br>Clinical Data • Computational Biology<br>Epidemiology • Registry Science"]
-    
-    APPROACH["Leadership Approach<br>Clarity • Co-Design • Small Wins<br>Measure What Matters"]
-    
-    IMPACT["Impact<br>Program Quality • Student Learning<br>Community Health • Capacity Building"]
-    
-    V --> CORE
-    FOUNDATIONS --> CORE
-    APPROACH --> CORE
-    CORE --> IMPACT
-
-    style V fill:#e6f0ff,stroke:#274060,stroke-width:2px
-    style CORE fill:#f6faff,stroke:#3366cc,stroke-width:3px
-    style FOUNDATIONS fill:#fff5f8,stroke:#b04a66,stroke-width:2px
-    style APPROACH fill:#f0faf5,stroke:#2b7a5b,stroke-width:2px
-    style IMPACT fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px
-</div>
+<div class="mermaid">flowchart TD; V["Vision<br>High-Trust, Low-Friction<br>Academic Quality"] --> CORE["Continuous Improvement Cycle<br>Evidence-Driven Excellence"]; FOUNDATIONS["Core Foundations<br>Clinical Data • Computational Biology<br>Epidemiology • Registry Science"] --> CORE; APPROACH["Leadership Approach<br>Clarity • Co-Design • Small Wins<br>Measure What Matters"] --> CORE; CORE --> IMPACT["Impact<br>Program Quality • Student Learning<br>Community Health • Capacity Building"]; style V fill:#e6f0ff,stroke:#274060,stroke-width:2px; style CORE fill:#f6faff,stroke:#3366cc,stroke-width:3px; style FOUNDATIONS fill:#fff5f8,stroke:#b04a66,stroke-width:2px; style APPROACH fill:#f0faf5,stroke:#2b7a5b,stroke-width:2px; style IMPACT fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px;</div>
 
 **I build reliable, human-centered systems for academic quality and accreditation-grounded in computational and experimental biology, clinical oncology context, and public-health methods.**
 {: .fs-5 }
