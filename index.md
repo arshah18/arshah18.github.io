@@ -73,21 +73,7 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 ---
 
 ## Quality to Impact: At a Glance
-<div class="mermaid">flowchart TD; 
-A["Vision: High-Trust, Low-Friction Improvement<br>Evidence-Driven Excellence, Equity-Centered Innovation"] --> C["Continuous Improvement Cycle"]; 
-F["Portfolio Foundations:<br>Clinical & Biomedical Data,<br>Computational Biology,<br>Lymphoma Registry,<br>Epidemiology (MPH),<br>Data Systems & AI"] --> C; 
-P["Teaching & Leadership Philosophy:<br>Clarity, Fairness, Co-Design,<br>Small Wins, Measure What Matters"] --> C; 
-R["Roles & Service:<br>NLSG Lead Health Data Coordinator II (UNMC),<br>COPH Curriculum Committee,<br>Accreditation Preparation"] --> C; 
-C --> O["Outcomes:<br>Program Quality,<br>Student Learning,<br>Patient & Community Impact,<br>Evidence Transparency,<br>Capacity-Building"]; 
-
-style A fill:#e6f0ff,stroke:#274060,stroke-width:2px; 
-style C fill:#f6faff,stroke:#666,stroke-width:2px; 
-style F fill:#fff5f8,stroke:#b04a66,stroke-width:1px; 
-style P fill:#f0faf5,stroke:#2b7a5b,stroke-width:1px; 
-style R fill:#fffaf0,stroke:#7a5a2b,stroke-width:1px; 
-style O fill:#e8fff0,stroke:#2b7a5b,stroke-width:2px;
-</div>
-
+<div class="mermaid">flowchart LR; I["Inputs — Foundational Pillars<br>• Research &amp; Computation<br>• Clinical/Registry Insight<br>• Epidemiology Mindset"]; M["Method — Guiding Principles<br>• Clarity &amp; Co-Design<br>• Trust &amp; Candor<br>• Measure What Matters"]; P["Process — Core Work<br>Building Human-Centered Systems<br>for Academic Quality"]; G["Impact — Ultimate Goal<br>Dependable, Humane Quality<br>Evidence-Driven Improvement<br>Without Burnout"]; I --> P; M --> P; P --> G; style I fill:#e6f0ff,stroke:#274060,stroke-width:2px; style M fill:#f0faf5,stroke:#2b7a5b,stroke-width:2px; style P fill:#f6faff,stroke:#3366cc,stroke-width:3px; style G fill:#fff5f8,stroke:#b04a66,stroke-width:2px;</div>
 
 ## Featured links
 - **Leadership & Service** — committee work, coordination, process design  
