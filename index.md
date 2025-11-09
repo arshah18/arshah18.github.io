@@ -75,17 +75,34 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 
 <div class="mermaid">
 flowchart TD
-  subgraph Q["Quality loop"]
+  A["Vision: High trust, low friction"] --> B["Quality loop"]
+
+  subgraph B
     direction TB
-    Q0((Loop hub))
-    S[Set clear standards]
-    C[Collect and integrate evidence]
-    V[Analyze and visualize]
-    R[Review and feedback]
-    I[Implement improvements]
-    Q0 --> S
-    S --> C --> V --> R --> I --> S
+    ST("Set clear standards")
+    CE("Collect and integrate evidence")
+    AN("Analyze and visualize")
+    RV("Review and feedback")
+    IM("Implement improvements")
+    ST --> CE
+    CE --> AN
+    AN --> RV
+    RV --> IM
+    IM --> ST
   end
+
+  subgraph K["Integrated knowledge base"]
+    direction LR
+    KB1("Computational and experimental biology")
+    KB2("Lymphoma registry and clinical context")
+    KB3("Epidemiology and population health")
+  end
+
+  K -.-> B
+  CE --> KB1
+  AN --> KB1
+  AN --> KB2
+  CE --> KB3
 </div>
 
 ## Featured links
