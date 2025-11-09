@@ -9,25 +9,7 @@ description: Lead Health Data Coordinator II (NLSG, UNMC) and public-health lead
 ...where research rigor meets clear, compassionate standards, empowering programs and people to excel.
 {: .lead }
 
-<div class="mermaid">
-flowchart LR
-    FOUNDATIONS["Research & Data Foundation<br>▸ Computational Biology<br>▸ Clinical Registry<br>▸ Epidemiology"];
-    
-    APPROACH["Human-Centered Approach<br>▸ Clarity & Co-Design<br>▸ Trust & Candor<br>▸ Measure What Matters"];
-    
-    PROCESS["Academic Quality Systems<br>Evidence-Driven Process<br>Building Human-Centered Systems"];
-    
-    IMPACT["Sustainable Excellence<br>▸ Dependable Quality<br>▸ Evidence-Driven Growth<br>▸ Without Burnout"];
-    
-    FOUNDATIONS --> PROCESS;
-    APPROACH --> PROCESS;
-    PROCESS --> IMPACT;
-
-    style FOUNDATIONS fill:#e6f0ff,stroke:#274060,stroke-width:2px
-    style APPROACH fill:#f0faf5,stroke:#2b7a5b,stroke-width:2px
-    style PROCESS fill:#f6faff,stroke:#3366cc,stroke-width:3px
-    style IMPACT fill:#fff5f8,stroke:#b04a66,stroke-width:2px
-</div>
+<div class="mermaid">flowchart LR; F["Research &amp; Data Foundation<br>▸ Computational Biology<br>▸ Clinical Registry<br>▸ Epidemiology"]; A["Human-Centered Approach<br>▸ Clarity &amp; Co-Design<br>▸ Trust &amp; Candor<br>▸ Measure What Matters"]; P["Academic Quality Systems<br>Evidence-Driven Process<br>Building Human-Centered Systems"]; I["Sustainable Excellence<br>▸ Dependable Quality<br>▸ Evidence-Driven Growth<br>▸ Without Burnout"]; F --> P; A --> P; P --> I; style F fill:#e6f0ff,stroke:#274060,stroke-width:2px; style A fill:#f0faf5,stroke:#2b7a5b,stroke-width:2px; style P fill:#f6faff,stroke:#3366cc,stroke-width:3px; style I fill:#fff5f8,stroke:#b04a66,stroke-width:2px;</div>
 
 **I build reliable, human-centered systems for academic quality and accreditation-grounded in computational and experimental biology, clinical oncology context, and public-health methods.**
 {: .fs-5 }
