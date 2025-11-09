@@ -74,43 +74,34 @@ This means transparent criteria, lean documentation, and shared tools-not jargon
 <div class="mermaid">
 flowchart TD
   A["Vision: High-Trust,<br>Low-Friction Improvement"] --> S["Set Standards"]
-  S --> C["Collect and Integrate Evidence"]
-  C --> V["Analyze and Visualize"]
-  V --> R["Review and Feedback"]
-  R --> I["Implement Improvements"]
+  S --> C["Collect & Integrate Evidence"] 
+  C --> V["Analyze & Visualize"]
+  V --> R["Review & Feedback"] 
+  R --> I["Implement Improvements"] 
   I --> S
-
   K0(("Knowledge Hub"))
-  K1["Computational and Experimental Biology"]
-  K2["Lymphoma Registry and Clinical Context"]
+  K1["Computational & Experimental Biology"]
+  K2["Lymphoma Registry & Clinical Context"]
   K3["Epidemiology (MPH)"]
-
   K1 -.-> K0
   K2 -.-> K0
   K3 -.-> K0
-
   C -->|Populates| K0
   K0 -->|Data for Analysis| V
   K0 -.->|Informs| S
   K0 -.->|Informs| R
   K0 -.->|Informs| I
-
-  P["Principles:<br>Clarity, Fairness,<br>Small wins, Measure what matters,<br>Co-design"]
-  P -.-> S
-  P -.-> R
-  P -.-> I
-
-  style A  fill:#e6f0ff,stroke:#333,stroke-width:1px
-  style S  fill:#f6faff,stroke:#666,stroke-width:1px
-  style C  fill:#f6faff,stroke:#666,stroke-width:1px
-  style V  fill:#f6faff,stroke:#666,stroke-width:1px
-  style R  fill:#f6faff,stroke:#666,stroke-width:1px
-  style I  fill:#f6faff,stroke:#666,stroke-width:1px
+  classDef k fill:#fff5f8,stroke:#666,stroke-width:1px
+  style A fill:#e6f0ff,stroke:#333,stroke-width:1px
+  style S fill:#f6faff,stroke:#666,stroke-width:1px
+  style C fill:#f6faff,stroke:#666,stroke-width:1px
+  style V fill:#f6faff,stroke:#666,stroke-width:1px
+  style R fill:#f6faff,stroke:#666,stroke-width:1px
+  style I fill:#f6faff,stroke:#666,stroke-width:1px
   style K0 fill:#ffffff,stroke:#999,stroke-width:1px
   style K1 fill:#fff5f8,stroke:#666,stroke-width:1px
   style K2 fill:#fff5f8,stroke:#666,stroke-width:1px
   style K3 fill:#fff5f8,stroke:#666,stroke-width:1px
-  style P  fill:#ffffff,stroke:#999,stroke-width:1px
 </div>
 
 ## Featured links
