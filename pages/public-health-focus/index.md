@@ -57,6 +57,3 @@ Where **clinical/registry data**, **computational methods**, and an **epidemiolo
 </div>
 
 ---
-
-### How to navigate
-Use the **left sidebar** for structured navigation. This page stays high-level; each child page holds the details.
