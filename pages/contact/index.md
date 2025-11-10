@@ -39,15 +39,3 @@ Best way to reach me for collaborations, accreditation/quality projects, speakin
 ### Notes
 - Please **avoid patient-specific/urgent clinical queries**; use the appropriate clinical channels.
 - If your message involves data, a brief note on **data type/approvals** helps me route it correctly.
-
----
-
-## Also in this section
-{%- assign kids = site.pages | where_exp: "p", "p.path contains '/contact/'" | sort: "url" -%}
-<ul>
-{%- for p in kids -%}
-  {%- if p.url != "/contact/" and p.url contains "/contact/" and p.title -%}
-  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-  {%- endif -%}
-{%- endfor -%}
-</ul>
