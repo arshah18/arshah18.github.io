@@ -1,8 +1,7 @@
 {% comment %}
 Usage:
-  {% include csv_table.html file="cph705/module1.csv" caption="Modules 1–2: Definition & Purpose" %}
-
-Looks in _data/, so file="cph705/module1.csv" resolves to _data/cph705/module1.csv
+  {% include csv_table.html file="cph705/module01_definition_purpose.csv" caption="Modules 1–2: Definition & Purpose" %}
+Looks in _data/, so file="cph705/module1.csv" resolves to _data/cph705/module01_definition_purpose.csv
 {% endcomment %}
 
 {% assign path = include.file | replace: '.csv','' | split:'/' %}

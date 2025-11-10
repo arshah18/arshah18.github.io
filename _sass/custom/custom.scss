@@ -187,10 +187,5 @@ body {
 .mermaid { margin: .75rem 0 1rem; }
 
 /* Optional: table spacing */
-.table-wrapper table {
-  width: 100%;
-}
-.table-wrapper table th,
-.table-wrapper table td {
-  vertical-align: top;
-}
+.table-wrapper table { width: 100%; }
+.table-wrapper table th, .table-wrapper table td { vertical-align: top; }
