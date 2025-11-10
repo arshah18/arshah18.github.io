@@ -1,0 +1,45 @@
+{% comment %}
+Usage:
+  {% include csv_table.html file="cph705/module1.csv" caption="Modules 1–2: Definition & Purpose" %}
+
+Looks in _data/, so file="cph705/module1.csv" resolves to _data/cph705/module1.csv
+{% endcomment %}
+
+{% assign path = include.file | replace: '.csv','' | split:'/' %}
+{% assign node = site.data %}
+{% for key in path %}
+  {% assign node = node[key] %}
+{% endfor %}
+{% assign rows = node %}
+
+{% if rows == nil or rows.size == 0 %}
+  <p><em>CSV not found or empty: {{ include.file }}</em></p>
+{% else %}
+  {% assign first = rows[0] %}
+  <div class="table-wrapper">
+    {% if include.caption %}
+      <div class="table-caption" style="font-weight:600;margin:0 0 .5rem .25rem;">
+        {{ include.caption }}
+      </div>
+    {% endif %}
+    <table>
+      <thead>
+        <tr>
+          {% for pair in first %}
+            <th>{{ pair[0] | escape }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in rows %}
+          <tr>
+            {% for pair in first %}
+              {% assign k = pair[0] %}
+              <td>{{ r[k] }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endif %}
