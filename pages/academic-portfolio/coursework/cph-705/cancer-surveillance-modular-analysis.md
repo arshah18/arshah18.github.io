@@ -79,5 +79,5 @@ What learners submit; quick ways to verify understanding.
 ---
 
 ### Notes
-- All tables are backed by CSV in `_data/cph705/…` this will help us to maintain them without editing the page.
-- For additional assignments please put `nav_exclude: true` (and optionally `sitemap: false`) in the page front-matter.
+_- All tables are backed by CSV in `_data/cph705/…` this will help us to maintain them without editing the page._
+_- For additional assignments please put `nav_exclude: true` (and optionally `sitemap: false`) in the page front-matter._
