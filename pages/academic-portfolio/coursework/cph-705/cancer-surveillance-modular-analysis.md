@@ -10,6 +10,10 @@ author: Rauf Shah
 
 # Modular Topic/Instructional Analysis: Cancer Surveillance
 _Author: Rauf Shah_
+_Lead Health Data Coordinator Level II_
+_Division of hHematology-Oncology_
+_University of Nebraska Medical Center_
+_USA_
 
 > A structured breakdown for teaching/learning core cancer surveillance concepts and practice.
 
