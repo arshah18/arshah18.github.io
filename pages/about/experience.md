@@ -4,58 +4,38 @@ title: Experience
 parent: About
 nav_order: 2
 permalink: /about/experience/
+description: Roles, capabilities, technical skills, and selected responsibilities.
 ---
 
 # Experience
 
-- [**Download full C.V. (PDF)**]({{ site.baseurl }}/assets/rauf-shah-cv.pdf)
+- **Download full C.V. (PDF)** → [CV]({{ "/assets/rauf-shah-cv.pdf" | relative_url }})
 
-## Professional Summary
-- **Lead Health Data Coordinator II** - UNMC, Hematology & Oncology (2024-present)  
-  Clinical data architecture, registry builds, FHIR ingestion, analytics.
-- **Computational Biologist** - Cancer Genomics & Immunology (pre-2024)  
-  ChIP-Seq, WES, LP-WGS, ctDNA, multi-omics integration, dashboards.
+## Professional summary
+- **Lead Health Data Coordinator II** — UNMC, Hematology & Oncology (2024–present): clinical data coordination, registry builds, right-sized analytics for outcomes and quality.  
+- **Computational Biologist** — Cancer genomics & immunology (prior roles): genomic analysis and translational reporting.
 
-## Core Competencies
-**Python · R · SQL · Docker · Keycloak · HAPI FHIR · Registry/ICD coding · Reproducible research**
+## Capabilities
+- **Accreditation & quality** - evidence maps, plain-language standards, right-sized documentation, concise self-studies
+- **Data for decisions** — baselines, dashboards, equity-aware summaries, follow-through metrics
+- **Coordination** - clear ownership, timelines, and feedback loops across teams
+- **Training & job aids** - checklists, briefings, and reviewer supports that stick
 
-## Technical Skills
+## Technical skills
+**Python, R, SQL, JavaScript/Node.js, Docker**  
+**Health data & standards:** registry coding (NAACCR, ICD, ICD-O), **FHIR/HAPI** patterns, data validation  
+**Visualization & reporting:** dashboards, RMarkdown/Jupyter, publication-quality figures  
+**Reproducibility:** version control, containerized pipelines
 
-### Programming & Data Science
-- **Python**: pandas, scikit-learn, Biopython, plotly
-- **R**: tidyverse, ggplot2, survival, shiny
-- **SQL**: PostgreSQL, MySQL, complex queries and optimization
-- **JavaScript/Node.js**: Data visualization, API development
+## Roles
 
-### Bioinformatics & Genomics
-- **NGS Analysis**: ChIP-Seq, WES, LP-WGS, ctDNA analysis
-- **Variant Analysis**: SNV/indel calling, CNAs, structural variants
-- **Multi-omics Integration**: Clinical-genomic data integration
-- **Bioconductor**: Genomic ranges, variant annotation
-
-### Health Data & Systems
-- **FHIR/HAPI**: Data pipelines, $import operations, validation
-- **Docker**: Containerization of analytical pipelines
-- **Keycloak**: Authentication and role-based access control
-- **Registry Systems**: NAACCR, ICD, ICD-O standards
-
-### Visualization & Reporting
-- **Dashboards**: Interactive clinical and population health dashboards
-- **Reproducible Research**: RMarkdown, Jupyter notebooks, version control
-- **Manuscript-ready Figures**: Publication-quality visualizations
-
-## Professional Experience
-
-### Lead Health Data Coordinator II
-*UNMC, Hematology & Oncology | 2024-Present*
-- Design and implement clinical data architecture for oncology registries
-- Develop FHIR-based data ingestion pipelines for clinico-genomic integration
-- Build analytics platforms for cancer surveillance and outcomes monitoring
-- Establish data governance and quality assurance frameworks
+### Lead Health Data Coordinator II  
+*UNMC, Hematology & Oncology | 2024–present*
+- Coordinate lymphoma cohort data and right-sized analytics for outcomes and quality
+- Support evidence-ready summaries that inform program decisions and reviews
+- Establish sustainable documentation and feedback loops with clinical partners
 
 ### Computational Biologist  
-*Cancer Genomics & Immunology | Previous Roles*
-- Conducted comprehensive genomic analyses including ChIP-Seq, WES, and LP-WGS
-- Developed ctDNA analysis pipelines for minimal residual disease detection
-- Created multi-omics integration approaches for clinical translation
-- Built interactive dashboards for clinical and research use
+*Cancer Genomics & Immunology | previous roles*
+- Genomic analyses (ChIP-Seq, WES, LP-WGS, ctDNA) and multi-omics integration
+- Translational reporting and interactive dashboards for clinical/research use
