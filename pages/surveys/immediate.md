@@ -6,9 +6,9 @@ nav_order: 1
 permalink: /surveys/immediate/
 ---
 
-# Immediate Post-Session Survey
+# Immediate Post-Session Survey (QR / Router)
 
-Paste your live form URL below (or pass it via `?url=`). The QR updates instantly.
+Paste your live **form URL** below (or pass it via `?url=`). The QR updates instantly.
 
 <div class="qr-wrap" style="margin:1rem 0;padding:1rem;border:1px solid #E5E7EB;border-radius:12px;">
   <label for="url" style="font-weight:600;">Destination (Form URL)</label>
@@ -33,28 +33,28 @@ Paste your live form URL below (or pass it via `?url=`). The QR updates instantl
   const openBtn = document.getElementById('open');
   const qrImg = document.getElementById('qr');
 
-  const defaultURL = '';
+  // Show a valid QR by default so the page never looks "blank"
+  const defaultURL = '{{ site.url }}{{ site.baseurl }}/surveys/forms/immediate/';
   const initial = params.get('url') || defaultURL;
 
   function update() {
     const val = urlInput.value.trim();
-    const enc = encodeURIComponent(val);
+    const enc = encodeURIComponent(val || defaultURL);
     const qrURL = `https://chart.googleapis.com/chart?cht=qr&chs=600x600&chl=${enc}&choe=UTF-8`;
     qrImg.src = qrURL;
-    openBtn.href = val || '#';
+    openBtn.href = val || defaultURL;
   }
 
   urlInput.value = initial;
   update();
-
   urlInput.addEventListener('input', update);
 
   document.getElementById('copy').addEventListener('click', async () => {
-    try { await navigator.clipboard.writeText(urlInput.value.trim()); } catch(e) {}
+    try { await navigator.clipboard.writeText(urlInput.value.trim() || defaultURL); } catch(e) {}
   });
 
   document.getElementById('download').addEventListener('click', () => {
-    const val = urlInput.value.trim();
+    const val = urlInput.value.trim() || defaultURL;
     const enc = encodeURIComponent(val);
     const qrURL = `https://chart.googleapis.com/chart?cht=qr&chs=1200x1200&chl=${enc}&choe=UTF-8`;
     const a = document.createElement('a');
