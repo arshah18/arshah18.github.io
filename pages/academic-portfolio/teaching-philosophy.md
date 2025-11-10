@@ -22,6 +22,40 @@ My graduate training in evidence-based teaching methodologies through **CPH 705*
 - **Multi-Modal Delivery**: Creating accessible learning experiences across different formats
 - **Program Evaluation**: Measuring training effectiveness and impact
 
+## Teaching Philosophy Papers
+
+<!-- Featured short paper — inline preview -->
+<div class="nav-card" style="padding:1rem; border:1px solid #e2e8f0; border-radius:12px; background:#fff;">
+  <div style="display:flex; align-items:center; gap:.5rem; margin-bottom:.5rem;">
+    <strong>Featured:</strong>
+    <a href="{{ '/assets/papers/teaching/combined-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">
+      Combined Teaching Philosophy — Statement (PDF)
+    </a>
+  </div>
+
+  <details>
+    <summary>Read inline preview</summary>
+    <div style="margin-top:.75rem;">
+      <iframe
+        src="{{ '/assets/papers/teaching/combined-teaching-philosophy-statement.pdf' | relative_url }}#view=FitH"
+        width="100%" height="600"
+        style="border:1px solid #e2e8f0; border-radius:8px;">
+      </iframe>
+    </div>
+  </details>
+</div>
+
+### All papers (download links)
+
+- <a href="{{ '/assets/papers/teaching/draft-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Draft Teaching Philosophy Statement</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/alignment-worksheet-competency-assessment-objective.pdf' | relative_url }}" target="_blank" rel="noopener">Competency/Goal/Standard → Assessment → Learning Objective — Alignment Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/seven-principles-of-adult-learning.pdf' | relative_url }}" target="_blank" rel="noopener">Seven Principles of Adult Learning</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/hook-intro-conclusion-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Creating a Hook/Intro and Conclusion — Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/combined-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Combined Teaching Philosophy — Statement</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/philosophies-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Philosophies Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/learning-theories-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Learning Theories Statement</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/learning-theory-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Learning Theory Worksheet</a> (PDF)
+
 ## Core Teaching Principles
 
 ### Evidence-Based Instructional Design

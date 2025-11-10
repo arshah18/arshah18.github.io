@@ -189,3 +189,8 @@ body {
 /* Optional: table spacing */
 .table-wrapper table { width: 100%; }
 .table-wrapper table th, .table-wrapper table td { vertical-align: top; }
+
+/* Teaching papers iframe tweaks */
+.nav-card iframe {
+  max-height: 70vh;
+}
