@@ -6,59 +6,60 @@ nav_order: 3
 permalink: /academic-portfolio/people-and-principles/
 ---
 
-# Diversity, Equity & Inclusion
+# People & Principles
 
-## Commitment to Inclusive Excellence
+{: .lead }
+How I try to work with people-clear standards, fair process, and practical habits that help teams do their best work.
 
-I am committed to creating learning and working environments that not only welcome diversity but actively leverage different perspectives to enhance innovation, problem-solving, and community impact in public health and biomedical research.
+---
 
-## Inclusive Teaching Practices
+## People-first Approach
+- Start with listening sessions to understand goals, constraints, and context.
+- Co-design expectations and timelines so ownership is shared and realistic.
+- Communicate early, simply, and often; close loops and document decisions.
 
-### Representative Content
-- Design cases and examples that reflect diverse populations and health experiences
-- Include perspectives from underrepresented groups in public health case studies
-- Ensure teaching materials represent global as well as local health contexts
+## Accessible Learning & Workflows
+- Design materials that are easy to use: plain language, checklists, worked examples.
+- Offer multiple ways to participate (live, asynchronous, written, verbal).
+- Ensure digital materials follow basic accessibility practices (readability, captions/alt text).
 
-### Universal Design for Learning
-- Apply UDL principles to create multiple pathways for engagement and demonstration of skills
-- Provide flexible assessment methods that accommodate different learning preferences
-- Ensure all digital materials meet accessibility standards
+## Fair Review & Decision-Making
+- Publish criteria in advance; use consistent rubrics and simple scoring guides.
+- Separate fact-finding from judgment; focus feedback on next actions.
+- Track decisions and rationales so similar cases get similar outcomes.
 
-### Equitable Classroom Culture
-- Establish norms that encourage constructive feedback and respectful discourse
-- Create spaces where all students feel valued and empowered to contribute
-- Address implicit biases in teaching practices and curriculum design
+## Representative, Real-World Examples
+- Use cases that reflect different communities, settings, and resource levels.
+- Highlight practical trade-offs and constraints programs actually face.
+- Prefer datasets and scenarios tied to genuine public-health questions.
 
-## Inclusive Research & Practice
+## Team Culture & Mentoring
+- Set norms for constructive critique and respectful debate.
+- Pair early-career contributors with clear, bite-sized responsibilities.
+- Share job aids, templates, and “first drafts to react to” to reduce cognitive load.
 
-### Equity-Focused Analytics
-- Incorporate health equity considerations into all surveillance and analytical frameworks
-- Develop methods that explicitly examine disparities and social determinants of health
-- Ensure data collection and analysis practices do not perpetuate existing biases
+## Community Partnership
+- Align projects with articulated community or program priorities.
+- Translate findings into brief, usable summaries with concrete next steps.
+- Be transparent about limits, uncertainty, and data quality.
 
-### Diverse Team Building
-- Recruit and mentor team members from underrepresented backgrounds in STEM
-- Create inclusive team environments that value diverse perspectives and approaches
-- Address barriers to participation in research and professional development
+## Continuous Improvement & Accountability
+- Define “done” and “success” in plain language before starting.
+- Use short retrospectives: what worked, what didn’t, what we’ll change.
+- Track a few signals (timeliness, completeness, follow-through) and publish them.
 
-### Community-Engaged Approaches
-- Collaborate with community partners to ensure research addresses local priorities
-- Translate findings in ways that are accessible and actionable for diverse audiences
-- Acknowledge and address power dynamics in researcher-community relationships
+---
 
-## Continuous Learning & Improvement
+## What This Looks Like in My Work
+- **Accreditation & Quality**: visible calendars, evidence maps, and right-sized documentation.
+- **Teaching & Training**: short modules with case-based activities and clear rubrics.
+- **Research & Analytics**: reproducible workflows, readable summaries, and decision-ready visuals.
+- **Coordination**: single-page plans with owners, dates, and feedback loops.
 
-### Personal Growth
-- Regularly engage with DEI training and professional development opportunities
-- Seek feedback on inclusive practices from students, colleagues, and community members
-- Reflect on and address personal biases and blind spots
+---
 
-### Systemic Advocacy
-- Advocate for policies and practices that advance equity within institutions
-- Support initiatives that increase diversity in public health and bioinformatics
-- Contribute to creating more inclusive academic and professional cultures
-
-### Measurement & Accountability
-- Track and report on diversity and inclusion metrics in programs and initiatives
-- Use data to identify areas for improvement and measure progress over time
-- Hold myself and teams accountable for DEI commitments and outcomes
+## Simple Commitments
+- **Clarity → transfer**: if people can’t use it, it isn’t finished.
+- **Trust → candor**: make it safe to surface real constraints and gaps.
+- **Small wins → momentum**: deliver improvements in weeks, not quarters.
+- **Measure what matters**: focus on indicators that change decisions.

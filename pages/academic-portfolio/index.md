@@ -10,7 +10,7 @@ description: A concise hub for teaching philosophy, leadership & service, course
 # Academic Portfolio
 
 {: .lead }
-Work that links **rigor** to **usefulness**—from teaching philosophy and coursework to leadership, service, and scholarly outputs.
+Work that links **rigor** to **usefulness**, from teaching philosophy and coursework to leadership, service, and scholarly outputs.
 
 <div class="child-pages-grid">
 
@@ -46,7 +46,7 @@ Work that links **rigor** to **usefulness**—from teaching philosophy and cours
 
   <div class="child-page-card">
     <h3><a href="{{ '/academic-portfolio/people-and-principles/' | relative_url }}">People & Principles</a></h3>
-    <p>The values behind the work—trust, fairness, and co-design with the people doing the work.</p>
+    <p>The values behind the work-trust, fairness, and co-design with the people doing the work.</p>
     <ul class="card-highlights">
       <li>Clarity → transfer</li>
       <li>Trust → candor</li>
@@ -79,6 +79,6 @@ Work that links **rigor** to **usefulness**—from teaching philosophy and cours
 ---
 
 ### Featured artifact
-- **Cancer Surveillance — Modular Instructional Analysis**  
+- **Cancer Surveillance: Modular Instructional Analysis**  
   CSV-backed, copy-ready instructional assets for teaching surveillance fundamentals.  
   → <a href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open the project</a>
