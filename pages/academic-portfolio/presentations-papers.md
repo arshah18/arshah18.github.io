@@ -9,7 +9,7 @@ permalink: /academic-portfolio/presentations-papers/
 # Presentations & Papers
 
 ## Peer-Reviewed Publications
-_contributions/Roles: Author, Co-Author, Data Analyst, Computational Biologist, Lead_
+_Various Contributions/Roles: Author, Co-Author, Data Analyst, Computational Biologist, Lead_
 
 ### 2025
 - **Cooperative role of distinctive TP53 and PTEN combined loss in the peripheral T-cell lymphoma-GATA3 molecular subgroup**  
