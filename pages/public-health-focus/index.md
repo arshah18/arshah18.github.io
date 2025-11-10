@@ -55,5 +55,3 @@ Where **clinical/registry data**, **computational methods**, and an **epidemiolo
   </div>
 
 </div>
-
----
