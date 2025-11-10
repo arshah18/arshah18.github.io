@@ -1,0 +1,5 @@
+Deliverable,Format,Linked Micro-Check
+14a. Objective,"1 sentence (population/time).","MCQ: choose correct outcome/measure for a prompt."
+14b. Workflow,"6–8 nodes + QC touchpoint.","Mark where QC/edit checks occur."
+14c. Mini-table,"Source → Field → QC → Safeguard (≥3 rows).","Pick best source for field X."
+14d. Privacy list,"≥2 safeguards.","Identify fields to remove for de-ID in a scenario."

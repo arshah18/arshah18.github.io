@@ -1,0 +1,6 @@
+Type,Original Detail (Pros/Cons),Enriched Instructional Detail (Practicalities)
+3a. Passive,"Facilities/providers submit reportable cancers to the registry.","Challenge: variable staff priorities/training. Mitigation: standardized forms + ongoing training."
+3b. Active,"Registry staff proactively identify/verify cases (visits, queries).","Action: on-site abstractors; deep EHR queries to complete fields and verify codes."
+3c. Sentinel,"Selected sites provide high-quality, timely data.","Use case: rare cancers or exposure-linked patterns where speed/depth matter most."
+3d. Syndromic,"Early signals from ED, labs, pharmacy, EHR.","Signals: chemo dispensing volume; lab markers (e.g., neutropenia) for early toxicity/patterns."
+3e. Rapid Case Ascertainment (RCA),"Pathology-driven rapid reporting.","Workflow: e-path feeds + NLP filters to flag reportable cases within days."

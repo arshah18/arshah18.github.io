@@ -1,0 +1,8 @@
+Workflow Step,Original Detail,Enriched Instructional Detail (Tool/Technique)
+8a. Case Finding,"Identify; match/dedup.","Deterministic keys (MRN, SSN) + probabilistic matching (name, DOB)."
+8b. Eligibility Screening,"Residency; date range; reportable site/morph.","Apply jurisdiction rules; ensure in-scope period and reportable histologies."
+8c. Approach & Consent,"Permissions; refusals.","For research linkage; IRB-approved process; track opt-outs."
+8d. Abstraction & Coding,"ICD-O-3; behavior; grade; stage; first-course treatment.","First-course treatment = initial therapy window (e.g., ≤4 months) or until progression."
+8e. Quality Checks,"Automated edits; re-abstraction audits.","Target complex sites or lower-accuracy abstractors; route findings to training/system fixes."
+8f. Publish & Visualize,"Indicators; dashboards.","Tools: Tableau, R Shiny, or registry platform read-only dashboards."
+8g. Monitor & Improve,"Feedback; periodic reviews.","Regular data quality reports to facilities; track corrective actions."

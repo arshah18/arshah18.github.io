@@ -1,0 +1,8 @@
+Source,Original Detail,Enriched Instructional Detail (Practical Skill/System)
+5a. Pathology,"AP, CP, Synoptic Reporting Templates.","CAP synoptic reports structure required elements → better completeness/consistency."
+5b. Tumor Registry,"Hospital-based; Population-based (SEER); NAACCR/CoC standards.","NAACCR is the definitive standard (field definitions, formats) for SEER/NPCR submissions."
+5c. EHR & Clinical Documentation,"Encounters, Radiology Reports, Oncology Notes.","Radiology RECIST details help determine progression/recurrence."
+5d. Laboratory Systems,"Hematology, Molecular, Biomarker Panels.","Standardize via LOINC/terminology mapping; build interfaces for ingestion."
+5e. Vital Records,"Death Certificates, Cause of Death.","Mortality-only case finding; survival follow-up."
+5f. Claims & Pharmacy Data,"Administrative claims; pharmacy dispensing.","Validate treatments (CPT/HCPCS) or flag cases; rarely definitive for stage/diagnosis."
+5g. Patient-Reported & Consent Data,"PROs; consent logs for research linkage.","Adds quality-of-life/function context often absent in registry data."

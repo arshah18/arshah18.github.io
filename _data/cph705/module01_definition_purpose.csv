@@ -1,0 +1,3 @@
+Topic,Original Detail,Enriched Instructional Detail
+1. Definition,"Systematic cancer data tracking. Population-based registries; standard codes. Outputs: burden, stage, survival, and trends.","Emphasize completeness and timeliness. Train on ICD-O-3 (site, morphology) and AJCC (TNM→stage group)."
+2. Purpose,"Define burden & distribution. Track trends & disparities. Support programs, policy, research.","Use concrete disparity examples (late-stage share by race/rurality). Link to policy (targeted screening/navigation)."
