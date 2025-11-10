@@ -36,6 +36,13 @@ What’s reportable, how to date, stage, and handle primaries.
 
 ---
 
+## Module 5: Data Sources
+Where data come from; how to standardize and link.
+
+{% include csv_table.html file="cph705/module05.csv" caption="Module 5: Data Sources" %}
+
+---
+
 ## Modules 6–7: Core Parameters & Evaluation Indicators
 What you measure (burden) vs how good your data are (quality).
 
