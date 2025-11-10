@@ -1,4 +1,4 @@
-Standard/Tool,Original Detail,Enriched Instructional Detail (Use Case)
+Standard/Tool,Original Detail,Instructional Detail (Use Case)
 13a. Coding & Data Structure,"ICD-O-3; AJCC; NAACCR; SEER Edits.","NAACCR Volume II = definitive data dictionary/spec for submissions—teach where/how to look up a field."
 13b. Systems & Interoperability,"Registry platforms (SEER*DMS); EHR; HL7/FHIR.","FHIR supports granular, secure exchange of Condition/Observation elements."
 13c. Analytics & Methods,"Age-standardization; Joinpoint; Survival (KM, Relative).","Joinpoint identifies significant trend changes (inflection points) in rates."

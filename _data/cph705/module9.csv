@@ -1,4 +1,4 @@
-Topic,Original Detail,Enriched Instructional Detail (Context & Importance)
+Topic,Original Detail,Instructional Detail (Context & Importance)
 9a. Goal,"—","Fitness-for-use (incidence, policy); builds trust."
 9b. Dimensions,"Completeness; Accuracy; Timeliness; Consistency; Uniqueness.","Consistency example: treatment date cannot precede diagnosis date."
 9c. Checks,"Not-null; Controlled vocabularies; Code edits; Cross-record concordance.","Use SNOMED CT/LOINC to harmonize across systems where applicable."

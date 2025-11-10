@@ -1,4 +1,4 @@
-Topic,Original Detail,Enriched Instructional Detail (Context & Application)
+Topic,Original Detail,Instructional Detail (Context & Application)
 10. Security,"Minimum necessary; RBAC; audit logs; secure transport/storage.","Use encrypted channels (VPN, SFTP) for identified data transfers."
 11. Policy & Compliance,"HIPAA; State laws; DUAs; IRB; De-identification.","Cancer is mandatorily reportable; state public-health authority enables reporting despite some HIPAA limits."
 11.a. DUAs,"—","Legally binding terms for use/protection/destruction of non-public data."

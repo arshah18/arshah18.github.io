@@ -1,4 +1,4 @@
-Classification Element,Original Detail,Enriched Instructional Detail (Coding/Application)
+Classification Element,Original Detail,Instructional Detail (Coding/Application)
 4a. Reportable Cancers,"Site (Topography); Morphology (Histology).","Use ICD-O-3: Topography (e.g., C50.9) and Morphology (e.g., 8000/3). Practice code look-ups."
 4b. Status,"Suspected; Probable; Confirmed.","Confirmed usually requires histology; Probable may rely on imaging/clinical data in research."
 4c. Primary vs recurrent,"—","Multiple primaries rules (new site/histology or temporally distinct). Critical for incidence accuracy."
