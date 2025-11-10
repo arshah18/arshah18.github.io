@@ -39,7 +39,7 @@ What’s reportable, how to date, stage, and handle primaries.
 ## Module 5: Data Sources
 Where data come from; how to standardize and link.
 
-{% include csv_table.html file="cph705/module05.csv" caption="Module 5: Data Sources" %}
+{% include csv_table.html file="cph705/module5.csv" caption="Module 5: Data Sources" %}
 
 ---
 
