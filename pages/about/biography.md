@@ -10,20 +10,20 @@ description: Narrative background and professional trajectory.
 # Biography
 
 {: .lead }
-I’m a computational and experimental biologist who moved steadily toward **clinical impact, program quality, and learner-centered systems**.
+I am a Computational and Experimental Biologist who moved steadily toward **Clinical Impact, Program Quality, and Learner-Centered Systems**.
 
 ## Path in brief
-I trained in **bioinformatics and computational biology** (MS, PhD), working across genomics and translational research. Over time, I found my best work sits **between teams** — connecting clinical data, research questions, and practical decision-making.
+I am trained in **Informatics, Computational and Experimental Biology** (MS, PhD), working across genomics and translational research. Over time, I found my best work sits **between teams**, connecting clinical data, research questions, and practical decision-making.
 
-That led me to the **Nebraska Lymphoma Study Group (NLSG)** at **UNMC**, where I coordinate clinical data and help turn evidence into clear, usable insights. In parallel, I’m pursuing an **MPH in Epidemiology** (expected 2026) to deepen my population-health lens.
+That led me to the **Nebraska Lymphoma Study Group (NLSG)** at **UNMC**, where I coordinate clinical data and help turn evidence into clear, usable insights. In parallel, I am pursuing an **MPH in Epidemiology** (expected 2026) to deepen my population-health lens.
 
 In **October 2025**, I was elected to the **College of Public Health Curriculum Committee**, where I bring a learner and program perspective to policy, evaluation, and continuous improvement.
 
 ## What keeps me motivated
-- **Clarity over complexity** - plain language, shared definitions, and simple visuals
-- **Equity-aware evidence** - trustworthy data used to improve outcomes
-- **Right-sized effort** - sustainable processes that support people
-- **Learning culture** - feedback loops and small, visible wins
+- **Clarity over complexity**: Plain Language, Shared Definitions, and Simple Visuals
+- **Equity-aware evidence**: Trustworthy Data used to Improve Outcomes
+- **Right-sized effort**: Sustainable Processes that Support People
+- **Learning culture**: Feedback Loops and Small, Visible Wins
 
 ## Where to go next
 - For roles, skills, and tools → **[Experience]({{ "/about/experience/" | relative_url }})**  
