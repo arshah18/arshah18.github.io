@@ -50,11 +50,11 @@ My graduate training in evidence-based teaching methodologies through **CPH 705*
 - <a href="{{ '/assets/papers/teaching/draft-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Draft Teaching Philosophy Statement</a> (PDF)
 - <a href="{{ '/assets/papers/teaching/alignment-worksheet-competency-assessment-objective.pdf' | relative_url }}" target="_blank" rel="noopener">Competency/Goal/Standard → Assessment → Learning Objective — Alignment Worksheet</a> (PDF)
 - <a href="{{ '/assets/papers/teaching/seven-principles-of-adult-learning.pdf' | relative_url }}" target="_blank" rel="noopener">Seven Principles of Adult Learning</a> (PDF)
-- <a href="{{ '/assets/papers/teaching/hook-intro-conclusion-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Creating a Hook/Intro and Conclusion — Worksheet</a> (PDF)
-- <a href="{{ '/assets/papers/teaching/combined-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Combined Teaching Philosophy — Statement</a> (PDF)
-- <a href="{{ '/assets/papers/teaching/philosophies-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Philosophies Worksheet</a> (PDF)
-- <a href="{{ '/assets/papers/teaching/learning-theories-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Learning Theories Statement</a> (PDF)
-- <a href="{{ '/assets/papers/teaching/learning-theory-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy — Learning Theory Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/hook-intro-conclusion-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Creating a Hook/Intro and Conclusion: Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/combined-teaching-philosophy-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Combined Teaching Philosophy: Statement</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/philosophies-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy: Philosophies Worksheet</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/learning-theories-statement.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy: Learning Theories Statement</a> (PDF)
+- <a href="{{ '/assets/papers/teaching/learning-theory-worksheet.pdf' | relative_url }}" target="_blank" rel="noopener">Teaching Philosophy: Learning Theory Worksheet</a> (PDF)
 
 ## Core Teaching Principles
 
