@@ -89,6 +89,39 @@ What learners submit; quick ways to verify understanding.
 
 ---
 
+---
+
+## Teaching Packet (PDFs)
+
+<div class="download-grid" style="display:grid;gap:12px;">
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">
+    ⬇︎ Presentation — <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/participant-handout-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
+    ⬇︎ Participant Handout — Cancer Surveillance
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/assessment-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
+    ⬇︎ Assessment — Cancer Surveillance
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/assessment-answer-key-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
+    ⬇︎ Assessment Answer Key — Cancer Surveillance
+  </a>
+</div>
+
+<br>
+
+### Slide Deck Preview (inline)
+<object data="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}"
+        type="application/pdf" width="100%" height="720"
+        style="border:1px solid #e5e7eb;border-radius:10px;">
+  <p>
+    Your browser can’t display the PDF inline.
+    <a href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">Open the presentation</a>.
+  </p>
+</object>
+
+> Tip: If you kept the original filenames with spaces, replace the href/data paths above with the exact filenames and encode the spaces as <code>%20</code>.
+
 ### Notes
 _- All tables are backed by CSV in `_data/cph705/…` this will help us to maintain them without editing the page._
 _- For additional assignments please put `nav_exclude: true` (and optionally `sitemap: false`) in the page front-matter._
