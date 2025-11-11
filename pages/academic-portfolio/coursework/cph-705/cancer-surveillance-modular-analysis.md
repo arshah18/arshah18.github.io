@@ -95,16 +95,16 @@ What learners submit; quick ways to verify understanding.
 
 <div class="download-grid" style="display:grid;gap:12px;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Presentation — <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
+    ⬇︎ Presentation: <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/participant-handout-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Participant Handout — Cancer Surveillance
+    ⬇︎ Participant Handout: Cancer Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Assessment — Cancer Surveillance
+    ⬇︎ Assessment: Cancer Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-answer-key-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Assessment Answer Key — Cancer Surveillance
+    ⬇︎ Assessment Answer Key: Cancer Surveillance
   </a>
 </div>
 
