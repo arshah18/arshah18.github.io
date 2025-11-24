@@ -123,15 +123,30 @@ What learners submit; quick ways to verify understanding.
 
 ## Synchronous Distance Public Health Teaching/Training Project
 
+## PDF Versions
+
+<div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pdf' | relative_url }}">
+    ⬇︎ Slides (PDF) - Synchronous Session
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.pdf' | relative_url }}">
+    ⬇︎ Assessment - Breakout Case (PDF)
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.pdf' | relative_url }}">
+    ⬇︎ Skeleton Notes - Participant (PDF)
+  </a>
+</div>
+
+## PPT and DOCX Versions
 <div class="download-grid" style="display:grid;gap:12px;">
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pptx' | relative_url }}">
-    ⬇︎ Slides (PPTX) — Synchronous Session
+    ⬇︎ Slides (PPTX) - Synchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.docx' | relative_url }}">
-    ⬇︎ Assessment — Breakout Case (DOCX)
+    ⬇︎ Assessment - Breakout Case (DOCX)
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.docx' | relative_url }}">
-    ⬇︎ Skeleton Notes — Participant (DOCX)
+    ⬇︎ Skeleton Notes - Participant (DOCX)
   </a>
 </div>
 
