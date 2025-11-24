@@ -119,8 +119,21 @@ What learners submit; quick ways to verify understanding.
     <a href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">Open the presentation</a>.
   </p>
 </object>
+---
 
-> Tip: If you kept the original filenames with spaces, replace the href/data paths above with the exact filenames and encode the spaces as <code>%20</code>.
+## Synchronous Distance Public Health Teaching/Training Project
+
+<div class="download-grid" style="display:grid;gap:12px;">
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pptx' | relative_url }}">
+    ⬇︎ Slides (PPTX) — Synchronous Session
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.docx' | relative_url }}">
+    ⬇︎ Assessment — Breakout Case (DOCX)
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.docx' | relative_url }}">
+    ⬇︎ Skeleton Notes — Participant (DOCX)
+  </a>
+</div>
 
 ### Notes
 _- All tables are backed by CSV in `_data/cph705/…` this will help us to maintain them without editing the page._
