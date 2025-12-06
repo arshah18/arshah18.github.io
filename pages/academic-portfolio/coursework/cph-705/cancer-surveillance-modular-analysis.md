@@ -19,7 +19,7 @@ _Date: Oct 12, 2025_
 
 ---
 
-## Modules 1-2: Definition & Purpose
+## Modules 1–2: Definition & Purpose
 One-liner aims + why it matters; anchors content.
 
 {% include csv_table.html file="cph705/module1.csv" caption="Modules 1–2: Definition & Purpose" %}
@@ -89,8 +89,6 @@ What learners submit; quick ways to verify understanding.
 
 ---
 
----
-
 ## Teaching Packet (PDFs)
 
 <div class="download-grid" style="display:grid;gap:12px;">
@@ -119,37 +117,49 @@ What learners submit; quick ways to verify understanding.
     <a href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">Open the presentation</a>.
   </p>
 </object>
+
 ---
 
 ## Synchronous Distance Public Health Teaching/Training Project
 
-## PDF Versions
-
+### PDF Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pdf' | relative_url }}">
-    ⬇︎ Slides (PDF) - Synchronous Session
+    ⬇︎ Slides (PDF) — Synchronous Session
   </a>
   <a class="button primary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.pdf' | relative_url }}">
-    ⬇︎ Assessment - Breakout Case (PDF)
+    ⬇︎ Assessment — Breakout Case (PDF)
   </a>
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.pdf' | relative_url }}">
-    ⬇︎ Skeleton Notes - Participant (PDF)
+    ⬇︎ Skeleton Notes — Participant (PDF)
   </a>
 </div>
 
-## PPT and DOCX Versions
-<div class="download-grid" style="display:grid;gap:12px;">
+### PPT and DOCX Versions
+<div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pptx' | relative_url }}">
-    ⬇︎ Slides (PPTX) - Synchronous Session
+    ⬇︎ Slides (PPTX) — Synchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.docx' | relative_url }}">
-    ⬇︎ Assessment - Breakout Case (DOCX)
+    ⬇︎ Assessment — Breakout Case (DOCX)
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.docx' | relative_url }}">
-    ⬇︎ Skeleton Notes - Participant (DOCX)
+    ⬇︎ Skeleton Notes — Participant (DOCX)
   </a>
 </div>
 
+### Course Outline & Plan (Synchronous Assessment)
+<div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
+  <a class="button secondary" href="{{ '/assets/cph705/synchronous-assessment-course-outline-and-plan.docx' | relative_url }}">
+    ⬇︎ Course Outline & Plan (DOCX)
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/synchronous-assessment-course-outline-and-plan.pdf' | relative_url }}">
+    ⬇︎ Course Outline & Plan (PDF)
+  </a>
+</div>
+
+---
+
 ### Notes
-_- All tables are backed by CSV in `_data/cph705/…` this will help us to maintain them without editing the page._
-_- For additional assignments please put `nav_exclude: true` (and optionally `sitemap: false`) in the page front-matter._
+_- All tables are backed by CSV in `_data/cph705/…` to keep maintenance simple without editing this page._  
+_- For additional assignments, add pages with `nav_exclude: true` (and optionally `sitemap: false`) to keep the sidebar tidy._
