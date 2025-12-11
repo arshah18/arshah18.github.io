@@ -160,6 +160,53 @@ What learners submit; quick ways to verify understanding.
 
 ---
 
+## Asynchronous Online Session: Public Health Teaching/Training Project
+
+Asynchronous sessions are **self-paced learning modules** that learners complete on their own time. In public health teaching/training, these pair short content (slides/video/handouts) with **applied checks** and **reflection prompts** so participants can pause, practice, and revisit concepts without losing continuity.
+
+### PDF Versions
+<div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pdf' | uri_escape | relative_url }}">
+    ⬇︎ Presentation (PDF) — Asynchronous Session
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-handout-asynchronous-session.pdf' | uri_escape | relative_url }}">
+    ⬇︎ Participant Handout (PDF) — Asynchronous Session
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session.pdf' | uri_escape | relative_url }}">
+    ⬇︎ Assessment (PDF) — Asynchronous Session
+  </a>
+  <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session-answer-key.pdf' | uri_escape | relative_url }}">
+    ⬇︎ Assessment Answer Key (PDF) — Asynchronous Session
+  </a>
+</div>
+
+### PPTX & DOCX Versions
+<div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pptx' | uri_escape | relative_url }}">
+    ⬇︎ Slides (PPTX) — Asynchronous Session
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-handout-asynchronous-session.docx' | uri_escape | relative_url }}">
+    ⬇︎ Participant Handout (DOCX) — Asynchronous Session
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session.docx' | uri_escape | relative_url }}">
+    ⬇︎ Assessment (DOCX) — Asynchronous Session
+  </a>
+  <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session-answer-key.docx' | uri_escape | relative_url }}">
+    ⬇︎ Assessment Answer Key (DOCX) — Asynchronous Session
+  </a>
+</div>
+
+### Slide Deck Preview (inline)
+<object data="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pdf' | uri_escape | relative_url }}"
+        type="application/pdf" width="100%" height="720"
+        style="border:1px solid #e5e7eb;border-radius:10px;margin-top:12px;">
+  <p>
+    Your browser can’t display the PDF inline.
+    <a href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pdf' | uri_escape | relative_url }}" target="_blank" rel="noopener">Open the presentation</a>.
+  </p>
+</object>
+
+---
 ### Notes
 _- All tables are backed by CSV in `_data/cph705/…` to keep maintenance simple without editing this page._  
 _- For additional assignments, add pages with `nav_exclude: true` (and optionally `sitemap: false`) to keep the sidebar tidy._
