@@ -180,6 +180,14 @@ Asynchronous sessions are **self-paced learning modules** that learners complete
   </a>
 </div>
 
+### Presentation Recording (MP4)
+
+<video controls width="100%" preload="metadata" style="border:1px solid #e5e7eb;border-radius:10px;">
+  <source src="{{ '/assets/cph705/cancer-surveillance-presentation-asynchronous-session-recording.mp4' | relative_url }}" type="video/mp4">
+  Sorry—your browser can’t play this video.
+  <a href="{{ '/assets/cph705/cancer-surveillance-presentation-asynchronous-session-recording.mp4' | relative_url }}">Download the MP4</a>.
+</video>
+
 ### PPTX & DOCX Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pptx' | uri_escape | relative_url }}">
