@@ -4,28 +4,31 @@ title: Biography
 parent: About
 nav_order: 1
 permalink: /about/biography/
-description: Narrative background and professional trajectory.
+description: Bridging the gap between computational biology, clinical data, and public health.
 ---
 
 # Biography
 
 {: .lead }
-I am a Computational and Experimental Biologist who moved steadily toward **Clinical Impact, Program Quality, and Learner-Centered Systems**.
+I am a **Computational and Experimental Biologist** focused on **Clinical Impact, Program Quality, and Learner-Centered Systems.** I operate at the intersection of complex data and human decision-making.
 
-## Path in brief
-I am trained in **Informatics, Computational and Experimental Biology** (MS, PhD), working across genomics and translational research. Over time, I found my best work sits **between teams**, connecting clinical data, research questions, and practical decision-making.
+## The Arc: From Cells to Systems
+My career began with a deep dive into the mechanics of life. I earned my MS and PhD in **Informatics, Computational, and Experimental Biology**, focusing on genomics and translational research. 
 
-That led me to the **Nebraska Lymphoma Study Group (NLSG)** at **UNMC**, where I coordinate clinical data and help turn evidence into clear, usable insights. In parallel, I am pursuing an **MPH in Epidemiology** (expected 2026) to deepen my population-health lens.
+However, I realized my most impactful work happened **between teams**—translating technical constraints into clinical possibilities.
 
-In **October 2025**, I was elected to the **College of Public Health Curriculum Committee**, where I bring a learner and program perspective to policy, evaluation, and continuous improvement.
+This insight drove my transition to the **Nebraska Lymphoma Study Group (NLSG)** at **UNMC**, where I currently coordinate clinical data to turn raw evidence into usable insights. To formalize this population-level perspective, I am pursuing an **MPH in Epidemiology** (expected 2026).
 
-## What keeps me motivated
-- **Clarity over complexity**: Plain Language, Shared Definitions, and Simple Visuals
-- **Equity-aware evidence**: Trustworthy Data used to Improve Outcomes
-- **Right-sized effort**: Sustainable Processes that Support People
-- **Learning culture**: Feedback Loops and Small, Visible Wins
+## Leadership & Service
+I believe in building systems that support the people within them. In **October 2025**, I was elected to the **College of Public Health Curriculum Committee**. In this role, I apply a learner-centric lens to policy and evaluation, ensuring our educational programs are as rigorous and adaptive as our research.
 
-## Where to go next
-- For roles, skills, and tools → **[Experience]({{ "/about/experience/" | relative_url }})**  
-- For how I work → **[People & Principles]({{ "/academic-portfolio/people-and-principles/" | relative_url }})**  
-- For teaching approach → **[Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})**
+## Core Values
+* **Clarity over complexity:** Prioritizing plain language and shared definitions.
+* **Equity-aware evidence:** Using trustworthy data to drive fair outcomes.
+* **Sustainable processes:** Designing right-sized efforts that prevent burnout.
+* **A culture of learning:** Creating feedback loops and celebrating small wins.
+
+## Explore Further
+- **[Experience]({{ "/about/experience/" | relative_url }})**: Roles, skills, and technical toolkit.
+- **[People & Principles]({{ "/academic-portfolio/people-and-principles/" | relative_url }})**: How I work and lead.
+- **[Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})**: My approach to education.
