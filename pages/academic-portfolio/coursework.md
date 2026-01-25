@@ -50,6 +50,11 @@ List of relevant graduate courses, key assignments, and brief reflections (where
 ### Public Health & Epidemiology
 *Course listings and reflections in development*
 
+- **CPH 514 – Planning & Evaluation**  
+  *Focus*: Plan, implement, and evaluate public-health programs using systems thinking, logic models, evidence synthesis, and practical evaluation methods (reach, implementation quality, effectiveness, sustainability).  
+  *Overview*: Translate community needs and data into feasible interventions with defensible evaluation plans; align activities, budget, staffing, and communications for real-world delivery.  
+  → [View Course Details]({{ "/academic-portfolio/coursework/cph-514/" | relative_url }})
+
 ### Bioinformatics & Genomics  
 *Course listings and reflections in development*
 
