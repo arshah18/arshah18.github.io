@@ -158,29 +158,35 @@ body {
 .stat-label  { font-size: .9rem; color: #4a5568; font-weight: 500; }
 
 /* =============================
-   Sidebar Profile Card (pinned)
+   Sidebar Profile Card (pinned, ALWAYS TOP)
    ============================= */
 
-/* Hide JTD's built-in sidebar logo block */
+/* Hide JTD's default logo/header in the sidebar */
 .side-bar .site-header::before { content: none !important; }
 .side-bar .site-logo { display: none !important; }
 
-/* Reduce the default top padding in the sidebar column */
+/* Make the INNER sidebar a flex column so we can reorder children */
 @media (min-width: 50rem) {
-  .side-bar {
-    padding-top: .25rem !important;   /* was ~1–2rem in theme */
-  }
-  .side-bar nav.site-nav {
-    margin-top: 0 !important;
+  .side-bar__inner {
+    display: flex !important;
+    flex-direction: column;
+    gap: .5rem;
+    padding-top: .25rem !important;   /* reduce top gap */
   }
 }
 
-/* Make the profile card start right under the global header */
+/* Ensure the nav comes after the profile card (default order = 0) */
+@media (min-width: 50rem) {
+  .side-bar__inner .site-nav { order: 0; }
+}
+
+/* The profile card itself — force to the very top and keep it visible */
 .side-bar .profile-card {
-  order: -1;
+  order: -1 !important;                /* put before nav/header */
   position: sticky;
-  top: .25rem;                         /* pull closer to header */
-  margin: .25rem 1rem 1rem;            /* tighter top margin */
+  top: .25rem;                          /* hug the header */
+  z-index: 2;
+  margin: .25rem 1rem 1rem;
   padding: 1rem 1rem 1.1rem;
   text-align: center;
   background: #fff;
@@ -202,29 +208,15 @@ body {
 /* =============================
    Top spacing fixes (content)
    ============================= */
-
-/* Reduce extra top padding the theme gives the main column on wide screens */
 @media (min-width: 50rem) {
-  .main {
-    padding-top: .5rem !important;   /* pull content up a bit */
-  }
+  .main { padding-top: .5rem !important; }   /* pull content up a bit */
 }
-
-/* First H1 on a page shouldn’t be pushed down */
-.main-content > h1:first-child {
-  margin-top: .25rem !important;
-}
+.main-content > h1:first-child { margin-top: .25rem !important; }
 
 /* =============================
    Misc small helpers
    ============================= */
-
-/* Optional: small spacing for Mermaid blocks */
-.mermaid { margin: .5rem 0 1rem; }
-
-/* Optional: table spacing */
+.mermaid { margin: .5rem 0 1rem; }  /* Optional: small spacing for Mermaid blocks */
 .table-wrapper table { width: 100%; }
 .table-wrapper table th, .table-wrapper table td { vertical-align: top; }
-
-/* Teaching papers iframe tweaks */
-.nav-card iframe { max-height: 70vh; }
+.nav-card iframe { max-height: 70vh; } /* Teaching papers iframe tweaks */
