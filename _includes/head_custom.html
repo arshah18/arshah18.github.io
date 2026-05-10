@@ -1,1 +1,4 @@
 <link rel="stylesheet" href="{{ '/assets/css/sidebar-compact.css' | relative_url }}?v=20260510-2">
+{%- if page.url contains '/ai-public-health-portal/' -%}
+<link rel="stylesheet" href="{{ '/assets/css/portal.css' | relative_url }}?v=20260510-1">
+{%- endif -%}

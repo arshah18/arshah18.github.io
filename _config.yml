@@ -19,6 +19,10 @@ plugins:
   - jekyll-sitemap
 permalink: pretty
 
+# Source-only project files that should not be published as static site pages
+exclude:
+  - backend/
+
 # Auxiliary links
 aux_links:
   "LinkedIn": "https://www.linkedin.com/in/rauf-s-a4634528/"

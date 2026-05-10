@@ -12,6 +12,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   <p>I help research, clinical, academic, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges computational biology, lymphoma data coordination, cancer surveillance, public health epidemiology, teaching, and program quality.</p>
   <div class="cta-actions">
     <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
+    <a class="button secondary" href="{{ '/ai-public-health-portal/' | relative_url }}">AI Public Health Portal</a>
     <a class="button secondary" href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a class="button secondary" href="https://www.linkedin.com/in/rauf-s-a4634528/" target="_blank" rel="noopener">LinkedIn</a>
     <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact</a>
@@ -91,6 +92,12 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 </div>
 
 ## Featured Project
+
+<div class="modern-callout">
+  <h3>AI Public Health Portal</h3>
+  <p>An interactive collaboration navigator, evidence explorer, and AI-ready briefing workflow for public health leadership, faculty roles, research collaboration, industry partnerships, and learners.</p>
+  <a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Open Portal</a>
+</div>
 
 <div class="modern-callout">
   <h3>Cancer Surveillance: Modular Instructional Analysis</h3>
