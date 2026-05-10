@@ -23,6 +23,12 @@
   margin-top: 0;
 }
 
+.portal-panel .anchor-heading,
+.workflow-item .anchor-heading,
+.roadmap-item .anchor-heading {
+  display: none;
+}
+
 .portal-status {
   display: grid;
   gap: .5rem;
