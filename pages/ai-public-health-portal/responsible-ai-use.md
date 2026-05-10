@@ -1,13 +1,13 @@
 ---
-title: "Responsible AI Use"
+title: "Responsible Use"
 layout: default
-parent: "AI Public Health Portal"
+parent: "Public Health Portal"
 permalink: /ai-public-health-portal/responsible-ai-use/
 nav_order: 1
-description: Plain-language responsible AI use guidance for the AI Public Health Portal.
+description: Plain-language responsible use guidance for the Public Health Portal.
 ---
 
-# Responsible AI Use
+# Responsible Use
 
 {: .lead }
 This portal is designed to help visitors think clearly about roles, collaborations, teaching, research, and public health practice without asking for private or sensitive information.
@@ -26,9 +26,9 @@ This portal is designed to help visitors think clearly about roles, collaboratio
 - Creates a first-draft collaboration brief that can be copied into email.
 - Encourages safer, clearer, more focused communication.
 
-## Future AI Direction
+## Future Direction
 
-Future AI-assisted features should remain practical, transparent, and human-reviewed. The goal is not to replace professional judgment. The goal is to help people prepare better questions, stronger briefs, clearer teaching plans, and more useful collaboration scopes.
+Future guided features should remain practical, transparent, and human-reviewed. The goal is not to replace professional judgment. The goal is to help people prepare better questions, stronger briefs, clearer teaching plans, and more useful collaboration scopes.
 
 ## Responsible Use Principles
 
@@ -48,4 +48,4 @@ When reaching out, include:
 - the timeline;
 - what a useful first conversation should accomplish.
 
-<p><a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Return to AI Public Health Portal</a></p>
+<p><a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Return to Public Health Portal</a></p>

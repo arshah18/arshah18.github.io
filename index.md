@@ -12,7 +12,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   <p>I help research, clinical, academic, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges computational biology, lymphoma data coordination, cancer surveillance, public health epidemiology, teaching, and program quality.</p>
   <div class="cta-actions">
     <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
-    <a class="button secondary" href="{{ '/ai-public-health-portal/' | relative_url }}">AI Public Health Portal</a>
+    <a class="button secondary" href="{{ '/ai-public-health-portal/' | relative_url }}">Public Health Portal</a>
     <a class="button secondary" href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a class="button secondary" href="https://www.linkedin.com/in/rauf-s-a4634528/" target="_blank" rel="noopener">LinkedIn</a>
     <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact</a>
@@ -34,33 +34,33 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   </div>
 </div>
 
-## Target Roles & Collaboration Fit
+## Public Health Mission
 
-<p class="section-lede">This site is designed for public health leaders, faculty search committees, collaborators, and stakeholders who want a concise view of my preparation and direction.</p>
+<p class="section-lede">My future professional and academic mission is to strengthen public health practice by connecting epidemiology, cancer surveillance, data quality, teaching, and practical leadership. I want my work to help programs make clearer decisions, prepare stronger public health workforces, and translate evidence into action that improves population health.</p>
 
 <div class="child-pages-grid">
   <div class="child-page-card">
-    <h3>Public Health Leadership</h3>
-    <p>Program quality, surveillance systems, data governance, practical analytics, and cross-functional coordination.</p>
+    <h3>Cancer Surveillance & Data Quality</h3>
+    <p>Improving the reliability, interpretation, and public health use of cancer data, registry-informed workflows, and clinical evidence.</p>
   </div>
 
   <div class="child-page-card">
-    <h3>Faculty & Teaching Roles</h3>
-    <p>Applied public health instruction, cancer surveillance education, bioinformatics, data communication, and learner-centered assessment.</p>
+    <h3>Epidemiology & Population Health</h3>
+    <p>Using population thinking, surveillance evidence, and equity-aware interpretation to support better public health decisions.</p>
   </div>
 
   <div class="child-page-card">
-    <h3>Research Collaboration</h3>
-    <p>Lymphoma research, cancer genomics, clinical-registry linkage, ctDNA, multi-omics, and reproducible analytic workflows.</p>
+    <h3>Teaching & Workforce Development</h3>
+    <p>Building applied learning experiences that prepare students, professionals, and teams to use evidence clearly and responsibly.</p>
   </div>
 
   <div class="child-page-card">
-    <h3>Academic Program Improvement</h3>
-    <p>Plain-language standards, evidence maps, review processes, curriculum support, and documentation systems that teams can sustain.</p>
+    <h3>Evidence Translation & Leadership</h3>
+    <p>Turning complex information into practical briefs, standards, workflows, and decisions that teams can sustain.</p>
   </div>
 </div>
 
-## Current Focus
+## Public Health Focus Areas
 
 - **Cancer surveillance and clinical data quality:** making registry and cohort data more consistent, useful, and decision-ready.
 - **Epidemiology-informed public health practice:** connecting data quality, population patterns, equity, and timely communication.
@@ -94,7 +94,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 ## Featured Project
 
 <div class="modern-callout">
-  <h3>AI Public Health Portal</h3>
+  <h3>Public Health Portal</h3>
   <p>An interactive collaboration navigator, evidence explorer, and guided briefing workflow for public health leadership, faculty roles, research collaboration, industry partnerships, and learners.</p>
   <a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Open Portal</a>
 </div>
@@ -113,7 +113,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   <span class="pill">Equity-aware reporting</span>
   <span class="pill">Reproducible analytics</span>
   <span class="pill">Learner-centered design</span>
-  <span class="pill">Responsible AI support</span>
+  <span class="pill">Responsible innovation</span>
 </div>
 
 I am most interested in roles and collaborations where strong evidence, public health judgment, teaching, and practical leadership need to work together.

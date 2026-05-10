@@ -36,7 +36,7 @@ Program emphasis:
 - **The Path to Insights: Data Models and Pipelines**
   <a href="https://www.coursera.org/account/accomplishments/verify/EQ6RUR5WC43S" target="_blank" rel="noopener">Verify</a>
 
-## Relevance to Target Roles
+## Professional Relevance
 
 - **Public health leadership:** clearer dashboards, KPIs, and decision-support summaries.
 - **Faculty and teaching roles:** stronger examples for applied analytics, reporting, and data communication.

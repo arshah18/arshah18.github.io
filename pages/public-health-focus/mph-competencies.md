@@ -46,7 +46,7 @@ My MPH-Epidemiology is expected in **Fall 2026**. This page maps my current work
 
 - Use sensitive health data with attention to governance, privacy, minimum necessary use, and accountability.
 - Interpret results with care for equity, representation, and potential misuse.
-- Keep human review and professional judgment central when using analytics, dashboards, or AI-assisted workflows.
+- Keep human review and professional judgment central when using analytics, dashboards, or technology-supported workflows.
 
 ## Evidence Pages
 

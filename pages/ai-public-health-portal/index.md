@@ -1,5 +1,5 @@
 ---
-title: "AI Public Health Portal"
+title: "Public Health Portal"
 layout: default
 permalink: /ai-public-health-portal/
 nav_order: 5
@@ -7,7 +7,7 @@ has_children: true
 description: Interactive public health portal for collaboration scoping, evidence navigation, leadership, teaching, industry partnerships, and research translation.
 ---
 
-# AI Public Health Portal
+# Public Health Portal
 
 {: .lead }
 An interactive entry point for public health leaders, faculty search committees, collaborators, industry partners, and students who want to understand where my experience can translate into practical work.
@@ -168,10 +168,10 @@ An interactive entry point for public health leaders, faculty search committees,
   </div>
   <div class="roadmap-item">
     <strong>Later</strong>
-    <span>Optional AI-assisted features that remain transparent, human-reviewed, and safe for professional public health use.</span>
+    <span>Optional guided features that remain transparent, human-reviewed, and safe for professional public health use.</span>
   </div>
 </div>
 
-<p><a class="button secondary" href="{{ '/ai-public-health-portal/responsible-ai-use/' | relative_url }}">Responsible AI Use</a></p>
+<p><a class="button secondary" href="{{ '/ai-public-health-portal/responsible-ai-use/' | relative_url }}">Responsible Use</a></p>
 
 <script src="{{ '/assets/js/portal.js' | relative_url }}?v=20260510-2" defer></script>
