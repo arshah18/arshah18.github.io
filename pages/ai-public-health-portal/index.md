@@ -1,26 +1,26 @@
 ---
-title: "Public Health Portal"
+title: "Public Health Impact Hub"
 layout: default
 permalink: /ai-public-health-portal/
-nav_order: 5
+nav_order: 6
 has_children: true
-description: Interactive public health portal for collaboration scoping, evidence navigation, leadership, teaching, industry partnerships, and research translation.
+description: Public health impact hub for collaboration scoping, evidence navigation, leadership, teaching, partnerships, grants, and research translation.
 ---
 
-# Public Health Portal
+# Public Health Impact Hub
 
 {: .lead }
-An interactive entry point for public health leaders, faculty search committees, collaborators, industry partners, and students who want to understand where my experience can translate into practical work.
+A practical workspace for shaping a role, project, course, grant idea, or partnership into a clear first conversation.
 
 <div class="portal-hero">
   <div>
-    <p class="profile-kicker">Study | Collaboration | Industry | Public health practice</p>
-    <h2>Find the best pathway for a role, project, course, or partnership.</h2>
-    <p>This portal helps visitors organize an opportunity, find relevant evidence, and draft a clear first message. It is designed for safe professional use and does not ask for private or sensitive information.</p>
+    <p class="profile-kicker">Study | Collaboration | Grants | Public health practice</p>
+    <h2>Turn an idea into a focused public health pathway.</h2>
+    <p>The hub helps visitors organize an opportunity, find relevant evidence, and prepare a clear first message. It supports the broader Public Health Impact Collaborative initiative.</p>
   </div>
   <div class="portal-status" aria-label="Portal status">
-    <span>Guided pathways</span>
-    <span>Human review</span>
+    <span>Project scoping</span>
+    <span>Human follow-up</span>
     <span>No private data</span>
   </div>
 </div>
@@ -33,8 +33,8 @@ An interactive entry point for public health leaders, faculty search committees,
   <div class="portal-panel portal-builder">
     <div class="portal-panel-header">
       <p class="profile-kicker">Collaboration Navigator</p>
-      <h2>Build a smart-fit brief</h2>
-      <p>Select the context, and the portal will generate a practical pathway, evidence links, and an email-ready collaboration brief.</p>
+      <h2>Build a collaboration brief</h2>
+      <p>Select the context, and the hub will prepare a practical pathway, evidence links, and an email-ready first message.</p>
     </div>
 
     <div class="portal-field">
@@ -43,7 +43,7 @@ An interactive entry point for public health leaders, faculty search committees,
         <option value="public-health-leadership">Public health leadership</option>
         <option value="faculty-search">Faculty or academic search</option>
         <option value="research-collaboration">Research collaboration</option>
-        <option value="industry-partnership">Industry or analytics partnership</option>
+        <option value="industry-partnership">Organization, company, or analytics partnership</option>
         <option value="student-learner">Student or learner</option>
       </select>
     </div>
@@ -55,6 +55,7 @@ An interactive entry point for public health leaders, faculty search committees,
         <option value="epidemiology">Epidemiology and population health</option>
         <option value="bioinformatics">Bioinformatics and translational analytics</option>
         <option value="teaching">Teaching, curriculum, and workforce training</option>
+        <option value="grants-projects">Grant and project development</option>
         <option value="data-systems">Data systems, governance, and reporting</option>
       </select>
     </div>
@@ -89,7 +90,7 @@ An interactive entry point for public health leaders, faculty search committees,
 
     <div class="portal-actions">
       <button class="button primary" type="button" data-portal-copy>Copy brief</button>
-      <a class="button secondary" data-portal-email href="mailto:abrshah@unmc.edu">Email brief</a>
+      <a class="button secondary" data-portal-email href="mailto:abraufshah@gmail.com">Email brief</a>
     </div>
   </div>
 
@@ -110,7 +111,7 @@ An interactive entry point for public health leaders, faculty search committees,
       </div>
     </div>
     <div class="portal-brief">
-      <h3>Generated brief</h3>
+      <h3>Draft message</h3>
       <pre data-portal-brief></pre>
     </div>
   </div>
@@ -159,16 +160,16 @@ An interactive entry point for public health leaders, faculty search committees,
 
 <div class="roadmap-grid">
   <div class="roadmap-item">
-    <strong>Now</strong>
-    <span>A guided portal that helps visitors understand fit, review evidence, and prepare a clear first message.</span>
+    <strong>Founding Phase</strong>
+    <span>A focused hub for collaboration ideas, public health project scoping, teaching support, and first conversations.</span>
   </div>
   <div class="roadmap-item">
-    <strong>Next</strong>
-    <span>More polished role-specific pathways, downloadable collaboration packets, and clearer evidence summaries.</span>
+    <strong>Partnership Phase</strong>
+    <span>Clearer partner pathways, project concept notes, grant planning materials, and downloadable collaboration packets.</span>
   </div>
   <div class="roadmap-item">
-    <strong>Later</strong>
-    <span>Optional guided features that remain transparent, human-reviewed, and safe for professional public health use.</span>
+    <strong>Growth Phase</strong>
+    <span>A more complete public health organization platform with secure private follow-up, partner resources, and issue briefs.</span>
   </div>
 </div>
 

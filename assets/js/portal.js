@@ -46,7 +46,7 @@
       ],
     },
     "industry-partnership": {
-      title: "Industry and analytics partnership pathway",
+      title: "Organization and analytics partnership pathway",
       score: "Strong applied analytics fit",
       summary: "Best fit for data quality, clinical analytics translation, innovation planning, reporting workflows, and public health-facing strategy.",
       steps: [
@@ -82,6 +82,7 @@
     epidemiology: "Epidemiology and population health",
     bioinformatics: "Bioinformatics and translational analytics",
     teaching: "Teaching, curriculum, and workforce training",
+    "grants-projects": "Grant and project development",
     "data-systems": "Data systems, governance, and reporting",
   };
 
@@ -178,7 +179,7 @@
     const profile = roleProfiles[role];
 
     return [
-      "Website collaboration brief",
+      "Collaboration brief",
       "",
       `Audience/pathway: ${profile.title}`,
       `Topic: ${topicLabels[topic]}`,
@@ -230,7 +231,7 @@
     const email = root.querySelector("[data-portal-email]");
     const subject = encodeURIComponent(`Website collaboration inquiry - ${profile.title}`);
     const body = encodeURIComponent(`Hello Dr. Shah,\n\n${brief}\n\nThank you,`);
-    email.href = `mailto:abrshah@unmc.edu?subject=${subject}&body=${body}`;
+    email.href = `mailto:abraufshah@gmail.com?subject=${subject}&body=${body}`;
   }
 
   function copyText(text, button) {

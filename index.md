@@ -12,7 +12,8 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   <p>I help research, clinical, academic, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges computational biology, lymphoma data coordination, cancer surveillance, public health epidemiology, teaching, and program quality.</p>
   <div class="cta-actions">
     <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
-    <a class="button secondary" href="{{ '/ai-public-health-portal/' | relative_url }}">Public Health Portal</a>
+    <a class="button secondary" href="{{ '/public-health-impact-collaborative/' | relative_url }}">Impact Collaborative</a>
+    <a class="button secondary" href="{{ '/ai-public-health-portal/' | relative_url }}">Impact Hub</a>
     <a class="button secondary" href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     <a class="button secondary" href="https://www.linkedin.com/in/rauf-s-a4634528/" target="_blank" rel="noopener">LinkedIn</a>
     <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact</a>
@@ -65,6 +66,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 - **Cancer surveillance and clinical data quality:** making registry and cohort data more consistent, useful, and decision-ready.
 - **Epidemiology-informed public health practice:** connecting data quality, population patterns, equity, and timely communication.
 - **Teaching and workforce development:** building public health training materials that are clear, applied, and assessable.
+- **Project and grant development:** shaping public health ideas into scoped projects, proposals, briefs, and partner-ready plans.
 - **Leadership through systems:** improving standards, workflows, evidence collection, and feedback loops without unnecessary burden.
 
 ## Selected Evidence
@@ -94,9 +96,15 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 ## Featured Project
 
 <div class="modern-callout">
-  <h3>Public Health Portal</h3>
-  <p>An interactive collaboration navigator, evidence explorer, and guided briefing workflow for public health leadership, faculty roles, research collaboration, industry partnerships, and learners.</p>
-  <a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Open Portal</a>
+  <h3>Public Health Impact Collaborative</h3>
+  <p>A founding initiative for public health projects, grant development, training, surveillance quality, evidence translation, and partnerships that improve population health.</p>
+  <a class="button primary" href="{{ '/public-health-impact-collaborative/' | relative_url }}">Explore the Initiative</a>
+</div>
+
+<div class="modern-callout">
+  <h3>Public Health Impact Hub</h3>
+  <p>A practical hub for shaping a role, project, course, grant idea, or partnership into a clear first conversation.</p>
+  <a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Open Impact Hub</a>
 </div>
 
 <div class="modern-callout">

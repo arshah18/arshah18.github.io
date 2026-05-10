@@ -16,12 +16,13 @@ A clear first message helps me understand the opportunity and route the conversa
   <div class="email-primary">
     <div class="email-address">
       <span class="email-label">Primary Email:</span>
-      <a href="mailto:abrshah@unmc.edu" class="email-link">abrshah@unmc.edu</a>
+      <a href="mailto:abraufshah@gmail.com" class="email-link">abraufshah@gmail.com</a>
     </div>
     <div class="response-info">
       <p>I typically respond within 24-48 hours on weekdays.</p>
       <p>
-        <a class="button primary" href="mailto:abrshah@unmc.edu?subject=Inquiry%20from%20website%20-%20%5BTopic%5D&body=Hello%20Dr.%20Shah%2C%0A%0AInquiry%20type%3A%20%0AContext%20or%20organization%3A%20%0ATimeline%3A%20%0AKey%20question%20or%20opportunity%3A%20%0A%0AThanks%2C%0A">Start an Email</a>
+        <a class="button primary" href="mailto:abraufshah@gmail.com?subject=Inquiry%20from%20website%20-%20%5BTopic%5D&body=Hello%20Dr.%20Shah%2C%0A%0AInquiry%20type%3A%20%0AContext%20or%20organization%3A%20%0ATimeline%3A%20%0AKey%20question%20or%20opportunity%3A%20%0A%0AThanks%2C%0A">Start an Email</a>
+        <a class="button secondary" href="{{ '/contact/' | relative_url }}">Use Contact Form</a>
       </p>
     </div>
   </div>

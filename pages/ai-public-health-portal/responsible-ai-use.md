@@ -1,16 +1,16 @@
 ---
 title: "Responsible Use"
 layout: default
-parent: "Public Health Portal"
+parent: "Public Health Impact Hub"
 permalink: /ai-public-health-portal/responsible-ai-use/
 nav_order: 1
-description: Plain-language responsible use guidance for the Public Health Portal.
+description: Plain-language responsible use guidance for the Public Health Impact Hub.
 ---
 
 # Responsible Use
 
 {: .lead }
-This portal is designed to help visitors think clearly about roles, collaborations, teaching, research, and public health practice without asking for private or sensitive information.
+The Public Health Impact Hub is designed to help visitors think clearly about roles, collaborations, teaching, research, grants, and public health practice without asking for private or sensitive information.
 
 ## What Visitors Should Know
 
@@ -19,9 +19,9 @@ This portal is designed to help visitors think clearly about roles, collaboratio
 - Visitors should not enter protected health information, identifiable patient details, confidential organizational data, or unpublished sensitive material.
 - The best use is a short, de-identified summary of a role, project, class, or collaboration idea.
 
-## How The Portal Helps
+## How The Hub Helps
 
-- Clarifies the best pathway for public health leadership, faculty roles, research collaboration, industry partnership, or student learning.
+- Clarifies the best pathway for public health leadership, faculty roles, research collaboration, organization or analytics partnership, grant development, or student learning.
 - Points visitors toward the most relevant evidence on the site.
 - Creates a first-draft collaboration brief that can be copied into email.
 - Encourages safer, clearer, more focused communication.
@@ -48,4 +48,4 @@ When reaching out, include:
 - the timeline;
 - what a useful first conversation should accomplish.
 
-<p><a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Return to Public Health Portal</a></p>
+<p><a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Return to Public Health Impact Hub</a></p>
