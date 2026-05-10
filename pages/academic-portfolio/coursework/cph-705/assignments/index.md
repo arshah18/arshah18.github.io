@@ -1,13 +1,15 @@
 ---
 layout: default
-title: CPH 705 — Assignments Hub
-parent: CPH 705
+title: CPH 705 - Assignments Hub
+parent: CPH 705 - Public Health Teaching and Training
 grand_parent: Academic Portfolio
 nav_order: 99
+nav_exclude: true
+sitemap: false
 permalink: /academic-portfolio/coursework/cph-705/assignments/
 ---
 
-# CPH 705 — Assignments Hub
+# CPH 705 - Assignments Hub
 
 Below are assignments and notes that are **hidden from the sidebar** but collected here for easy access.
 

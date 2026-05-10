@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.4"
+gem "jekyll-include-cache", "~> 0.2"
+gem "jekyll-remote-theme", "~> 0.4.3"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "webrick", "~> 1.8"

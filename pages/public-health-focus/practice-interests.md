@@ -1,23 +1,38 @@
 ---
 layout: default
 title: Practice Interests
-parent: Public Health Focus
+parent: Public Health Leadership & Practice
 nav_order: 1
 permalink: /public-health-focus/practice-interests/
+description: Applied public health practice interests in cancer surveillance, disaster epidemiology, informatics, and governance.
 ---
 
-# Public Health Practice Interests
+# Practice Interests
 
-## Cancer Surveillance
-- End-to-end pipelines linking **registries ↔ EHR ↔ pathology ↔ genomics**  
-- Coding fidelity (ICD, ICD-O, NAACCR) and transparent, validated analytics  
-- Equity monitoring: incidence, survival, and access metrics across subgroups
+{: .lead }
+Applied public health work that connects data systems, surveillance quality, epidemiology, and practical decision support.
 
-## Disaster Epidemiology
-- Situational awareness via **syndromic feeds** and rapid analytic dashboards  
-- Thresholds/alerts, field reporting, and decision support for incident management  
-- Communication strategies that translate complex signals into clear actions
+## Cancer Surveillance and Registry-Informed Practice
 
-## Data Systems & Governance
-- FHIR/HAPI ingestion; auditability; role-based access (Keycloak)  
-- Reproducible research and documentation for multidisciplinary teams
+- End-to-end workflows connecting clinical data, registry concepts, pathology, outcomes, and analytic summaries.
+- Data quality practices for completeness, consistency, timeliness, and transparent documentation.
+- Equity-aware surveillance summaries that help identify differences in incidence, survival, access, or follow-through.
+- Training materials that make cancer surveillance concepts teachable to public health learners and professionals.
+
+## Public Health Data Systems
+
+- FHIR/HAPI-informed data integration patterns, validation workflows, and audit-ready documentation.
+- Role-based access, governance, and minimum-necessary data principles for sensitive health information.
+- Reproducible reporting systems that make data easier to verify, explain, and reuse.
+
+## Disaster Epidemiology and Situational Awareness
+
+- Syndromic surveillance concepts, rapid dashboards, threshold monitoring, and field-facing communication.
+- Practical templates that turn complex signals into concise action briefs for incident response.
+- Training approaches for public health professionals who need to interpret uncertain or fast-moving evidence.
+
+## Program Quality and Implementation
+
+- Evidence maps, indicators, and review cycles that help programs understand performance and improve.
+- Stakeholder-ready summaries that connect findings to decisions, ownership, and next steps.
+- Sustainable documentation practices that reduce duplication and preserve institutional memory.

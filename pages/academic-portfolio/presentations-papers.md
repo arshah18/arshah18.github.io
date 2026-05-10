@@ -1,17 +1,27 @@
 ---
 layout: default
-title: Presentations & Papers
+title: Publications & Presentations
 parent: Academic Portfolio
 nav_order: 4
 permalink: /academic-portfolio/presentations-papers/
+description: Selected publications, invited talks, abstracts, posters, and scholarly outputs.
 ---
 
-# Presentations & Papers
+# Publications & Presentations
 
-## Peer-Reviewed Publications
-_Various Contributions/Roles: Author, Co-Author, Data Analyst, Computational Biologist, Lead_
+{: .lead }
+Selected scholarly work across lymphoma, cancer genomics, immunology, computational biology, bioinformatics, and translational research.
+
+For the most current publication list and citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en).
+
+## Scholarly Positioning
+
+My scholarly contributions sit at the intersection of computational biology, cancer genomics, translational analytics, and clinical relevance. This background supports my public health direction by grounding surveillance and epidemiologic questions in strong biological, clinical, and data-quality context.
+
+## Selected Peer-Reviewed Publications
 
 ### 2025
+
 - **Cooperative role of distinctive TP53 and PTEN combined loss in the peripheral T-cell lymphoma-GATA3 molecular subgroup**  
   *Science Advances*
 
@@ -28,47 +38,53 @@ _Various Contributions/Roles: Author, Co-Author, Data Analyst, Computational Bio
   *American Journal of Hematology*
 
 ### 2024
+
 - **The P286R mutation activates cancer-cell-intrinsic immunity and suppresses endometrial tumorigenesis via cGAS-STING**  
   *Cell Death & Disease*
 
-### 2021–2022
+### 2021-2022
+
 - **A multi-approach and multi-scale platform to model CD4+ T cells responding to infections**  
-  *PLOS Computational Biology* 17:e1009209
+  *PLOS Computational Biology*
 
 - **Systems biology identifies drug targets in CD4+ T-cell immune disorders**  
-  *npj Systems Biology and Applications* 7:1–18
+  *npj Systems Biology and Applications*
 
 - **In silico identification of potential inhibitors of the SARS-CoV-2 nucleocapsid via docking-based drug repurposing**  
-  Springer DOI: 10.1007/s44229-022-00004-z
+  Springer
 
-### Earlier Publications
-- **Genome-scale metabolic reconstruction of *Nannochloropsis gaditana***  
-  *Algal Research* (2017)
+### Earlier Work
 
-- **pubmed.mineR: an R package with text-mining algorithms to analyze PubMed abstracts**  
-  *Journal of Biosciences* 40(4):671–682 (2015)
+- **Genome-scale metabolic reconstruction of Nannochloropsis gaditana**
+  *Algal Research*
 
-> *For a full, continuously updated publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en).*
+- **pubmed.mineR: an R package with text-mining algorithms to analyze PubMed abstracts**
+  *Journal of Biosciences*
 
-## Invited Presentations & Talks
+## Invited Presentations and Talks
 
-### 2023
 - **Introduction to the Workshop Platform**  
-  SH-EAHP Workshop (Society for Hematopathology/EAHP), Houston, TX, Nov 10, 2023
+  SH-EAHP Workshop, Houston, Texas, November 2023
 
-- **Unifying clinico-genomics, digital pathology, and computational biology using cBioPortal (enhanced features)**  
-  [SH-EAHP Workshop — Society for Hematopathology/EAHP (invited speaker)](https://www.society-for-hematopathology.org/2023/present-speakers.php), Houston, TX, Nov 2023
+- **Unifying clinico-genomics, digital pathology, and computational biology using cBioPortal**
+  SH-EAHP Workshop, Houston, Texas, November 2023
 
-### 2022
 - **Integrative computational approach to understand metabolic reprogramming in CD4+ T cells**  
-  Lymphoma/Leukemia Molecular Profiling Project, Aug 25, 2022 (virtual)
+  Lymphoma/Leukemia Molecular Profiling Project, virtual, August 2022
 
-### Selected Earlier Presentations
-- **ISMB 2018**, Chicago
-- **Nebraska Plant Science Retreat 2019** — Keynote address
-- Various university seminars and invited talks
+- **Selected earlier talks:** ISMB 2018, Nebraska Plant Science Retreat 2019, university seminars, and invited presentations.
 
-## Abstracts & Posters
+## Abstracts and Posters
 
-### 2024
-- **ASH 2024** — Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities, San Diego, California
+- **ASH 2024:** Genomic characterization of novel PTCL biological subtypes reveals distinctive therapeutic vulnerabilities, San Diego, California.
+
+## Research Contribution Areas
+
+<div class="pill-list">
+  <span class="pill">Lymphoma biology</span>
+  <span class="pill">Cancer genomics</span>
+  <span class="pill">Immunology</span>
+  <span class="pill">Bioinformatics</span>
+  <span class="pill">Translational analytics</span>
+  <span class="pill">Reproducible workflows</span>
+</div>

@@ -1,0 +1,20 @@
+{%- comment -%}
+Override Just the Docs sidebar to place a professional profile card above the
+main navigation.
+{%- endcomment -%}
+
+<header class="side-bar">
+  <div class="site-header">
+    <a href="{{ '/' | relative_url }}" class="site-title lh-tight">{% include title.html %}</a>
+    <button id="menu-button" class="site-button btn-reset" aria-label="Menu" aria-expanded="false">
+      <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+    </button>
+  </div>
+
+  {%- include nav_header_custom.html -%}
+  {% include_cached components/site_nav.html %}
+
+  <div class="d-md-block d-none site-footer">
+    {%- include nav_footer_custom.html -%}
+  </div>
+</header>

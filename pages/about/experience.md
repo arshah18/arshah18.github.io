@@ -4,13 +4,13 @@ title: Experience
 parent: About
 nav_order: 2
 permalink: /about/experience/
-description: Professional roles, academic preparation, technical skills, leadership experience, and selected evidence.
+description: Professional roles, academic preparation, technical skills, leadership experience, and selected evidence for public health leadership and faculty-facing roles.
 ---
 
 # Experience
 
 {: .lead }
-A concise overview of my professional roles, academic preparation, technical skills, leadership work, and selected evidence.
+A concise overview of my preparation for public health leadership, faculty-facing roles, research collaboration, and academic program improvement.
 
 - **Full CV (PDF):** [Download CV]({{ "/assets/rauf-shah-cv.pdf" | relative_url }})
 
@@ -20,7 +20,7 @@ A concise overview of my professional roles, academic preparation, technical ski
 
 I am a health data and bioinformatics professional working across **clinical data coordination, lymphoma research, cancer surveillance, translational analytics, public health practice, and academic quality**. My work emphasizes reliable data, reproducible analysis, clear documentation, and practical evidence that teams can use.
 
-My background combines computational and experimental biology with current public health training in epidemiology. This lets me move between technical analysis, clinical context, program needs, and learner-centered communication.
+My background combines computational and experimental biology with current public health training in epidemiology. The **MPH-Epidemiology is expected in Fall 2026**, and I am intentionally building toward roles that combine leadership, teaching, applied analytics, and public health impact.
 
 ---
 
@@ -53,7 +53,7 @@ My background combines computational and experimental biology with current publi
 
 - **PhD:** Informatics, Computational, and Experimental Biology
 - **MS:** Bioinformatics
-- **MPH-Epidemiology:** in progress, expected 2026
+- **MPH-Epidemiology:** in progress, expected Fall 2026
 
 ---
 
@@ -108,6 +108,6 @@ My background combines computational and experimental biology with current publi
 
 - **Publications and presentations:** [Presentations & Papers]({{ "/academic-portfolio/presentations-papers/" | relative_url }})
 - **Teaching and training:** [Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
-- **Public health work:** [Public Health Focus]({{ "/public-health-focus/" | relative_url }})
+- **Public health work:** [Public Health Leadership & Practice]({{ "/public-health-focus/" | relative_url }})
 - **Featured instructional project:** [Cancer Surveillance Modular Analysis]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})
 - **Research profile:** [Google Scholar](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)

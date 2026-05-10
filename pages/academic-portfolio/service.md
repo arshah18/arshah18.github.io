@@ -4,28 +4,41 @@ title: Service
 parent: Academic Portfolio
 nav_order: 5
 permalink: /academic-portfolio/service/
+description: Academic, professional, mentoring, and public health service contributions.
 ---
 
-# Professional Service
+# Service
 
-## Mentorship & Training
-- **Oncology Fellows**: Guided clinical fellows through complex genomic datasets and survival analysis
-- **Research Staff**: Mentored research coordinators and data analysts in reproducible research practices
-- **Student Interns**: Supervised graduate and undergraduate students in bioinformatics projects
-- **Professional Development**: Provided career guidance and technical skill development
+{: .lead }
+My service work centers on helping people and programs become clearer, more capable, and better supported by evidence.
 
-## Collaborative Partnerships
-- **Registry Liaisons**: Partnered with cancer registry professionals to improve coding standards and data quality
-- **Clinical Teams**: Worked with multidisciplinary clinical teams to bridge computational and clinical perspectives
-- **Research Collaborations**: Engaged in multi-institutional research projects and data sharing initiatives
+## Academic Service
 
-## Workshop Development & Delivery
-- **Reproducible Analytics**: Hands-on workshops covering version control, containerization, and workflow management
-- **FHIR/HAPI Workflows**: Training sessions on healthcare data standards and interoperability
-- **Applied Epidemiology**: Practical workshops linking epidemiological methods to public health practice
-- **Open Science Practices**: Promoting transparent and reproducible research across disciplines
+### College of Public Health Curriculum Committee
+*Elected member, since October 2025*
 
-## Community Engagement
-- **Academic Review**: Peer review for scientific journals in bioinformatics and genomics
-- **Conference Participation**: Active engagement in professional societies and scientific meetings
-- **Knowledge Translation**: Sharing research findings with broader audiences through presentations and workshops
+- Support curriculum review, rubric clarity, and feedback processes.
+- Bring a learner-centered and evidence-informed perspective to academic quality discussions.
+- Contribute practical thinking about workload, documentation, assessment, and continuous improvement.
+
+## Mentorship and Training
+
+- Mentor students, research staff, and early-career collaborators in reproducible research habits, analytic thinking, and technical communication.
+- Help learners connect complex data concepts to public health, clinical, and research contexts.
+- Develop job aids, checklists, and examples that reduce uncertainty and support independent work.
+
+## Collaborative Service
+
+- Partner with clinical, registry, research, and analytic teams to improve shared understanding and data quality.
+- Support multidisciplinary work where public health questions, technical methods, and operational realities must align.
+- Translate findings and assumptions into formats that are usable for stakeholders, trainees, and decision-makers.
+
+## Professional Contributions
+
+- Contribute to scholarly work through bioinformatics analysis, data interpretation, visual summaries, and manuscript support.
+- Participate in professional and academic settings through presentations, workshops, and collaborative research activity.
+- Promote reproducible, transparent, and clearly documented analytic practices.
+
+## Service Philosophy
+
+Good service should leave people more capable than before. My goal is to make standards clearer, workflows more humane, and evidence easier to use.

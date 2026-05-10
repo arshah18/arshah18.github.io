@@ -1,55 +1,55 @@
 ---
 layout: default
 title: MPH Competencies
-parent: Public Health Focus
+parent: Public Health Leadership & Practice
 nav_order: 4
 permalink: /public-health-focus/mph-competencies/
+description: Mapping current work and MPH-Epidemiology preparation to public health competencies.
 ---
 
 # MPH Competencies
 
-> *This portfolio maps my work against MPH-style competencies as a professional benchmark.*
+{: .lead }
+My MPH-Epidemiology is expected in **Fall 2026**. This page maps my current work and development goals to public health competency areas.
 
-## Core Public Health Competencies
+## Data and Evidence
 
-### Data & Analytics
-- **FHIR ingestion pipelines** and health data interoperability
-- **Registry/EHR/pathology integration** for comprehensive cancer surveillance
-- **ctDNA analytical pipelines** and liquid biopsy applications
-- **Interactive dashboards** for public health decision support
-- **Statistical modeling** for survival analysis and health disparities
+- Analyze and interpret health data with attention to definitions, bias, missingness, and uncertainty.
+- Use registry, clinical, and molecular data contexts to support surveillance and population-health questions.
+- Communicate findings through summaries, dashboards, visuals, and stakeholder-ready briefs.
 
-### Leadership & Management
-- **Multi-stakeholder coordination** for registry development and implementation
-- **Data standards development** and quality assurance frameworks
-- **Team leadership** in health data analytics projects
-- **Project management** for complex public health informatics initiatives
+## Epidemiology and Surveillance
 
-### Policy & Program Planning
-- **Surveillance data translation** into policy briefs and recommendations
-- **Program evaluation** methodologies for public health interventions
-- **Stakeholder engagement** strategies for policy implementation
-- **Health equity integration** into program planning and assessment
+- Apply population thinking to cancer surveillance, outcomes, access, and equity questions.
+- Support data quality practices that strengthen timeliness, validity, and interpretability.
+- Translate surveillance concepts into teaching materials and applied public health workflows.
 
-### Communication
-- **Clear documentation** of analytical methods and assumptions
-- **Visual data summaries** for diverse audience types
-- **Stakeholder-tailored reporting** and communication strategies
-- **Scientific manuscript preparation** and presentation skills
+## Program Planning and Evaluation
 
-### Health Equity & Ethics
-- **Routine stratification** by demographic and clinical factors
-- **Disparities analysis** and equity metric development
-- **Ethical data use** frameworks for sensitive health information
-- **Community-engaged approaches** to public health research
+- Connect needs assessment, logic models, indicators, implementation plans, and evaluation questions.
+- Build right-sized evaluation tools that help programs learn and improve.
+- Use evidence maps and feedback loops to support program quality and accountability.
 
-## Competency Artifacts & Evidence
+## Leadership and Management
 
-*Artifacts and project links will be added here as they are approved for public sharing.*
+- Coordinate across clinical, research, academic, registry, and analytic stakeholders.
+- Clarify ownership, timelines, standards, evidence needs, and follow-through.
+- Support sustainable systems that reduce duplication and preserve institutional knowledge.
 
-### Example Artifacts:
-- Cancer surveillance dashboard implementations
-- FHIR/HAPI pipeline documentation
-- Equity analysis methodologies
-- Stakeholder communication templates
-- Peer-reviewed publications
+## Communication
+
+- Write for mixed audiences, including technical teams, faculty, learners, leaders, and collaborators.
+- Translate complex methods into plain-language explanations, limitations, and next steps.
+- Develop teaching materials, rubrics, job aids, and decision-support summaries.
+
+## Ethics, Equity, and Professional Practice
+
+- Use sensitive health data with attention to governance, privacy, minimum necessary use, and accountability.
+- Interpret results with care for equity, representation, and potential misuse.
+- Keep human review and professional judgment central when using analytics, dashboards, or AI-assisted workflows.
+
+## Evidence Pages
+
+- [Experience]({{ "/about/experience/" | relative_url }})
+- [Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
+- [Cancer Surveillance Modular Analysis]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})

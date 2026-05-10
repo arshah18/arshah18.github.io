@@ -1,39 +1,42 @@
 ---
 layout: default
 title: Research Interests
-parent: Public Health Focus
+parent: Public Health Leadership & Practice
 nav_order: 2
 permalink: /public-health-focus/research-interests/
+description: Research interests in lymphoma, liquid biopsy, cancer surveillance, data quality, health equity, and population analytics.
 ---
 
 # Research Interests
 
-## Lymphoma & Liquid Biopsy
-- **Copy-number-anchored panel design** for targeted genomic analysis
-- **Liquid biopsy integration** with registry outcomes and clinical data
-- **Minimal residual disease detection** using ctDNA methodologies
-- **Clinical validation** of novel biomarkers for lymphoma subtypes
+{: .lead }
+Research questions that connect molecular detail, clinical context, registry systems, and public health impact.
 
-## Cancer Surveillance & Epidemiology
-- **Registry pipeline optimization** for timeliness and data quality
-- **Coding standards implementation** (ICD, ICD-O, NAACCR) across systems
-- **Evaluation frameworks** for surveillance system performance
-- **Geospatial analysis** of cancer incidence and access patterns
+## Lymphoma, Genomics, and Liquid Biopsy
 
-## Population Health Analytics
-- **Health disparities research** across demographic and clinical subgroups
-- **Survival trend analysis** with competing risk methodologies
-- **Predictive modeling** for cancer outcomes and healthcare utilization
-- **Dashboard development** for clinical and policy decision support
+- Lymphoma outcomes using integrated clinical, registry, and molecular data.
+- ctDNA and liquid biopsy applications for monitoring, interpretation, and translational research.
+- Copy-number and multi-omics approaches that support biologically meaningful subgroup analysis.
+- Communication of complex genomic findings for clinical, research, and public health audiences.
 
-## Methodological Focus
-- **Multi-omics integration** approaches for clinical translation
-- **Reproducible research** practices in public health analytics
-- **Data linkage methodologies** for EHR, registry, and molecular data
-- **Validation frameworks** for novel analytical pipelines
+## Cancer Surveillance Quality
 
-## Current Research Directions
-1. **Lymphoma outcomes** using integrated clinical-genomic data
-2. **Cancer surveillance timeliness** and quality metrics
-3. **Health equity** in cancer diagnosis and treatment access
-4. **Liquid biopsy** applications in population cancer monitoring
+- Timeliness, completeness, validity, and usability of cancer surveillance data.
+- Registry pipeline improvement and transparent documentation of assumptions and limitations.
+- Methods for comparing, linking, and validating data across clinical, registry, and molecular sources.
+
+## Health Equity and Population Analytics
+
+- Disparities in cancer diagnosis, treatment access, outcomes, and follow-through.
+- Stratified reporting that helps stakeholders see patterns without overclaiming certainty.
+- Geospatial and survival trends where data quality and interpretation are central.
+
+## Methods and Implementation
+
+- Reproducible workflows for public health and translational analytics.
+- Dashboard and reporting systems that make evidence usable for decisions.
+- Training and documentation that help teams sustain analytic quality over time.
+
+## Near-Term Research Direction
+
+I am especially interested in collaborations that combine cancer surveillance, clinical-registry data, epidemiologic methods, equity-aware reporting, and practical translation for public health or academic audiences.

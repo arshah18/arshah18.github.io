@@ -4,62 +4,56 @@ title: "People & Principles"
 parent: Academic Portfolio
 nav_order: 3
 permalink: /academic-portfolio/people-and-principles/
+description: Working principles for leadership, teaching, collaboration, and academic quality.
 ---
 
 # People & Principles
 
 {: .lead }
-How I try to work with people-clear standards, fair process, and practical habits that help teams do their best work.
+The common thread in my work is simple: rigorous systems should still feel usable, fair, and human.
 
----
+## How I Work With People
 
-## People-first Approach
-- Start with listening sessions to understand goals, constraints, and context.
-- Co-design expectations and timelines so ownership is shared and realistic.
-- Communicate early, simply, and often; close loops and document decisions.
+- Start by listening for goals, constraints, risks, and the real workflow.
+- Define success in plain language before asking people to collect evidence or change practice.
+- Close loops with clear notes, owners, timelines, and next steps.
+- Design systems with the people who will actually use them.
 
-## Accessible Learning & Workflows
-- Design materials that are easy to use: plain language, checklists, worked examples.
-- Offer multiple ways to participate (live, asynchronous, written, verbal).
-- Ensure digital materials follow basic accessibility practices (readability, captions/alt text).
+## Principles I Bring to Leadership and Teaching
 
-## Fair Review & Decision-Making
-- Publish criteria in advance; use consistent rubrics and simple scoring guides.
-- Separate fact-finding from judgment; focus feedback on next actions.
-- Track decisions and rationales so similar cases get similar outcomes.
+<div class="evidence-list">
+  <div class="evidence-item">
+    <h3>Clarity Creates Transfer</h3>
+    <p>People learn and perform better when standards, examples, and criteria are visible.</p>
+  </div>
 
-## Representative, Real-World Examples
-- Use cases that reflect different communities, settings, and resource levels.
-- Highlight practical trade-offs and constraints programs actually face.
-- Prefer datasets and scenarios tied to genuine public-health questions.
+  <div class="evidence-item">
+    <h3>Trust Makes Candor Possible</h3>
+    <p>Teams need fair process and respectful feedback to surface gaps before they become failures.</p>
+  </div>
 
-## Team Culture & Mentoring
-- Set norms for constructive critique and respectful debate.
-- Pair early-career contributors with clear, bite-sized responsibilities.
-- Share job aids, templates, and “first drafts to react to” to reduce cognitive load.
+  <div class="evidence-item">
+    <h3>Small Wins Build Momentum</h3>
+    <p>Short cycles, visible improvements, and practical tools keep quality work moving.</p>
+  </div>
 
-## Community Partnership
-- Align projects with articulated community or program priorities.
-- Translate findings into brief, usable summaries with concrete next steps.
-- Be transparent about limits, uncertainty, and data quality.
+  <div class="evidence-item">
+    <h3>Evidence Should Change Decisions</h3>
+    <p>Metrics are most useful when they clarify action, reveal inequity, or improve accountability.</p>
+  </div>
+</div>
 
-## Continuous Improvement & Accountability
-- Define “done” and “success” in plain language before starting.
-- Use short retrospectives: what worked, what didn’t, what we’ll change.
-- Track a few signals (timeliness, completeness, follow-through) and publish them.
+## Applied Commitments
 
----
+- **Accessibility:** materials should be readable, navigable, and usable by people with different levels of preparation.
+- **Equity-aware evidence:** reporting should consider who is represented, who is missing, and how conclusions may affect groups differently.
+- **Responsible technology:** AI and automation should support drafting, review, and organization without replacing human judgment.
+- **Sustainable quality:** improvement systems should reduce confusion, not create paperwork for its own sake.
 
-## What This Looks Like in My Work
-- **Accreditation & Quality**: visible calendars, evidence maps, and right-sized documentation.
-- **Teaching & Training**: short modules with case-based activities and clear rubrics.
-- **Research & Analytics**: reproducible workflows, readable summaries, and decision-ready visuals.
-- **Coordination**: single-page plans with owners, dates, and feedback loops.
+## What This Looks Like
 
----
-
-## Simple Commitments
-- **Clarity → transfer**: if people can’t use it, it isn’t finished.
-- **Trust → candor**: make it safe to surface real constraints and gaps.
-- **Small wins → momentum**: deliver improvements in weeks, not quarters.
-- **Measure what matters**: focus on indicators that change decisions.
+- one-page standards and review maps;
+- rubrics with concrete examples;
+- evidence registries that prevent duplicate requests;
+- training materials with practice tasks and micro-checks;
+- analytic summaries with assumptions, limitations, and next steps.

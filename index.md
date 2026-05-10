@@ -2,109 +2,113 @@
 layout: home
 title: Home
 nav_order: 1
-description: Rauf Shah, MS, PhD, MPH-Epidemiology student and Lead Health Data Coordinator II at UNMC, working across clinical data coordination, cancer surveillance, bioinformatics, and evidence-driven academic quality.
+description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public health leadership, cancer surveillance, clinical data quality, bioinformatics, teaching, and academic program improvement.
 ---
 
-# Rauf Shah, MS, PhD
-
-**Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group (NLSG), University of Nebraska Medical Center**
-{: .lead }
-
-I work at the intersection of **clinical data coordination, cancer surveillance, bioinformatics, public health practice, and academic quality**. My work focuses on turning complex evidence into clear, usable systems for research teams, clinical partners, learners, and programs.
-
-<div class="cta-actions">
-  <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
-  <a class="button secondary" href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-  <a class="button secondary" href="https://www.linkedin.com/in/rauf-s-a4634528/" target="_blank" rel="noopener">LinkedIn</a>
-  <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact</a>
+<div class="profile-hero">
+  <p class="profile-kicker">Public health leadership | Cancer surveillance | Academic quality</p>
+  <h1>Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)</h1>
+  <p class="credential-line">Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group, University of Nebraska Medical Center</p>
+  <p>I help research, clinical, academic, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges computational biology, lymphoma data coordination, cancer surveillance, public health epidemiology, teaching, and program quality.</p>
+  <div class="cta-actions">
+    <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
+    <a class="button secondary" href="https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    <a class="button secondary" href="https://www.linkedin.com/in/rauf-s-a4634528/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="button secondary" href="{{ '/contact/' | relative_url }}">Contact</a>
+  </div>
 </div>
 
----
+<div class="impact-strip">
+  <div class="impact-item">
+    <strong>Public health</strong>
+    <span>Epidemiology, surveillance quality, equity-aware reporting, and translation to practice.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Clinical data</strong>
+    <span>Lymphoma cohort coordination, registry-informed workflows, and evidence-ready summaries.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Academic work</strong>
+    <span>Teaching, curriculum service, rubrics, standards, and program improvement systems.</span>
+  </div>
+</div>
+
+## Target Roles & Collaboration Fit
+
+<p class="section-lede">This site is designed for public health leaders, faculty search committees, collaborators, and stakeholders who want a concise view of my preparation and direction.</p>
+
+<div class="child-pages-grid">
+  <div class="child-page-card">
+    <h3>Public Health Leadership</h3>
+    <p>Program quality, surveillance systems, data governance, practical analytics, and cross-functional coordination.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3>Faculty & Teaching Roles</h3>
+    <p>Applied public health instruction, cancer surveillance education, bioinformatics, data communication, and learner-centered assessment.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3>Research Collaboration</h3>
+    <p>Lymphoma research, cancer genomics, clinical-registry linkage, ctDNA, multi-omics, and reproducible analytic workflows.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3>Academic Program Improvement</h3>
+    <p>Plain-language standards, evidence maps, review processes, curriculum support, and documentation systems that teams can sustain.</p>
+  </div>
+</div>
 
 ## Current Focus
 
-<div class="child-pages-grid">
-  <div class="child-page-card">
-    <h3>Cancer Surveillance & Clinical Data</h3>
-    <p>Coordinating lymphoma cohort data, registry-informed workflows, and evidence-ready summaries that support outcomes, quality, and translational research.</p>
-  </div>
-
-  <div class="child-page-card">
-    <h3>Bioinformatics & Translational Analytics</h3>
-    <p>Applying computational and experimental biology experience to genomics, multi-omics interpretation, reproducible analysis, and decision-ready reporting.</p>
-  </div>
-
-  <div class="child-page-card">
-    <h3>Public Health Practice & Epidemiology</h3>
-    <p>Connecting clinical and registry data to population-level questions, equity-aware reporting, surveillance quality, and practical public health action.</p>
-  </div>
-
-  <div class="child-page-card">
-    <h3>Academic Quality & Teaching</h3>
-    <p>Designing clear standards, teaching materials, rubrics, review processes, and job aids that help programs improve without unnecessary burden.</p>
-  </div>
-</div>
-
----
-
-## At a Glance
-
-- **Current role:** Lead Health Data Coordinator Level II, NLSG, UNMC
-- **Academic preparation:** MS and PhD in bioinformatics/computational biology; MPH-Epidemiology in progress, expected 2026
-- **Service:** Elected member, College of Public Health Curriculum Committee, since October 2025
-- **Core domains:** cancer surveillance, clinical data quality, lymphoma research, genomics, public health analytics, academic quality
-- **Technical toolkit:** Python, R, SQL, JavaScript/Node.js, Docker, reproducible workflows, dashboards, and health-data standards
-
----
+- **Cancer surveillance and clinical data quality:** making registry and cohort data more consistent, useful, and decision-ready.
+- **Epidemiology-informed public health practice:** connecting data quality, population patterns, equity, and timely communication.
+- **Teaching and workforce development:** building public health training materials that are clear, applied, and assessable.
+- **Leadership through systems:** improving standards, workflows, evidence collection, and feedback loops without unnecessary burden.
 
 ## Selected Evidence
 
-<div class="child-pages-grid">
-  <div class="child-page-card">
+<div class="evidence-list">
+  <div class="evidence-item">
     <h3><a href="{{ '/about/experience/' | relative_url }}">Experience</a></h3>
-    <p>Professional roles, academic preparation, skills, leadership, and selected evidence.</p>
+    <p>Current role, prior bioinformatics experience, academic preparation, technical toolkit, leadership, and selected evidence.</p>
   </div>
 
-  <div class="child-page-card">
+  <div class="evidence-item">
     <h3><a href="{{ '/academic-portfolio/presentations-papers/' | relative_url }}">Publications & Presentations</a></h3>
-    <p>Selected peer-reviewed publications, invited talks, abstracts, posters, and scholarly outputs.</p>
+    <p>Peer-reviewed publications and scholarly presentations across lymphoma, genomics, computational biology, and translational research.</p>
   </div>
 
-  <div class="child-page-card">
+  <div class="evidence-item">
     <h3><a href="{{ '/academic-portfolio/teaching-philosophy/' | relative_url }}">Teaching Philosophy</a></h3>
-    <p>Approach to adult learning, applied public health education, assessment, and inclusive instructional design.</p>
+    <p>Evidence-based teaching approach for public health, data-intensive learning, applied assessment, and inclusive classroom design.</p>
   </div>
 
-  <div class="child-page-card">
-    <h3><a href="{{ '/public-health-focus/' | relative_url }}">Public Health Focus</a></h3>
-    <p>Practice and research interests connecting clinical data, epidemiology, surveillance, and community impact.</p>
+  <div class="evidence-item">
+    <h3><a href="{{ '/public-health-focus/' | relative_url }}">Public Health Leadership & Practice</a></h3>
+    <p>Practice and research interests connecting cancer surveillance, epidemiology, informatics, and community impact.</p>
   </div>
 </div>
 
----
+## Featured Project
+
+<div class="modern-callout">
+  <h3>Cancer Surveillance: Modular Instructional Analysis</h3>
+  <p>CSV-backed instructional assets, teaching packet links, and practical materials for learning cancer surveillance fundamentals.</p>
+  <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open Featured Project</a>
+</div>
 
 ## How I Work
 
-- **Make standards usable:** translate complex requirements into plain-language criteria, templates, and review tools.
-- **Build reliable evidence systems:** collect clean data once, document it well, and reuse it across analysis, reporting, and quality work.
-- **Design with people in mind:** create workflows that support faculty, staff, learners, and collaborators instead of adding avoidable burden.
-- **Measure what matters:** focus on indicators that clarify decisions, reveal gaps, and support practical improvement.
-- **Keep humans in the loop:** use responsible technology and AI-assisted workflows only where human judgment, review, and accountability remain central.
+<div class="pill-list">
+  <span class="pill">Plain-language standards</span>
+  <span class="pill">Evidence-ready data</span>
+  <span class="pill">Equity-aware reporting</span>
+  <span class="pill">Reproducible analytics</span>
+  <span class="pill">Learner-centered design</span>
+  <span class="pill">Responsible AI support</span>
+</div>
 
----
+I am most interested in roles and collaborations where technical rigor, public health judgment, teaching, and practical leadership need to work together.
 
-## Featured Project
-
-**Cancer Surveillance: Modular Instructional Analysis**
-
-CSV-backed instructional assets, teaching packet links, and practical materials for learning cancer surveillance fundamentals.
-
-<a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open Featured Project</a>
-
----
-
-## Contact
-
-For collaboration, academic quality work, public health analytics, teaching, speaking, or mentoring inquiries, please start with the contact page.
-
-<a class="button secondary" href="{{ '/contact/' | relative_url }}">Get in Touch</a>
+<a class="button secondary" href="{{ '/contact/' | relative_url }}">Start a Conversation</a>

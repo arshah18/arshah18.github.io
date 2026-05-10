@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Modular Topic/Instructional Analysis — Cancer Surveillance
-parent: CPH 705
+title: Modular Topic/Instructional Analysis - Cancer Surveillance
+parent: CPH 705 - Public Health Teaching and Training
 grand_parent: Academic Portfolio
 nav_order: 2
 permalink: /academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/
@@ -9,11 +9,8 @@ author: Rauf Shah
 ---
 
 # Modular Topic/Instructional Analysis: Cancer Surveillance
-_Author: Rauf Shah, MS, Ph.D._<br>
-_Lead Health Data Coordinator Level II_<br>
-_Division of Oncology and Hematology_<br>
-_University of Nebraska Medical Center, USA_<br>
-_Date: Oct 12, 2025_
+_Author: Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)_<br>
+_Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group, UNMC_
 
 > A structured breakdown for teaching/learning core cancer surveillance concepts and practice.
 
@@ -93,16 +90,16 @@ What learners submit; quick ways to verify understanding.
 
 <div class="download-grid" style="display:grid;gap:12px;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Presentation: <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
+    Presentation: <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/participant-handout-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Participant Handout: Cancer Surveillance
+    Participant Handout: Cancer Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Assessment: Cancer Surveillance
+    Assessment: Cancer Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-answer-key-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    ⬇︎ Assessment Answer Key: Cancer Surveillance
+    Assessment Answer Key: Cancer Surveillance
   </a>
 </div>
 
@@ -125,36 +122,36 @@ What learners submit; quick ways to verify understanding.
 ### PDF Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pdf' | relative_url }}">
-    ⬇︎ Slides (PDF) — Synchronous Session
+    Slides (PDF) - Synchronous Session
   </a>
   <a class="button primary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.pdf' | relative_url }}">
-    ⬇︎ Assessment — Breakout Case (PDF)
+    Assessment - Breakout Case (PDF)
   </a>
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.pdf' | relative_url }}">
-    ⬇︎ Skeleton Notes — Participant (PDF)
+    Skeleton Notes - Participant (PDF)
   </a>
 </div>
 
 ### PPT and DOCX Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-synchronous-session.pptx' | relative_url }}">
-    ⬇︎ Slides (PPTX) — Synchronous Session
+    Slides (PPTX) - Synchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/synchronous-breakout-case-assessment.docx' | relative_url }}">
-    ⬇︎ Assessment — Breakout Case (DOCX)
+    Assessment - Breakout Case (DOCX)
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-skeleton-notes.docx' | relative_url }}">
-    ⬇︎ Skeleton Notes — Participant (DOCX)
+    Skeleton Notes - Participant (DOCX)
   </a>
 </div>
 
 ### Course Outline & Plan (Synchronous Assessment)
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button secondary" href="{{ '/assets/cph705/synchronous-assessment-course-outline-and-plan.docx' | relative_url }}">
-    ⬇︎ Course Outline & Plan (DOCX)
+    Course Outline and Plan (DOCX)
   </a>
   <a class="button primary" href="{{ '/assets/cph705/synchronous-assessment-course-outline-and-plan.pdf' | relative_url }}">
-    ⬇︎ Course Outline & Plan (PDF)
+    Course Outline and Plan (PDF)
   </a>
 </div>
 
@@ -167,16 +164,16 @@ Asynchronous sessions are **self-paced learning modules** that learners complete
 ### PDF Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pdf' | uri_escape | relative_url }}">
-    ⬇︎ Presentation (PDF) — Asynchronous Session
+    Presentation (PDF) - Asynchronous Session
   </a>
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-handout-asynchronous-session.pdf' | uri_escape | relative_url }}">
-    ⬇︎ Participant Handout (PDF) — Asynchronous Session
+    Participant Handout (PDF) - Asynchronous Session
   </a>
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session.pdf' | uri_escape | relative_url }}">
-    ⬇︎ Assessment (PDF) — Asynchronous Session
+    Assessment (PDF) - Asynchronous Session
   </a>
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session-answer-key.pdf' | uri_escape | relative_url }}">
-    ⬇︎ Assessment Answer Key (PDF) — Asynchronous Session
+    Assessment Answer Key (PDF) - Asynchronous Session
   </a>
 </div>
 
@@ -184,23 +181,23 @@ Asynchronous sessions are **self-paced learning modules** that learners complete
 
 <video controls width="100%" preload="metadata" style="border:1px solid #e5e7eb;border-radius:10px;">
   <source src="{{ '/assets/cph705/cancer-surveillance-presentation-asynchronous-session-recording.mp4' | relative_url }}" type="video/mp4">
-  Sorry—your browser can’t play this video.
+  Sorry, your browser cannot play this video.
   <a href="{{ '/assets/cph705/cancer-surveillance-presentation-asynchronous-session-recording.mp4' | relative_url }}">Download the MP4</a>.
 </video>
 
 ### PPTX & DOCX Versions
 <div class="download-grid" style="display:grid;gap:12px;margin-top:.5rem;">
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-Presentation-asynchronous-session.pptx' | uri_escape | relative_url }}">
-    ⬇︎ Slides (PPTX) — Asynchronous Session
+    Slides (PPTX) - Asynchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-handout-asynchronous-session.docx' | uri_escape | relative_url }}">
-    ⬇︎ Participant Handout (DOCX) — Asynchronous Session
+    Participant Handout (DOCX) - Asynchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session.docx' | uri_escape | relative_url }}">
-    ⬇︎ Assessment (DOCX) — Asynchronous Session
+    Assessment (DOCX) - Asynchronous Session
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/cancer-surveillance-assessment-asynchronous-session-answer-key.docx' | uri_escape | relative_url }}">
-    ⬇︎ Assessment Answer Key (DOCX) — Asynchronous Session
+    Assessment Answer Key (DOCX) - Asynchronous Session
   </a>
 </div>
 

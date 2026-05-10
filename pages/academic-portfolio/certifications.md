@@ -2,42 +2,43 @@
 layout: default
 title: Certifications & Microcredentials
 parent: Academic Portfolio
-nav_order: 6
+nav_order: 7
 permalink: /academic-portfolio/certifications/
-description: Selected professional certificates related to analytics, dashboards, and data modeling.
+description: Selected professional certificates related to analytics, dashboards, data modeling, business intelligence, and evidence-driven decision support.
 ---
 
 # Certifications & Microcredentials
 
 {: .lead }
-Focused professional training that supports my work in analytics, dashboards, and evidence-driven decision-making.
+Professional development that strengthens my ability to translate data into decisions for public health, academic quality, and program leadership.
 
-## Google Business Intelligence (University of Nebraska × Coursera × Google)
+## Google Business Intelligence Professional Certificate
 
-- **Professional Certificate: Google Business Intelligence - 2025**  
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/WMZUZFR3N5GH" target="_blank" rel="noopener">
-    View certificate
-  </a>  
-  <small>Program topics: stakeholder requirements, KPI design, dashboards, data modeling, ETL foundations.</small>
+**University of Nebraska x Coursera x Google | 2025**
 
-### Component Courses
-- **Foundations of Business Intelligence - 2025**  
-  <a href="https://www.coursera.org/account/accomplishments/verify/QXIOQBSLG363" target="_blank" rel="noopener">Verify</a>  
-  *BI roles & workflow • KPIs & stakeholder alignment • BI tool landscape*
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/WMZUZFR3N5GH" target="_blank" rel="noopener">View certificate</a>
 
-- **Decisions, Decisions: Dashboards and Reports - 2025**  
-  <a href="https://www.coursera.org/account/accomplishments/verify/APQRC2PR7YLI" target="_blank" rel="noopener">Verify</a>  
-  *Dashboard wireframing • Visual best practices • Audience-tailored reporting*
+Program emphasis:
 
-- **The Path to Insights: Data Models and Pipelines - 2025**  
-  <a href="https://www.coursera.org/account/accomplishments/verify/EQ6RUR5WC43S" target="_blank" rel="noopener">Verify</a>  
-  *Dimensional modeling • Star/snowflake schemas • ETL/ELT basics & data quality checks*
+- stakeholder requirements and decision questions;
+- KPI design and dashboard planning;
+- data modeling and pipeline foundations;
+- audience-centered reporting and communication.
 
----
+## Component Courses
 
-## How this supports my portfolio
-- **Dashboards & Reporting:** clearer KPI definitions and audience-appropriate visuals for program accreditation and research stakeholders.  
-- **Data Modeling:** stronger foundations for registry/EHR integrations and analysis-ready structures.  
-- **Decision Support:** tighter link from evidence → insight → action in quality and accreditation workflows.
+- **Foundations of Business Intelligence**
+  <a href="https://www.coursera.org/account/accomplishments/verify/QXIOQBSLG363" target="_blank" rel="noopener">Verify</a>
 
-*More certificates will be added here as they are completed.*
+- **Decisions, Decisions: Dashboards and Reports**
+  <a href="https://www.coursera.org/account/accomplishments/verify/APQRC2PR7YLI" target="_blank" rel="noopener">Verify</a>
+
+- **The Path to Insights: Data Models and Pipelines**
+  <a href="https://www.coursera.org/account/accomplishments/verify/EQ6RUR5WC43S" target="_blank" rel="noopener">Verify</a>
+
+## Relevance to Target Roles
+
+- **Public health leadership:** clearer dashboards, KPIs, and decision-support summaries.
+- **Faculty and teaching roles:** stronger examples for applied analytics, reporting, and data communication.
+- **Academic quality:** better evidence maps, progress indicators, and reusable reporting structures.
+- **Research collaboration:** stronger alignment between data models, analysis workflows, and stakeholder needs.

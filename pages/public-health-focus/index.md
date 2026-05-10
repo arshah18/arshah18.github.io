@@ -1,57 +1,64 @@
 ---
-title: "Public Health Focus"
+title: "Public Health Leadership & Practice"
 layout: default
 permalink: /public-health-focus/
-nav_order: 3
+nav_order: 4
 has_children: true
-description: Portfolio areas that connect clinical data, epidemiology, and program quality to community impact.
+description: Public health leadership, epidemiology, cancer surveillance, data systems, and translation-to-practice priorities.
 ---
 
-# Public Health Focus
+# Public Health Leadership & Practice
 
 {: .lead }
-Where **clinical/registry data**, **computational methods**, and an **epidemiology lens** come together to improve programs, learning, and community outcomes.
+My public health direction centers on cancer surveillance, epidemiology-informed decision-making, data systems, equity-aware reporting, and practical translation of evidence into action.
+
+I am completing the **MPH-Epidemiology, expected Fall 2026**, and building toward leadership and faculty-facing roles where data quality, public health judgment, teaching, and implementation need to work together.
+
+## Public Health Value Proposition
+
+<div class="impact-strip">
+  <div class="impact-item">
+    <strong>Surveillance</strong>
+    <span>Reliable cancer data, timely reporting, registry workflows, and public health interpretation.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Epidemiology</strong>
+    <span>Population patterns, bias awareness, equity metrics, and decision-oriented analysis.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Leadership</strong>
+    <span>Program quality, stakeholder coordination, teaching, and sustainable evidence systems.</span>
+  </div>
+</div>
+
+## Explore
 
 <div class="child-pages-grid">
-
   <div class="child-page-card">
     <h3><a href="{{ '/public-health-focus/practice-interests/' | relative_url }}">Practice Interests</a></h3>
-    <p>Applied work across cancer surveillance, disaster epidemiology, and data systems/governance.</p>
-    <ul class="card-highlights">
-      <li>Registries ↔ EHR ↔ pathology ↔ genomics</li>
-      <li>Syndromic feeds & incident dashboards</li>
-      <li>FHIR/HAPI pipelines; role-based access</li>
-    </ul>
+    <p>Applied public health work in cancer surveillance, disaster epidemiology, informatics, and governance.</p>
   </div>
 
   <div class="child-page-card">
     <h3><a href="{{ '/public-health-focus/research-interests/' | relative_url }}">Research Interests</a></h3>
-    <p>Questions that translate to measurable outcomes and equity-aware decision support.</p>
-    <ul class="card-highlights">
-      <li>Lymphoma & liquid biopsy (ctDNA)</li>
-      <li>Surveillance timeliness & data quality</li>
-      <li>Disparities, geospatial, survival trends</li>
-    </ul>
+    <p>Lymphoma, liquid biopsy, surveillance quality, health equity, survival trends, and data linkage.</p>
   </div>
 
   <div class="child-page-card">
     <h3><a href="{{ '/public-health-focus/translation-to-practice/' | relative_url }}">Translation to Practice</a></h3>
-    <p>Clear briefs, dashboards, and process maps that move evidence into action.</p>
-    <ul class="card-highlights">
-      <li>Equity-aware reporting</li>
-      <li>Right-sized dashboards</li>
-      <li>Process maps & job aids</li>
-    </ul>
+    <p>Briefs, dashboards, job aids, training, and process maps that make evidence actionable.</p>
   </div>
 
   <div class="child-page-card">
     <h3><a href="{{ '/public-health-focus/mph-competencies/' | relative_url }}">MPH Competencies</a></h3>
-    <p>How current work maps to MPH-style competencies in data, policy, leadership, and equity.</p>
-    <ul class="card-highlights">
-      <li>Data & analytics</li>
-      <li>Policy & program planning</li>
-      <li>Communication & ethics</li>
-    </ul>
+    <p>How current work maps to public health competencies in data, leadership, communication, planning, and ethics.</p>
   </div>
-
 </div>
+
+## Role Fit
+
+- Public health data and surveillance leadership
+- Cancer surveillance and registry-informed analytics
+- Faculty roles in public health, epidemiology, informatics, or bioinformatics
+- Academic program quality, curriculum, and training development
+- Translational research and implementation-focused collaboration

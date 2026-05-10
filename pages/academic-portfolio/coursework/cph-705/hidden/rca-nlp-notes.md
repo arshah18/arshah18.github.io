@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RCA NLP Notes (hidden)
-parent: CPH 705
+parent: CPH 705 - Public Health Teaching and Training
 grand_parent: Academic Portfolio
 nav_exclude: true
 sitemap: false

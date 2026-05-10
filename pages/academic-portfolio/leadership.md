@@ -4,57 +4,59 @@ title: Leadership
 parent: Academic Portfolio
 nav_order: 2
 permalink: /academic-portfolio/leadership/
+description: Leadership approach across public health data systems, academic quality, curriculum service, and cross-functional coordination.
 ---
 
-# Leadership Approach
+# Leadership
 
-## Collaborative Leadership Philosophy
+{: .lead }
+My leadership style is evidence-informed, people-centered, and systems-oriented. I focus on making complex work easier to coordinate, evaluate, teach, and improve.
 
-I believe effective leadership in academic medicine and public health requires balancing technical expertise with emotional intelligence, fostering environments where diverse teams can tackle complex challenges through shared purpose and clear communication.
+## Leadership Positioning
 
-## Key Leadership Principles
+I am preparing for public health leadership and faculty-facing roles where the work requires technical fluency, clear communication, fair process, and practical implementation. My strongest contribution is often translating between groups: analysts, clinicians, faculty, staff, students, registry partners, and program leaders.
 
-### Multi-Stakeholder Coordination
-- Coordinate builds integrating registries, EHR systems, and genomics platforms
-- Bridge communication between clinical, technical, and administrative teams
-- Facilitate consensus on data standards and implementation approaches
+## Leadership Strengths
 
-### Quality & Standards Development
-- Establish and maintain standards for data quality, versioning, and reproducibility
-- Develop governance frameworks that ensure data integrity while enabling innovation
-- Create documentation practices that support team continuity and knowledge transfer
+<div class="evidence-list">
+  <div class="evidence-item">
+    <h3>Data and Evidence Leadership</h3>
+    <p>Build workflows that make data more reliable, documented, reusable, and ready for reporting, teaching, research, or program decisions.</p>
+  </div>
 
-### Strategic Translation
-- Translate complex findings into actionable priorities for programs and clinical partners
-- Align technical initiatives with organizational mission and stakeholder needs
-- Communicate technical capabilities and limitations to diverse audiences
+  <div class="evidence-item">
+    <h3>Academic Quality and Standards</h3>
+    <p>Translate broad requirements into plain-language expectations, rubrics, templates, review calendars, and evidence maps.</p>
+  </div>
 
-### Team Development
-- Guide teams through complex technical and analytical challenges
-- Mentor emerging leaders in public health informatics and data science
-- Foster environments that encourage professional growth and skill development
+  <div class="evidence-item">
+    <h3>Cross-Functional Coordination</h3>
+    <p>Clarify ownership, timelines, assumptions, and feedback loops across clinical, academic, research, and data-focused teams.</p>
+  </div>
 
-## Leadership in Practice
+  <div class="evidence-item">
+    <h3>Teaching and Capacity Building</h3>
+    <p>Create job aids, worked examples, training materials, and reviewer supports that help people apply standards with confidence.</p>
+  </div>
+</div>
 
-### Project Leadership
-- Direct cross-functional teams in developing cancer surveillance systems
-- Lead implementation of FHIR-based data integration pipelines
-- Oversee quality assurance and validation processes for critical health data
+## Current Service
 
-### Strategic Initiatives
-- Contribute to institutional strategies for health data interoperability
-- Advise on technology selection and implementation roadmaps
-- Represent technical perspectives in policy and planning discussions
+### College of Public Health Curriculum Committee
+*Elected member, since October 2025*
 
-### Mentorship & Development
-- Provide career guidance and technical mentorship to junior team members
-- Create opportunities for skill development and professional advancement
-- Foster inclusive team cultures that value diverse backgrounds and perspectives
+- Contribute learner-centered and program-quality perspectives to curriculum review and improvement.
+- Support clearer rubrics, fair workload expectations, and transparent feedback processes.
+- Bring practical experience in documentation, evidence mapping, analytics, and instructional design.
 
----
+## Leadership Principles
 
-## Now serving
-### Curriculum Committee - College of Public Health (Elected Member, Oct 2025-present)
-- **Purpose:** Bring learner and program perspectives to curriculum policy and evaluation  
-- **Focus areas:** course review cadence, rubric clarity, fair workload for faculty/staff, and transparent feedback loops  
-- **What I contribute:** plain-language rubrics, light evidence templates, and short, reusable job aids
+- **Clarity before complexity:** people can act faster when expectations are explicit.
+- **Evidence with context:** metrics need interpretation, limitations, and practical next steps.
+- **Shared ownership:** durable systems need visible roles, timelines, and decision records.
+- **Right-sized process:** quality work should be rigorous without becoming performative.
+- **Psychological safety:** teams surface risk sooner when feedback is specific, fair, and non-punitive.
+
+## Role Fit
+
+This leadership profile is strongest for roles involving public health program management, surveillance systems, academic program quality, curriculum work, applied analytics, faculty collaboration, and data-informed decision support.

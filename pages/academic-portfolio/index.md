@@ -4,81 +4,71 @@ layout: default
 permalink: /academic-portfolio/
 nav_order: 3
 has_children: true
-description: A concise hub for teaching philosophy, leadership & service, coursework, and scholarly outputs.
+description: Teaching, leadership, service, scholarship, coursework, and professional development evidence for public health and academic roles.
 ---
 
 # Academic Portfolio
 
 {: .lead }
-Work that links **rigor** to **usefulness**, from teaching philosophy and coursework to leadership, service, and scholarly outputs.
+Evidence of readiness for public health teaching, academic service, scholarly collaboration, curriculum work, and program-quality leadership.
+
+This section is organized for faculty search committees, public health leaders, program directors, collaborators, and stakeholders who want to see how my work translates into teaching, service, scholarship, and practical academic improvement.
+
+## Portfolio Themes
+
+<div class="impact-strip">
+  <div class="impact-item">
+    <strong>Teaching</strong>
+    <span>Applied, accessible, case-based public health and data-intensive learning.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Scholarship</strong>
+    <span>Bioinformatics, lymphoma, genomics, immunology, and translational research outputs.</span>
+  </div>
+  <div class="impact-item">
+    <strong>Service</strong>
+    <span>Curriculum committee work, mentoring, review practices, and academic quality systems.</span>
+  </div>
+</div>
+
+## Explore the Portfolio
 
 <div class="child-pages-grid">
-
   <div class="child-page-card">
     <h3><a href="{{ '/academic-portfolio/teaching-philosophy/' | relative_url }}">Teaching Philosophy</a></h3>
-    <p>How I design clear, inclusive learning with real-world application and fair assessment.</p>
-    <ul class="card-highlights">
-      <li>Evidence-based design (backward design, UDL)</li>
-      <li>Active & case-based learning</li>
-      <li>Assessment that supports learning</li>
-    </ul>
+    <p>How I teach technical public health topics through clarity, relevance, structured practice, and fair assessment.</p>
   </div>
 
   <div class="child-page-card">
-    <h3><a href="{{ '/academic-portfolio/coursework/' | relative_url }}">Coursework</a></h3>
-    <p>Graduate work with applied outputs and practice-ready artifacts.</p>
-    <ul class="card-highlights">
-      <li>CPH 705: Public Health Teaching & Training</li>
-      <li>Modular Cancer Surveillance analysis</li>
-      <li>Instructional assets & micro-checks</li>
-    </ul>
+    <h3><a href="{{ '/academic-portfolio/presentations-papers/' | relative_url }}">Publications & Presentations</a></h3>
+    <p>Selected scholarly outputs, invited talks, posters, and publication record.</p>
   </div>
 
   <div class="child-page-card">
     <h3><a href="{{ '/academic-portfolio/leadership/' | relative_url }}">Leadership</a></h3>
-    <p>Service, coordination, and process design oriented to clarity and continuous improvement.</p>
-    <ul class="card-highlights">
-      <li>Committee work & facilitation</li>
-      <li>Policy & process simplification</li>
-      <li>Right-sized evidence and feedback</li>
-    </ul>
-  </div>
-
-  <div class="child-page-card">
-    <h3><a href="{{ '/academic-portfolio/people-and-principles/' | relative_url }}">People & Principles</a></h3>
-    <p>The values behind the work-trust, fairness, and co-design with the people doing the work.</p>
-    <ul class="card-highlights">
-      <li>Clarity → transfer</li>
-      <li>Trust → candor</li>
-      <li>Small wins → momentum</li>
-    </ul>
-  </div>
-
-  <div class="child-page-card">
-    <h3><a href="{{ '/academic-portfolio/presentations-papers/' | relative_url }}">Presentations & Papers</a></h3>
-    <p>Selected talks, manuscripts, and artifacts that translate evidence into action.</p>
-    <ul class="card-highlights">
-      <li>Population & clinical analytics</li>
-      <li>Equity-aware reporting</li>
-      <li>Methods & implementation</li>
-    </ul>
+    <p>Coordination, standards, academic quality, data governance, and multi-stakeholder work.</p>
   </div>
 
   <div class="child-page-card">
     <h3><a href="{{ '/academic-portfolio/service/' | relative_url }}">Service</a></h3>
-    <p>Contributions that strengthen programs, learners, and community outcomes.</p>
-    <ul class="card-highlights">
-      <li>Curriculum & accreditation support</li>
-      <li>Reviewer & mentor roles</li>
-      <li>Operational quality efforts</li>
-    </ul>
+    <p>Curriculum, mentorship, professional service, training, and collaborative contributions.</p>
   </div>
 
+  <div class="child-page-card">
+    <h3><a href="{{ '/academic-portfolio/coursework/' | relative_url }}">Coursework & Applied Artifacts</a></h3>
+    <p>Selected MPH and teaching-related coursework that demonstrates applied public health preparation.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3><a href="{{ '/academic-portfolio/certifications/' | relative_url }}">Certifications</a></h3>
+    <p>Professional development in business intelligence, dashboards, data modeling, and decision support.</p>
+  </div>
 </div>
 
----
+## Featured Evidence
 
-### Featured artifact
-- **Cancer Surveillance: Modular Instructional Analysis**  
-  CSV-backed, copy-ready instructional assets for teaching surveillance fundamentals.  
-  → <a href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open the project</a>
+<div class="modern-callout">
+  <h3>Cancer Surveillance Teaching Packet</h3>
+  <p>A modular instructional analysis with CSV-backed tables, teaching materials, assessments, and public health surveillance resources.</p>
+  <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">View Featured Artifact</a>
+</div>

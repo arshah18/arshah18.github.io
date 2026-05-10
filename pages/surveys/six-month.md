@@ -3,6 +3,8 @@ layout: default
 title: Six-Month Follow-Up Survey
 parent: Surveys
 nav_order: 2
+nav_exclude: true
+sitemap: false
 permalink: /surveys/six-month/
 ---
 

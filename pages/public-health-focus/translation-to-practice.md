@@ -1,92 +1,70 @@
 ---
 layout: default
 title: Translation to Practice
-parent: Public Health Focus
+parent: Public Health Leadership & Practice
 nav_order: 3
 permalink: /public-health-focus/translation-to-practice/
+description: Translating public health evidence into dashboards, briefs, teaching materials, process maps, and implementation tools.
 ---
 
 # Translation to Practice
 
-## Implementation Framework
+{: .lead }
+Public health evidence matters most when it changes understanding, decisions, workflows, or outcomes.
 
-### Data Integration & Pipeline Development
-- **FHIR/HAPI workflows** to align EHR, registry, and molecular data
-- **Versioned data transformations** ensuring reproducibility and auditability
-- **Standardized data models** for cross-institutional collaboration
+## Translation Model
 
-### Analytical Infrastructure
-- **Reproducible R/Python pipelines** for quality control, modeling, and reporting
-- **Interactive dashboards** for real-time surveillance and decision support
-- **Validated analytical outputs** with comprehensive documentation
+<div class="evidence-list">
+  <div class="evidence-item">
+    <h3>1. Clarify the Decision</h3>
+    <p>Start with who needs to decide, what they need to know, and what action the evidence should support.</p>
+  </div>
 
-### Stakeholder Engagement & Capacity Building
-- **Co-production approach** with clinicians and registry partners
-- **Transparent documentation** of analytical assumptions and limitations
-- **Iterative feedback cycles** to refine tools and outputs
-- **Training and mentorship** to build analytical capacity across teams
+  <div class="evidence-item">
+    <h3>2. Make Data Trustworthy</h3>
+    <p>Document sources, definitions, assumptions, limitations, quality checks, and update cycles.</p>
+  </div>
 
-## Impact Pathways
+  <div class="evidence-item">
+    <h3>3. Communicate for Use</h3>
+    <p>Translate analysis into concise briefs, dashboards, visuals, talking points, or teaching materials.</p>
+  </div>
 
-### Clinical Impact
-- **Reduced time** from raw data to actionable insights
-- **Enhanced tumor board support** through integrated data visualization
-- **Improved clinical trial matching** and participant identification
+  <div class="evidence-item">
+    <h3>4. Build Follow-Through</h3>
+    <p>Connect findings to ownership, timelines, re-checks, feedback loops, and improvement cycles.</p>
+  </div>
+</div>
 
-### Public Health Impact
-- **Timely surveillance data** for outbreak detection and response
-- **Equity-focused monitoring** to identify and address disparities
-- **Policy-relevant analytics** for resource allocation decisions
-- **Workforce development** through training and capacity building
+## Practical Outputs
 
-### System-level Impact
-- **Standardized data practices** across collaborating institutions
-- **Reproducible research infrastructure** for multi-site studies
-- **Scalable solutions** that can be adapted to different health systems
-- **Knowledge transfer** through documentation and training programs
+- Decision briefs for leaders and stakeholders.
+- Dashboards that focus on a small number of meaningful indicators.
+- Process maps that clarify roles, handoffs, evidence sources, and risk points.
+- Teaching materials that turn surveillance or analytic concepts into practice.
+- Evaluation plans with indicators, data sources, timing, and interpretation notes.
 
-## Capacity Building & Training Translation
+## Translation Areas
 
-### Educational Program Development
-- **Needs-based curriculum design** for public health professionals
-- **Multi-modal training materials** adaptable to different learning contexts
-- **Competency-based skill development** in data analysis and informatics
-- **Evaluation frameworks** to measure training effectiveness and impact
+### Cancer Surveillance
 
-### Technical Skill Transfer
-- **Workshop development** for FHIR/HAPI implementation and data standards
-- **Hands-on training** in cancer surveillance methodologies and tools
-- **Mentorship programs** for students and early-career professionals
-- **Documentation systems** that support ongoing learning and reference
+- Data quality summaries.
+- Equity-aware cancer reporting.
+- Training modules for registry and surveillance fundamentals.
+- Dashboards that connect population metrics to program decisions.
 
-### Sustainable Practice Integration
-- **Training-of-trainer models** to expand capacity beyond direct instruction
-- **Community of practice development** for ongoing peer learning
-- **Resource repositories** with reusable training materials and tools
-- **Continuous improvement cycles** based on learner feedback and outcomes
+### Academic Quality
 
-## Key Translation Projects
+- Evidence maps for accreditation and program review.
+- Rubrics and checklists that make expectations transparent.
+- Reusable templates that reduce duplicated documentation.
 
-### Cancer Surveillance Dashboards
-- Population-level lymphoma cohort monitoring
-- Real-time equity metrics and disparity tracking
-- Interactive survival and outcomes visualization
-- Training modules for dashboard interpretation and use
+### Public Health Preparedness
 
-### Disaster Epidemiology Tools
-- Syndromic surveillance alert systems
-- Situational awareness platforms for emergency response
-- Communication templates for incident management
-- Emergency response training programs
+- Situational awareness briefs.
+- Syndromic or rapid reporting concepts.
+- Communication templates for uncertain evidence and urgent decisions.
 
-### Genomic Integration Frameworks
-- ctDNA analysis pipelines for minimal residual disease
-- Variant interpretation and clinical reporting systems
-- Molecular-pathology data linkage methodologies
-- Genomic data analysis training for public health audiences
+## Success Standard
 
-### Public Health Training Programs
-- Cancer surveillance methodology workshops
-- FHIR/HAPI implementation training
-- Reproducible research practices education
-- Data visualization and communication skills development
+Evidence has been translated well when stakeholders can explain what it means, what its limits are, what action follows, and how progress will be checked.

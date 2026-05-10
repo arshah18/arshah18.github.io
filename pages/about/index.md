@@ -3,39 +3,61 @@ title: About
 nav_order: 2
 has_children: true
 permalink: /about/
-description: Lead Health Data Coordinator II (NLSG, UNMC). Computational & experimental biologist; MPH-Epidemiology in progress. Focused on academic quality, accreditation, and evidence-driven improvement.
+description: Professional profile for Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026, focused on public health leadership, cancer surveillance, data quality, and academic work.
 ---
 
 # About
 
-I am **Rauf Shah**, currently working as a **Lead Health Data Coordinator Level II** with the **Nebraska Lymphoma Study Group (NLSG)** at the **University of Nebraska Medical Center (UNMC), Department of Internal Medicine, Division of Hematology/Oncology**.
+{: .lead }
+I am **Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)**, a health data and bioinformatics professional preparing for leadership and faculty-facing roles in public health, cancer surveillance, epidemiology-informed practice, and academic program improvement.
 
-I work where **healthcare operations, research coordination, and program quality** meet. My aim is simple: help programs show what "good" looks like and keep improving, without burnout.
+I currently serve as **Lead Health Data Coordinator Level II** with the **Nebraska Lymphoma Study Group (NLSG)** at the **University of Nebraska Medical Center**, Department of Internal Medicine, Division of Hematology/Oncology.
 
----
+## Professional Positioning
 
-## Current role and service
-- **Lead Health Data Coordinator Level II**, NLSG, UNMC  
-  *Clinical Data Coordination and Right-sized Analytics to Support Outcomes and Quality.*
-- **Elected Member**, College of Public Health **Curriculum Committee** (Since Oct 2025)
+My work connects four areas that often need to speak more clearly to one another:
 
----
+- **Clinical and registry data:** cohort coordination, data quality, reporting readiness, and documentation.
+- **Computational biology and bioinformatics:** genomics, multi-omics, reproducible analytics, and translational interpretation.
+- **Public health and epidemiology:** surveillance quality, equity-aware analysis, population thinking, and practical communication.
+- **Teaching and academic quality:** curriculum service, instructional design, rubrics, feedback systems, and standards that people can use.
 
-## Preparation
-- **PhD** (Bioinformatics/Computational Biology)
-- **MS** (Bioinformatics)
-- **MPH-Epidemiology** (in progress, Expected 2026)
+## What I Am Building Toward
 
----
+I am positioning my next phase of work around public health leadership and academic roles where I can contribute to:
 
-## Interests in a sentence
-**Academic Quality and Accreditation, Practical Evidence for Decisions, Equity-Aware Reporting, and Learner-Centered Design.**
+- cancer surveillance and population health data systems;
+- public health analytics and evidence translation;
+- graduate and professional teaching in public health, epidemiology, informatics, or bioinformatics;
+- academic quality, accreditation support, and curriculum improvement;
+- collaborative research that connects clinical data, molecular data, and public health relevance.
 
----
+## Current Role and Service
 
-## Explore more
-- **Biography**: Background and Trajectory → [read more]({{ "/about/biography/" | relative_url }})
-- **Experience**: Roles, Capabilities, and Skills → [see experience]({{ "/about/experience/" | relative_url }})
-- **People & Principles**: How I Work → [view page]({{ "/academic-portfolio/people-and-principles/" | relative_url }})
-- **Leadership**: Committees and Coordination → [highlights]({{ "/academic-portfolio/leadership/" | relative_url }})
-- **Contact**: Get in touch → [email me]({{ "/contact/email/" | relative_url }})
+- **Lead Health Data Coordinator Level II**, Nebraska Lymphoma Study Group, UNMC
+- **Elected Member**, College of Public Health Curriculum Committee, since October 2025
+- **MPH-Epidemiology**, expected Fall 2026
+
+## Explore
+
+<div class="child-pages-grid">
+  <div class="child-page-card">
+    <h3><a href="{{ '/about/biography/' | relative_url }}">Biography</a></h3>
+    <p>Career arc from computational and experimental biology to clinical data, public health, and academic quality.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3><a href="{{ '/about/experience/' | relative_url }}">Experience</a></h3>
+    <p>Current appointment, prior research experience, academic preparation, technical toolkit, and leadership evidence.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3><a href="{{ '/academic-portfolio/' | relative_url }}">Academic Portfolio</a></h3>
+    <p>Teaching, leadership, service, coursework, scholarly outputs, and professional development.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3><a href="{{ '/public-health-focus/' | relative_url }}">Public Health Leadership & Practice</a></h3>
+    <p>Research and practice priorities in surveillance, epidemiology, informatics, and translation to action.</p>
+  </div>
+</div>
