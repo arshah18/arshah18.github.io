@@ -1,0 +1,70 @@
+/*
+  Compact sidebar override loaded after the Just the Docs theme CSS.
+  The theme widens the left panel on large screens by adding the outer page
+  gutter to the sidebar width; this keeps the sidebar at a fixed usable width.
+*/
+
+:root {
+  --professional-sidebar-width: 13.75rem;
+}
+
+@media (min-width: 50rem) {
+  body .side-bar {
+    align-items: stretch !important;
+    width: var(--professional-sidebar-width) !important;
+    min-width: var(--professional-sidebar-width) !important;
+    max-width: var(--professional-sidebar-width) !important;
+  }
+
+  body .side-bar + .main {
+    width: calc(100% - var(--professional-sidebar-width)) !important;
+    max-width: none !important;
+    margin-left: var(--professional-sidebar-width) !important;
+  }
+
+  body .main-content-wrap {
+    max-width: 76rem !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    padding-right: clamp(1.25rem, 3vw, 3rem) !important;
+    padding-left: clamp(1.25rem, 3vw, 3rem) !important;
+  }
+
+  body .side-bar .site-header,
+  body .side-bar .site-nav,
+  body .side-bar .site-footer {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  body .side-bar .site-nav {
+    padding-top: .75rem !important;
+  }
+
+  body .side-bar .profile-card {
+    margin: .25rem .65rem .75rem !important;
+    padding: .8rem .7rem .85rem !important;
+  }
+
+  body .side-bar .profile-card .profile-avatar {
+    width: 88px !important;
+    height: 88px !important;
+    margin: .1rem auto .5rem !important;
+  }
+
+  body .side-bar .profile-card .profile-name {
+    font-size: .96rem !important;
+  }
+
+  body .side-bar .profile-card .profile-role,
+  body .side-bar .profile-card .profile-cred {
+    font-size: .78rem !important;
+    line-height: 1.28 !important;
+  }
+}
+
+@media (min-width: 90rem) {
+  body .main-content-wrap {
+    max-width: 82rem !important;
+  }
+}
