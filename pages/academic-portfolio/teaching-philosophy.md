@@ -94,8 +94,8 @@ My featured teaching artifact is a modular cancer surveillance instructional ana
 - **Cancer Surveillance and Public Health Informatics:** registries, coding standards, data quality, reporting, and equity-aware surveillance.
 - **Applied Epidemiology and Data Communication:** turning public health data into clear interpretation and decisions.
 - **Bioinformatics for Public Health and Translational Research:** genomic analysis, reproducibility, interpretation, and communication.
-- **Clinical Data Systems and Interoperability:** FHIR/HAPI concepts, validation, ETL patterns, and documentation.
-- **Reproducible Analytics:** workflows, version control, notebooks, dashboards, and responsible reporting.
+- **Clinical Data Systems:** how health information moves through systems, why quality checks matter, and how to document work clearly.
+- **Reproducible Analytics:** clear workflows, transparent summaries, dashboards, and responsible reporting.
 
 ## Teaching Goal
 

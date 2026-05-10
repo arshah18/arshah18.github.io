@@ -72,7 +72,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 <div class="evidence-list">
   <div class="evidence-item">
     <h3><a href="{{ '/about/experience/' | relative_url }}">Experience</a></h3>
-    <p>Current role, prior bioinformatics experience, academic preparation, technical toolkit, leadership, and selected evidence.</p>
+    <p>Current role, health data and research experience, academic preparation, applied skills, leadership, and selected evidence.</p>
   </div>
 
   <div class="evidence-item">
@@ -95,7 +95,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 
 <div class="modern-callout">
   <h3>AI Public Health Portal</h3>
-  <p>An interactive collaboration navigator, evidence explorer, and AI-ready briefing workflow for public health leadership, faculty roles, research collaboration, industry partnerships, and learners.</p>
+  <p>An interactive collaboration navigator, evidence explorer, and guided briefing workflow for public health leadership, faculty roles, research collaboration, industry partnerships, and learners.</p>
   <a class="button primary" href="{{ '/ai-public-health-portal/' | relative_url }}">Open Portal</a>
 </div>
 
@@ -116,6 +116,6 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   <span class="pill">Responsible AI support</span>
 </div>
 
-I am most interested in roles and collaborations where technical rigor, public health judgment, teaching, and practical leadership need to work together.
+I am most interested in roles and collaborations where strong evidence, public health judgment, teaching, and practical leadership need to work together.
 
 <a class="button secondary" href="{{ '/contact/' | relative_url }}">Start a Conversation</a>

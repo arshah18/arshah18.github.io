@@ -85,13 +85,13 @@ My background combines computational and experimental biology with current publi
 
 ---
 
-## Technical Toolkit
+## Applied Skills
 
-- **Programming & analysis:** Python, R, SQL, JavaScript/Node.js
-- **Reproducibility:** Git/version control, Docker, scripted workflows, notebooks, RMarkdown/Jupyter
-- **Health data & standards:** registry coding concepts, NAACCR, ICD, ICD-O, FHIR/HAPI patterns, validation workflows
-- **Visualization & reporting:** dashboards, publication-quality figures, analytic summaries, stakeholder-ready briefs
-- **Communication:** technical documentation, teaching materials, job aids, rubrics, and self-study/reporting support
+- **Data quality and analysis:** turning complex health and research data into reliable summaries.
+- **Cancer registry and clinical data workflows:** supporting consistency, validation, and evidence readiness.
+- **Visualization and reporting:** dashboards, publication-quality figures, analytic summaries, and stakeholder-ready briefs.
+- **Teaching and communication:** learning materials, job aids, rubrics, and self-study/reporting support.
+- **Collaboration:** connecting research, clinical, academic, and public health teams around practical decisions.
 
 ---
 

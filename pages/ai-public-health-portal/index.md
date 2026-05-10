@@ -4,7 +4,7 @@ layout: default
 permalink: /ai-public-health-portal/
 nav_order: 5
 has_children: true
-description: Interactive AI-ready public health portal for collaboration scoping, evidence navigation, public health leadership, teaching, industry partnerships, and research translation.
+description: Interactive public health portal for collaboration scoping, evidence navigation, leadership, teaching, industry partnerships, and research translation.
 ---
 
 # AI Public Health Portal
@@ -16,12 +16,12 @@ An interactive entry point for public health leaders, faculty search committees,
   <div>
     <p class="profile-kicker">Study | Collaboration | Industry | Public health practice</p>
     <h2>Find the best pathway for a role, project, course, or partnership.</h2>
-    <p>This portal uses structured logic and prompt-ready templates in the browser. It does not send data to a server, store responses, or request sensitive information. A secure backend can be added later for real AI model calls.</p>
+    <p>This portal helps visitors organize an opportunity, find relevant evidence, and draft a clear first message. It is designed for safe professional use and does not ask for private or sensitive information.</p>
   </div>
   <div class="portal-status" aria-label="Portal status">
-    <span>Static-safe now</span>
-    <span>Backend-ready later</span>
-    <span>No PHI/PII collection</span>
+    <span>Guided pathways</span>
+    <span>Human review</span>
+    <span>No private data</span>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ An interactive entry point for public health leaders, faculty search committees,
         <label><input type="checkbox" value="training" data-portal-capability> Training</label>
         <label><input type="checkbox" value="documentation" data-portal-capability> Documentation</label>
         <label><input type="checkbox" value="translation" data-portal-capability checked> Translation</label>
-        <label><input type="checkbox" value="ai-readiness" data-portal-capability> AI readiness</label>
+        <label><input type="checkbox" value="innovation-planning" data-portal-capability> Innovation planning</label>
       </div>
     </fieldset>
 
@@ -135,43 +135,43 @@ An interactive entry point for public health leaders, faculty search committees,
   <div class="portal-evidence-grid" data-evidence-results></div>
 </section>
 
-## AI-Ready Workflows
+## Guided Workflows
 
 <div class="workflow-grid">
   <div class="workflow-item">
     <h3>Public Health Briefing</h3>
     <p>Convert a role, project, or meeting need into a concise public health leadership brief.</p>
-    <button class="portal-prompt" type="button" data-prompt="briefing">Copy prompt</button>
+    <button class="portal-prompt" type="button" data-prompt="briefing">Copy starter text</button>
   </div>
   <div class="workflow-item">
     <h3>Course Design Studio</h3>
     <p>Turn a competency, audience, and public health topic into learning objectives and assessment ideas.</p>
-    <button class="portal-prompt" type="button" data-prompt="course">Copy prompt</button>
+    <button class="portal-prompt" type="button" data-prompt="course">Copy starter text</button>
   </div>
   <div class="workflow-item">
     <h3>Collaboration Triage</h3>
     <p>Translate a loose opportunity into scope, stakeholders, deliverables, risks, and first questions.</p>
-    <button class="portal-prompt" type="button" data-prompt="triage">Copy prompt</button>
+    <button class="portal-prompt" type="button" data-prompt="triage">Copy starter text</button>
   </div>
 </div>
 
-## Build Roadmap
+## Future Direction
 
 <div class="roadmap-grid">
   <div class="roadmap-item">
     <strong>Now</strong>
-    <span>Static interactive portal, evidence explorer, collaboration brief builder, prompt-ready workflows.</span>
+    <span>A guided portal that helps visitors understand fit, review evidence, and prepare a clear first message.</span>
   </div>
   <div class="roadmap-item">
     <strong>Next</strong>
-    <span>React island for richer state, analytics-free usage signals, downloadable collaboration packets, enhanced CV evidence cards.</span>
+    <span>More polished role-specific pathways, downloadable collaboration packets, and clearer evidence summaries.</span>
   </div>
   <div class="roadmap-item">
-    <strong>Backend</strong>
-    <span>Secure Python/FastAPI or serverless AI layer with API keys kept off the client, rate limits, logging, and safe-use guardrails.</span>
+    <strong>Later</strong>
+    <span>Optional AI-assisted features that remain transparent, human-reviewed, and safe for professional public health use.</span>
   </div>
 </div>
 
-<p><a class="button secondary" href="{{ '/ai-public-health-portal/secure-ai-architecture/' | relative_url }}">View Secure AI Architecture</a></p>
+<p><a class="button secondary" href="{{ '/ai-public-health-portal/responsible-ai-use/' | relative_url }}">Responsible AI Use</a></p>
 
-<script src="{{ '/assets/js/portal.js' | relative_url }}?v=20260510-1" defer></script>
+<script src="{{ '/assets/js/portal.js' | relative_url }}?v=20260510-2" defer></script>

@@ -48,7 +48,7 @@
     "industry-partnership": {
       title: "Industry and analytics partnership pathway",
       score: "Strong applied analytics fit",
-      summary: "Best fit for data quality, clinical analytics translation, AI readiness, reporting workflows, and public health-facing strategy.",
+      summary: "Best fit for data quality, clinical analytics translation, innovation planning, reporting workflows, and public health-facing strategy.",
       steps: [
         "Define the workflow pain point, data maturity level, and users affected.",
         "Identify whether the need is analytics, governance, training, or translation.",
@@ -98,14 +98,14 @@
     training: "training",
     documentation: "documentation",
     translation: "translation",
-    "ai-readiness": "AI readiness",
+    "innovation-planning": "innovation planning",
   };
 
   const evidenceItems = [
     {
       title: "Experience",
       url: "/about/experience/",
-      description: "Current role, data coordination, bioinformatics background, leadership evidence, and technical toolkit.",
+      description: "Current role, data coordination, bioinformatics background, leadership evidence, and applied skills.",
       tags: ["leadership", "practice", "research"],
     },
     {

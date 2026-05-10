@@ -48,7 +48,7 @@ I am positioning my next phase of work around public health leadership and acade
 
   <div class="child-page-card">
     <h3><a href="{{ '/about/experience/' | relative_url }}">Experience</a></h3>
-    <p>Current appointment, prior research experience, academic preparation, technical toolkit, and leadership evidence.</p>
+    <p>Current appointment, prior research experience, academic preparation, applied skills, and leadership evidence.</p>
   </div>
 
   <div class="child-page-card">

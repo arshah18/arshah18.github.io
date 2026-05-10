@@ -21,7 +21,7 @@ Applied public health work that connects data systems, surveillance quality, epi
 
 ## Public Health Data Systems
 
-- FHIR/HAPI-informed data integration patterns, validation workflows, and audit-ready documentation.
+- Health data integration, quality checks, and clear documentation that support trustworthy reporting.
 - Role-based access, governance, and minimum-necessary data principles for sensitive health information.
 - Reproducible reporting systems that make data easier to verify, explain, and reuse.
 
