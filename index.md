@@ -8,7 +8,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 <div class="profile-hero">
   <p class="profile-kicker">Public health leadership | Epidemiology | Academic quality</p>
   <h1>Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)</h1>
-  <p class="credential-line">University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology</p>
+  <p class="credential-line">Lead Health Data Coordinator Level II, University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology</p>
   <p>I help clinical, academic, research, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges health data quality, epidemiology, infectious disease and chronic disease surveillance, teaching, and program quality.</p>
   <div class="cta-actions">
     <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>

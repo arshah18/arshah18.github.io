@@ -26,7 +26,7 @@ My background combines scientific research with current public health training i
 
 ## Current Appointment
 
-### Health Data and Research Coordination
+### Lead Health Data Coordinator Level II
 *Department of Internal Medicine, Division of Hematology and Oncology, University of Nebraska Medical Center | 2024-present*
 
 - Coordinate clinical research data and support evidence-ready summaries for outcomes, quality, and research use.

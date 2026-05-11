@@ -11,7 +11,7 @@ description: Professional profile for Rauf Shah, MS, PhD, MPH-Epidemiology expec
 {: .lead }
 I am **Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)**, a health data and public health professional preparing for leadership and faculty-facing roles in epidemiology, surveillance, infectious disease, chronic disease, health data quality, and academic program improvement.
 
-I currently work at the **University of Nebraska Medical Center**, **Department of Internal Medicine, Division of Hematology and Oncology**, where my work supports clinical research, health data quality, and evidence-ready reporting.
+I currently serve as **Lead Health Data Coordinator Level II** at the **University of Nebraska Medical Center**, **Department of Internal Medicine, Division of Hematology and Oncology**, where my work supports clinical research, health data quality, and evidence-ready reporting.
 
 ## Professional Positioning
 
@@ -34,7 +34,7 @@ I am positioning my next phase of work around public health leadership and acade
 
 ## Current Role and Service
 
-- **University of Nebraska Medical Center**, Department of Internal Medicine, Division of Hematology and Oncology
+- **Lead Health Data Coordinator Level II**, University of Nebraska Medical Center, Department of Internal Medicine, Division of Hematology and Oncology
 - **Elected Member**, College of Public Health Curriculum Committee, since October 2025
 - **MPH-Epidemiology**, expected Fall 2026
 

@@ -10,7 +10,7 @@ author: Rauf Shah
 
 # Applied Surveillance Teaching Artifact
 _Author: Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)_<br>
-_University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology_
+_Lead Health Data Coordinator Level II, University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology_
 
 > A structured breakdown for teaching core surveillance concepts and practice.
 
