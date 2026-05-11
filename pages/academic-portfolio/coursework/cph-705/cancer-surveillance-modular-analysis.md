@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modular Topic/Instructional Analysis - Cancer Surveillance
+title: Applied Surveillance Teaching Artifact
 parent: CPH 705 - Public Health Teaching and Training
 grand_parent: Academic Portfolio
 nav_order: 2
@@ -8,11 +8,11 @@ permalink: /academic-portfolio/coursework/cph-705/cancer-surveillance-modular-an
 author: Rauf Shah
 ---
 
-# Modular Topic/Instructional Analysis: Cancer Surveillance
+# Applied Surveillance Teaching Artifact
 _Author: Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)_<br>
-_Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group, UNMC_
+_University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology_
 
-> A structured breakdown for teaching/learning core cancer surveillance concepts and practice.
+> A structured breakdown for teaching core surveillance concepts and practice.
 
 ---
 
@@ -90,16 +90,16 @@ What learners submit; quick ways to verify understanding.
 
 <div class="download-grid" style="display:grid;gap:12px;">
   <a class="button primary" href="{{ '/assets/cph705/cancer-surveillance-presentation.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Presentation: <span style="font-weight:600">Cancer Surveillance: From Data to Public Health Action</span>
+    Presentation: <span style="font-weight:600">Surveillance: From Data to Public Health Action</span>
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/participant-handout-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Participant Handout: Cancer Surveillance
+    Participant Handout: Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Assessment: Cancer Surveillance
+    Assessment: Surveillance
   </a>
   <a class="button secondary" href="{{ '/assets/cph705/assessment-answer-key-cancer-surveillance.pdf' | relative_url }}" target="_blank" rel="noopener">
-    Assessment Answer Key: Cancer Surveillance
+    Assessment Answer Key: Surveillance
   </a>
 </div>
 
@@ -213,5 +213,5 @@ Asynchronous sessions are **self-paced learning modules** that learners complete
 
 ---
 ### Notes
-_- All tables are backed by CSV in `_data/cph705/…` to keep maintenance simple without editing this page._  
+_- The teaching tables are maintained from reusable course data files to keep updates simple._
 _- For additional assignments, add pages with `nav_exclude: true` (and optionally `sitemap: false`) to keep the sidebar tidy._

@@ -4,7 +4,7 @@ title: Biography
 parent: About
 nav_order: 1
 permalink: /about/biography/
-description: Career biography connecting computational biology, clinical data, public health, teaching, and academic quality.
+description: Career biography connecting scientific research, clinical data, public health, teaching, and academic quality.
 ---
 
 # Biography
@@ -14,17 +14,17 @@ My career has moved from the biology of complex systems to the public health sys
 
 ## From Cells to Systems
 
-I began my academic and professional path in **bioinformatics, computational biology, and experimental biology**, with graduate training at the MS and PhD levels. That foundation gave me a durable way to think about data, uncertainty, biological mechanisms, reproducibility, and translational relevance.
+I began my academic and professional path in scientific research and health data, with graduate training at the MS and PhD levels. That foundation gave me a durable way to think about data, uncertainty, biological mechanisms, reproducibility, and practical relevance.
 
-Over time, I became increasingly interested in the work that happens between technical analysis and real-world decisions: how teams define standards, trust data, communicate evidence, teach complex concepts, and improve programs without overwhelming the people doing the work.
+Over time, I became increasingly interested in the work that happens between specialized analysis and real-world decisions: how teams define standards, trust data, communicate evidence, teach complex concepts, and improve programs without overwhelming the people doing the work.
 
-## Clinical Data and Lymphoma Research
+## Clinical Data and Public Health Translation
 
-At the **Nebraska Lymphoma Study Group (NLSG)** at **UNMC**, I support lymphoma cohort data coordination and evidence-ready summaries for research, quality, and outcomes-focused work. This role has strengthened my interest in cancer surveillance, clinical-registry data quality, and the practical infrastructure needed for reliable public health and translational analysis.
+At **UNMC**, within the **Department of Internal Medicine, Division of Hematology and Oncology**, my work supports clinical research data quality, evidence-ready summaries, and reliable reporting. This role has strengthened my interest in surveillance, epidemiology, data quality, and the practical infrastructure needed for public health translation.
 
 ## Public Health Direction
 
-I am pursuing the **MPH-Epidemiology**, expected **Fall 2026**, to formalize and extend the population-health dimension of my work. My goal is to connect clinical data, registry systems, epidemiologic thinking, and public health communication in ways that support better decisions and more equitable outcomes.
+I am pursuing the **MPH-Epidemiology**, expected **Fall 2026**, to formalize and extend the population-health dimension of my work. My goal is to connect clinical data, surveillance systems, epidemiologic thinking, infectious disease and chronic disease priorities, and public health communication in ways that support better decisions and more equitable outcomes.
 
 ## Teaching, Leadership, and Academic Quality
 
@@ -34,7 +34,7 @@ I also see teaching and academic program improvement as public health work. Clea
 
 The through-line in my work is translation:
 
-- technical evidence into decisions;
+- specialized evidence into decisions;
 - data quality into trust;
 - complex methods into teachable concepts;
 - standards into usable workflows;
@@ -42,7 +42,7 @@ The through-line in my work is translation:
 
 ## Next Chapter
 
-I am building toward leadership and faculty-facing roles where I can contribute across public health practice, epidemiology, cancer surveillance, informatics, bioinformatics, teaching, and academic quality.
+I am building toward leadership and faculty-facing roles where I can contribute across public health practice, epidemiology, infectious disease, chronic disease, surveillance, health data quality, teaching, and academic quality.
 
 ## Related Pages
 

@@ -4,7 +4,7 @@ title: Practice Interests
 parent: Public Health Leadership & Practice
 nav_order: 1
 permalink: /public-health-focus/practice-interests/
-description: Applied public health practice interests in cancer surveillance, disaster epidemiology, informatics, and governance.
+description: Applied public health practice interests in infectious disease, chronic disease, surveillance, preparedness, data quality, and governance.
 ---
 
 # Practice Interests
@@ -12,12 +12,19 @@ description: Applied public health practice interests in cancer surveillance, di
 {: .lead }
 Applied public health work that connects data systems, surveillance quality, epidemiology, and practical decision support.
 
-## Cancer Surveillance and Registry-Informed Practice
+## Infectious Disease and Preparedness
+
+- Practical surveillance and communication for outbreaks, emerging infections, and fast-moving public health events.
+- Clear summaries that help leaders understand what is known, what is uncertain, and what action may be needed.
+- Training and planning materials for teams that need to interpret changing evidence quickly.
+- Coordination between public health programs, clinical partners, academic teams, and community stakeholders.
+
+## Chronic Disease, Cancer, and Registry-Informed Practice
 
 - End-to-end workflows connecting clinical data, registry concepts, pathology, outcomes, and analytic summaries.
 - Data quality practices for completeness, consistency, timeliness, and transparent documentation.
-- Equity-aware surveillance summaries that help identify differences in incidence, survival, access, or follow-through.
-- Training materials that make cancer surveillance concepts teachable to public health learners and professionals.
+- Equity-aware surveillance summaries that help identify differences in burden, access, outcomes, or follow-through.
+- Training materials that make surveillance concepts teachable to public health learners and professionals.
 
 ## Public Health Data Systems
 
@@ -25,10 +32,10 @@ Applied public health work that connects data systems, surveillance quality, epi
 - Role-based access, governance, and minimum-necessary data principles for sensitive health information.
 - Reproducible reporting systems that make data easier to verify, explain, and reuse.
 
-## Disaster Epidemiology and Situational Awareness
+## Preparedness and Situational Awareness
 
-- Syndromic surveillance concepts, rapid dashboards, threshold monitoring, and field-facing communication.
-- Practical templates that turn complex signals into concise action briefs for incident response.
+- Rapid summaries, dashboards, threshold monitoring, and field-facing communication.
+- Practical templates that turn changing signals into concise action briefs for response.
 - Training approaches for public health professionals who need to interpret uncertain or fast-moving evidence.
 
 ## Program Quality and Implementation

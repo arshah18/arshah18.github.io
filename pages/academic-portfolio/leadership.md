@@ -14,7 +14,7 @@ My leadership style is evidence-informed, people-centered, and systems-oriented.
 
 ## Leadership Positioning
 
-I am preparing for public health leadership and faculty-facing roles where the work requires technical fluency, clear communication, fair process, and practical implementation. My strongest contribution is often translating between groups: analysts, clinicians, faculty, staff, students, registry partners, and program leaders.
+I am preparing for public health leadership and faculty-facing roles where the work requires analytic fluency, clear communication, fair process, and practical implementation. My strongest contribution is often translating between groups: analysts, clinicians, faculty, staff, students, public health partners, and program leaders.
 
 ## Leadership Strengths
 

@@ -4,7 +4,7 @@ title: Experience
 parent: About
 nav_order: 2
 permalink: /about/experience/
-description: Professional roles, academic preparation, technical skills, leadership experience, and selected evidence for public health leadership and faculty-facing roles.
+description: Professional roles, academic preparation, applied skills, leadership experience, and selected evidence for public health leadership and faculty-facing roles.
 ---
 
 # Experience
@@ -18,34 +18,34 @@ A concise overview of my preparation for public health leadership, faculty-facin
 
 ## Professional Profile
 
-I am a health data and bioinformatics professional working across **clinical data coordination, lymphoma research, cancer surveillance, translational analytics, public health practice, and academic quality**. My work emphasizes reliable data, reproducible analysis, clear documentation, and practical evidence that teams can use.
+I am a health data and public health professional working across **clinical data coordination, surveillance, epidemiology, public health practice, research collaboration, and academic quality**. My work emphasizes reliable data, clear documentation, practical analysis, and evidence that teams can use.
 
-My background combines computational and experimental biology with current public health training in epidemiology. The **MPH-Epidemiology is expected in Fall 2026**, and I am intentionally building toward roles that combine leadership, teaching, applied analytics, and public health impact.
+My background combines scientific research with current public health training in epidemiology. The **MPH-Epidemiology is expected in Fall 2026**, and I am intentionally building toward roles that combine leadership, teaching, applied analysis, and public health impact.
 
 ---
 
 ## Current Appointment
 
-### Lead Health Data Coordinator Level II
-*Nebraska Lymphoma Study Group (NLSG), Department of Internal Medicine, Division of Hematology/Oncology, University of Nebraska Medical Center | 2024-present*
+### Health Data and Research Coordination
+*Department of Internal Medicine, Division of Hematology and Oncology, University of Nebraska Medical Center | 2024-present*
 
-- Coordinate lymphoma cohort data and support evidence-ready summaries for outcomes, quality, and research use.
+- Coordinate clinical research data and support evidence-ready summaries for outcomes, quality, and research use.
 - Maintain documentation and workflows that improve data consistency, transparency, and continuity across teams.
-- Support registry-informed data quality practices, cohort tracking, and practical analytics for clinical and research partners.
+- Support data quality practices, cohort tracking, and practical summaries for clinical and research partners.
 - Translate complex data questions into clear summaries, action items, and follow-through processes.
-- Collaborate across clinical, research, registry, and analytic contexts to support reliable evidence generation.
+- Collaborate across clinical, research, and analytic contexts to support reliable evidence generation.
 
 ---
 
-## Prior Research & Bioinformatics Experience
+## Prior Research Experience
 
-### Computational and Experimental Biologist
-*Cancer genomics, immunology, and translational research | prior roles*
+### Scientific Research and Data Analysis
+*Translational research and health data analysis | prior roles*
 
-- Conducted genomic and multi-omics analyses, including ChIP-seq, whole-exome sequencing, low-pass whole-genome sequencing, ctDNA, and related workflows.
-- Built reproducible analysis pipelines and contributed to publication-quality figures, reports, and dashboards.
-- Supported translational research projects linking molecular data, clinical context, and biological interpretation.
-- Worked across computational, laboratory, and clinical-facing teams to turn complex findings into usable research outputs.
+- Conducted advanced data analysis for collaborative research projects.
+- Built reproducible analysis workflows and contributed to publication-quality figures, reports, and dashboards.
+- Supported research projects linking data, clinical context, and biological interpretation.
+- Worked across data, laboratory, and clinical-facing teams to turn complex findings into usable research outputs.
 
 ---
 
@@ -59,23 +59,23 @@ My background combines computational and experimental biology with current publi
 
 ## Core Capabilities
 
-### Health Data, Registry & Surveillance
+### Health Data, Surveillance & Reporting
 
-- Cancer registry concepts, cohort data coordination, data validation, and quality review.
-- Familiarity with NAACCR, ICD, ICD-O, and cancer surveillance workflows.
-- Practical reporting for clinical, research, and program-quality audiences.
+- Cohort data coordination, data validation, and quality review.
+- Surveillance thinking across infectious disease, chronic disease, cancer, and program-quality contexts.
+- Practical reporting for clinical, research, public health, and program-quality audiences.
 
-### Bioinformatics & Analytics
+### Analysis & Evidence Translation
 
-- Genomic and multi-omics analysis with reproducible methods.
+- Reproducible analysis for research, quality, and public health questions.
 - Survival, cohort, and translational data summaries for research and program use.
 - Dashboard and reporting workflows for decision support.
 
 ### Academic Quality & Teaching
 
 - Plain-language standards, rubrics, evidence maps, checklists, and reviewer supports.
-- Needs-based instructional design for public health and technical training.
-- Teaching materials that connect technical concepts to applied public health and clinical contexts.
+- Needs-based instructional design for public health training.
+- Teaching materials that connect complex concepts to applied public health and clinical contexts.
 
 ### Coordination & Leadership
 
@@ -88,7 +88,7 @@ My background combines computational and experimental biology with current publi
 ## Applied Skills
 
 - **Data quality and analysis:** turning complex health and research data into reliable summaries.
-- **Cancer registry and clinical data workflows:** supporting consistency, validation, and evidence readiness.
+- **Surveillance and clinical data workflows:** supporting consistency, validation, and evidence readiness.
 - **Visualization and reporting:** dashboards, publication-quality figures, analytic summaries, and stakeholder-ready briefs.
 - **Teaching and communication:** learning materials, job aids, rubrics, and self-study/reporting support.
 - **Collaboration:** connecting research, clinical, academic, and public health teams around practical decisions.
@@ -100,7 +100,7 @@ My background combines computational and experimental biology with current publi
 - **Elected Member, College of Public Health Curriculum Committee** since October 2025.
 - Contribute learner-centered and evidence-informed perspectives to curriculum review, rubric clarity, and feedback loops.
 - Support quality-oriented processes that are transparent, right-sized, and usable by the people doing the work.
-- Mentor students, research staff, and collaborators in reproducible research habits, technical analysis, and practical communication.
+- Mentor students, research staff, and collaborators in reproducible work habits, applied analysis, and practical communication.
 
 ---
 
@@ -109,5 +109,5 @@ My background combines computational and experimental biology with current publi
 - **Publications and presentations:** [Presentations & Papers]({{ "/academic-portfolio/presentations-papers/" | relative_url }})
 - **Teaching and training:** [Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
 - **Public health work:** [Public Health Leadership & Practice]({{ "/public-health-focus/" | relative_url }})
-- **Featured instructional project:** [Cancer Surveillance Modular Analysis]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})
+- **Featured instructional project:** [Applied Surveillance Teaching Artifact]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})
 - **Research profile:** [Google Scholar](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en)

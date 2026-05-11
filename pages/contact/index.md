@@ -38,7 +38,8 @@ Use the form below for public health leadership, faculty, research, teaching, an
         <option value="">Select a topic</option>
         <option>Public health leadership or advisory work</option>
         <option>Faculty, teaching, or training opportunity</option>
-        <option>Cancer surveillance or epidemiology collaboration</option>
+        <option>Infectious disease or preparedness collaboration</option>
+        <option>Chronic disease, cancer, or surveillance collaboration</option>
         <option>Grant, proposal, or project development</option>
         <option>Data quality, dashboard, or reporting support</option>
         <option>Speaking, mentoring, or professional networking</option>
@@ -84,8 +85,8 @@ Use the form below for public health leadership, faculty, research, teaching, an
 
 - Public health leadership or program-quality roles.
 - Faculty, teaching, training, or curriculum opportunities.
-- Cancer surveillance, registry-informed analytics, and epidemiology collaboration.
-- Bioinformatics, lymphoma, ctDNA, genomics, and translational research collaboration.
+- Infectious disease, preparedness, chronic disease, cancer, surveillance, and epidemiology collaboration.
+- Clinical research, health data quality, evidence translation, and public health project development.
 - Academic quality, evidence maps, rubrics, dashboards, and decision-support systems.
 
 ## Important Note

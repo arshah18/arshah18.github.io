@@ -51,9 +51,10 @@ A practical workspace for shaping a role, project, course, grant idea, or partne
     <div class="portal-field">
       <label for="portal-topic">Main topic</label>
       <select id="portal-topic" data-portal-topic>
-        <option value="cancer-surveillance">Cancer surveillance and registry quality</option>
+        <option value="surveillance-quality">Surveillance and health data quality</option>
+        <option value="infectious-disease">Infectious disease and preparedness</option>
         <option value="epidemiology">Epidemiology and population health</option>
-        <option value="bioinformatics">Bioinformatics and translational analytics</option>
+        <option value="clinical-research">Clinical research and evidence translation</option>
         <option value="teaching">Teaching, curriculum, and workforce training</option>
         <option value="grants-projects">Grant and project development</option>
         <option value="data-systems">Data systems, governance, and reporting</option>
@@ -68,7 +69,7 @@ A practical workspace for shaping a role, project, course, grant idea, or partne
         <label><input type="checkbox" value="training" data-portal-capability> Training</label>
         <label><input type="checkbox" value="documentation" data-portal-capability> Documentation</label>
         <label><input type="checkbox" value="translation" data-portal-capability checked> Translation</label>
-        <label><input type="checkbox" value="innovation-planning" data-portal-capability> Innovation planning</label>
+        <label><input type="checkbox" value="innovation-planning" data-portal-capability> Project planning</label>
       </div>
     </fieldset>
 
@@ -85,7 +86,7 @@ A practical workspace for shaping a role, project, course, grant idea, or partne
 
     <div class="portal-field">
       <label for="portal-context">Optional context</label>
-      <textarea id="portal-context" data-portal-context rows="5" placeholder="Example: We are exploring a faculty role, public health analytics collaboration, cancer surveillance training module, or data quality improvement project."></textarea>
+      <textarea id="portal-context" data-portal-context rows="5" placeholder="Example: We are exploring a faculty role, infectious disease project, chronic disease brief, surveillance training module, or data quality improvement effort."></textarea>
     </div>
 
     <div class="portal-actions">
@@ -124,7 +125,7 @@ A practical workspace for shaping a role, project, course, grant idea, or partne
 <section class="portal-evidence" data-evidence-app>
   <div class="portal-search-row">
     <label class="sr-only" for="portal-evidence-search">Search evidence</label>
-    <input id="portal-evidence-search" type="search" data-evidence-search placeholder="Search teaching, cancer surveillance, leadership, publications, data quality...">
+    <input id="portal-evidence-search" type="search" data-evidence-search placeholder="Search teaching, infectious disease, surveillance, leadership, publications, data quality...">
     <div class="portal-filter-group" aria-label="Evidence filters">
       <button type="button" class="portal-filter is-active" data-evidence-filter="all">All</button>
       <button type="button" class="portal-filter" data-evidence-filter="leadership">Leadership</button>

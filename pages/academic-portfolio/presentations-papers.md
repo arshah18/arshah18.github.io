@@ -10,13 +10,13 @@ description: Selected publications, invited talks, abstracts, posters, and schol
 # Publications & Presentations
 
 {: .lead }
-Selected scholarly work across lymphoma, cancer genomics, immunology, computational biology, bioinformatics, and translational research.
+Selected scholarly work across clinical research, immune biology, health data science, and translational research.
 
 For the most current publication list and citation record, see my [Google Scholar profile](https://scholar.google.com/citations?user=Aje0C8AAAAAJ&hl=en).
 
 ## Scholarly Positioning
 
-My scholarly contributions sit at the intersection of computational biology, cancer genomics, translational analytics, and clinical relevance. This background supports my public health direction by grounding surveillance and epidemiologic questions in strong biological, clinical, and data-quality context.
+My scholarly contributions show experience with complex research questions, collaborative analysis, and clinical relevance. This background supports my public health direction by grounding surveillance and epidemiologic questions in strong scientific, clinical, and data-quality context.
 
 ## Selected Peer-Reviewed Publications
 
@@ -81,10 +81,10 @@ My scholarly contributions sit at the intersection of computational biology, can
 ## Research Contribution Areas
 
 <div class="pill-list">
-  <span class="pill">Lymphoma biology</span>
-  <span class="pill">Cancer genomics</span>
-  <span class="pill">Immunology</span>
-  <span class="pill">Bioinformatics</span>
-  <span class="pill">Translational analytics</span>
-  <span class="pill">Reproducible workflows</span>
+  <span class="pill">Clinical research</span>
+  <span class="pill">Immune biology</span>
+  <span class="pill">Health data science</span>
+  <span class="pill">Evidence translation</span>
+  <span class="pill">Collaborative scholarship</span>
+  <span class="pill">Reproducible work</span>
 </div>

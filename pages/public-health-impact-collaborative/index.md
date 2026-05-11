@@ -3,13 +3,13 @@ title: "Public Health Impact Collaborative"
 layout: default
 permalink: /public-health-impact-collaborative/
 nav_order: 5
-description: Founding initiative for public health projects, grant development, surveillance quality, teaching, evidence translation, and collaboration.
+description: Founding initiative for public health projects, infectious disease and chronic disease priorities, grant development, surveillance quality, teaching, evidence translation, and collaboration.
 ---
 
 # Public Health Impact Collaborative
 
 {: .lead }
-A founding public health initiative focused on practical projects, grant development, training, surveillance quality, evidence translation, and partnerships that improve population health.
+A founding public health initiative focused on practical projects, infectious disease and chronic disease priorities, grant development, training, surveillance quality, evidence translation, and partnerships that improve population health.
 
 <div class="modern-callout">
   <h3>Founding Direction</h3>
@@ -26,33 +26,33 @@ To help communities, programs, academic teams, and partners turn evidence into p
 
 <div class="child-pages-grid">
   <div class="child-page-card">
-    <h3>Cancer Surveillance & Data Quality</h3>
-    <p>Support better use of cancer data through registry-informed thinking, quality improvement, reporting readiness, and evidence translation.</p>
+    <h3>Surveillance & Data Quality</h3>
+    <p>Support better use of health data through quality improvement, reporting readiness, and evidence translation.</p>
   </div>
 
   <div class="child-page-card">
-    <h3>Epidemiology & Population Health</h3>
-    <p>Use population patterns, surveillance evidence, equity-aware interpretation, and clear communication to support practical decisions.</p>
+    <h3>Infectious Disease & Preparedness</h3>
+    <p>Support timely evidence, clear communication, training, and planning for outbreaks, emerging infections, and public health response.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3>Chronic Disease, Cancer & Population Health</h3>
+    <p>Use population patterns, surveillance evidence, prevention priorities, and equity-aware interpretation to support practical decisions.</p>
   </div>
 
   <div class="child-page-card">
     <h3>Grant & Project Development</h3>
-    <p>Shape public health ideas into concept notes, project plans, aims, partner roles, implementation steps, and proposal-ready language.</p>
+    <p>Shape public health ideas into concept notes, project plans, partner roles, implementation steps, and proposal-ready language.</p>
   </div>
 
   <div class="child-page-card">
     <h3>Teaching & Workforce Development</h3>
-    <p>Create applied training, learning objectives, rubrics, case studies, and mentoring structures for public health learners and teams.</p>
+    <p>Create applied training, learning objectives, case studies, and mentoring structures for public health learners and teams.</p>
   </div>
 
   <div class="child-page-card">
-    <h3>Evaluation, Dashboards & Reporting</h3>
+    <h3>Evaluation & Reporting</h3>
     <p>Develop simple evidence summaries, dashboards, feedback loops, and reporting tools that help programs see what is working.</p>
-  </div>
-
-  <div class="child-page-card">
-    <h3>Public Health Innovation</h3>
-    <p>Use responsible, human-reviewed tools to support communication, planning, evidence scans, and project coordination without collecting private data.</p>
   </div>
 </div>
 
@@ -60,7 +60,7 @@ To help communities, programs, academic teams, and partners turn evidence into p
 
 - Public health needs assessments and evidence scans.
 - Grant concept notes, proposal support, and project planning.
-- Cancer surveillance, epidemiology, and data quality improvement support.
+- Infectious disease, chronic disease, cancer, epidemiology, and data quality improvement support.
 - Workforce training, teaching materials, and competency-aligned learning.
 - Plain-language briefs on emerging public health issues.
 - Evaluation plans, dashboards, reporting templates, and partner updates.
@@ -76,7 +76,7 @@ To help communities, programs, academic teams, and partners turn evidence into p
 
   <div class="child-page-card">
     <h3>Preparedness & Health Security</h3>
-    <p>Stronger local readiness for outbreaks, disasters, environmental shocks, and communication during fast-moving public health events.</p>
+    <p>Stronger local readiness for infectious disease outbreaks, disasters, environmental shocks, and communication during fast-moving public health events.</p>
   </div>
 
   <div class="child-page-card">
@@ -130,7 +130,7 @@ To help communities, programs, academic teams, and partners turn evidence into p
   </div>
   <div class="roadmap-item">
     <strong>3. Launch</strong>
-    <span>Move toward a formal organization identity, partner network, project pipeline, and secure follow-up workflow.</span>
+    <span>Move toward a formal organization identity, partner network, project pipeline, and trusted follow-up process.</span>
   </div>
 </div>
 
@@ -141,6 +141,6 @@ The direction of this initiative is aligned with widely used public health frame
 - <a href="https://www.cdc.gov/public-health-gateway/php/about/" target="_blank" rel="noopener">CDC: 10 Essential Public Health Services</a>
 - <a href="https://www.who.int/publications/i/item/9789240088306" target="_blank" rel="noopener">WHO: Application of the Essential Public Health Functions</a>
 - <a href="https://www.who.int/publications/i/item/9789240091214" target="_blank" rel="noopener">WHO: Global Competency and Outcomes Framework for Essential Public Health Functions</a>
-- <a href="https://www.phi.org/our-work/expertise/technical-assistance/" target="_blank" rel="noopener">Public Health Institute: Technical Assistance</a>
+- <a href="https://www.phi.org/our-work/expertise/technical-assistance/" target="_blank" rel="noopener">Public Health Institute: Public Health Support and Partnership Models</a>
 
 <a class="button primary" href="{{ '/contact/' | relative_url }}">Start a Conversation</a>

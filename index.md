@@ -2,14 +2,14 @@
 layout: home
 title: Home
 nav_order: 1
-description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public health leadership, cancer surveillance, clinical data quality, bioinformatics, teaching, and academic program improvement.
+description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public health leadership, epidemiology, infectious disease and chronic disease surveillance, health data quality, teaching, and academic program improvement.
 ---
 
 <div class="profile-hero">
-  <p class="profile-kicker">Public health leadership | Cancer surveillance | Academic quality</p>
+  <p class="profile-kicker">Public health leadership | Epidemiology | Academic quality</p>
   <h1>Rauf Shah, MS, PhD, MPH-Epidemiology (Expected Fall 2026)</h1>
-  <p class="credential-line">Lead Health Data Coordinator Level II, Nebraska Lymphoma Study Group, University of Nebraska Medical Center</p>
-  <p>I help research, clinical, academic, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges computational biology, lymphoma data coordination, cancer surveillance, public health epidemiology, teaching, and program quality.</p>
+  <p class="credential-line">University of Nebraska Medical Center | Department of Internal Medicine, Division of Hematology and Oncology</p>
+  <p>I help clinical, academic, research, and public health teams turn complex evidence into clear decisions, reliable systems, and practical improvement. My profile bridges health data quality, epidemiology, infectious disease and chronic disease surveillance, teaching, and program quality.</p>
   <div class="cta-actions">
     <a class="button primary" href="{{ '/assets/rauf-shah-cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download CV</a>
     <a class="button secondary" href="{{ '/public-health-impact-collaborative/' | relative_url }}">Impact Collaborative</a>
@@ -27,7 +27,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
   </div>
   <div class="impact-item">
     <strong>Clinical data</strong>
-    <span>Lymphoma cohort coordination, registry-informed workflows, and evidence-ready summaries.</span>
+    <span>Health data coordination, quality review, reporting workflows, and evidence-ready summaries.</span>
   </div>
   <div class="impact-item">
     <strong>Academic work</strong>
@@ -37,17 +37,22 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 
 ## Public Health Mission
 
-<p class="section-lede">My future professional and academic mission is to strengthen public health practice by connecting epidemiology, cancer surveillance, data quality, teaching, and practical leadership. I want my work to help programs make clearer decisions, prepare stronger public health workforces, and translate evidence into action that improves population health.</p>
+<p class="section-lede">My future professional and academic mission is to strengthen public health practice by connecting epidemiology, surveillance, data quality, teaching, and practical leadership. I want my work to help programs make clearer decisions, prepare stronger public health workforces, and translate evidence into action that improves population health.</p>
 
 <div class="child-pages-grid">
   <div class="child-page-card">
-    <h3>Cancer Surveillance & Data Quality</h3>
-    <p>Improving the reliability, interpretation, and public health use of cancer data, registry-informed workflows, and clinical evidence.</p>
+    <h3>Surveillance & Data Quality</h3>
+    <p>Improving the reliability, interpretation, and public health use of health data across chronic disease, cancer, infectious disease, and program settings.</p>
   </div>
 
   <div class="child-page-card">
     <h3>Epidemiology & Population Health</h3>
     <p>Using population thinking, surveillance evidence, and equity-aware interpretation to support better public health decisions.</p>
+  </div>
+
+  <div class="child-page-card">
+    <h3>Infectious Disease & Preparedness</h3>
+    <p>Supporting timely communication, situational awareness, and practical response planning for infectious disease and emerging public health threats.</p>
   </div>
 
   <div class="child-page-card">
@@ -63,7 +68,9 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 
 ## Public Health Focus Areas
 
-- **Cancer surveillance and clinical data quality:** making registry and cohort data more consistent, useful, and decision-ready.
+- **Surveillance and health data quality:** making health data more consistent, useful, and decision-ready.
+- **Infectious disease and preparedness:** supporting timely evidence, clear communication, and practical response planning.
+- **Chronic disease and cancer burden:** improving interpretation of trends, outcomes, access, prevention, and follow-through.
 - **Epidemiology-informed public health practice:** connecting data quality, population patterns, equity, and timely communication.
 - **Teaching and workforce development:** building public health training materials that are clear, applied, and assessable.
 - **Project and grant development:** shaping public health ideas into scoped projects, proposals, briefs, and partner-ready plans.
@@ -79,7 +86,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 
   <div class="evidence-item">
     <h3><a href="{{ '/academic-portfolio/presentations-papers/' | relative_url }}">Publications & Presentations</a></h3>
-    <p>Peer-reviewed publications and scholarly presentations across lymphoma, genomics, computational biology, and translational research.</p>
+    <p>Peer-reviewed publications and scholarly presentations showing research depth, data interpretation, and collaborative scientific work.</p>
   </div>
 
   <div class="evidence-item">
@@ -89,7 +96,7 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 
   <div class="evidence-item">
     <h3><a href="{{ '/public-health-focus/' | relative_url }}">Public Health Leadership & Practice</a></h3>
-    <p>Practice and research interests connecting cancer surveillance, epidemiology, informatics, and community impact.</p>
+    <p>Practice and research interests connecting epidemiology, surveillance, infectious disease, chronic disease, data quality, and community impact.</p>
   </div>
 </div>
 
@@ -108,8 +115,8 @@ description: Rauf Shah, MS, PhD, MPH-Epidemiology expected Fall 2026. Public hea
 </div>
 
 <div class="modern-callout">
-  <h3>Cancer Surveillance: Modular Instructional Analysis</h3>
-  <p>CSV-backed instructional assets, teaching packet links, and practical materials for learning cancer surveillance fundamentals.</p>
+  <h3>Applied Surveillance Teaching Artifact</h3>
+  <p>A public health teaching artifact showing how complex surveillance content can become practical learning materials.</p>
   <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open Featured Project</a>
 </div>
 

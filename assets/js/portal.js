@@ -18,7 +18,7 @@
     "faculty-search": {
       title: "Faculty and academic pathway",
       score: "Strong teaching and academic fit",
-      summary: "Best fit for applied public health instruction, curriculum support, cancer surveillance teaching, and learner-centered assessment.",
+      summary: "Best fit for applied public health instruction, curriculum support, surveillance teaching, and learner-centered assessment.",
       steps: [
         "Clarify the teaching audience, course level, and competency expectations.",
         "Review teaching philosophy, public health coursework, and applied artifacts.",
@@ -33,7 +33,7 @@
     "research-collaboration": {
       title: "Research collaboration pathway",
       score: "High translational research fit",
-      summary: "Best fit for lymphoma research, cancer genomics, clinical data coordination, multi-omics, and reproducible analytic workflows.",
+      summary: "Best fit for clinical research, public health questions, health data quality, evidence translation, and collaborative analysis.",
       steps: [
         "Identify the research question, cohort/data source, and expected product.",
         "Separate exploratory, analytic, documentation, and dissemination needs.",
@@ -78,9 +78,10 @@
   };
 
   const topicLabels = {
-    "cancer-surveillance": "Cancer surveillance and registry quality",
+    "surveillance-quality": "Surveillance and health data quality",
+    "infectious-disease": "Infectious disease and preparedness",
     epidemiology: "Epidemiology and population health",
-    bioinformatics: "Bioinformatics and translational analytics",
+    "clinical-research": "Clinical research and evidence translation",
     teaching: "Teaching, curriculum, and workforce training",
     "grants-projects": "Grant and project development",
     "data-systems": "Data systems, governance, and reporting",
@@ -99,20 +100,20 @@
     training: "training",
     documentation: "documentation",
     translation: "translation",
-    "innovation-planning": "innovation planning",
+    "innovation-planning": "project planning",
   };
 
   const evidenceItems = [
     {
       title: "Experience",
       url: "/about/experience/",
-      description: "Current role, data coordination, bioinformatics background, leadership evidence, and applied skills.",
+      description: "Current role, health data coordination, leadership evidence, and applied skills.",
       tags: ["leadership", "practice", "research"],
     },
     {
       title: "Public Health Leadership & Practice",
       url: "/public-health-focus/",
-      description: "Cancer surveillance, epidemiology-informed practice, data systems, and translation priorities.",
+      description: "Infectious disease, chronic disease, surveillance, epidemiology-informed practice, and translation priorities.",
       tags: ["leadership", "practice"],
     },
     {
@@ -124,13 +125,13 @@
     {
       title: "Publications & Presentations",
       url: "/academic-portfolio/presentations-papers/",
-      description: "Scholarly evidence across lymphoma, genomics, computational biology, and translational research.",
+      description: "Scholarly evidence showing research depth, data interpretation, and collaborative scientific work.",
       tags: ["research"],
     },
     {
-      title: "Cancer Surveillance Teaching Project",
+      title: "Applied Surveillance Teaching Project",
       url: "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/",
-      description: "Instructional materials and teaching artifacts for cancer surveillance fundamentals.",
+      description: "Instructional materials and teaching artifacts for surveillance and public health training.",
       tags: ["teaching", "practice"],
     },
     {
@@ -142,7 +143,7 @@
     {
       title: "Research Interests",
       url: "/public-health-focus/research-interests/",
-      description: "Research direction connecting cancer surveillance, epidemiology, data quality, and translational analytics.",
+      description: "Research direction connecting infectious disease, chronic disease, surveillance quality, epidemiology, and evidence translation.",
       tags: ["research", "practice"],
     },
     {

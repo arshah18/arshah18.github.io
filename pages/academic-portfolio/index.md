@@ -23,7 +23,7 @@ This section is organized for faculty search committees, public health leaders, 
   </div>
   <div class="impact-item">
     <strong>Scholarship</strong>
-    <span>Bioinformatics, lymphoma, genomics, immunology, and translational research outputs.</span>
+    <span>Research publications, presentations, data interpretation, and collaborative scientific work.</span>
   </div>
   <div class="impact-item">
     <strong>Service</strong>
@@ -36,7 +36,7 @@ This section is organized for faculty search committees, public health leaders, 
 <div class="child-pages-grid">
   <div class="child-page-card">
     <h3><a href="{{ '/academic-portfolio/teaching-philosophy/' | relative_url }}">Teaching Philosophy</a></h3>
-    <p>How I teach technical public health topics through clarity, relevance, structured practice, and fair assessment.</p>
+    <p>How I teach complex public health topics through clarity, relevance, structured practice, and fair assessment.</p>
   </div>
 
   <div class="child-page-card">
@@ -68,7 +68,7 @@ This section is organized for faculty search committees, public health leaders, 
 ## Featured Evidence
 
 <div class="modern-callout">
-  <h3>Cancer Surveillance Teaching Packet</h3>
-  <p>A modular instructional analysis with CSV-backed tables, teaching materials, assessments, and public health surveillance resources.</p>
+  <h3>Applied Surveillance Teaching Packet</h3>
+  <p>A modular instructional analysis with teaching materials, assessments, and public health surveillance resources.</p>
   <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">View Featured Artifact</a>
 </div>

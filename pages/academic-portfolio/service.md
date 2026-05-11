@@ -23,19 +23,19 @@ My service work centers on helping people and programs become clearer, more capa
 
 ## Mentorship and Training
 
-- Mentor students, research staff, and early-career collaborators in reproducible research habits, analytic thinking, and technical communication.
+- Mentor students, research staff, and early-career collaborators in reproducible research habits, analytic thinking, and clear communication.
 - Help learners connect complex data concepts to public health, clinical, and research contexts.
 - Develop job aids, checklists, and examples that reduce uncertainty and support independent work.
 
 ## Collaborative Service
 
 - Partner with clinical, registry, research, and analytic teams to improve shared understanding and data quality.
-- Support multidisciplinary work where public health questions, technical methods, and operational realities must align.
+- Support multidisciplinary work where public health questions, analytic methods, and operational realities must align.
 - Translate findings and assumptions into formats that are usable for stakeholders, trainees, and decision-makers.
 
 ## Professional Contributions
 
-- Contribute to scholarly work through bioinformatics analysis, data interpretation, visual summaries, and manuscript support.
+- Contribute to scholarly work through data analysis, interpretation, visual summaries, and manuscript support.
 - Participate in professional and academic settings through presentations, workshops, and collaborative research activity.
 - Promote reproducible, transparent, and clearly documented analytic practices.
 

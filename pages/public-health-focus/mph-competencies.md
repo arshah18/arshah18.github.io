@@ -15,12 +15,12 @@ My MPH-Epidemiology is expected in **Fall 2026**. This page maps my current work
 ## Data and Evidence
 
 - Analyze and interpret health data with attention to definitions, bias, missingness, and uncertainty.
-- Use registry, clinical, and molecular data contexts to support surveillance and population-health questions.
+- Use clinical, surveillance, and program data contexts to support population-health questions.
 - Communicate findings through summaries, dashboards, visuals, and stakeholder-ready briefs.
 
 ## Epidemiology and Surveillance
 
-- Apply population thinking to cancer surveillance, outcomes, access, and equity questions.
+- Apply population thinking to infectious disease, chronic disease, cancer, outcomes, access, and equity questions.
 - Support data quality practices that strengthen timeliness, validity, and interpretability.
 - Translate surveillance concepts into teaching materials and applied public health workflows.
 
@@ -38,7 +38,7 @@ My MPH-Epidemiology is expected in **Fall 2026**. This page maps my current work
 
 ## Communication
 
-- Write for mixed audiences, including technical teams, faculty, learners, leaders, and collaborators.
+- Write for mixed audiences, including specialized teams, faculty, learners, leaders, and collaborators.
 - Translate complex methods into plain-language explanations, limitations, and next steps.
 - Develop teaching materials, rubrics, job aids, and decision-support summaries.
 
@@ -52,4 +52,4 @@ My MPH-Epidemiology is expected in **Fall 2026**. This page maps my current work
 
 - [Experience]({{ "/about/experience/" | relative_url }})
 - [Teaching Philosophy]({{ "/academic-portfolio/teaching-philosophy/" | relative_url }})
-- [Cancer Surveillance Modular Analysis]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})
+- [Applied Surveillance Teaching Artifact]({{ "/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/" | relative_url }})

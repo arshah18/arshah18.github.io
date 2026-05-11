@@ -47,7 +47,7 @@ The common thread in my work is simple: rigorous systems should still feel usabl
 
 - **Accessibility:** materials should be readable, navigable, and usable by people with different levels of preparation.
 - **Equity-aware evidence:** reporting should consider who is represented, who is missing, and how conclusions may affect groups differently.
-- **Responsible technology:** AI and automation should support drafting, review, and organization without replacing human judgment.
+- **Responsible tools:** digital tools should support drafting, review, and organization without replacing human judgment.
 - **Sustainable quality:** improvement systems should reduce confusion, not create paperwork for its own sake.
 
 ## What This Looks Like

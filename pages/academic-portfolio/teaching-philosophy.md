@@ -4,17 +4,17 @@ title: Teaching Philosophy
 parent: Academic Portfolio
 nav_order: 1
 permalink: /academic-portfolio/teaching-philosophy/
-description: Teaching philosophy for public health, epidemiology, surveillance, informatics, and data-intensive learning.
+description: Teaching philosophy for public health, epidemiology, surveillance, infectious disease, chronic disease, and data-informed learning.
 ---
 
 # Teaching Philosophy
 
 {: .lead }
-I teach technical and public health topics by making the work clear, relevant, applied, and assessable.
+I teach complex public health topics by making the work clear, relevant, applied, and assessable.
 
 ## Teaching Identity
 
-My teaching draws from bioinformatics, cancer surveillance, clinical data coordination, epidemiology training, and public health practice. I am especially interested in courses and training programs where learners need to move from complex information to practical decisions.
+My teaching draws from clinical data coordination, surveillance, epidemiology training, scientific research, and public health practice. I am especially interested in courses and training programs where learners need to move from complex information to practical decisions.
 
 I aim to prepare learners who can ask better questions, judge evidence carefully, communicate uncertainty, and use data responsibly.
 
@@ -46,7 +46,7 @@ I aim to prepare learners who can ask better questions, judge evidence carefully
 
 ### CPH 705 - Public Health Teaching and Training
 
-This graduate training strengthened my approach to adult learning, needs assessment, instructional design, multi-modal delivery, and evaluation. It also helped me translate my technical background into learning materials for public health audiences.
+This graduate training strengthened my approach to adult learning, needs assessment, instructional design, multi-modal delivery, and evaluation. It also helped me translate specialized research and data experience into learning materials for public health audiences.
 
 Key areas of development:
 
@@ -58,9 +58,9 @@ Key areas of development:
 
 ## Teaching Evidence
 
-### Cancer Surveillance Teaching Packet
+### Applied Surveillance Teaching Packet
 
-My featured teaching artifact is a modular cancer surveillance instructional analysis that includes CSV-backed tables, teaching packets, assessments, slide materials, and learner-facing resources.
+My featured teaching artifact is a modular surveillance instructional analysis that includes teaching packets, assessments, slide materials, and learner-facing resources.
 
 <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">View Teaching Artifact</a>
 
@@ -91,11 +91,12 @@ My featured teaching artifact is a modular cancer surveillance instructional ana
 
 ## Courses and Training I Am Prepared to Support
 
-- **Cancer Surveillance and Public Health Informatics:** registries, coding standards, data quality, reporting, and equity-aware surveillance.
+- **Infectious Disease and Preparedness:** outbreak concepts, changing evidence, response communication, and situational awareness.
+- **Chronic Disease and Cancer Surveillance:** data quality, reporting, prevention priorities, and equity-aware surveillance.
 - **Applied Epidemiology and Data Communication:** turning public health data into clear interpretation and decisions.
-- **Bioinformatics for Public Health and Translational Research:** genomic analysis, reproducibility, interpretation, and communication.
+- **Clinical Research and Public Health Translation:** connecting research evidence to population health questions.
 - **Clinical Data Systems:** how health information moves through systems, why quality checks matter, and how to document work clearly.
-- **Reproducible Analytics:** clear workflows, transparent summaries, dashboards, and responsible reporting.
+- **Evidence Reporting:** clear workflows, transparent summaries, dashboards, and responsible reporting.
 
 ## Teaching Goal
 

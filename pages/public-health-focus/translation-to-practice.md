@@ -46,11 +46,18 @@ Public health evidence matters most when it changes understanding, decisions, wo
 
 ## Translation Areas
 
-### Cancer Surveillance
+### Infectious Disease and Preparedness
+
+- Briefs for emerging public health concerns.
+- Clear summaries of what is known, uncertain, and actionable.
+- Communication templates for leaders, teams, and community partners.
+- Training materials for response planning and situational awareness.
+
+### Chronic Disease and Cancer Surveillance
 
 - Data quality summaries.
-- Equity-aware cancer reporting.
-- Training modules for registry and surveillance fundamentals.
+- Equity-aware reporting.
+- Training modules for surveillance fundamentals.
 - Dashboards that connect population metrics to program decisions.
 
 ### Academic Quality
@@ -62,7 +69,7 @@ Public health evidence matters most when it changes understanding, decisions, wo
 ### Public Health Preparedness
 
 - Situational awareness briefs.
-- Syndromic or rapid reporting concepts.
+- Rapid reporting concepts.
 - Communication templates for uncertain evidence and urgent decisions.
 
 ## Success Standard

@@ -42,7 +42,7 @@ This page highlights public-facing artifacts and coursework with direct relevanc
 ## Featured Artifact
 
 <div class="modern-callout">
-  <h3>Cancer Surveillance Teaching Packet</h3>
-  <p>A modular teaching and training project focused on cancer surveillance fundamentals, data quality, public health reporting, and learner assessment.</p>
+  <h3>Applied Surveillance Teaching Packet</h3>
+  <p>A modular teaching and training project focused on surveillance fundamentals, data quality, public health reporting, and learner assessment.</p>
   <a class="button primary" href="{{ '/academic-portfolio/coursework/cph-705/cancer-surveillance-modular-analysis/' | relative_url }}">Open Featured Artifact</a>
 </div>
